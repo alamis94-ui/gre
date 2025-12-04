@@ -26,7 +26,7 @@
 			map.attributionControl.setPrefix('Basemap');
 
 			{{ if eq hugo.Environment "development" }}
-				// When running hugo server locally, add basemap selector including satelitte imagery, for checking coordinate accuracy
+				// When running hugo server locally, add basemap selector including satellite imagery, for checking coordinate accuracy
 
 				// Digital Atlas of the Roman Empire, muted colors
 				var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
@@ -34,7 +34,6 @@
 					minZoom: 4,
 					maxZoom: 11,
 					attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
-					errorTileUrl: 'https://dh.gu.se/tiles/imperium/4/8/5.png',
 					filter: [
 						'brightness: 100%',
 						'contrast: 100%',
@@ -112,7 +111,6 @@
 					minZoom: 4,
 					maxZoom: 11,
 					attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
-					errorTileUrl: 'https://dh.gu.se/tiles/imperium/4/8/5.png',
 					filter: [
 						'brightness: 100%',
 						'contrast: 100%',
