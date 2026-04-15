@@ -9,7 +9,7 @@ draft: false
 
 **GRE adopts [linked open data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can.** Data is **linked** when one data set reuses or relies on another. Such linked data is **open** when the target data is free and open to the public to use. This approach and its advantages are perhaps best illustrated by an example.
 
-In GRE, we use [Pleiades](https://pleiades-stoa-org.proxy.library.nyu.edu/) identifiers for our geographic data. In other words, each garden in GRE has metadata fields related to geography, since each garden exists in space. Instead of defining these geographic places for ourselves -- and in the process not only needing to collect lots of data (e.g., representative longitude and latitude) and creating a necessarily idiosyncratic list of places (e.g., which name should we use, ancient or modern, from which period, which spelling or transliteration, etc.) -- we instead reused the existing collection of open geographic data related to places in the ancient world as represented in Pleiades.
+In GRE, we use [Pleiades](https://pleiades.stoa.org/) identifiers for our geographic data. In other words, each garden in GRE has metadata fields related to geography, since each garden exists in space. Instead of defining these geographic places for ourselves -- and in the process not only needing to collect lots of data (e.g., representative longitude and latitude) and creating a necessarily idiosyncratic list of places (e.g., which name should we use, ancient or modern, from which period, which spelling or transliteration, etc.) -- we instead reused the existing collection of open geographic data related to places in the ancient world as represented in Pleiades.
 
 Such an approach holds several advantages.
 - the basic work of collection has already been done by Pleiades contributors and editors (and we can suggest corrections if needed, since it is an open project)
@@ -31,6 +31,6 @@ Some of the linked open data resources and controlled vocabularies that GRE curr
 - [Getty Thesaurus of Geographical Names](https://www.getty.edu/research/tools/vocabularies/tgn/) (geography)
 - [ORCID](https://orcid.org/) (authors)
 - [papyri.info](https://papyri.info/) (papyri)
-- [Pleiades](https://pleiades-stoa-org.proxy.library.nyu.edu/) (ancient places and geography)
+- [Pleiades](https://pleiades.stoa.org/) (ancient places and geography)
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) (general reference)
 - [WorldCat](https://www.worldcat.org/) (bibliography)
