@@ -4,7 +4,7 @@ aliases: [/id/3a24879b01]
 type: garden
 title: Casa dell'Ara Laterizia
 date: 2020-09-29
-latlon: [ 40.805843, 14.348058 ]
+latlon: [ 40.806029, 14.346488 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
 Jashemski-catalogue: 539-540
