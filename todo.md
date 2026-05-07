@@ -95,7 +95,7 @@
 - inline citations -- currently "(ALL CAPS 1895)" etc
 - "Contribute" vs "Join" (Pleiades uses "Participate")
 - Africa.PDF (in Box) has additional info for gardens in Mauretania (at least) -- is this an earlier or later draft???
-
+- Should Machaerus be under Judaea or Arabia Petraea?
 
 # User forks
 
