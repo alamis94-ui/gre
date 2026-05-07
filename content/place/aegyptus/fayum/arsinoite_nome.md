@@ -1,19 +1,25 @@
 ---
-gre_id: "8e2069cc48"
-aliases: [/id/8e2069cc48]
-type: place
-title: Caesarea
+gre_id: "84843629fd"
+aliases: [/id/84843629fd]
+type: garden
+title: Arsinoite Nome
 latlon: [ 0, 0 ]
 author: Author Name
+translator: Translator Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
 draft: true
 ---
 
-<!-- ## Dates -->
+## Dates
+<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 
-## Place Description
+## Excavation Dates
+<!-- format as YYYY, or YYYY-YYYY -->
+
+## Garden Description
+<!-- This is the main text describing the garden -->
 
 <!--
 ## Maps
@@ -37,11 +43,12 @@ draft: true
 
 <!--
 ## Keywords
-- {{< keyword "Example keyword" >}}
+- {{< keyword "example" >}}
 -->
 
 <!--
 ## Places
+places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->

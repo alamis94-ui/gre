@@ -1,8 +1,8 @@
 ---
-gre_id: "8e2069cc48"
-aliases: [/id/8e2069cc48]
+gre_id: "a1d976aed5"
+aliases: [/id/a1d976aed5]
 type: place
-title: Caesarea
+title: Uzitta
 latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name

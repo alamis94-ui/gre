@@ -1,8 +1,8 @@
 ---
-gre_id: "8e2069cc48"
-aliases: [/id/8e2069cc48]
+gre_id: "8f23150942"
+aliases: [/id/8f23150942]
 type: place
-title: Caesarea
+title: Cirta
 latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
