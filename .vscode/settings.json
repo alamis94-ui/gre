@@ -1,6 +1,16 @@
 {
-	"editor.detectIndentation": true,
-	"editor.tabSize": 4,
-	"editor.quickSuggestionsDelay": 10000,
-	"workbench.tree.indent": 16
+    "editor.detectIndentation": true,
+    "editor.tabSize": 4,
+    "editor.quickSuggestionsDelay": 10000,
+    "workbench.tree.indent": 16,
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "files.exclude":{
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "docs": true
+    }
 }

@@ -3,7 +3,7 @@ gre_id: "8661630841"
 aliases: [/id/8661630841]
 type: garden
 title: Casa D'Argo
-latlon: [ 40.805843, 14.348058 ]
+latlon: [ 40.806247, 14.346239 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
 Jashemski-catalogue: 533-534
@@ -57,7 +57,7 @@ B. A second *peristyle* garden was located to the west of the first, but has onl
 
 ## Plans
 
-{{< image file="H_2_2.jpg" caption="Plan of Casa D'Argo" credit="" alt="" >}}
+{{< image file="h_2_2.jpg" caption="Plan of Casa D'Argo" credit="" alt="" >}}
 
 ## Dates
 
