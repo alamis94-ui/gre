@@ -30,7 +30,7 @@ def pathize(s):
     """Convert the string into a simplified for a file path"""
     # lowercase, with all punctuation (except hyphens) converted to underscores
     if s:
-        return re.sub(r'[^\w-]+', '_', s.lower())
+        return re.sub(r'[^\w-]+', '_', s.lower().strip())
     
 def run(s):
     """Run the command"""
