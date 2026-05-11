@@ -4,11 +4,11 @@ aliases: [/id/fc6807050c]
 type: garden
 title: Private Villa
 latlon: [ 0, 0 ]
-author: Author Name
+author: Maureen Carroll
 translator: Translator Name
-contributor: Contributor Name
+contributor: Victoria Austen
 date: 2026-05-07
-modified: 2026-05-07
+modified: 2026-05-11
 draft: true
 ---
 
@@ -20,6 +20,9 @@ draft: true
 
 ## Garden Description
 <!-- This is the main text describing the garden -->
+One of the houses built in the late second century B.C. on Samos was repaired and refurbished around the middle of the first century B.C.  This house had two peristyle courtyards from the outset, but the remodeling of the house during the Roman period definitively changed their appearance (Fig. 1).  
+
+In the northernmost courtyard around the edge of the peristyle was a broad, shallow channel (1.45 m wide and 28 cm deep) fed with water from a pipe on the west; this possibly was planted.  The southern peristyle (20.58 x 14.70 m) was designed with an elaborate water system, and it may also have been planted (G on plan).  Inside the stylobate of the courtyard was a water channel 52 cm deep with a series of semi-circular and rectangular basins.  Another water channel running north-south bisected this peristyle in two equal halves, and in the middle was a diamond shaped pool with marble edging.  A fountain fed by a lead pipe stood in the centre of this pool.  Both water systems were repaired several times before the house was destroyed in the late second or third century A.D., indicating the importance attached to them.  Although firm evidence for vegetation is lacking, we may assume that the abundant use of water and the decorative plan of the peristyle courtyards was directly connected with the use of these spaces as gardens.  
 
 <!--
 ## Maps
@@ -35,11 +38,10 @@ draft: true
 ## Images
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
+BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+- R. Tölle-Kastenbein, Das Kastro Tigani. Samos XIV, Bonn, 1974, pp. 52-54, figs. 18-20, 44, plan 5, Beilage 1.
 
 <!--
 ## Keywords
