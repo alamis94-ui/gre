@@ -6,7 +6,7 @@ title: Aegyptus
 author: Roger Bagnall
 contributor: Keith Jenkins
 date: 2026-05-06
-modified: 2025-05-010
+modified: 2025-05-10
 draft: true
 ---
 
