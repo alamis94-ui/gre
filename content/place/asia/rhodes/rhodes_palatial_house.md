@@ -3,7 +3,7 @@ gre_id: "ad8849a255"
 aliases: [/id/ad8849a255]
 type: garden
 title: Rhodes Palatial House
-latlon: [ 0, 0 ]
+latlon: [ 36.4430001211, 28.21542628580 ]
 author: Maureen Carroll
 translator: Translator Name
 contributor: Amelia Lamis
@@ -37,7 +37,8 @@ The building had three courtyards in the eastern sector, and a large open area w
 
 <!--
 ## Images
-{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}  
+original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos,” in W. Hoepfner and G. Brands, eds., Basileia. Die Paläste der hellenistischen Könige, Berlin, 1996, pp. 182-192, figs. 7-8.
 -->
 
 
@@ -46,16 +47,17 @@ The building had three courtyards in the eastern sector, and a large open area w
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-- A. Dreliossi-Herakleidou, “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos,” in W. Hoepfner and G. Brands, eds., _Basileia. Die Paläste der hellenistischen Könige_, Berlin, 1996, pp. 182-192, figs. 7-8.
+- Dreliossi-Herakleidou, A. 1996. “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos.” In _Basileia. Die Paläste der hellenistischen Könige_: Internationales Symposium in Berlin vom 16.12.1992 bis 20.12.1992, edited by W. Hoepfner and G. Brands, 182-192. Berlin: Schriften des Seminars für Klassische Archäologie der Freien Universität Berlin. [(worldcat)](https://search.worldcat.org/title/37277386)
 
-<!--
+
 ## Keywords
-- {{< keyword "example" >}}
--->
+- {{< keyword "pools" >}}
+- {{< keyword "semicircular" >}}
+- {{< keyword "sculpture" >}}
+- {{< keyword "herms" >}}
 
-<!--
+
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="994502886" name="Palatial House at Rhodes" >}}
