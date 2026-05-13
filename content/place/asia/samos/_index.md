@@ -6,7 +6,7 @@ title: Samos
 author: Author Name
 contributor: Victoria Austen
 date: 2025-09-21
-modified: 2026-05-12
+modified: 2026-05-13
 draft: true
 ---
 
@@ -40,5 +40,5 @@ draft: true
 -->
 
 ## Places
-- {{< id vocab="Pleiades" id=599926"" name="Samos (island)" >}}
+- {{< id vocab="Pleiades" "id=599926" name="Samos (island)" >}}
 
