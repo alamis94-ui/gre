@@ -3,7 +3,6 @@ gre_id: "8218388c4c"
 aliases: [/id/8218388c4c]
 type: place
 title: Herculaneum
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-07

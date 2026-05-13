@@ -3,7 +3,6 @@ gre_id: "7a753a3e06"
 aliases: [/id/7a753a3e06]
 type: place
 title: Ephesos
-latlon: [ 0, 0 ]
 author: Kathryn Gleason
 contributor: Keith Jenkins
 date: 2025-09-21

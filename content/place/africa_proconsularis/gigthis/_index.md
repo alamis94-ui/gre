@@ -3,7 +3,6 @@ gre_id: "aeadc52078"
 aliases: [/id/aeadc52078]
 type: place
 title: Gigthis
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Maureen Carroll, Yuming Huang, Keith Jenkins
 date: 2025-09-16

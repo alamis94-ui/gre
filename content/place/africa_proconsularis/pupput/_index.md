@@ -3,7 +3,6 @@ gre_id: "5e67228278"
 aliases: [/id/5e67228278]
 type: place
 title: Pupput
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

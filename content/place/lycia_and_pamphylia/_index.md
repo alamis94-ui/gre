@@ -3,7 +3,6 @@ gre_id: "ad4c9c3403"
 aliases: [/id/ad4c9c3403]
 type: place
 title: Lycia And Pamphylia
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

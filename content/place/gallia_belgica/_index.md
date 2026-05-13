@@ -3,7 +3,6 @@ gre_id: "9f39ffc68d"
 aliases: [/id/9f39ffc68d]
 type: place
 title: Gallia Belgica
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-07

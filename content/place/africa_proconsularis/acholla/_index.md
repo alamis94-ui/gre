@@ -3,7 +3,6 @@ gre_id: "bc27eeff26"
 aliases: [/id/bc27eeff26]
 type: place
 title: Acholla
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

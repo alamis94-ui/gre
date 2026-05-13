@@ -3,7 +3,6 @@ gre_id: "9dc837134d"
 aliases: [/id/9dc837134d]
 type: place
 title: Juliopolis
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

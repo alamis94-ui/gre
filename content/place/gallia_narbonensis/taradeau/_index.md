@@ -3,7 +3,6 @@ gre_id: "eda1cb08dd"
 aliases: [/id/eda1cb08dd]
 type: place
 title: Taradeau
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

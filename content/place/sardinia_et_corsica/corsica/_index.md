@@ -3,7 +3,6 @@ gre_id: "dce929afd4"
 aliases: [/id/dce929afd4]
 type: place
 title: Corsica
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-12

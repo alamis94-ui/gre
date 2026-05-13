@@ -3,7 +3,6 @@ gre_id: "f6760f52a8"
 aliases: [/id/f6760f52a8]
 type: place
 title: Saint Sever
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

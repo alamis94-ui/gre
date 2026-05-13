@@ -3,7 +3,6 @@ gre_id: "1002a4c2b1"
 aliases: [/id/1002a4c2b1]
 type: place
 title: Pisidia
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

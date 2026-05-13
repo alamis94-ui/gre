@@ -3,7 +3,6 @@ gre_id: "11da9e0364"
 aliases: [/id/11da9e0364]
 type: place
 title: Cayster River Valley
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Keith Jenkins
 date: 2025-09-21

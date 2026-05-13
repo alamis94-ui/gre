@@ -3,7 +3,6 @@ gre_id: "807ca2bc0b"
 aliases: [/id/807ca2bc0b]
 type: place
 title: Neapolis
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

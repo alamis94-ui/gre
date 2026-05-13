@@ -3,7 +3,6 @@ gre_id: "274b9a6aaf"
 aliases: [/id/274b9a6aaf]
 type: place
 title: Thysdrus
-latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

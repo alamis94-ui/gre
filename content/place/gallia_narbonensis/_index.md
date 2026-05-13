@@ -3,7 +3,6 @@ gre_id: "d726a57eb8"
 aliases: [/id/d726a57eb8]
 type: place
 title: Gallia Narbonensis
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-07

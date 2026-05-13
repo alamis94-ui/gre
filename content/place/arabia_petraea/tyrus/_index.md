@@ -3,7 +3,6 @@ gre_id: "e60c1ee87b"
 aliases: [/id/e60c1ee87b]
 type: place
 title: Tyrus
-latlon: [ 0, 0 ]
 author: Kathryn Gleason, Leigh-Ann Bedal
 contributor: Jane Millar, Keith Jenkins
 date: 2025-09-19

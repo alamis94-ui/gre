@@ -3,7 +3,6 @@ gre_id: "985110d649"
 aliases: [/id/985110d649]
 type: place
 title: Portus Magnus
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

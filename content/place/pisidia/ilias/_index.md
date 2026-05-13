@@ -3,7 +3,6 @@ gre_id: "fa29fe3cc4"
 aliases: [/id/fa29fe3cc4]
 type: place
 title: Ilias
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

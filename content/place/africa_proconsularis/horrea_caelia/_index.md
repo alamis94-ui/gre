@@ -3,7 +3,6 @@ gre_id: "73a89e866e"
 aliases: [/id/73a89e866e]
 type: place
 title: Horrea Caelia
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
