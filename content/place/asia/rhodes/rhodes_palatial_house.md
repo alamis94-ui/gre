@@ -14,7 +14,7 @@ draft: true
 
 ## Dates
 
-300 B.C.E - 300 C.E. 
+300 BCE - 300 CE 
 <!-- dates from Pleiades https://pleiades.stoa.org/places/994502886/hellenistischer-palastbau -->
 
 
