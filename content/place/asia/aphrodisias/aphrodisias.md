@@ -5,9 +5,9 @@ type: garden
 title: Aphrodisias
 latlon: [ 37.707857, 28.724015 ]
 author: Kathryn Gleason
-contributor: Shamika Ghate, Keith Jenkins
+contributor: Shamika Ghate, Keith Jenkins, Amelia Lamis
 date: 2021-04-21
-modified: 2025-09-21
+modified: 2026-05-13
 draft: true
 ---
 
@@ -17,7 +17,7 @@ Unspecified
 
 ## Garden Description
 
-Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art landscape as well as architectural settings.  An inscription (MAMA VIII, 448)  indicates that Artemidorus Pedias, during his term as *strategos*, promised to "adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front" (Roueché, 70.) The location of this garden is not specified.  Robert suggests, based on the location of the inscription, that it was in the temenos of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the agora, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770).  She proposes that the grove was later embellished by the fountain at the agora gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the *Nymphs* of the "place of the palms" (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park.  The agora and *temenos* have been identified.  The south agora (215 x 70m) features a long, monumental basin in its center.
+Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art landscape as well as architectural settings <!-- confusing sentence -->.  An inscription (MAMA VIII, 448)  indicates that Artemidorus Pedias, during his term as *strategos*, promised to "adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front" (Roueché, 70.) The location of this garden is not specified.  Robert suggests, based on the location of the inscription, that it was in the temenos of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the agora, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770).  She proposes that the grove was later embellished by the fountain at the agora gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the *Nymphs* of the "place of the palms" (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park.  The agora and *temenos* have been identified.  The south agora (215 x 70m) features a long, monumental basin in its center.
 
 <!-- ## Maps -->
 
@@ -33,9 +33,14 @@ Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Ca
 
 ## Bibliography
 
-- T. Reinach, "Inscriptions d'Aphrodisias" REG 19 (1906), n. 15, p. 107 [(worldcat)](https://search.worldcat.org/title/504802954)
-- Charlotte Roueché, Joyce Maire Reynolds, *Aphrodisias in late antiquity:  the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim*. London:  Society for the Promotion of Roman Studies, 1989, Pp. 70, 71, 78. [(worldcat)](https://search.worldcat.org/title/4669803971)
-- Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water display at Aphrodisias (R. R. R. Smith, J. Lenaghan, A. Sokolicek, & K. Welch, Eds.), Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012, Portsmouth, Journal of Roman Archaeology. Supplement 103, 100-135. [(worldcat)](https://search.worldcat.org/title/6568599066)
+- Reinach, T. 1906. "Inscriptions d'Aphrodisias" _RÉG_ 19,  84: 107 [(worldcat)](https://search.worldcat.org/title/504802954) <!-- is this the right formatting for Vol. 19, No. 84, page 107?-->
+- Roueché, C., and J.M. Reynolds. 1989. _Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim_. London: Society for the Promotion of Roman Studies. [(worldcat)](https://search.worldcat.org/title/4669803971)
+- Wilson, A.I. 2015. "Water, nymphs and a palm grove: monumental water displays at Aphrodisias." In _Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012_, edited by R.R.R. Smith, J. Lenaghan, A. Sokolicek, and K. Welch, 100-135. _JRA_ Supplement 103. [(worldcat)](https://search.worldcat.org/title/950610833)
+
+<!-- 
+original: T. Reinach, "Inscriptions d'Aphrodisias" REG 19 (1906), n. 15, p. 107 [(worldcat)](https://search.worldcat.org/title/504802954) 
+original: Charlotte Roueché, Joyce Maire Reynolds, *Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim*. London:  Society for the Promotion of Roman Studies, 1989, Pp. 70, 71, 78. [(worldcat)](https://search.worldcat.org/title/4669803971) 
+original: Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water display at Aphrodisias (R. R. R. Smith, J. Lenaghan, A. Sokolicek, & K. Welch, Eds.), Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012, Portsmouth, Journal of Roman Archaeology. Supplement 103, 100-135. [(worldcat)](https://search.worldcat.org/title/6568599066) -->
 
 ## Keywords
 
@@ -43,6 +48,12 @@ Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Ca
 - {{< keyword "fountains" >}}
 - {{< keyword "nymphs" >}}
 - {{< keyword "temene" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "sculpture" >}}
+- {{< keyword "groves" >}}
+- {{< keyword "inscriptions" >}}
+
+
 
 ## Places
 
