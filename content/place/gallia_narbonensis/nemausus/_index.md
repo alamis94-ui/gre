@@ -3,7 +3,6 @@ gre_id: "5e09be58a0"
 aliases: [/id/5e09be58a0]
 type: place
 title: Nemausus
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

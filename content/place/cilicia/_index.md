@@ -3,7 +3,6 @@ gre_id: "d8d7ee31f4"
 aliases: [/id/d8d7ee31f4]
 type: place
 title: Cilicia
-latlon: [ 0, 0 ]
 author: Catherine Kearns
 contributor: Keith Jenkins
 date: 2026-05-07

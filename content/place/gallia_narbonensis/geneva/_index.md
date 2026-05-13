@@ -3,7 +3,6 @@ gre_id: "a94f21f1a4"
 aliases: [/id/a94f21f1a4]
 type: place
 title: Geneva
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

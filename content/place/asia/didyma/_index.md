@@ -3,7 +3,6 @@ gre_id: "2dee49a9d2"
 aliases: [/id/2dee49a9d2]
 type: place
 title: Didyma
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

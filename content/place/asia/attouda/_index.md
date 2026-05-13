@@ -3,7 +3,6 @@ gre_id: "3cb6cb268d"
 aliases: [/id/3cb6cb268d]
 type: place
 title: Attouda
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

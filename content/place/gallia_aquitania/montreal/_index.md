@@ -3,7 +3,6 @@ gre_id: "03019a2a6e"
 aliases: [/id/03019a2a6e]
 type: place
 title: Montreal
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

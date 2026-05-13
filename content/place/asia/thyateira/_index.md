@@ -3,7 +3,6 @@ gre_id: "f2b5ee1234"
 aliases: [/id/f2b5ee1234]
 type: place
 title: Thyateira
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

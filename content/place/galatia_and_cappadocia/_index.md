@@ -3,7 +3,6 @@ gre_id: "345922dffe"
 aliases: [/id/345922dffe]
 type: place
 title: Galatia And Cappadocia
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

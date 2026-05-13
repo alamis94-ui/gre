@@ -3,7 +3,6 @@ gre_id: "8e2069cc48"
 aliases: [/id/8e2069cc48]
 type: place
 title: Caesarea
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

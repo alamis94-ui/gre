@@ -3,7 +3,6 @@ gre_id: "e20eb9a1c7"
 aliases: [/id/e20eb9a1c7]
 type: place
 title: Gallia Aquitania
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

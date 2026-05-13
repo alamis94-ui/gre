@@ -3,7 +3,6 @@ gre_id: "b8e9675005"
 aliases: [/id/b8e9675005]
 type: place
 title: Smyrna
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

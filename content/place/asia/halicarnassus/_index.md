@@ -3,7 +3,6 @@ gre_id: "39b28586d9"
 aliases: [/id/39b28586d9]
 type: place
 title: Halicarnassus
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

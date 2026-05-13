@@ -3,7 +3,6 @@ gre_id: "ba7a043011"
 aliases: [/id/ba7a043011]
 type: place
 title: Lalonquette
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

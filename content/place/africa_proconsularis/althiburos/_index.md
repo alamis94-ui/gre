@@ -3,7 +3,6 @@ gre_id: "736d8005f7"
 aliases: [/id/736d8005f7]
 type: place
 title: Althiburos
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

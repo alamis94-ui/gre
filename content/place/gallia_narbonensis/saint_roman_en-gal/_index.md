@@ -3,7 +3,6 @@ gre_id: "0b1985a529"
 aliases: [/id/0b1985a529]
 type: place
 title: Saint Roman En Gal
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

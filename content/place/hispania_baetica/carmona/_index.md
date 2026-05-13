@@ -3,7 +3,6 @@ gre_id: "973dbc1da1"
 aliases: [/id/973dbc1da1]
 type: place
 title: Carmona
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15

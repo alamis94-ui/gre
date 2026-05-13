@@ -3,7 +3,6 @@ gre_id: "342e7af57c"
 aliases: [/id/342e7af57c]
 type: place
 title: Patara
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

@@ -3,7 +3,6 @@ gre_id: "9c2c18ad7a"
 aliases: [/id/9c2c18ad7a]
 type: place
 title: Middle Nile
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

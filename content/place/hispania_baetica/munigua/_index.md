@@ -3,7 +3,6 @@ gre_id: "bbc6ec188a"
 aliases: [/id/bbc6ec188a]
 type: place
 title: Munigua
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15

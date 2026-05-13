@@ -3,7 +3,6 @@ gre_id: "4591e6e884"
 aliases: [/id/4591e6e884]
 type: place
 title: Leptis Magna
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

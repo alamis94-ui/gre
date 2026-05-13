@@ -3,7 +3,6 @@ gre_id: "c9789d4cb8"
 aliases: [/id/c9789d4cb8]
 type: place
 title: Moncrabeau
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

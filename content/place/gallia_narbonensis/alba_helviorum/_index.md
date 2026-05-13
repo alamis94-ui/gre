@@ -3,7 +3,6 @@ gre_id: "98b9180eb4"
 aliases: [/id/98b9180eb4]
 type: place
 title: Alba Helviorum
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

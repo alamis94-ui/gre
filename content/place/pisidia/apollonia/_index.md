@@ -3,7 +3,6 @@ gre_id: "b49e2ae1ea"
 aliases: [/id/b49e2ae1ea]
 type: place
 title: Apollonia
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

@@ -3,7 +3,6 @@ gre_id: "fe62bf854c"
 aliases: [/id/fe62bf854c]
 type: place
 title: Vasada
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

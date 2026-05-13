@@ -3,7 +3,6 @@ gre_id: "985a3fb134"
 aliases: [/id/985a3fb134]
 type: place
 title: Almedinilla
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15

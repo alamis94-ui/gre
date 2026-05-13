@@ -3,7 +3,6 @@ gre_id: "e728a4d278"
 aliases: [/id/e728a4d278]
 type: place
 title: Utica
-latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

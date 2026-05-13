@@ -3,7 +3,6 @@ gre_id: "f80536a732"
 aliases: [/id/f80536a732]
 type: place
 title: Armenia
-latlon: [ 0, 0 ]
 author: Catherine Kearns
 contributor: Keith Jenkins
 date: 2026-05-07
