@@ -40,4 +40,4 @@ draft: true
 -->
 
 ## Places
-- {{< id vocab="Pleiades" "id=599926" name="Samos (island)" >}}
+- {{< id vocab="Pleiades" id="599926" name="Samos (island)" >}}
