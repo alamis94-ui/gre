@@ -6,7 +6,7 @@ title: Rhodes
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
-modified: 2025-09-21
+modified: 2026-05-12
 draft: true
 ---
 
@@ -39,8 +39,6 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+- {{< id vocab="Pleiades" id="590031" name="Rhodos (island)" >}}
+
