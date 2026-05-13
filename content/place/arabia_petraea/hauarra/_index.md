@@ -3,7 +3,6 @@ gre_id: "4490890138"
 aliases: [/id/4490890138]
 type: place
 title: Hauarra
-latlon: [ 0, 0 ]
 author: M. Barbara Reeves
 contributor: Jane Millar, Leigh-Ann Bedal, Keith Jenkins
 date: 2025-09-19

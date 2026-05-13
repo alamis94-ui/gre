@@ -3,7 +3,6 @@ gre_id: "7c417e388e"
 aliases: [/id/7c417e388e]
 type: place
 title: Myra
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

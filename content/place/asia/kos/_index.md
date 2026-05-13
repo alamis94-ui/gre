@@ -3,7 +3,6 @@ gre_id: "aadc06c41b"
 aliases: [/id/aadc06c41b]
 type: place
 title: Kos
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

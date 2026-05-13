@@ -3,7 +3,6 @@ gre_id: "ca2abe167e"
 aliases: [/id/ca2abe167e]
 type: place
 title: Vesunna
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

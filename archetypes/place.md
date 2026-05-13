@@ -4,7 +4,6 @@ gre_id: "{{ $id }}"
 aliases: [/id/{{ $id }}]
 type: place
 title: {{ title (replaceRE `[-_]` " " .Name) }}
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: {{ time.Now.Format "2006-01-02" }}

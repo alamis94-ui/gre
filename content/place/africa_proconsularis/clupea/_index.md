@@ -3,7 +3,6 @@ gre_id: "1679ade9a7"
 aliases: [/id/1679ade9a7]
 type: place
 title: Clupea
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

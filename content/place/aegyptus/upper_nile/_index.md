@@ -3,7 +3,6 @@ gre_id: "80afe797dc"
 aliases: [/id/80afe797dc]
 type: place
 title: Upper Nile
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

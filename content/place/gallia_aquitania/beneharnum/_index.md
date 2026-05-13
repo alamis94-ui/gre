@@ -3,7 +3,6 @@ gre_id: "146b313702"
 aliases: [/id/146b313702]
 type: place
 title: Beneharnum
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

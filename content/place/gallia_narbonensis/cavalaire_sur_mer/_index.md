@@ -3,7 +3,6 @@ gre_id: "b7b5c9e29d"
 aliases: [/id/b7b5c9e29d]
 type: place
 title: Cavalaire Sur Mer
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

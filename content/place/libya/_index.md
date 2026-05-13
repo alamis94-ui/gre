@@ -3,7 +3,6 @@ gre_id: "a9da271b6a"
 aliases: [/id/a9da271b6a]
 type: place
 title: Libya
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

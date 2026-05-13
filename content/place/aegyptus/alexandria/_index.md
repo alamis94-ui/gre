@@ -3,7 +3,6 @@ gre_id: "6ad907e90b"
 aliases: [/id/6ad907e90b]
 type: place
 title: Alexandria
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

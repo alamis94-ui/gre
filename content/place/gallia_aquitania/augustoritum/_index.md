@@ -3,7 +3,6 @@ gre_id: "d8df2ab372"
 aliases: [/id/d8df2ab372]
 type: place
 title: Augustoritum
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

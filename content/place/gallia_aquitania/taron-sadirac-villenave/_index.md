@@ -3,7 +3,6 @@ gre_id: "f8089f8dc4"
 aliases: [/id/f8089f8dc4]
 type: place
 title: Taron Sadirac Villenave
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

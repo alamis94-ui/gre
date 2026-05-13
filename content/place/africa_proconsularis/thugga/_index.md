@@ -3,7 +3,6 @@ gre_id: "9bd8e07069"
 aliases: [/id/9bd8e07069]
 type: place
 title: Thugga
-latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

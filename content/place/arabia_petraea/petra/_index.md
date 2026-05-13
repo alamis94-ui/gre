@@ -3,7 +3,6 @@ gre_id: "7eaf43759f"
 aliases: [/id/7eaf43759f]
 type: place
 title: Petra
-latlon: [ 0, 0 ]
 author: Leigh-Ann Bedal
 contributor: Jane Millar, Keith Jenkins
 date: 2025-09-19

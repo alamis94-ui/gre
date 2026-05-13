@@ -3,7 +3,6 @@ gre_id: "f320d5908f"
 aliases: [/id/f320d5908f]
 type: place
 title: Mauretania
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

@@ -3,7 +3,6 @@ gre_id: "f7c3a25ca5"
 aliases: [/id/f7c3a25ca5]
 type: place
 title: Baelo Claudia
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15

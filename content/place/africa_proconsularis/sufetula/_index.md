@@ -3,7 +3,6 @@ gre_id: "edcdbf6c60"
 aliases: [/id/edcdbf6c60]
 type: place
 title: Sufetula
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

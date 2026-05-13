@@ -3,7 +3,6 @@ gre_id: "f493bd55c3"
 aliases: [/id/f493bd55c3]
 type: place
 title: Hippo Regius
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

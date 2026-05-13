@@ -3,7 +3,6 @@ gre_id: "adc8c150d5"
 aliases: [/id/adc8c150d5]
 type: place
 title: Hispania Tarraconensis
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-07

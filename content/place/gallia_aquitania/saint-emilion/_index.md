@@ -3,7 +3,6 @@ gre_id: "59e28aa259"
 aliases: [/id/59e28aa259]
 type: place
 title: Saint Emilion
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

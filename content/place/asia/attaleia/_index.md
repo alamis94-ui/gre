@@ -3,7 +3,6 @@ gre_id: "1dec19aa39"
 aliases: [/id/1dec19aa39]
 type: place
 title: Attaleia
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

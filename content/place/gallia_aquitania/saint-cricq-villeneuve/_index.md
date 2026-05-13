@@ -3,7 +3,6 @@ gre_id: "6866787894"
 aliases: [/id/6866787894]
 type: place
 title: Saint Cricq Villeneuve
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
