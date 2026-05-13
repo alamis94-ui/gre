@@ -49,7 +49,7 @@ There is no archaeological evidence for a sacred grove on the acropolis of the R
 - {{< keyword "example" >}}
 -->
 - {{< keyword "olive trees" >}}
-- {{< keyword "acropolis" >}}
+- {{< keyword "acropolises" >}}
 
 
 <!--
