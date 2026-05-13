@@ -3,7 +3,6 @@ gre_id: "26731e8311"
 aliases: [/id/26731e8311]
 type: place
 title: Karthago
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

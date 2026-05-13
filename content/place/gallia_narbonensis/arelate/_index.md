@@ -3,7 +3,6 @@ gre_id: "530a80ad1d"
 aliases: [/id/530a80ad1d]
 type: place
 title: Arelate
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

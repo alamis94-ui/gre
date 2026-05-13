@@ -3,7 +3,6 @@ gre_id: "10d70e7aca"
 aliases: [/id/10d70e7aca]
 type: place
 title: Samos
-latlon: [ 37.7324600706, 26.8391253467 ]
 author: Author Name
 contributor: Victoria Austen
 date: 2025-09-21

@@ -3,7 +3,6 @@ gre_id: "9ecd995dff"
 aliases: [/id/9ecd995dff]
 type: place
 title: Thuburbo Maius
-latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Keith Jenkins
 date: 2025-09-16

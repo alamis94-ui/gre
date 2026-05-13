@@ -3,7 +3,6 @@ gre_id: "add593790a"
 aliases: [/id/add593790a]
 type: place
 title: Pergamum
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

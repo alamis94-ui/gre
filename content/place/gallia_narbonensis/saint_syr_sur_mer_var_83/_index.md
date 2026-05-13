@@ -3,7 +3,6 @@ gre_id: "f0373df219"
 aliases: [/id/f0373df219]
 type: place
 title: Saint Syr Sur Mer Var 83
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

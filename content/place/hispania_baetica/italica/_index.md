@@ -3,7 +3,6 @@ gre_id: "44ac129071"
 aliases: [/id/44ac129071]
 type: place
 title: Italica
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15

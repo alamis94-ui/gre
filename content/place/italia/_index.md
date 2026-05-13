@@ -3,7 +3,6 @@ gre_id: "1ceef17483"
 aliases: [/id/1ceef17483]
 type: place
 title: Italia
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Rhiannon Paré
 date: 2025-07-07

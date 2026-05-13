@@ -3,7 +3,6 @@ gre_id: "91be00f7c8"
 aliases: [/id/91be00f7c8]
 type: place
 title: Mytilene
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

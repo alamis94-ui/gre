@@ -3,7 +3,6 @@ gre_id: "3dadb93d13"
 aliases: [/id/3dadb93d13]
 type: place
 title: Benalmadena Costa
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15

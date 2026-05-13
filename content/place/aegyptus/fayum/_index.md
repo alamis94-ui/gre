@@ -3,7 +3,6 @@ gre_id: "c836f8985e"
 aliases: [/id/c836f8985e]
 type: place
 title: Fayum
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

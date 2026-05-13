@@ -3,7 +3,6 @@ gre_id: "ec44bb9cbd"
 aliases: [/id/ec44bb9cbd]
 type: place
 title: Aphrodisias
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

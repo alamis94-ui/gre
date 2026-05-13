@@ -3,7 +3,6 @@ gre_id: "55ffb02706"
 aliases: [/id/55ffb02706]
 type: place
 title: Volubilis
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

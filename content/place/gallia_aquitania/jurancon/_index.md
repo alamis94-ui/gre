@@ -3,7 +3,6 @@ gre_id: "0cce9a7cde"
 aliases: [/id/0cce9a7cde]
 type: place
 title: Jurancon
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

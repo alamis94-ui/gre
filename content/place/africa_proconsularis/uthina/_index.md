@@ -3,7 +3,6 @@ gre_id: "2fbce03b6e"
 aliases: [/id/2fbce03b6e]
 type: place
 title: Uthina
-latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16

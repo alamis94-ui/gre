@@ -3,7 +3,6 @@ gre_id: "8f23150942"
 aliases: [/id/8f23150942]
 type: place
 title: Cirta
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

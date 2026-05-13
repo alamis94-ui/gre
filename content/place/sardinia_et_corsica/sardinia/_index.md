@@ -3,7 +3,6 @@ gre_id: "a5fba537c1"
 aliases: [/id/a5fba537c1]
 type: place
 title: Sardinia
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-12

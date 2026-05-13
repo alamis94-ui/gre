@@ -3,7 +3,6 @@ gre_id: "d59a477b8c"
 aliases: [/id/d59a477b8c]
 type: place
 title: Sorde L Abbaye
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

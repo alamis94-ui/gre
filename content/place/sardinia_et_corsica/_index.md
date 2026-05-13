@@ -3,7 +3,6 @@ gre_id: "0a0a493e4e"
 aliases: [/id/0a0a493e4e]
 type: place
 title: Sardinia et Corsica
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-12

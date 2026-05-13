@@ -3,7 +3,6 @@ gre_id: "4e4bfb9cc7"
 aliases: [/id/4e4bfb9cc7]
 type: place
 title: Hypaipa
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

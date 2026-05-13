@@ -3,7 +3,6 @@ gre_id: "16c4a9f181"
 aliases: [/id/16c4a9f181]
 type: place
 title: Cuicul
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

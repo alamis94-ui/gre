@@ -3,7 +3,6 @@ gre_id: "59a1052de4"
 aliases: [/id/59a1052de4]
 type: place
 title: Rhodes
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21

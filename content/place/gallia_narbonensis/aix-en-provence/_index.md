@@ -3,7 +3,6 @@ gre_id: "07f47067ff"
 aliases: [/id/07f47067ff]
 type: place
 title: Aix-en-Provence
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

@@ -3,7 +3,6 @@ gre_id: "c6114bd7d1"
 aliases: [/id/c6114bd7d1]
 type: place
 title: Valentine
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
