@@ -39,7 +39,7 @@ There is no archaeological evidence for a sacred grove on the acropolis of the R
 
 <!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+
 -->
 - J. Bousquet, “Les oliviers de Lindos,” Recueil Plassart, Paris, 1976, pp. 10, 12
 - D.E. Birge, Sacred Groves in the Ancient Greek World. PhD thesis, University of California, Berkeley, 1982, pp. 183-184.
