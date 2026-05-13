@@ -3,7 +3,6 @@ gre_id: "e5e669d243"
 aliases: [/id/e5e669d243]
 type: place
 title: Bithynia And Pontus
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

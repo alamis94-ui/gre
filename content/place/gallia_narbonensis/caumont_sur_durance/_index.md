@@ -3,7 +3,6 @@ gre_id: "4868fefe20"
 aliases: [/id/4868fefe20]
 type: place
 title: Caumont Sur Durance
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

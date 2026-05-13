@@ -3,7 +3,6 @@ gre_id: "cdffb59bc8"
 aliases: [/id/cdffb59bc8]
 type: place
 title: Babatha
-latlon: [ 0, 0 ]
 author: Leigh-Ann Bedal
 contributor: Keith Jenkins
 date: 2025-09-19

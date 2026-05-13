@@ -3,7 +3,6 @@ gre_id: "6d26a46804"
 aliases: [/id/6d26a46804]
 type: place
 title: Andance
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

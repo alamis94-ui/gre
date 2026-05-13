@@ -3,7 +3,6 @@ gre_id: "4ade66dff9"
 aliases: [/id/4ade66dff9]
 type: place
 title: Athens
-latlon: [ 0, 0 ]
 author: 
 contributor: Keith Jenkins
 date: 2025-06-23

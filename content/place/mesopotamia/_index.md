@@ -3,7 +3,6 @@ gre_id: "45160fc4c4"
 aliases: [/id/45160fc4c4]
 type: place
 title: Mesopotamia
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

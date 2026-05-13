@@ -3,7 +3,6 @@ gre_id: "da2c9dcfd7"
 aliases: [/id/da2c9dcfd7]
 type: place
 title: Mactaris
-latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Keith Jenkins
 date: 2025-09-16

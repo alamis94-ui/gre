@@ -3,7 +3,6 @@ gre_id: "06d1d3c7d0"
 aliases: [/id/06d1d3c7d0]
 type: place
 title: Labastide D Armagnac
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

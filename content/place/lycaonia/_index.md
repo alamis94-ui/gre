@@ -3,7 +3,6 @@ gre_id: "fa1ac28283"
 aliases: [/id/fa1ac28283]
 type: place
 title: Lycaonia
-latlon: [ 0, 0 ]
 author: Catherine Kearns
 contributor: Keith Jenkins
 date: 2026-05-07

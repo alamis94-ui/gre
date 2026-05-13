@@ -3,7 +3,6 @@ gre_id: "42dcdf9a6a"
 aliases: [/id/42dcdf9a6a]
 type: place
 title: Nerac
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

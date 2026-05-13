@@ -3,7 +3,6 @@ gre_id: "7560c410ad"
 aliases: [/id/7560c410ad]
 type: place
 title: Blacciacum
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

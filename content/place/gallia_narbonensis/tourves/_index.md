@@ -3,7 +3,6 @@ gre_id: "877fbd7cdc"
 aliases: [/id/877fbd7cdc]
 type: place
 title: Tourves
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30

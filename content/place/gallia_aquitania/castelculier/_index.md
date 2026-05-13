@@ -3,7 +3,6 @@ gre_id: "7db6982424"
 aliases: [/id/7db6982424]
 type: place
 title: Castelculier
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07

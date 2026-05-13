@@ -3,7 +3,6 @@ gre_id: "9d76afc6b1"
 aliases: [/id/9d76afc6b1]
 type: place
 title: Sardis
-latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
