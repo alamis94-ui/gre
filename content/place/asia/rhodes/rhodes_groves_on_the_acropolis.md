@@ -56,7 +56,6 @@ BIBLIOGRAPHY: W. Hoepfner and E.-L. Schwandner, Haus und Stadt im klassischen Gr
 - {{< keyword "nymphaea" >}}
 
 
-
 <!--
 ## Places
 places containing this garden will be listed automatically
