@@ -54,6 +54,5 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 - {{< keyword "courtyards" >}}
 
 ## Places
-places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="599926" name="Samos (island)" >}}
 
