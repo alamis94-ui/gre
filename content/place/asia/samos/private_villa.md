@@ -53,6 +53,4 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 - {{< keyword "fountains" >}}
 - {{< keyword "courtyards" >}}
 
-## Places
-- {{< id vocab="Pleiades" id="599926" name="Samos (island)" >}}
 
