@@ -50,7 +50,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 ## Location Description
 
 Despite the rather sparse archaeological evidence for gardens in Tarragona, one of the most important cities of Roman Spain, there is a brief passage at the beginning of Vergilius orator an poeta by Publius Annius Florus, friend of Hadrian, in which he described a temple garden thought to be in Tarragona, though the city is not mentioned explicitly:
-While I was passing through the temple enclosure my head full of the fatigues of the day, pleasantly resting in the shade of many trees by cool running water breathing fresh air, I suddenly came upon a group of people…
+While I was passing through the temple enclosure my head full of the fatigues of the day, pleasantly resting in the shade of many trees by cool running water breathing fresh air, I suddenly came upon a group of people...
 
 ## Garden
 

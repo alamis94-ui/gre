@@ -16,7 +16,7 @@ The region of what is now modern Turkey became a part of the Roman Empire in 133
 
 While the Romans might have looked to the Greeks for inspiration in philosophy, architecture, sculpture, and the fine arts, the non-Greek peoples of the eastern Mediterranean are their inspiration for luxury, fine-living, and the status conferred by displays of individual wealth (*Athenaeus Deip.* XV.690).   Asia was a center for such splendor, first in the kingdoms of Lydia, Phrygia, and Lycia, and then continued by the Persian satraps, and later the Hellenistic kings.  The Persian *paradeisos* is particularly well-attested in literature referencing Asia.  That these gardens are known primarily from Roman-period literary sources indicates their continuing influence. For example, long after the gold of Lydia's Pactolus River had disappeared, Lydia remained a literary *topos*, not only for copious wealth, but for a life of luxury set in a landscape of natural abundance.  Athenaeus (*Deipnosophistae* 12.515d-f) wrote in the second century A.D. that
 
-"The Lydians in their luxury planned parks and made them like gardens and so kept in the shade.  For they thought it more dainty not to have the sun's rays touch them at all…"
+"The Lydians in their luxury planned parks and made them like gardens and so kept in the shade.  For they thought it more dainty not to have the sun's rays touch them at all..."
 
 Other districts of Asia captured the Roman imagination:  Pliny the Elder writes of an ancient plane tree (*Sycamorus orientalis*) in Lycia with a girth of sufficient circumference to house a grotto in its hollow trunk, ornamented with pumice and moss with provisions for 18 people to dine there (Pliny HN 12.9).
 
