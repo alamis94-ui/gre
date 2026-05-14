@@ -1,4 +1,4 @@
-# Generate a bunch of stub articles from a CSV file
+# Generate a bunch of stub articles from the stubs.csv file
 # also generate any province/sublocation pages that don't already exist
 #
 # NOTE: this script should be run from the main gre directory:
@@ -37,7 +37,7 @@ def run(s):
     if s:
         subprocess.run(s, shell=True)
 
-with open('code/input.csv', newline='') as f:
+with open('code/stubs.csv', newline='') as f:
     for r in csv.DictReader(f):
         p = pathize(r['province'])
         s = pathize(r['sublocation'])
