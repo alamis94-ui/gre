@@ -45,7 +45,7 @@ Edifice on St. Antoine's Mound
 
 This grand residential edifice may be either a public building or a great mansion.  Built on St. Antoine's mound, it is situated in the southwest corner of network A of the town plan.  In immediate proximity of the port, it was first interpreded as the *praetorium* of the naval arsenal (A. Donnadieu 1932).  Then it was assigned the role of residence of the perfect of the fleet or the occasional palace for the governor of the province (P.-A. Février, 1977).  Less luxurious than the edifice of the platform (see below), it has been classified in the recent *l'Atlas topographique de Fréjus* among the public buildings of the city.
 
-Less than half of the plan is known.  The residence occupied more than 15,000 square meters, of which at least 6,000 were living space.  The construction appears to go back to the first century B.C. with a poorly known prior condition.
+Less than half of the plan is known.  The residence occupied more than 15,000 square meters, of which at least 6,000 were living space.  The construction appears to go back to the first century BCE with a poorly known prior condition.
 
 The house was organized around a principal courtyard with porticos [1] with concrete floors.  Composed of very many rooms, the mansion had a very large axial ceremonial room and four dwelling units, two of which were organized around peristyles leading to the apartments.  Only peristyle [11] (5 x 10 m) can have had a garden; it is ornamented by a square pool with a frame about 1.30 meters long on each side.
 

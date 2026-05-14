@@ -60,8 +60,8 @@ A rather large sewer collector (30 x 40 cm in section) took the rainwater of the
 
 ## Dates
 
-B.C 10-A.D 10 Built
-A.D 20-30 Destroyed
+BCE 10-A.D 10 Built
+CE 20-30 Destroyed
 
 ## Bibliography
 

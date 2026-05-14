@@ -25,7 +25,7 @@ draft: true
 
 ## Sublocation
 
-The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century B.C. settlement of the Gallic tribe of the Allobroges. The town flourished until the third century  A.D., and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around A.D. 300 by a circuit wall.
+The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century BCE settlement of the Gallic tribe of the Allobroges. The town flourished until the third century  A.D., and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around A.D. 300 by a circuit wall.
 
 ## Garden
 

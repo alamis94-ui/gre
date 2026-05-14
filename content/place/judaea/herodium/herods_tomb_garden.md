@@ -30,7 +30,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 
 Herodium
 
-Herod the Great's primary residence and burial place appears to have been this large palace complex 15 km southwest of Jerusalem.  Here his court was within easy reach of the city, and on clear days the palace and the Mt. of Olives are visible in both directions. Herodium was an entirely new administrative and residential complex, commemorating his military victory over Antigonus for control of Jerusalem in 40 BCE.  Herodium was begun c. 23-20 BC and offered a Herod a range of facilities in which he could perhaps live and conduct business more freely here than in Jerusalem. (Jewish Antiquities, XV, 323-325) The palace has two primary residential areas: the fortified palace atop a natural, but raised hilltop; and an unfortified palace that spans a gentle valley below. (Fig. 1)  (Josephus Jewish War I, 419-421; Jewish Antiquities, XV, 323-325).
+Herod the Great's primary residence and burial place appears to have been this large palace complex 15 km southwest of Jerusalem.  Here his court was within easy reach of the city, and on clear days the palace and the Mt. of Olives are visible in both directions. Herodium was an entirely new administrative and residential complex, commemorating his military victory over Antigonus for control of Jerusalem in 40 BCE.  Herodium was begun c. 23-20 BCE and offered a Herod a range of facilities in which he could perhaps live and conduct business more freely here than in Jerusalem. (Jewish Antiquities, XV, 323-325) The palace has two primary residential areas: the fortified palace atop a natural, but raised hilltop; and an unfortified palace that spans a gentle valley below. (Fig. 1)  (Josephus Jewish War I, 419-421; Jewish Antiquities, XV, 323-325).
 
 ## Garden
 
@@ -60,7 +60,7 @@ In 2005, Netzer's team found the long-sought tomb of Herod, positioned on a terr
 
 {{< image file="ASIA_JUD_HERODIUM _2.jpg" caption="Fig. 2: A reconstruction drawing of the mausoleum garden at its later period, around 20 AD (Yaniv Korman)" credit="" alt="" >}}
 
-{{< image file="ASIA_JUD_HERODIUM _3.jpg" caption="Fig. 3: A reconstruction drawing of the mausoleum garden at its early period, around 15 BC (Yaniv Korman)" credit="" alt="" >}} -->
+{{< image file="ASIA_JUD_HERODIUM _3.jpg" caption="Fig. 3: A reconstruction drawing of the mausoleum garden at its early period, around 15 BCE (Yaniv Korman)" credit="" alt="" >}} -->
 
 ## Dates
 

@@ -18,7 +18,7 @@ draft: true
 
 ## Location Description
 
-The town on the Rhine River possessed colonial status since the late 1st century BC. The street grid, as well as many public and residential buildings, are well known from excavations.
+The town on the Rhine River possessed colonial status since the late 1st century BCE. The street grid, as well as many public and residential buildings, are well known from excavations.
 ## Garden
 
 House in Insula 30 in Augusta Raurica

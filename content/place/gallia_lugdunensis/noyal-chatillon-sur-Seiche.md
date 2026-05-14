@@ -36,7 +36,7 @@ Six kilometers south of Rennes, this village with medieval churches and pleasant
 
 The evolution of this agricultural site can be followed from the period immediately following the Roman conquest up to its destruction at the end of the fourth century. The site lies 0.9 kilometers east of the center of the cloverleaf intersection of N 137 with D 34 in the Guyomerais area on the west side of Noyal-Châtillon-sur-Seiche. Rue des Potiers cuts through the site, with the *pars urbana* on the north and the smaller *pars rustica* on the south. The Rue de Condate bounds the area on the east. Known since 1904, the four-hectare site was excavated by Alain Provost between 1984 and 1988 prior to development of a residential subdivision.
 
-From a period immediately following the Roman occupation (from 20 BC to about 40 AD) date a stone enclosure for animals, some agricultural walls, and remnants of a simple *barn.*
+From a period immediately following the Roman occupation (from 20 BCE to about 40 AD) date a stone enclosure for animals, some agricultural walls, and remnants of a simple *barn.*
 
 A modest farmhouse (Phase 1) was built about A.D 30. To the south extended a *courtyard* (65 x 70 m), delimited by a *trench,* which may have had a garden. Outbuildings included a forge, a workshop, and three small homes with fireplaces.
 
@@ -54,7 +54,7 @@ At the end of the third century, the *pars urbana* was abandonned, then partiall
 
 Was there a garden? Within the *courtyard,* there is no direct evidence of planting, but neither is there evidence of a hard surface that would preclude a garden, except that between the north gallery and the *fountain* there seems to have been a passage way. Outside the courtyard, northeast of the supposed house of the *villicus,* there were parallel *trenches* interpreted by the excavator as a garden zone (F on the Phase 4 plan).
 
-A study of pollens and sediments below the levels of the Gallo-Roman villa in a paleosol dated to the late first century BC or early first century AD has revealed the environment of the farm at that time. It shows a soil already worked and gardened by man and the presence of pollens of cereals. The countryside, already totally or partially cleared combined various trees – pine, hazel, oak, holly and linden – with ferns and herbaceous plants, especially grasses and plantains characteristic of prairies and grasslands. A comparison with the quantities of pollens found in the soils of the villa in the second and third centuries shows relative stability of the percentages, as shown in figure 5. While interesting, these findings describe the environment rather than the gardens themselves.
+A study of pollens and sediments below the levels of the Gallo-Roman villa in a paleosol dated to the late first century BCE or early first century AD has revealed the environment of the farm at that time. It shows a soil already worked and gardened by man and the presence of pollens of cereals. The countryside, already totally or partially cleared combined various trees – pine, hazel, oak, holly and linden – with ferns and herbaceous plants, especially grasses and plantains characteristic of prairies and grasslands. A comparison with the quantities of pollens found in the soils of the villa in the second and third centuries shows relative stability of the percentages, as shown in figure 5. While interesting, these findings describe the environment rather than the gardens themselves.
 
 ## Maps
 

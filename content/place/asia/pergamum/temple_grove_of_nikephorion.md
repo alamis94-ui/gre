@@ -18,7 +18,7 @@ draft: true
 
 ## Location Description
 
-Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into an architectural center under the Attalid dynasty (282-133 B.C.).  Attalus the III wrote treatises on gardens, raised poisonous plants, made wax models (Plut. Demet. 20.2), and upon his death, left the kingdom of Mysia to the Romans.  It became one of the most important Roman cities of Asia, and current scholarship has revealed its significance as an influence on the art and architecture of Rome.  The range of designed open spaces includes sanctuaries, gymnasia, palaestra, and agoras, all of which were renovated during the Roman period.  No archaeological remains of planting features have been reported, but an inscription records a law prohibiting the deliberate planting of trees near walls (SEG XIII 521.11.158-61).
+Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into an architectural center under the Attalid dynasty (282-133 BCE).  Attalus the III wrote treatises on gardens, raised poisonous plants, made wax models (Plut. Demet. 20.2), and upon his death, left the kingdom of Mysia to the Romans.  It became one of the most important Roman cities of Asia, and current scholarship has revealed its significance as an influence on the art and architecture of Rome.  The range of designed open spaces includes sanctuaries, gymnasia, palaestra, and agoras, all of which were renovated during the Roman period.  No archaeological remains of planting features have been reported, but an inscription records a law prohibiting the deliberate planting of trees near walls (SEG XIII 521.11.158-61).
 ## Garden
 
 Temple Grove of Nikephorion
@@ -39,7 +39,7 @@ Temple Grove of Nikephorion
 
 ## Garden Description
 
-King Eumenes II of Pergamum employed a gardener to plant new trees and nurse damaged ones back to health in the grove of the Nikephorion, following an attack on the city by Philip V of Macedon in 201 B.C., during which Philip V ordered his troops to cut down trees in the sanctuary (Polybios 16.1.6).
+King Eumenes II of Pergamum employed a gardener to plant new trees and nurse damaged ones back to health in the grove of the Nikephorion, following an attack on the city by Philip V of Macedon in 201 BCE, during which Philip V ordered his troops to cut down trees in the sanctuary (Polybios 16.1.6).
 
 <!-- ## Maps -->
 

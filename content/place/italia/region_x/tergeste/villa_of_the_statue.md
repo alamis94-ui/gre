@@ -47,7 +47,7 @@ Villa of the Statue
 
 ## Garden Description
 
-A villa dating from the first century B.C. to at least the time of Marcus Aurelius was discovered near the modern via Miramare in Barcola.  It overlooked the sea to the west and had a portico at the south (Fig. 1: B), with rooms opening onto it. The main nucleus of the villa unfolded around a rectangular garden surrounded by porticoes on all four sides (the long sides measure 24.5 m.; the short ones 15.2; Fig. 1: U).  A rectangular brick pool with a black mosaic pavement was in the north-east portion of the garden (Fig. 1: a). It pre-dates the portico, since it was partly destroyed by the paving of the north-east portico.  A terminus post quem for the construction of the portico was determined by a coin of Nero, found inside the pool.
+A villa dating from the first century BCE to at least the time of Marcus Aurelius was discovered near the modern via Miramare in Barcola.  It overlooked the sea to the west and had a portico at the south (Fig. 1: B), with rooms opening onto it. The main nucleus of the villa unfolded around a rectangular garden surrounded by porticoes on all four sides (the long sides measure 24.5 m.; the short ones 15.2; Fig. 1: U).  A rectangular brick pool with a black mosaic pavement was in the north-east portion of the garden (Fig. 1: a). It pre-dates the portico, since it was partly destroyed by the paving of the north-east portico.  A terminus post quem for the construction of the portico was determined by a coin of Nero, found inside the pool.
 
 During nineteenth century excavations, fragments of two superimposed wall paintings were recovered in Room C. The outer layer is not well enough preserved to identify any subject, but the preserved fragments beneath show branches and leaves with colored backgrounds of light blue, red, yellow and white.  It is, therefore, possible that this cycle of painting depicted a garden, echoing the view of the real plantings visible through the doorway.
 
@@ -58,7 +58,7 @@ North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is n
 
 ## Dates
 
-100 B.C.
+100 BCE
 
 ## Excavation Date
 
