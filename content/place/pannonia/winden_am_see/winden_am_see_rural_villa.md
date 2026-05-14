@@ -5,26 +5,15 @@ type: garden
 title: Rural Villa in Winden Am See
 latlon: [ 46.5, 15.5 ]
 author: Maureen Carroll
-contributor: June Dorsch
+contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-14
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Winden Am See]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="197425" name="Winden Am See" >}}
-
-## Garden
-
-Rural Villa in Winden Am See
-
-## Keywords
-
-- {{< keyword "corridors" >}}
-- {{< keyword "vestibules" >}}
-- {{< keyword "villae rusticae" >}}
+100 AD - 4th century
 
 ## Garden Description
 
@@ -40,16 +29,17 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 
 <!-- ## Images -->
 
-## Dates
-
-100 AD - 4th century
-
 ## Bibliography
 
 *  E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 201-210, figs. 107-10. [(worldcat)](https://search.worldcat.org/title/785736879)
 * A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 173, fig. 32. [(worldcat)](https://search.worldcat.org/title/644823914)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="197425" name="Pannonia" >}}
-- {{< id vocab="TGN" id="4008442" name="Pannonia (general region)" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "villae rusticae" >}}
+
+<!--
+## Places
+-->

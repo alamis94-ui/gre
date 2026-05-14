@@ -3,31 +3,17 @@ gre_id: "33cc03c782"
 aliases: [/id/33cc03c782]
 type: garden
 title: Rural Villa in Eisenstadt
-latlon: [ 46.5, 15.5 ]
+latlon: [ 47.8333, 16.5333 ]
 author: Maureen Carroll
-contributor: June Dorsch
+contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-14
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Eisenstadt]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="197425" name="Eisenstadt" >}}
-
-## Garden
-
-Rural Villa in Eisenstadt
-
-## Keywords
-
-- {{< keyword "altars" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "podiums (building divisions)" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "villae rusticae" >}}
+Early 2nd century - 4th century
 
 ## Garden Description
 
@@ -41,15 +27,19 @@ The residence of this *villa rustica* was entered on the southeast by a portico 
 
 <!-- ## Images -->
 
-## Dates
-
-Early 2nd century - 4th century
-
 ## Bibliography
 
 * E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 137-151, fig. 73. [(worldcat)](https://search.worldcat.org/title/785736879)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="197425" name="Pannonia" >}}
-- {{< id vocab="TGN" id="7003056" name="Eisenstadt (inhabited place)" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "podiums (building divisions)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "villae rusticae" >}}
+
+<!--
+## Places
+-->

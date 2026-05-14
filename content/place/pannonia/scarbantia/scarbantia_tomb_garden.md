@@ -5,20 +5,31 @@ type: garden
 title: Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
 latlon: [ 47.684893, 16.583036 ]
 author: John Bodel
-contributor: June Dorsch
+contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-14
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Scarbantia]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="197501" name="Scarbantia" >}}
+3rd century
 
-## Garden
+## Garden Description
 
-Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
+A limestone funerary stele of probably third century date unearthed in 1973 near Scarbantia at Winder am See (Burgenland) and now in the Burgenländische Landesmuseum at Eisenstadt records an epitaph set up by Septimius Alcides, a veteran of the legio XIII Gemina Iulia, for his wife, Iul(ia) Victorin(a), dead at thirty, for whom he built at his own expense a funerary pleasure garden (*viridarium*).
+
+<!-- ## Maps -->
+
+<!-- ## Plans -->
+
+
+<!-- ## Images -->
+
+## Bibliography
+
+* *AE* 1973, 433.
+* *Epigraphische Datenbank Heidelberg* HD011378.
 
 ## Keywords
 
@@ -28,28 +39,6 @@ Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
 - {{< keyword "tombs" >}}
 - {{< keyword "viridarium" >}}
 
-## Garden Description
-
-A limestone funerary stele of probably third century date unearthed in 1973 near Scarbantia at Winder am See (Burgenland) and now in the Burgenländische Landesmuseum at Eisenstadt records an epitaph set up by Septimius Alcides, a veteran of the legio XIII Gemina Iulia, for his wife, Iul(ia) Victorin(a), dead at thirty, for whom he built at his own expense a funerary pleasure garden (*viridarium*).
-
-## Maps
-
-<!-- ## Plans -->
-
-
-<!-- ## Images -->
-
-## Dates
-
-3rd century
-
-## Bibliography
-
-* *AE* 1973, 433.
-* *Epigraphische Datenbank Heidelberg* HD011378.
-
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="197501" name="Scarbantia" >}}
-- {{< id vocab="TGN" id="4008442" name="Pannonia (general region)" >}}
-
+-->
