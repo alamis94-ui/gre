@@ -10,6 +10,8 @@ modified: 2025-09-21
 draft: true
 ---
 
+<!-- ## Dates -->
+
 ## Province description
 
 The region of what is now modern Turkey became a part of the Roman Empire in 133 BCE when king Attalos III of Pergamum bequeathed his kingdom to the Roman people.  The province included the heartland of the Pergamene kingdom as well as the territories of Mysia, Lydia, Ionia, Caria, western Phrygia and the eastern Aegean islands.  Under Augustus in 27 BCE, Asia was declared a senatorial province and the governance of a proconsul.  The capital of the province was Ephesos, although Pergamon may have fulfilled this role initially.  Under Diocletian (284-305 A.D.) the province was subdivided into smaller administrative units: Hellespontus, Asia, Lydia, Caria, Phrygia I and Phrygia II.  Due to its excellent harbors on the west coast and its many navigable rivers, Asia's water-borne trade with the rest of the Mediterranean flourished.  In the second century CE, Asia experienced great prosperity, to which the growth and architectural aggrandizement of many of its cities attest. In the area of Kibyra, bordering the regions of Lycia, Caria, Phrygia and Pisidia, numerous inscriptions refer to the large imperial estates of Roman families.  Woolen textiles, marble, and timber constituted a significant part of the commodities exported from the province.
@@ -25,6 +27,31 @@ The *paradeisoi* of the Persian satraps are of particular influence on the intro
 Thus, the *paradeisos*, the *alsos*, the gymnasium, and the quadriporticus are not forms the Romans suddenly "discovered."  They had had a long influence and were integrated into the Hellenistic architectural forms of the Italic landscape.  In the second century BCE, however, when the Roman generals began to define themselves as rulers of an empire, they turned directly to the palaces and *paradeisoi* of the Hellenistic monarchs to establish their power, to display spoils of war, and to create the luxurious setting for life in Rome.  They further adapted the evolving quadriporticus form for display to the public.
 
 Despite the importance of Asia Minor in the history of the Roman landscape, archaeological evidence is scant. The excavators contacted for this essay indicated that parks, gardens, and other planted areas have yet to become a subject of research design for the region and finds appear to be few—primarily inscriptions and wall paintings. Most of the smaller domestic courtyards—often the most manageable to investigate - are paved.   The larger palaestrae, gymnasia, and enclosed open spaces have not been investigated for landscape architectural and planting features, although recently an important campaign of work in the South Agora at Aphrodisias is setting an important precedent (see below).  This catalog includes areas with dirt and incomplete paved surfaces, and notes sites where the excavators have some level of optimism about fruitful future study. The subject of designed landscapes, gardens, and planted areas in Asia Minor awaits archaeological investigation.
+
+<!--
+## Maps
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Plans
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Images
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Bibliography
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+
+<!--
+## Keywords
+- {{< keyword "Example keyword" >}}
+-->
 
 ## Places
 
