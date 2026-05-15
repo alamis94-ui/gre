@@ -57,7 +57,7 @@ This phase, called the House with the Cistern, was constructed in the last years
 
 ## Dates
 
-BCE 20 - A.D. 20
+BCE 20 - CE 20
 
 ## Bibliography
 

@@ -25,7 +25,7 @@ draft: true
 
 ## Sublocation
 
-The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century BCE settlement of the Gallic tribe of the Allobroges. The town flourished until the third century  A.D., and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around A.D. 300 by a circuit wall.
+The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century BCE settlement of the Gallic tribe of the Allobroges. The town flourished until the third century  CE, and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around CE 300 by a circuit wall.
 
 ## Garden
 
@@ -41,7 +41,7 @@ Suburban Villa
 
 ## Garden Description
 
-This *villa suburbana* in the modern Parc de la Grange lay outside the town on the southern shore of Lake Geneva. The villa, built originally in the mid 1st c. A.D., was extended in the 2nd and 3rd c., and was inhabited until the 4th c. (Fig. 8.2). It measured 40 x 30.50 m., and it had a separate bath complex on the northwest.  The entire estate was 450 m. long and approximately 180 m. in width.
+This *villa suburbana* in the modern Parc de la Grange lay outside the town on the southern shore of Lake Geneva. The villa, built originally in the mid 1st c. CE, was extended in the 2nd and 3rd c., and was inhabited until the 4th c. (Fig. 8.2). It measured 40 x 30.50 m., and it had a separate bath complex on the northwest.  The entire estate was 450 m. long and approximately 180 m. in width.
 
 A *peristyle courtyard* surrounded by covered walkways on four sides took up an area of 22 x 11.80 m., about half of the building. In the center of the *courtyard* was a pool, very fragmentarily preserved, around which, in all probability, were plantings (G on plan).
 

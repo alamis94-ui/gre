@@ -17,7 +17,7 @@ draft: false
 
 ## Garden Description
 
-A Roman guest house of the 2nd century A.D., so-called Guest House I, was erected southeast of the Roman Kladeos baths of ca. 100 A.D. (Fig. 3, A on plan).  The guest house had a peristyle courtyard with a water-filled channel surrounding a rectangular island.  The island may have been planted as a garden, since this area was not paved.  Around 220/230 A.D. the guest house was altered.  At this time, the building was given direct access through a corridor to the Kladeos baths.  The peristyle courtyard of the guest house also was reduced in size and paved with terracotta slabs (C on plan), suggesting that the garden was no longer maintained.
+A Roman guest house of the 2nd century CE, so-called Guest House I, was erected southeast of the Roman Kladeos baths of ca. 100 CE (Fig. 3, A on plan).  The guest house had a peristyle courtyard with a water-filled channel surrounding a rectangular island.  The island may have been planted as a garden, since this area was not paved.  Around 220/230 CE the guest house was altered.  At this time, the building was given direct access through a corridor to the Kladeos baths.  The peristyle courtyard of the guest house also was reduced in size and paved with terracotta slabs (C on plan), suggesting that the garden was no longer maintained.
 
 <!-- ## Maps -->
 

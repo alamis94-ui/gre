@@ -17,7 +17,7 @@ draft: true
 
 ## Garden Description
 
-The modest house of this *villa rustica* is of the so-called corridor type, a type common in the region and already seen at Carnuntum (Fig. 1). It was built around 100 A.D. and occupied until the 4th century.
+The modest house of this *villa rustica* is of the so-called corridor type, a type common in the region and already seen at Carnuntum (Fig. 1). It was built around 100 CE and occupied until the 4th century.
 
 On the southeast of the house was a vestibule, from which a central corridor departed at a 90 degree angle. This corridor divided the house into two parts of equal width. Two walls at right angles to the house at the northeast enclosed an area in which the excavators found "fine garden soil." This observation allows the reconstruction of a garden, probably a kitchen garden, next to the house (G in Fig. 1).
 

@@ -51,7 +51,7 @@ On entering from the east-west street, after passing through two incidental room
 
 ## Dates
 
-A.D 101-200
+CE 101-200
 
 ## Bibliography
 

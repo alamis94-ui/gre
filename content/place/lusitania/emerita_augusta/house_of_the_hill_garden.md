@@ -50,7 +50,7 @@ House of the Hill Garden
 
 ## Garden Description
 
-Very little is known about the characteristics of this intramurally situated domus, whose remains were discovered in 1976 during explorations in the grounds of the 'Hill Garden.'  In the emergency excavations carried out by José Álvarez Sáenz de Buruaga, the remains of two peristyles were discovered with mural paintings and mosaic pavements dated to the end of the second or early third century A.D. The structures of this house, only partially excavated, have been buried again for the sake of preservation and are no longer visible.
+Very little is known about the characteristics of this intramurally situated domus, whose remains were discovered in 1976 during explorations in the grounds of the 'Hill Garden.'  In the emergency excavations carried out by José Álvarez Sáenz de Buruaga, the remains of two peristyles were discovered with mural paintings and mosaic pavements dated to the end of the second or early third century CE. The structures of this house, only partially excavated, have been buried again for the sake of preservation and are no longer visible.
 
 ## Dates
 

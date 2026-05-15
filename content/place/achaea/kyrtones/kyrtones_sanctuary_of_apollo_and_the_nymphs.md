@@ -17,7 +17,7 @@ unspecified
 
 ## Garden Description
 
-A grove and shrine of Apollo in the mountaintop town of Kyrtones in Boeotia was visited by Pausanias in the 2nd century A.D. [(9.24.4)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.24.4).  There was also a natural spring at the site, next to which was a sanctuary of the Nymphs and a small grove of fruit-bearing trees.
+A grove and shrine of Apollo in the mountaintop town of Kyrtones in Boeotia was visited by Pausanias in the 2nd century CE [(9.24.4)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.24.4).  There was also a natural spring at the site, next to which was a sanctuary of the Nymphs and a small grove of fruit-bearing trees.
 
 <!-- ## Maps -->
 

@@ -38,7 +38,7 @@ The evolution of this agricultural site can be followed from the period immediat
 
 From a period immediately following the Roman occupation (from 20 BCE to about 40 AD) date a stone enclosure for animals, some agricultural walls, and remnants of a simple *barn.*
 
-A modest farmhouse (Phase 1) was built about A.D 30. To the south extended a *courtyard* (65 x 70 m), delimited by a *trench,* which may have had a garden. Outbuildings included a forge, a workshop, and three small homes with fireplaces.
+A modest farmhouse (Phase 1) was built about CE 30. To the south extended a *courtyard* (65 x 70 m), delimited by a *trench,* which may have had a garden. Outbuildings included a forge, a workshop, and three small homes with fireplaces.
 
 About AD 80, the farmhouse was razed to make room for the first villa (Phase 2).Built of small stones, this villa consisted of five rooms in a line extending 26.5 meters along the north side of a gallery. A wall replaced the trench delimiting the *courtyard.* Outbuildings included a barn, a mill, and a chalk oven, in addition to the forge and homes.
 
@@ -58,11 +58,11 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 
 ## Maps
 
-{{< image file="noyal1.jpg" caption="A Map of Land Development Over Time." credit="" alt="These images are three maps that show the development of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) over time from 1 year A.D. or after J.C. to 180 A.D. or J.C." >}}
+{{< image file="noyal1.jpg" caption="A Map of Land Development Over Time." credit="" alt="These images are three maps that show the development of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) over time from 1 year CE or after J.C. to 180 CE or J.C." >}}
 
 ## Plans
 
-{{< image file="noyal2.jpg" caption="Plans of Land Development Over Time." credit="" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 A.D. or J.C. to the villa in the middle of the third century A.D. or J.C." >}}
+{{< image file="noyal2.jpg" caption="Plans of Land Development Over Time." credit="" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 CE or J.C. to the villa in the middle of the third century CE or J.C." >}}
 ## Images
 
 {{< image file="noyal_photo.jpg" caption="The Fountain Bassin." credit="" alt="A grainy photograph of an archaeological dig of the fountain bassin." >}}

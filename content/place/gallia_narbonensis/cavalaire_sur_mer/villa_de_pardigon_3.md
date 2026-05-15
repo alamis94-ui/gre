@@ -54,9 +54,9 @@ In a final stage, at the beginning of the third century, the garden was transfor
 
 ## Dates
 
-A.D. 1-100 principal building constructed
-A.D. 100-200 peristyle added
-A,D. 200-300 garden transformed into a court then a dump
+CE 1-100 principal building constructed
+CE 100-200 peristyle added
+CE 200-300 garden transformed into a court then a dump
 
 ## Bibliography
 

@@ -29,7 +29,7 @@ Rural Villa in Darenth
 
 ## Garden Description
 
-Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after A.D. 100 and continued until the closing decades of the 4th century.
+Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after CE 100 and continued until the closing decades of the 4th century.
 
 This pool (P in Fig. 1), measuring 25.6 x 3.36 meters, lay at right angles to the center of the main residence and bisected an enclosed courtyard, possibly a garden (G in Fig. 1) in front of the house. The pool would have been a decorative element in the courtyard. Within the pool at the end nearest the house was found a small bronze water-spout in the form of the head of a lioness. At the other end was a semi-circular pool with provision for the inflow and outflow of water.
 

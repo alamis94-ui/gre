@@ -25,7 +25,7 @@ draft: true
 
 ## Sublocation
 
-The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century BCE settlement of the Gallic tribe of the Allobroges. The town flourished until the third century  A.D., and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around A.D. 300 by a circuit wall.
+The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century BCE settlement of the Gallic tribe of the Allobroges. The town flourished until the third century  CE, and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around CE 300 by a circuit wall.
 
 ## Garden
 
@@ -40,7 +40,7 @@ Urban House
 
 ## Garden Description
 
-This badly preserved building situated on the Plateau des Tranchées was on a terraced slope overlooking Lake Geneva (Lacus Lemanus). Originally built between 20 and 40 A.D., and occupied until 180, the house had a central *peristyle courtyard* measuring 7.80 x 22 m. in size.
+This badly preserved building situated on the Plateau des Tranchées was on a terraced slope overlooking Lake Geneva (Lacus Lemanus). Originally built between 20 and 40 CE, and occupied until 180, the house had a central *peristyle courtyard* measuring 7.80 x 22 m. in size.
 Below the *peristyle* was a *terrace* where excavations uncovered a deposit 15 cm. thick of organically enriched soil. This evidence suggested to the excavators that the *terrace* was planted as a garden. Due to subsidence and shifting of masonry walls, the house was rebuilt between 50 and 70 without a *peristyle courtyard* or a *garden terrace*.
 
 <!-- text is from draft file -->

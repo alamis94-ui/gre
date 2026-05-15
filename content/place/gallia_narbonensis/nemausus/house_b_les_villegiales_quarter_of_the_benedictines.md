@@ -48,7 +48,7 @@ Planting in the garden is well attested by the discovery of nine horticultural p
 
 The site had not been disturbed, whence the good state of preservation of the pots, but palynological analysis has not been able to establish the species of the plants on the basis of pollens.  Post holes near the trenches, of which three have been identified thanks to wedging stones still in place, may indicate the presence of stakes to support climbing plants.
 
-At the south of the garden there is a well which may have supplied the house before the connection to city water was installed; it could also have been used to water the garden. The absence of ceramic material in the ditches makes precise dating of them impossible, but the general context suggests a date in the first century A.D. for the establishment of the garden. A dump dug in the garden allows dating of one of the principal phases of occupation of the building to A.D. 60 to 90.
+At the south of the garden there is a well which may have supplied the house before the connection to city water was installed; it could also have been used to water the garden. The absence of ceramic material in the ditches makes precise dating of them impossible, but the general context suggests a date in the first century CE for the establishment of the garden. A dump dug in the garden allows dating of one of the principal phases of occupation of the building to CE 60 to 90.
 
 ## Plans
 
@@ -58,8 +58,8 @@ At the south of the garden there is a well which may have supplied the house bef
 
 ## Dates
 
-A.D. 1-100 Built
-A.D. 60-90 One of the principal phases of occupation
+CE 1-100 Built
+CE 60-90 One of the principal phases of occupation
 
 ## Bibliography
 

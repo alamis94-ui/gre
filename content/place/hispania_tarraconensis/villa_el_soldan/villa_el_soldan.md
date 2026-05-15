@@ -73,7 +73,7 @@ In the center of the peristyle was a rectangular pool with protruding semi-circu
 
 ## Dates
 
-Tiberius times(A.D 14-37)
+Tiberius times(CE 14-37)
 
 ## Excavation Dates
 

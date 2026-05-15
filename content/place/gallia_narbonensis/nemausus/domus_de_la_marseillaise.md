@@ -52,7 +52,7 @@ At the time of the excavation, the central part of the courtyard (32.5 square me
 
 ## Dates
 
-A.D. 40-60 Built
+CE 40-60 Built
 
 ## Bibliography
 

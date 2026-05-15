@@ -14,7 +14,7 @@ draft: true
 
 ## Place Description
 
-Remains of gardens have yet to be discovered in this city, but an appreciation for garden culture is seen in the Terrace Houses, dating to the second and third centuries A.D., where wall paintings not only depict gardens, but use garden images to create the illustionistic experience of being in the space of garden.
+Remains of gardens have yet to be discovered in this city, but an appreciation for garden culture is seen in the Terrace Houses, dating to the second and third centuries CE, where wall paintings not only depict gardens, but use garden images to create the illustionistic experience of being in the space of garden.
 
 <!--
 ## Maps
