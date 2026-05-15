@@ -2,31 +2,22 @@
 gre_id: "a268867d07"
 aliases: [/id/a268867d07]
 type: garden
-title: Rural Villa in Bancroft
+title: Bancroft Rural Villa
 latlon: [ 52.055419, -0.795092 ]
 author: Maureen Carroll
-contributor: June Dorsch, Jane Millar
+contributor: June Dorsch, Jane Millar, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-15
 draft: false
 ---
 
-## Location
+## Dates
 
-[Bancroft]({{<relref ".">}})
+late 3rd century CE, rebuilt and enlarged in the mid-4th century
 
-## Garden
+## Excavation Dates
 
-Rural Villa in Bancroft
-
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "gazebos" >}}
-- {{< keyword "horticultural containers" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "villae rusticae" >}}
+1983-1986
 
 ## Garden Description
 
@@ -44,22 +35,22 @@ The villa complex that preceded the winged corridor house is also of interest in
 
 <!-- ## Images -->
 
-## Dates
-
-late 3rd century CE, rebuilt and enlarged in the mid-4th century
-
-## Excavation Dates
-
-1983-1986
-
 ## Bibliography
 
 * R. J. Williams and R. J. Zeepvat, Bancroft. *The late Bronze Age and Iron Age Settlement and Roman Villa and Temple-Mausoleum*. Buckinghamshire Archaeological Society Monograph Series 7, Aylesbury, 1994, pp. 154, 163, 188-191, figs. 66, 80, 83, 85, 93, 101-103, pls. 57-59. [(worldcat)](https://search.worldcat.org/title/669708984)
 * R.J. Zeepvat, "Roman Gardens in Britain," in: A. E. Brown, ed., *Garden Archaeology*. Council for British Archaeology Research Report 78, London, 1991, pp. 56-58, fig. 5.4. [(worldcat)](https://search.worldcat.org/title/911653165)
 
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "gazebos" >}}
+- {{< keyword "horticultural containers" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "villae rusticae" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="79312" name="Bancroft Roman villa" >}}
-- {{< id vocab="TGN" id="7030316" name="Britannia (province)" >}}
 
 
