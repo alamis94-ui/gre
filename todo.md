@@ -2,13 +2,7 @@
 
 - [ ] Check for any comments within the text
 - [ ] Deal with empty stuff that is now commented out (by deleting) -- but keep headings in case maps/plans/images are added later!
-- [ ] Fix all links that have [text](#) or [text](link)
-
-# Pompeii Notes/Issues
-
-- [x] Green (additions to entries?). What to do? There appears to be ORANGE now as well.
-- [x] Add span style color families to new green parts of entries.
-- [ ] Someone should relook over the bibs to see if they know what book the author is referring to
+- [ ] Fix all links that have [text](#) or [text](link) or [(worldcat)](WORLDCAT_LINK_URL)
 
 # Random issues
 
@@ -18,6 +12,8 @@
 - [ ]display metadata for place pages
 
 # Images
+
+- no spaces in filenames!  (fix in gre-images and in links from gre)
 - some photos we want lower resolution (so copyright holder can control access to full resolution)
 - link to reuse/take-down policy in image captions -- or link at bottom of every page?
 - set permissions on image repo to prevent deletion, modification?
@@ -36,6 +32,7 @@
 - should we rework the id shortcode to handle inline references?
 
 # Keywords
+
 - new meta page section showing UNLINKED keywords (literary gardens, etc.)
 - keywords -- use glossary from GRE v.1
 - keywords like lucus, nemus (recode as keyword "groves"?), oscilla, stagnum, textrina that are not proper AAT terms
@@ -43,17 +40,14 @@
 - public list of keywords as glossary (similiar to /meta page)
 
 # from 2025 meetings
-- [ ] people: Change Pleiades liaison from Gabriel to Tom Elliott?
+
+- [ ] people: Change Pleiades liaison from Gabriel to Tom Elliott
 - [ ] maps: fix/remove blank maps
 - [ ] garden list sort order (currently alphabetical, but most recent first?)
 - [ ] browse by province -- only list most recent updates?
 
 # Documentation
 
-- installing software on Mac
-    - hugo
-        - if brew isn't already installed:
-            /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 - [ ] use \" to escape any quotes within an image caption
 
 
