@@ -35,7 +35,7 @@ Tomb garden of an anonymous
 
 ## Garden Description
 
-Three fragments of a large funerary inscription found in the seventeenth century near a church at Briord (in the territory of the Ambarri) record part of the text establishing a foundation for the observance of annual rites at a *tomb* site ([ad Pa]*rentalia celebranda…haec omnia annua fierent*) from the revenue of an arepennis (a Gallic measure of land, equivalent to half a *iugerum*, about one quarter of an acre) of vineyard, or some portion of it.
+Three fragments of a large funerary inscription found in the seventeenth century near a church at Briord (in the territory of the Ambarri) record part of the text establishing a foundation for the observance of annual rites at a *tomb* site ([ad Pa]*rentalia celebranda...haec omnia annua fierent*) from the revenue of an arepennis (a Gallic measure of land, equivalent to half a *iugerum*, about one quarter of an acre) of vineyard, or some portion of it.
 <!-- text is from draft file -->
 
 ## Plans

@@ -31,7 +31,7 @@ Rural Villa in Gorhambury
 
 At this site in Hertfordshire near the town of Verulamium (St. Albans) excavations have revealed a multi-phased Roman farm, characterized in late Iron Age and Roman times by an outer courtyard with various service buildings and an inner courtyard in which the farm house stood (Fig. 1).
 
-An avenue 20 meters wide led axially from the gate at the eastern end of the inner courtyard a cross to the front of the house (H in Fig. 1). On either side of the avenue was a line of circular pits spaced 4-6 meters apart (A in Fig. 1). These were filled with fine, homogeneous loam and have been interpreted as planting holes for trees or shrubs. Alternatively, the rows of holes have been interpreted as the postholes of a covered walkway or arbour leading to the house, supporting climbing plants. This feature of the courtyard is contemporary with the first masonry house built around A.D. 100, and represents an attempt to design the compound fronting the house in a more formal way. After 175 the avenue leading to the rebuilt house seems not to have been flanked by trees or an arbour, and numerous trackways leading into both courtyards from the north and south suggest that the entrance to the main residence was no longer strictly axial.
+An avenue 20 meters wide led axially from the gate at the eastern end of the inner courtyard a cross to the front of the house (H in Fig. 1). On either side of the avenue was a line of circular pits spaced 4-6 meters apart (A in Fig. 1). These were filled with fine, homogeneous loam and have been interpreted as planting holes for trees or shrubs. Alternatively, the rows of holes have been interpreted as the postholes of a covered walkway or arbour leading to the house, supporting climbing plants. This feature of the courtyard is contemporary with the first masonry house built around CE 100, and represents an attempt to design the compound fronting the house in a more formal way. After 175 the avenue leading to the rebuilt house seems not to have been flanked by trees or an arbour, and numerous trackways leading into both courtyards from the north and south suggest that the entrance to the main residence was no longer strictly axial.
 
 <!--
 ## Maps
@@ -49,7 +49,7 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 
 ## Dates
 
-around A.D. 100 - 175
+around CE 100 - 175
 
 ## Bibliography
 

@@ -43,7 +43,7 @@ Puymin Quarter, Sanctuary with Portico's
 
 ## Garden Description
 
-Located to the east of the house of the Laurel-crowned Apollo, 110 meters south of the theater, the Sanctuary with Porticos is not entirely unearthed and continues under the modern city.  Constructed in the course of the first century A.D., the monument was formerly interpreted as a public promenade or a the garden of a vast urban *domus*. Today it is considered a public edifice, a sanctuary connected perhaps to the cult of the waters.  Covering 2,000 to 3,000 square meters, it was organized in at least two terraces overlooking an esplanade with porticos having a large, central, ornamental pool which was probably surrounded by plantings.  A street-level, covered walkway of Tuscan order ran 52 meters along the north side, elevated 20 centimeters relative to the garden.  In the center of this walkway was a room with an apse holding a central pedestal and two symmetric niches for statues.
+Located to the east of the house of the Laurel-crowned Apollo, 110 meters south of the theater, the Sanctuary with Porticos is not entirely unearthed and continues under the modern city.  Constructed in the course of the first century CE, the monument was formerly interpreted as a public promenade or a the garden of a vast urban *domus*. Today it is considered a public edifice, a sanctuary connected perhaps to the cult of the waters.  Covering 2,000 to 3,000 square meters, it was organized in at least two terraces overlooking an esplanade with porticos having a large, central, ornamental pool which was probably surrounded by plantings.  A street-level, covered walkway of Tuscan order ran 52 meters along the north side, elevated 20 centimeters relative to the garden.  In the center of this walkway was a room with an apse holding a central pedestal and two symmetric niches for statues.
 
 A stone gutter to catch rainwater separated the walkway from the garden.  One entered the garden through a porch having two columns more massive than the others which supported, no doubt, a higher pediment.
 
@@ -55,7 +55,7 @@ In the center of the court was a monumental pool 9.5 meters wide and 1.6 meters 
 
 ## Dates
 
-A.D. 1-100 constructed
+CE 1-100 constructed
 
 ## Bibliography
 

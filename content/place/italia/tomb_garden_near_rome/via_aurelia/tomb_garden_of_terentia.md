@@ -21,7 +21,7 @@ Via Aurelia
 
 ## Sublocation Description
 
-An ancient Roman road begun ca. 241 B.C. by the censor C. Aurelius Cotta.
+An ancient Roman road begun ca. 241 BCE by the censor C. Aurelius Cotta.
 
 ## Garden
 

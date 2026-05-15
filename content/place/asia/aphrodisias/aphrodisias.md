@@ -27,7 +27,7 @@ Aphrodisias (_Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis_), in Ca
 
 ## Images
 
-{{< image file="place-of-palms-1.jpg" caption="Place of Palms, South Agora, 1st century A.D (Courtesy R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project)" credit="R.R.R. Smith et al.  The Mica and Ahmet Ertegün South Agora Pool Project" alt="" >}}
+{{< image file="place-of-palms-1.jpg" caption="Place of Palms, South Agora, 1st century CE (Courtesy R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project)" credit="R.R.R. Smith et al.  The Mica and Ahmet Ertegün South Agora Pool Project" alt="" >}}
 
 {{< image file="place-of-palms-2.jpg" caption="South Agora – Place of Palms (looking west). Conservation rig over pool perimeter at south-east corner." credit="Courtesy R.R.R. Smith et al., 2018." alt="" >}}
 

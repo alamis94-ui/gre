@@ -53,7 +53,7 @@ The rest of the north end of the house remained unchanged. It should be added th
 
 ## Dates
 
-A.D. 185-A.D 247
+CE 185-CE 247
 
 ## Bibliography
 

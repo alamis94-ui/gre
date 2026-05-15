@@ -62,7 +62,7 @@ NEW WAY ↓↓{{< image file="house_of_vestibule_with_columns_phase_1.png" capti
 
 ## Dates
 
-A.D. 60 -A.D. 185
+CE 60 -CE 185
 
 ## Bibliography
 

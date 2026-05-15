@@ -3,27 +3,17 @@ gre_id: "ed6a8dfedd"
 aliases: [/id/ed6a8dfedd]
 type: garden
 title: Urban Houses in Carnuntum
-latlon: [ 48.113346, 16.867891 ]
+latlon: [ 48.113197, 16.861685 ]
 author: Maureen Carroll
-contributor: June Dorsch
+contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-14
 draft: true
 ---
 
-## Location Description
+## Dates
 
-The town of Carnuntum on the Danube River, like Aquincum, was promoted to colonial status in 194 A.D., after having been a *municipium*. Excavations in the modern zoological garden have revealed part of the town plan and its residential district.
-## Garden
-
-Urban Houses in Carnuntum
-
-## Keywords
-
-- {{< keyword "arcades" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "kitchen gardens" >}}
-- {{< keyword "vestibules" >}}
+unspecified
 
 ## Garden Description
 
@@ -37,16 +27,18 @@ The regional house type found often in Pannonia, the so-called corridor house, i
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified
-
 ## Bibliography
 
 * E. Swoboda, *Carnuntum. Seine Geschichte und seine Denkmäler*, 2nd Ed., Vienna, 1964, pp. 155-157, figs. 10-11, pl. 40. [(worldcat)](https://search.worldcat.org/title/223422804)
 * W. Jobst, *Provinzhauptstadt Carnuntum*, Vienna, 1983, pp. 156-160, fig. p. 144. [(worldcat)](https://search.worldcat.org/title/251349102)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="128384" name="Col. Carnuntum" >}}
-- {{< id vocab="TGN" id="7032538" name="Carnuntum (deserted settlement)" >}}
+- {{< keyword "arcades" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "vestibules" >}}
+
+<!--
+## Places
+-->

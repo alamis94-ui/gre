@@ -46,7 +46,7 @@ House of Successus (I.ix.3)
 
 ## Garden Description
 
-A portrait of a little boy painted on the north wall of the *cubiculum*, to the left of the *atrium*, with the graffito PVER/SUCCUSSVS (*CIL* IV. 9992a) gave this house its name. Excavated in 1952, the garden (a) at the rear of the house had a *portico*, and a table base carved as a statuette of a small boy with a dove (Pompeii inv. no. 20395) was discovered in the north portico. Fig. 3, Fig. 4. <span style="color:orange">The room in the southwest corner of the garden (b) had a garden representation on the large white middle panel on the south wall of the room. It was framed by a narrow reddish-brown border and painted in shades of brown and white on a light blue-green background. Two gardens enclosed by a wooden fence contained an open apse-shaped area in between them with a round pool. A jet in the center jetted water which descended in two separate streams. The gardens on the side were cut off by the frame. A figure across the front of the painting was perhaps a fence defining a passageway.</span> Fig. 5.
+A portrait of a little boy painted on the north wall of the *cubiculum*, to the left of the *atrium*, with the graffito PVER/SUCCUSSVS (*CIL* IV. 9992a) gave this house its name. Excavated in 1952, the garden (a) at the rear of the house had a *portico*, and a table base carved as a statuette of a small boy with a dove (Pompeii inv. no. 20395) was discovered in the north portico. Fig. 3, Fig. 4.  The room in the southwest corner of the garden (b) had a garden representation on the large white middle panel on the south wall of the room. It was framed by a narrow reddish-brown border and painted in shades of brown and white on a light blue-green background. Two gardens enclosed by a wooden fence contained an open apse-shaped area in between them with a round pool. A jet in the center jetted water which descended in two separate streams. The gardens on the side were cut off by the frame. A figure across the front of the painting was perhaps a fence defining a passageway. Fig. 5.
 
 <!-- ## Maps -->
 
@@ -76,7 +76,7 @@ unspecified
 
 * Della Corte, *Case*, p. 339, no. 723a.
 * Jashemski, *Gardens*, vol. 1, fig. 160 on p. 102 (for the portrait). [(worldcat)](https://search.worldcat.org/title/884024123)
-* Jashemski, *Gardens*, vol.II, pp. 44; <span style="color:orange">395</span>. [(worldcat)](https://search.worldcat.org/title/921816405)
+* Jashemski, *Gardens*, vol.II, pp. 44; 395. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Maiuri, *Pompeii*, p. 82. [(worldcat)](https://search.worldcat.org/title/470375462)
 * Schefold, *WandP*, p. 38.
 

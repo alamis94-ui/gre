@@ -3,36 +3,17 @@ gre_id: "9eef0a86c1"
 aliases: [/id/9eef0a86c1]
 type: garden
 title: Urban House or Schola in Aquincum
-latlon: [ 0, 0 ]
+latlon: [ 47.563402, 19.049911 ]
 author: Maureen Carroll
-contributor: June Dorsch
+contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-14
 draft: true
 ---
 
-## Province Description
+## Dates
 
-## Location
-
-- [Aquincum]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="1971301" name="Aquincum" >}}
-
-## Location Description
-
-This town on the Danube river acquired the rank of *municipium* under Hadrian in 124 A.D. In the year 194 it was granted colonial status.
-## Garden
-
-Urban House or Schola in Aquincum
-
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "statuettes" >}}
+3rd century
 
 ## Garden Description
 
@@ -48,16 +29,20 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 {{< image file="PAN_AQU.jpg" caption="Fig. 2: The excavated courtyard building with its peristyle garden." credit="Photo courtesy of M. Carroll.)" alt="" >}}
 
-## Dates
-
-3rd century
-
 ## Bibliography
 
 * A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 166, pl. 16b. [(worldcat)](https://search.worldcat.org/title/644823914)
 * H. Polenz and K. Póczy, *Das römische Budapest. Neue Ausgrabungen und Funde in Aquincum*, Münster, 1986, p. 124, fig. 47, pl. 10. [(worldcat)](https://search.worldcat.org/title/19741038)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="197130" name="Aquincum" >}}
-- {{< id vocab="TGN" id="8713146" name="Aquincum (deserted settlement)" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes" >}}
+
+<!-- 
+## Places
+-->

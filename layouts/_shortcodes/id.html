@@ -22,7 +22,7 @@ Example usage (in a garden article):
 
 {{/* Link the name*/}}
 {{- with $name -}}
-  <a href="{{ site.BaseURL }}search/?q={{ $name }}">{{ $name }}</a>
+  <a href="{{ site.BaseURL }}search/?q={{ $name }}" title='search for "{{ $name }}" within GRE'>{{ $name }}</a>
 {{- end -}}
 
 {{ $url := "" }}

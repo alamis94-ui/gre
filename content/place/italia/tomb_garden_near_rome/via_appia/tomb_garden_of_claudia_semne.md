@@ -22,7 +22,7 @@ Via Appia
 
 ## Sublocation Description
 
-An early Roman road (via publica) originating at Rome and terminating at Brundisium, the Via Appia was begun in the fourth century B.C. by the censor Appius Claudius Caecus. The Latin author Statius described the Via Appia as "queen of the long roads".
+An early Roman road (via publica) originating at Rome and terminating at Brundisium, the Via Appia was begun in the fourth century BCE by the censor Appius Claudius Caecus. The Latin author Statius described the Via Appia as "queen of the long roads".
 
 ## Garden
 

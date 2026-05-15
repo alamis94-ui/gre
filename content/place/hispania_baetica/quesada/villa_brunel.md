@@ -63,7 +63,7 @@ Sotomayor did not think that the gran patio was a garden, and proposed that it m
 
 {{< image file="HIS_BAE_Quesdad_Vb_fig5_CA.jpg" caption="Fig. 5: Photo of Villa Brunel looking south across the garden." credit="" alt="" >}}
 
-{{< image file="HIS_BAE_Quesdad_Vb_photo CA fig 6.jpg" caption="Fig. 6: Photo of Villa Brunel looking west across the garden." credit="" alt="" >}}
+{{< image file="HIS_BAE_Quesdad_Vb_photo_CA_fig6.jpg" caption="Fig. 6: Photo of Villa Brunel looking west across the garden." credit="" alt="" >}}
 
 ## Dates
 

@@ -46,7 +46,7 @@ Between the buildings were open areas, some paved and equipped with ovens and po
 
 ## Images
 
-{{< image file="xanten_insula7_image1_GER_INF_ColUlpTra_Fig 2.jpg" caption="Image 1. Model of the houses in *Insula* 7 with courtyard garden." credit="Photo courtesy of M. Carroll." alt="" >}}
+{{< image file="xanten_insula7_image1_GER_INF_ColUlpTra_Fig2.jpg" caption="Image 1. Model of the houses in *Insula* 7 with courtyard garden." credit="Photo courtesy of M. Carroll." alt="" >}}
 
 ## Dates
 

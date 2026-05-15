@@ -59,7 +59,7 @@ Only its eastern end has been uncovered, and of the rooms for living -- presumab
 
 ## Dates
 
-A.D. 20-A.D 60
+CE 20-CE 60
 
 ## Bibliography
 

@@ -11,6 +11,11 @@ modified: 2025-06-29
 draft: false
 ---
 
+<!--  See also the duplicate draft at
+         content/place/italia/pompeii/region_i/house_of_l_vousius_faustus_and_m_volusius_faustus.md
+      It seems to contain additional bibliography items.  Maybe check the original .doc
+-->
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -23,7 +28,7 @@ draft: false
 
 ## Location Description
 
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
+An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
 

@@ -46,7 +46,7 @@ Suburban Villa de la  Brunette
 
 ## House Description
 
-To the west of Orange, this residence is just south of the amphitheater – which was destroyed in the eighteenth century.  More than 2000 square meters have been unearthed.  It is bounded on the south by a fencing wall 150 meters long and on the north by road that separates the house from the amphitheater.  The east and west boundaries are not known.  Constructed in the first century A.D. (condition 1), the habitation was greatly remodeled and embellished towards the end of the second century (condition 2) only to be abandoned in the first half of the third century.
+To the west of Orange, this residence is just south of the amphitheater – which was destroyed in the eighteenth century.  More than 2000 square meters have been unearthed.  It is bounded on the south by a fencing wall 150 meters long and on the north by road that separates the house from the amphitheater.  The east and west boundaries are not known.  Constructed in the first century CE (condition 1), the habitation was greatly remodeled and embellished towards the end of the second century (condition 2) only to be abandoned in the first half of the third century.
 
 ## Garden Description
 
@@ -66,7 +66,7 @@ At the heart of the garden, the rectangular pool [47] of the first condition was
 
 ## Dates
 
-A.D. 1-100 constructed
+CE 1-100 constructed
 
 ## Bibliography
 

@@ -39,7 +39,7 @@ I.ix.8
 
 ## Garden Description
 
-The garden (a) and cistern that was in the southwest corner of this house had been paved over by A.D. 79. There was a *puteal* in the courtyard.
+The garden (a) and cistern that was in the southwest corner of this house had been paved over by CE 79. There was a *puteal* in the courtyard.
 
 <!-- ## Maps -->
 
