@@ -40,7 +40,7 @@ This house, in the area southeast of the House of Hylas, had a peristyle garden 
 
 ## Images
 
-{{< image file="HIS_BAE_Italica_Ht fig 1.jpg" caption="Fig. 1: Reconstruction of garden.  Drawing by F. Riart 2001, page 33." credit="" alt="" >}}
+{{< image file="HIS_BAE_Italica_Ht_fig1.jpg" caption="Fig. 1: Reconstruction of garden.  Drawing by F. Riart 2001, page 33." credit="" alt="" >}}
 
 ## Dates
 

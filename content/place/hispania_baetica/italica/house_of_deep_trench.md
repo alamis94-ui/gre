@@ -43,7 +43,7 @@ In late antiquity, a new city wall was built excluding most of the Hadrianic add
 
 ## Images
 
-{{< image file="HIS_BAE_Italica_Hdt fig 1.jpg" caption="Fig. 1:  Photo of the House of the Deep Trench." credit="" alt="" >}}
+{{< image file="HIS_BAE_Italica_Hdt_fig1.jpg" caption="Fig. 1:  Photo of the House of the Deep Trench." credit="" alt="" >}}
 
 ## Dates
 
