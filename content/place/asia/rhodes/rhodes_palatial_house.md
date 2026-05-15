@@ -8,16 +8,21 @@ author: Maureen Carroll
 translator: Translator Name
 contributor: Amelia Lamis
 date: 2026-05-07
-modified: 2026-05-11
+modified: 2026-05-13
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 
-<!--
+300 BCE - 300 CE 
+<!-- dates from Pleiades https://pleiades.stoa.org/places/994502886/hellenistischer-palastbau -->
+
+
+
 ## Excavation Dates
-format as YYYY, or YYYY-YYYY -->
+
+unspecified
+
 
 ## Garden Description
 
@@ -43,9 +48,7 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
 
 
 ## Bibliography
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
 
 - Dreliossi-Herakleidou, A. 1996. “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos.” In _Basileia. Die Paläste der hellenistischen Könige_: Internationales Symposium in Berlin vom 16.12.1992 bis 20.12.1992, edited by W. Hoepfner and G. Brands, 182-192. Berlin: Schriften des Seminars für Klassische Archäologie der Freien Universität Berlin. [(worldcat)](https://search.worldcat.org/title/37277386)
 
@@ -55,7 +58,13 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
 - {{< keyword "semicircular" >}}
 - {{< keyword "sculpture" >}}
 - {{< keyword "herms" >}}
-
+- {{< keyword "insulae" >}}
+- {{< keyword "water baths" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "buildings" >}}
+- {{< keyword "rustic" >}}
+- {{< keyword "water features" >}}
+- {{< keyword "marble" >}}
 
 
 ## Places

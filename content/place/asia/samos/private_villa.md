@@ -8,12 +8,12 @@ author: Maureen Carroll
 translator: Translator Name
 contributor: Victoria Austen
 date: 2026-05-07
-modified: 2026-05-11
+modified: 2026-05-13
 draft: true
 ---
 
-<!-- ## Dates
- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+## Dates
+ Late 2nd century BCE – Late 2nd century/Early 3rd century CE.
 
 <!-- ## Excavation Dates
 <!-- format as YYYY, or YYYY-YYYY -->
@@ -51,8 +51,6 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 - {{< keyword "peristyles" >}}
 - {{< keyword "pools" >}}
 - {{< keyword "fountains" >}}
+- {{< keyword "courtyards" >}}
 
-## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id=599926"" name="Samos (island)" >}}
 
