@@ -5,33 +5,15 @@ type: garden
 title: Tomb Garden and Pool of Cingius Iustinus
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
-contributor: Christian Casey
+contributor: Christian Casey, Keith Jenkins
 date: 2020-07-14
-modified: 2025-06-29
+modified: 2026-05-15
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Salona]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="197488" name="Salona" >}}
-
-## Sublocation
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-## Garden
-
-Tomb Garden and Pool of Cingius Iustinus
-
-## Keywords
-
-- {{< keyword "piscinae" >}}
-- {{< keyword "tombs" >}}
-- {{< keyword "epitaphs" >}}
+Late second or third century (CE)
 
 ## Garden Description
 
@@ -43,15 +25,16 @@ A rock cut inscription at Salonae marks the spot where some time in the late sec
 
 <!-- ## Images -->
 
-## Dates
-
-Late second or third century (CE)
-
 ## Bibliography
 
 1. *CIL* 3.2279
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="197488" name="Salona" >}}
-- {{< id vocab="TGN" id="7017320" name="Solin (inhabited place)" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
+
+<!--
+## Places
+-->
