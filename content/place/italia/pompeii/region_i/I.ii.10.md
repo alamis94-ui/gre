@@ -11,6 +11,11 @@ modified: 2025-06-29
 draft: false
 ---
 
+<!--  See also the duplicate draft at
+         content/place/italia/pompeii/region_i/house_of_l_vousius_faustus_and_m_volusius_faustus.md
+      It seems to contain additional bibliography items.  Maybe check the original .doc
+-->
+
 ## Province
 
 - [Italia]({{<relref "../..">}})

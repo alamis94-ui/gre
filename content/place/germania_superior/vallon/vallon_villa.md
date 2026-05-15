@@ -88,9 +88,10 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 1985-2000, 2006/2010
 
+<!--
 ## Bibliography
-
-<span style="color:red"> No bibliography listed </span>
+No bibliography listed
+-->
 
 ## Places
 

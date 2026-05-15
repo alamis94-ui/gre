@@ -55,7 +55,7 @@ The garden at the rear of the house, excavated in 1873, is almost totally destro
 
 Garden Painting
 
-<span style="color:green"> When this garden was excavated in 1873, the excavators reported three panels on the east wall with garden paintings. The center panel had a body of water with swimming fish with assorted animals in the background that included a grazing deer and a springing leopard. The two panels on either side each had a large crater-shaped fountain surrounded by thick growth. Large red flowers and yellow apples could be identified to the left of each fountain and the right, pomegranates (*Punica granatum* L.). Jashemski examined this painting in 1964 to find it had been covered by a growth of ivy which had destroyed most of the painting. A section of a large pomegranate bush was all that was left intact at the time. She describes the leaves, painted in blue-green with darker shading and a few yellow leaves and the fruit, deep yellow with reddish-orange shading, as being rendered in an impressionistic manner. At the right of the entrance to the garden area was a cistern opening. </span>
+When this garden was excavated in 1873, the excavators reported three panels on the east wall with garden paintings. The center panel had a body of water with swimming fish with assorted animals in the background that included a grazing deer and a springing leopard. The two panels on either side each had a large crater-shaped fountain surrounded by thick growth. Large red flowers and yellow apples could be identified to the left of each fountain and the right, pomegranates (*Punica granatum* L.). Jashemski examined this painting in 1964 to find it had been covered by a growth of ivy which had destroyed most of the painting. A section of a large pomegranate bush was all that was left intact at the time. She describes the leaves, painted in blue-green with darker shading and a few yellow leaves and the fruit, deep yellow with reddish-orange shading, as being rendered in an impressionistic manner. At the right of the entrance to the garden area was a cistern opening.
 
 <!-- ## Maps -->
 
@@ -81,14 +81,14 @@ unspecified
 
 * Boyce, p. 22, no. 6.
 * Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
-* <span style="color:green"> *GiornSc*, n.s., 3 (1874-1877), col. 57. </span>
+* *GiornSc*, n.s., 3 (1874-1877), col. 57.
 * Jashemski, *Gardens*, 1:1 10-1 1 1. [(worldcat)](https://search.worldcat.org/title/884024123)
 * Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
-* <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](https://search.worldcat.org/title/921816405)</span>
+* Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Mau, *BdI* (1874), pp. 197-198.
 * Niccolini, *Case*, vol. 2, "Descr. Gen.," p. 76.
-* <span style="color:green"> Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](https://search.worldcat.org/title/637248120) </span>
-* <span style="color:green"> Sogliano, "Pitture," p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580) </span>
+* Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](https://search.worldcat.org/title/637248120)
+* Sogliano, "Pitture," p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580)
 * Soprano, p.305, no. 23.
 * Viola, "*Scavi*" p. 11. [(worldcat)](https://search.worldcat.org/title/715087975)
 

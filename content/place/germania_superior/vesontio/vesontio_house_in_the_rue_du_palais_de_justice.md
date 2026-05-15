@@ -55,9 +55,10 @@ At the beginning of the third century, the two *domus* were transformed. In part
 
 <!-- ## Plans -->
 
+<!--
 ## Images
-
-<span style="color:red"> Images not available (?) </span>
+Images not available (?)
+-->
 
 FIGURES:
 - Fig. 1: Houses at the Palais de Justice
