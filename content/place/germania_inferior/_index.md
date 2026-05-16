@@ -3,11 +3,10 @@ gre_id: "abf180236c"
 aliases: [/id/abf180236c]
 type: place
 title: Germania Inferior
-latlon: [ 51.606474, 5.794368 ]
 author: Maureen Carroll
-contributor: David Ratzan
+contributor: David Ratzan, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-16
 draft: true
 ---
 
