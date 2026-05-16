@@ -2,48 +2,20 @@
 gre_id: "1a7cf84cd7"
 aliases: [/id/1a7cf84cd7]
 type: garden
-title: Jericho Herodian First Palace
+title: Herodian First Palace
 latlon: [ 31.853694, 35.434513 ]
 author: Kathryn Gleason
-contributor: Yaniv Korman
+contributor: Yaniv Korman, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-16
 draft: false
 ---
 
-## Province
+## Dates
 
-- [Judaea]({{<relref "..">}})
-- {{< id vocab="Pleiades" id="981527" name="Iudaea (province)" >}}
+31 BCE - 4 BCE
 
-## Province Description
-
-Judaea, the Roman province, included parts of the areas of the [Hasmonean](https://en.wikipedia.org/wiki/Hasmonean_dynasty) and [Herodian](https://en.wikipedia.org/wiki/Herodian_dynasty) kingdoms, notably Biblical Judah, Samaria, and Edom. Its capital was Caesarea Maritima. Roman influence in the region began in 63 CE, when the Roman general [Pompey the Great](https://en.wikipedia.org/wiki/Pompey) conquered Syria from Mithridates of Pontus, besieged Jerusalem, and captured the Second Temple; he appointed Hyrcanus, one of the two Hasmonean brothers fighting for kingship, as ethnarch of Judaea. Later, Julius Caesar  appointed [Antipater](https://en.wikipedia.org/wiki/Antipater_the_Idumaean), the father of Herod, as  Judaea's first Roman Procurator. Later these ties allowed [Herod](https://en.wikipedia.org/wiki/Herod_the_Great) to seek backing from Rome against the Hasmoneans in 40 BCE, when the Senate recognized him as "king of the Jews."  His [territories](https://en.wikipedia.org/wiki/Herodian_Kingdom_of_Judea) came to include the regions of Galilee, Gaulanitis (the Golan),Peraea and the Decapolis, and Augustus later granted him the coastal cities, Batanaea, Auranitis, and Trachonitis. Herod balanced his allegiance to Rome with the independence of his kingdom, often employing architectural projects to express his ambitions and control of nature to express his capacity to rule . His many palaces, placed strategically around the kingdom, feature dramatically designed landscapes and gardens.  Upon his death, his son and heir Archelaus was unable to maintain order and the major part of Judaea was annexed to Syria in 6 CE, with its own prefect, while two other sons of Herod, Philip and Antipas, received territories as tetrarchs. By the time of [Trajan](https://en.wikipedia.org/wiki/Trajan), Judea was reduced in size and many of the Herodian palaces abandoned, preserving them over the millennia for archaeologists. [Hadrian](https://en.wikipedia.org/wiki/Hadrian) renamed the province  After the [Bar Kochba revolts (132-135)](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt)Hadrian renamed the province Syria Palaestina, erasing the name of Judaea.
-The geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi-arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev. The period for which we have the richest evidence of a garden culture in this region is during the reign of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).  An allied king of Rome, Herod's relationships with [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony), [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra), [Augustus](https://en.wikipedia.org/wiki/Augustus), and [Marcus Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa) and other officials ave been preserved in the texts of [Flavius Josephus](https://en.wikipedia.org/wiki/Josephus).  These constitute a rare record of interactions between Rome and its territories, and provide a valuable context for understanding the trends of design in the early imperial period.  The proximity of Judaea to Alexandria, whose palaces and gardens lie beneath the modern city and its harbors, may also provide a suggestion of the late Hellenistic garden culture that Romans emulated.  Evidence of gardens in the Hasmonean winter palaces at Jericho and the palace identified as that of Hyracanus the Tobiad at 'Iraq al-Amir on the other side of the Jordan Valley provide rare cases where texts can illuminate archaeological evidence. These gardens require further investigation and both are threatened by local development.
-
-## Location
-
-- [Jericho]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
-
-## Location Description
-
-In one of the most beautiful spots of the Eastern Mediterranean, five km west of Jericho, the biblical "city of Palms," (Deut. 34:3) lie the remains of a royal complex of the late Second Temple Period (the end of the second century BCE continuing through the mid-first century A.D).  Despite their location in the desert some 200 m. below sea level (one of the lowest occupied elevations on earth) these palaces were set amidst an abundance of vegetation and enjoyed a copious supply of water brought from the surrounding hills via water channels.  The palaces are dramatically situated along Wadi Qelt where the gorge opens abruptly onto the Jordan Valley floor. (Fig. 1) They were set amidst the large palm and balsam groves for which the valley was famed.  Water channels give archaeological evidence of groves to the north of the palace, but literary evidence suggests that royal holdings from Jericho to Ein Gedi were extensive. None of the gardens have been fully excavated, but many have been examined and the presence of rich soil rather than pavement, as well as water channels and ceramic planting pots provide conclusive evidence for the many gardens discussed below.
-
-
-{{< image file="ASIA_JUD_JERICHO_1.jpg" caption="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)" credit="" alt="" >}}
-## Garden
-
-Royal Garden
-
-## Keywords
-
-- {{< keyword "pleasure gardens" >}}
-- {{< keyword "walled gardens" >}}
-
-## Garden Description
-
-Herodian First Palace
+## Garden Descriptions
 
 Herod may have been a regular guest at the Hasmonean palace during his boyhood.  Even after he effected his rule in 37 BCE, the Hasmoneans retained possession of their winter palace for a few years, according to Josephus.  Artistobulus III was drowned there by Herod's men when the royal court stayed at the palace as guests of Princess Alexandra, the mother of Aristobulus III and Herod's wife, Mariamne.
 
@@ -58,9 +30,6 @@ This first palace was "introverted" thus giving expression to Herod's inferior s
 ## Images
 
 {{< image file="ASIA_JUD_JERICHO_7b.jpg" caption="Figure 3: Axonometric reconstruction of Herod's first palace (Yaniv Korman)." credit="" alt="" >}}
-## Dates
-
-31 BCE - 4 BCE
 
 ## Bibliography
 
@@ -74,7 +43,9 @@ This first palace was "introverted" thus giving expression to Herod's inferior s
 * E. Netzer, and Garbrecht G, "Water channels and a royal estate of the late Hellenistic period in Jericho's eastern plains," in D. Amit, J. Patrich and Y.; Hirschfeld, eds, The Aqueducts of Israel. 353-365. JRA Supplement 46, R.I. 2002 [worldcat](https://search.worldcat.org/title/197716279)
 * J. Pritchard, "The Excavation at Herodian Jericho, 1951," The Annual of the American Schools of Oriental Research 32-3 (1952-4): 56-58. [worldcat](https://search.worldcat.org/title/256829094)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
+- {{< keyword "pleasure gardens" >}}
+- {{< keyword "walled gardens" >}}
 
+<!-- ## Places -->
