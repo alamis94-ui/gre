@@ -73,7 +73,7 @@ Above the east end of the sunken garden rises the artificial tel with its pavili
 
 Boating Pool
 
-A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integral part of the third palace.  The pool probably served not only for swimming but also for boating and aquatic sports.  In contrast to all the other wings of the third palace, which were built in alignment with a single grid system, this pool deviates by c. 30 to accommodate the slope of the hill, evidently to offer spectators a good view of the events.  The difference in orientation was possibly obscured by trees and shrubs, was the case with the Pool Complex of the second palace.
+A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integral part of the third palace.  The pool probably served not only for swimming but also for boating and aquatic sports.  In contrast to all the other wings of the third palace, which were built in alignment with a single grid system, this pool deviates by ca. 30 to accommodate the slope of the hill, evidently to offer spectators a good view of the events.  The difference in orientation was possibly obscured by trees and shrubs, was the case with the Pool Complex of the second palace.
 
 <!--
 ## Maps

@@ -12,7 +12,7 @@ draft: true
 
 ## Dates
 
-c. 85 CE
+ca. 85 CE
 
 ## Province Description
 
