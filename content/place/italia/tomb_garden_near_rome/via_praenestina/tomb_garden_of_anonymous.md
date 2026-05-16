@@ -29,7 +29,7 @@ Tomb Garden of Anonymous
 
 ## Garden Description
 
-A funerary plaque (evidently complete) discovered in 1861 beside the Via Praenestina near Tor Sapienza records the dimensions of a tomb plot "with a garden enclosed by a wall" eighty-one and a half feet in frontage, forty-three and a half feet in depth (c. 320 square meters).
+A funerary plaque (evidently complete) discovered in 1861 beside the Via Praenestina near Tor Sapienza records the dimensions of a tomb plot "with a garden enclosed by a wall" eighty-one and a half feet in frontage, forty-three and a half feet in depth (ca. 320 square meters).
 
 <!-- ## Maps -->
 

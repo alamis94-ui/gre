@@ -3,18 +3,41 @@ gre_id: "4ade66dff9"
 aliases: [/id/4ade66dff9]
 type: place
 title: Athens
-author: 
+author: Author Name
 contributor: Keith Jenkins
 date: 2025-06-23
-modified: 2025-06-29
+modified: 2026-05-15
 draft: false
 ---
 
+<!-- ## Dates -->
+
 ## Place Description
 
-<!-- ## Bibliography -->
+<!--
+## Maps
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
 
-<!-- ## Keywords -->
+<!--
+## Plans
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Images
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Bibliography
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+
+<!--
+## Keywords
+- {{< keyword "Example keyword" >}}
+-->
 
 ## Places
 - {{< id vocab="Pleiades" id="579885" name="Athenae" >}}

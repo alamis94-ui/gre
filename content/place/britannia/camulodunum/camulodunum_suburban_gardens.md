@@ -3,25 +3,17 @@ gre_id: "b5c9a7a301"
 aliases: [/id/b5c9a7a301]
 type: garden
 title: Suburban Gardens in Camulodunum
-latlon: [ 51.890074, 0.901087 ]
+latlon: [ 51.889795, 0.893567 ]
 author: Maureen Carroll
-contributor: June Dorsch
+contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-15
 draft: false
 ---
 
-## Location
+## Dates
 
-- [Camulodunum]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79393" name="Camulodunum" >}}
-
-## Location Description
-
-Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name [Colonia Victricensis](#), City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
-## Garden
-
-Suburban Gardens in Camulodunum
+3rd century - about 300 CE
 
 ## Keywords
 
@@ -29,6 +21,8 @@ Suburban Gardens in Camulodunum
 - {{< keyword "villae suburbanae" >}}
 
 ## Garden Description
+
+Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name Colonia Victricensis, City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
 
 Outside the walls of the city, utilitarian gardens were planted, possibly in the 3rd century, in allotments along the road leading to the Balkerne Gate. Upon the widening of the defensive ditch at the foot of the walls around AD 275, a thick dump of soil was deposited on these garden allotments, preserving a short stretch of mounded cultivation beds laid out in rows. The excavators have suggested that the beds might have been formed for growing vines or plants such as asparagus. It is uncertain whether the gardens were attached to suburban dwellings at this time, but by about 300 practically all suburban houses in this area had been demolished without replacement.
 
@@ -41,10 +35,6 @@ Outside the walls of the city, utilitarian gardens were planted, possibly in the
 <!--
 Fig. 1: Area outside the Balkerne gate before widening of the town ditch. Details of the beds in the middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of Victory, p. 42.
 -->
-
-## Dates
-
-3rd century - about 300 CE
 
 ## Bibliography
 

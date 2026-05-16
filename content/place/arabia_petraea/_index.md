@@ -3,12 +3,14 @@ gre_id: "2b610bcfd6"
 aliases: [/id/2b610bcfd6]
 type: place
 title: Arabia Petraea
-author: Unspecified
+author: Leigh-Ann Bedal
 contributor: Keith Jenkins
 date: 2025-07-01
-modified: 2025-07-01
+modified: 2026-05-15
 draft: false
 ---
+
+<!-- ## Dates -->
 
 ## Province Description
 
@@ -16,7 +18,32 @@ The history of Roman Arabia begins with the death of the Nabataean king, [Rabb'e
 
 The region of Arabia Petraea is primarily a desert environment that belongs to the eastern Mediterranean weather system. Its inhabitants experienced marked seasonal contrasts with dry, hot summers and cold, wet winters. Rainfall occurs during the winter months and ranges from over 600 millimeters in the north-west to as low as 100 millimeters in the south and east of the region.
 
-## Linked IDs
+<!--
+## Maps
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Plans
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Images
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Bibliography
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+
+<!--
+## Keywords
+- {{< keyword "Example keyword" >}}
+-->
+
+## Places
 
 - {{< id vocab="Pleiades" id="981506" name="Arabia (province)" >}}
 - {{< id vocab="TGN" id="6000352" name="Arabia Petraea (province)" >}}

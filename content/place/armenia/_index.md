@@ -6,13 +6,13 @@ title: Armenia
 author: Catherine Kearns
 contributor: Keith Jenkins
 date: 2026-05-07
-modified: 2026-05-07
+modified: 2026-05-15
 draft: true
 ---
 
 <!-- ## Dates -->
 
-## Place Description
+## Province Description
 
 As a part of eastern Anatolia, the vast territory of ancient Armenia -- covering pieces of modern Turkey, Iran, the Republic of Armenia, the Democratic Republic of Georgia, and Syria -- bordered Cappadocia and the Euphrates River to the west and the Taurus Mountains to the south.  The land of Mount Ararat, unfortunately, is seldom mentioned in Roman textual sources.  Virgil discusses the pine and cedar from the snowy mountains of the Caucasus in his Georgics (2.440-3), and other authors mention the Ararat plain’s fertility, but in general, Greek and Roman authors rarely described the mountainous region or its landscapes.  
 
@@ -20,6 +20,7 @@ This area of the Caucasus, with archaeological evidence extending into the Paleo
 
 New archaeobotanical research at numerous sites in the Caucasus provides evidence for the long history of agriculture and cultivation in the region, extending back to the Neolithic period with some of the earliest botanical remains of grape and wine production, and our understanding of horticulture for the centuries of Roman rule in this region is becoming clearer.  While no archaeological evidence for gardens in any of the Roman-period sites such as Yervandakert or Artashat has been published, modern place names such as Tsaghkahovit (“Plain of Flowers”) point to the potential for a deep history of garden culture.  More research on Roman-period Armenia, including built environments and land use, is necessary in order to investigate the possibilities of gardens and cultivated landscapes in this mountainous region.
 
+<!-- no garden articles, just this place description -->
 
 <!--
 ## Maps

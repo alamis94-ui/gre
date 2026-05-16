@@ -5,33 +5,15 @@ type: garden
 title: Cemetery Garden of Metrodorus
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
-contributor: Christian Casey
+contributor: Christian Casey, Keith Jenkins
 date: 2020-07-15
-modified: 2025-06-29
+modified: 2026-05-15
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Salona]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="197488" name="Salona" >}}
-
-## Sublocation
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-## Garden
-
-Cemetery Garden of Metrodorus
-
-## Keywords
-
-- {{< keyword "tombs" >}}
-- {{< keyword "epitaphs" >}}
-- {{< keyword "sarcophagi" >}}
+Late second or third century CE
 
 ## Garden Description
 
@@ -43,18 +25,18 @@ A sarcophagus found at Salona in 1824, transported to the museum in Split, and s
 
 <!-- ## Images -->
 
-## Dates
-
-Late second or third century (CE)
-
 ## Bibliography
 
 1. *CIL* 3.2207
 2. M. Abramić, *VAHD 52*, 1935-49:1-18
 3. J. J. Wilkes, *Dalmatia*. London, 1969, pp. 360-61, fig. 16.
 
+## Keywords
+
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
+- {{< keyword "sarcophagi" >}}
+
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="197488" name="Salona" >}}
-- {{< id vocab="TGN" id="7017320" name="Solin (inhabited place)" >}}
-
+-->

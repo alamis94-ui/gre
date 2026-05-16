@@ -10,6 +10,8 @@ modified: 2025-05-10
 draft: true
 ---
 
+<!-- ## Dates -->
+
 ## Province Description
 
 ### 1. Definitions.
@@ -129,7 +131,32 @@ Under the circumstances prevailing in Egypt and the given the nature of our evid
 
 [^10]: For example, Canopus was said to have a particularly gentle climate; cf. A. Bernand, Le Delta égyptien d'après les textes grecs (Mémoires IFAO 91, Cairo 1970) I 319.
 
-## Linked IDs
+<!--
+## Maps
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Plans
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Images
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+-->
+
+<!--
+## Bibliography
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+
+<!--
+## Keywords
+- {{< keyword "Example keyword" >}}
+-->
+
+## Places
 
 - {{< id vocab="Pleiades" id="991341" name="Africa Proconsularis (late Roman province)" >}}
 - {{< id vocab="TGN" id="6000082" name="Africa (province)" >}}

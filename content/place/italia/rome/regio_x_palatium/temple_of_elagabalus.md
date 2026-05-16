@@ -95,7 +95,7 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 ## Dates
 
-c. 190- 240 CE
+ca. 190- 240 CE
 
 ## Bibliography
 

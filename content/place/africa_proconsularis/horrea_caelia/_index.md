@@ -6,7 +6,7 @@ title: Horrea Caelia
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
-modified: 2025-09-16
+modified: 2026-05-15
 draft: true
 ---
 
@@ -14,7 +14,7 @@ draft: true
 
 ## Place Description
 
-The site is located on the East seaside of Tunisia. Excavations in the sixties have brought to light warehouses and a large *domus* opening towards the sea.
+The site is located on the east seaside of Hergla, Tunisia. Excavations in the sixties have brought to light warehouses and a large *domus* opening towards the sea.
 
 <!--
 ## Maps
