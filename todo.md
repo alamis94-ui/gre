@@ -94,8 +94,6 @@ User forks of the old GRE repo that have updates that might not be in main GRE r
 - [ ] [joshuarosenheim](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...joshuarosenheim:gre-archive-2025-06-04:master) (Joshua Rosenheim, Cornell) - 9 files in Italia (Ostia and Rome): coordinates, but beware some files have moved
 
 
-
-
 Stub records -- still need to check _index.md files for content or template in these provinces:
 
 italia
