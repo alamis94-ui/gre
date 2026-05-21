@@ -83,6 +83,7 @@
 - "Contribute" vs "Join" (Pleiades uses "Participate")
 - Africa.PDF (in Box) has additional info for gardens in Mauretania (at least) -- is this an earlier or later draft???
 - Should Machaerus be under Judaea or Arabia Petraea?
+- Change "Places" heading to "Linked Places"?
 
 # User forks
 
@@ -92,3 +93,22 @@ User forks of the old GRE repo that have updates that might not be in main GRE r
 - [ ] [jemillar](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...jemillar:gre-archive-2025-06-04:master) (Jane Millar, UT Austin) - 36 files in Achaea, Germania Inferior, Italia: links, tags, etc.
 - [ ] [joshuarosenheim](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...joshuarosenheim:gre-archive-2025-06-04:master) (Joshua Rosenheim, Cornell) - 9 files in Italia (Ostia and Rome): coordinates, but beware some files have moved
 
+
+
+
+Stub records -- still need to check _index.md files for content or template in these provinces:
+
+italia
+libya
+lusitania
+lycaonia
+lycia_and_pamphylia
+macedonia
+mauretania
+mesopotamia
+numidia
+pannonia
+pisidia
+sardinia_et_corsica
+sicily
+syria
