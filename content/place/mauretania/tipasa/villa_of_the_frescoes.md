@@ -3,43 +3,19 @@ gre_id: "4480f4a5de"
 aliases: [/id/4480f4a5de]
 type: garden
 title: Villa of the Frescoes (La villa des Fresques)
-latlon: [ 0, 0 ]
+latlon: [ 36.594845, 2.443919 ]
 author: Amina-Aïcha Malek
-contributor: Brandon Wilson
+contributor: Brandon Wilson, Keith Jenkins
 date: 2020-11-16
-modified: 2025-06-29
+modified: 2026-05-22
 draft: true
 ---
 
-## Province
+## Dates
 
-- [Mauretania]({{<relref "..">}})
-- {{< id vocab="Pleiades" id="981532" name="Mauretania Caesariensis (province)" >}}
+2nd century CE
 
-## Province Description
-
-An ancient district of Africa in Roman times, Mauretania lay west of Numidia and covered most of present-day Morocco and western Algeria. By the second century BCE, when Jugurtha of Numidia was rebelling against Rome, Jugurtha's father-in-law Bocchus had most of Mauretania under his control. In 25 BCE, Augustus appointed Juba II as ruler of Mauretania. Claudius divided it into two provinces: Mauretania Caesariensis, with Caesarea (modern Cherchel) as capital, and Mauretania Tingitana, with Tingis (modern Tangier) as capital. By the end of the 5th century CE, the province had disappeared.
-
-## Location
-
-- [Tipasa]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="295363" name="Tipasa" >}}
-
-## Location Description
-
-The etymology of Tipasa means the "crossing bridge" in Phoenician, suggesting that the place had a function of a waystation on the maritime road between Carthage and the Columns of Hercules. After the kingdom of Mauretania was transformed into a Roman province in 40 CE, Tipasa became a municipium with Latin privileges under Claudius in 46 and a colony under Hadrian or Antoninus Pius. In 146-147 a vast city wall was built under Antoninus Pius, extending the previous enceinte that protected the promontory. The new wall had 31 towers running from the eastern promontory to the western hill. During the IVth century, the physiognomy of the city completely changed with the construction of two new major structures: inside the city, the largest Christian Basilica in Roman Africa and outside its walls, an extensive necropolis that spread along the shore, both to the east (on the Algiers road) and to the west (towards Cherchel). A circular mausoleum has also survived to the west of the city. In the Vth century the Vandals invaded the city and controlled it until the Byzantines took over in the VIth century.
-
-## Garden
-
-The Villa of the Frescoes (La villa des Fresques)
-
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "peristyles" >}}
+<!-- ## Excavation Dates -->
 
 ## Garden Description
 
@@ -53,17 +29,19 @@ The peristyle garden had four porticoes supported by 14 columns and enclosed by 
 
 <!-- ## Images -->
 
-## Dates
-
-2nd century CE
-
-## Excavation Dates
-
 ## Bibliography
 
 * J. Baradez, Libyca IX, 1960/1, p. 102-04, Pl. III, fig. 22. [hathitrust](https://catalog.hathitrust.org/Record/008568139)
 
 * J. Lassus, Rapport, Libyca VIII 1960/2, p. 66-7. [hathitrust](https://catalog.hathitrust.org/Record/008568139)
+
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

@@ -3,45 +3,19 @@ gre_id: "d810c81400"
 aliases: [/id/d810c81400]
 type: garden
 title: House of the Ephebe (Maison de l'Ephebe)
-latlon: [ 0, 0 ]
+latlon: [ 34.0743512, -5.5557035 ]
 author: Amina-Aïcha Malek
-contributor: Brandon Wilson
+contributor: Brandon Wilson, Keith Jenkins
 date: 2020-11-16
-modified: 2025-06-29
+modified: 2026-05-22
 draft: true
 ---
 
-## Province
+## Dates
 
-- [Mauretania]({{<relref "..">}})
-- {{< id vocab="Pleiades" id="981533" name="Mauretania Tingitana (province)" >}}
+Third century CE
 
-## Province Description
-
-An ancient district of Africa in Roman times, Mauretania lay west of Numidia and covered most of present-day Morocco and western Algeria. By the second century BCE, when Jugurtha of Numidia was rebelling against Rome, Jugurtha's father-in-law Bocchus had most of Mauretania under his control. In 25 BCE, Augustus appointed Juba II as ruler of Mauretania. Claudius divided it into two provinces: Mauretania Caesariensis, with Caesarea (modern Cherchel) as capital, and Mauretania Tingitana, with Tingis (modern Tangier) as capital. By the end of the 5th century CE, the province had disappeared.
-
-## Location
-
-[Volubilis]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="275740" name="Volubilis" >}}
-
-## Location Description
-
-Volubilis was the capital of the province of Mauretania Tingitania. The city was of Punic foundation, located on the edge of a plain that slopes down from the Zerhoun hills. During the reign of Juba II, king of Mauretania, Volubilis knew a prosperous period. He was succeeded by his son, Ptolemy of Mauretania, who was assassinated in 40 CE by Caligula. The kingdom was then divided into two provinces, and Volubilis was elevated to the rank of municipium as a reward for taking the side of Rome during the conflict.
-
-The city rapidly developed and expanded; new temples, baths, civic buildings and luxurious houses lining the porticoed decumanus maximus were built. The olive press and the mills attached to the houses attest to the rural character of the region. The city reached its climax in the beginning of the third century CE and survives today as a well-preserved archaeological site. The city walls and gates, Caracalla's triumphal arch, the Capitolium temple, and the Basilica law courts survive. A number of houses known for their floor mosaics and bronze sculpture also persist to the modern day.
-
-## Garden
-
-House of the Ephebe (Maison de l'Ephebe)
-
-## Keywords
-
-- {{< keyword "columns" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "porticoes" >}}
+<!-- ## Excavation Dates -->
 
 ## Garden Description
 
@@ -54,19 +28,19 @@ The House of the Ephebe, approximately 1972 square meters and dating to the thir
 
 <!-- ## Images -->
 
-## Dates
-
-Third century CE
-
-## Excavation Dates
-
 ## Bibliography
 
-* A. Ichkhakh," Recherches sur les Maisons du Quatier de l'arc de Triomphe (Volubilis)", to be published in PSAM 2010, Fig. 7. [(worldcat)](https://search.worldcat.org/title/883553652)
+- A. Ichkhakh," Recherches sur les Maisons du Quatier de l'arc de Triomphe (Volubilis)", to be published in PSAM 2010, Fig. 7. [(worldcat)](https://search.worldcat.org/title/883553652)
+- R. Thouvenot, "La maison de l'éphèbe.", PSAM, 7, 1945, p. 115-31, fig.2. [(worldcat)](https://search.worldcat.org/title/765468558)
 
-* R. Thouvenot, "La maison de l'éphèbe.", PSAM, 7, 1945, p. 115-31, fig.2. [(worldcat)](https://search.worldcat.org/title/765468558)
+## Keywords
+
+- {{< keyword "columns" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="125904446" name="House of the Ephebe" >}}
-
