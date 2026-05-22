@@ -5,26 +5,15 @@ type: garden
 title: Tomb Garden of Ti. Claudios Lykos
 latlon: [ 40.628342, 22.952885 ]
 author: John Bodel
-contributor: Amartya Shri
+contributor: Amartya Shri, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-22
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Thessaloniki]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="491741" name="Thessaloniki" >}}
-
-## Garden
-
-Tomb Garden of Ti. Claudios Lykos
-
-## Keywords
-
-- {{< keyword "tombs" >}}
-- {{< keyword "sarcophagi" >}}
-- {{< keyword "epitaphs" >}}
+147 CE, 167 CE
 
 ## Garden Description
 
@@ -36,17 +25,17 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 <!-- ## Images -->
 
-## Dates
-
-147 CE, 167 CE
-
 ## Bibliography
 
-:  IG X 2,1.608; J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure.* Warsaw, 1968, p. 146; P. Petsas, "AgrÒw, oﬁk€a, k∞pow, tÒpow," in J. H. Dell, ed. *Macedonian Studies in Honor of Charles F. Edson.* Thessaloniki, 1981, pp. 295-98; *Bull. Épigr.* 1963, 134; 1984, 252.
+- IG X 2,1.608
+- J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure.* Warsaw, 1968, p. 146
+- P. Petsas, "AgrÒw, oﬁk€a, k∞pow, tÒpow," in J. H. Dell, ed. *Macedonian Studies in Honor of Charles F. Edson.* Thessaloniki, 1981, pp. 295-98
+- *Bull. Épigr.* 1963, 134; 1984, 252.
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="491741" name="Thessalonica" >}}
-- {{< id vocab="TGN" id="7011182" name="Salonika (inhabited place)" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "sarcophagi" >}}
+- {{< keyword "epitaphs" >}}
 
-
+<!-- ## Places -->
