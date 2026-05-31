@@ -13,7 +13,6 @@ draft: true
 
 ## Province
 
-[Lusitania]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description

@@ -13,7 +13,6 @@ draft: true
 
 ## Province
 
-- [Hispania Tarraconensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
 
 ## Province Description
@@ -41,7 +40,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-- [Santa Lucia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="767191138" name="Santa Lucia" >}}
 
 ## Garden

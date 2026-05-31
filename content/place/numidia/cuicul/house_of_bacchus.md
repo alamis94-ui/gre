@@ -13,7 +13,6 @@ draft: false
 
 ## Province
 
-- [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
 
 ## Province Description

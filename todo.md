@@ -97,16 +97,6 @@ User forks of the old GRE repo that have updates that might not be in main GRE r
 Stub records -- still need to check _index.md files for content or template in these provinces:
 
 italia
-libya
-lusitania
-lycaonia
-lycia_and_pamphylia
-macedonia
-mauretania
-mesopotamia
-numidia
-pannonia
-pisidia
-sardinia_et_corsica
-sicily
-syria
+
+- Convert * lists to - lists
+- Get coordinates from Pleiades records

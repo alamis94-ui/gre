@@ -45,18 +45,18 @@ with open('code/stubs.csv', newline='') as f:
 
         # make sure province exists
         ppath = os.path.join('content', 'place', p, '_index.md')
-        if not os.path.exists(ppath):
-            run(f'hugo new place/{p}/_index.md -k place')
+        if not os.path.exists(ppath) or os.path.getsize(ppath)==0:
+            run(f'hugo new content place/{p}/_index.md -k place -f')
 
         # make sure sublocation exists
         if s:
             spath = os.path.join('content', 'place', p, s, '_index.md')
-            if not os.path.exists(spath):
-                run(f'hugo new place/{p}/{s}/_index.md -k place')
+            if not os.path.exists(spath) or os.path.getsize(spath)==0:
+                run(f'hugo new content place/{p}/{s}/_index.md -k place -f')
             # create the garden
             if g:
-                run(f'hugo new place/{p}/{s}/{g}.md -k garden --quiet')
+                run(f'hugo new content place/{p}/{s}/{g}.md -k garden --quiet')
         
         # or make a garden without a sublocation
         elif g:
-            run(f'hugo new place/{p}/{g}.md -k garden --quiet')
+            run(f'hugo new content place/{p}/{g}.md -k garden --quiet')

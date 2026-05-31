@@ -13,7 +13,6 @@ draft: true
 
 <!--## Province
 
-- [Gallia Narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description

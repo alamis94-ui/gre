@@ -13,7 +13,6 @@ draft: true
 
 ## Province
 
-[Hispania Tarraconensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
 
 ## Province Description

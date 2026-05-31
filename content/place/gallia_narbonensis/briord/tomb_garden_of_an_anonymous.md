@@ -13,7 +13,6 @@ draft: true
 
 ## Province
 
-- [Gallia Narbonensis]({{<relref "..">}})
 
 <!-- ## Province Description -->
 
