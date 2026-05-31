@@ -56,6 +56,6 @@ Unspecified
 
 ## Bibliography
 
-* Fiorelli, *Descrizione di Pompei*, pp. 363-364 [(worldcat)](https://search.worldcat.org/title/1198324804)
-* Jashemski, *Gardens*, 1:155-157 and figs. 216 (balloon photo) and 217 (plan) on pp. 138-139 and fig. 243 on p. 156 [(worldcat)](https://search.worldcat.org/title/1047945215)
-* Jashemski, *Gardens*, vol. II, p. 223 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Fiorelli, *Descrizione di Pompei*, pp. 363-364 [(worldcat)](https://search.worldcat.org/title/1198324804)
+- Jashemski, *Gardens*, 1:155-157 and figs. 216 (balloon photo) and 217 (plan) on pp. 138-139 and fig. 243 on p. 156 [(worldcat)](https://search.worldcat.org/title/1047945215)
+- Jashemski, *Gardens*, vol. II, p. 223 [(worldcat)](https://search.worldcat.org/title/1113367431)

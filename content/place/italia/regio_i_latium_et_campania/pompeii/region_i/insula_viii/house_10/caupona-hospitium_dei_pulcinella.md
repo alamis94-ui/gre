@@ -60,9 +60,9 @@ unspecified
 
 ## Bibliography
 
-* Della Corte, *Case*, p. 326, no. 675.
-* Jashemski, *Gardens*, vol.II, pp. 42-43. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Maiuri, *RM* (1953-54), pp. 89-91 (the house is erroneously numbered I.v.10) on the plan, fig, 1.
+- Della Corte, *Case*, p. 326, no. 675.
+- Jashemski, *Gardens*, vol.II, pp. 42-43. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Maiuri, *RM* (1953-54), pp. 89-91 (the house is erroneously numbered I.v.10) on the plan, fig, 1.
 
 ## Places
 

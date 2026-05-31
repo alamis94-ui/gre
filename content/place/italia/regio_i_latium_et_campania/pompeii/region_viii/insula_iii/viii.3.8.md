@@ -58,9 +58,9 @@ Unspecified
 
 ## Bibliography
 
-* Breton, *Pompeia*, p. 453 [(worldcat)](https://search.worldcat.org/title/894211341)
-* Dyer, *Pompeii*, p. 435 [(worldcat)](https://search.worldcat.org/title/24327166)
-* Fiorelli, *Descrizione di Pompei*, p. 323-324 [(worldcat)](https://search.worldcat.org/title/252039996)
-* Jashemski, *Gardens*, vol. II, p. 210 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1838, pp. 200-201, [(worldcat)](https://search.worldcat.org/title/263597320)
-* Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1841, p. 120, [(worldcat)](https://search.worldcat.org/title/263597320)
+- Breton, *Pompeia*, p. 453 [(worldcat)](https://search.worldcat.org/title/894211341)
+- Dyer, *Pompeii*, p. 435 [(worldcat)](https://search.worldcat.org/title/24327166)
+- Fiorelli, *Descrizione di Pompei*, p. 323-324 [(worldcat)](https://search.worldcat.org/title/252039996)
+- Jashemski, *Gardens*, vol. II, p. 210 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1838, pp. 200-201, [(worldcat)](https://search.worldcat.org/title/263597320)
+- Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1841, p. 120, [(worldcat)](https://search.worldcat.org/title/263597320)

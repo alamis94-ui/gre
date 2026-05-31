@@ -68,10 +68,10 @@ Excavated 1912.
 
 ## Bibliography
 
-* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 198. [(worldcat)](https://search.worldcat.org/title/312003872)
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](https://search.worldcat.org/title/921816405).
-* Moeller, W.O. 1976. *The Wool Trade of Ancient Pompeii*, p. 42. [(worldcat)](https://search.worldcat.org/title/800885233)
-* Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 446 and fig. 493 (plan) on p. 773 and fig. 744 (plan) on p. 765.
+- Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 198. [(worldcat)](https://search.worldcat.org/title/312003872)
+- Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](https://search.worldcat.org/title/921816405).
+- Moeller, W.O. 1976. *The Wool Trade of Ancient Pompeii*, p. 42. [(worldcat)](https://search.worldcat.org/title/800885233)
+- Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 446 and fig. 493 (plan) on p. 773 and fig. 744 (plan) on p. 765.
 
 ## Places
 

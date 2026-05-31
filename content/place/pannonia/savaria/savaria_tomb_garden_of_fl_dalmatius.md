@@ -28,11 +28,11 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 
 ## Bibliography
 
-* *CIL* 3.4185.
-* *CLE* 578.
-* *ILCV* 296.
-* A. Mócsy and T. Szentléleky, *Die römischen Steindenkmäler von Savaria*. Amsterdam, 1971, p. 117, no. 161, photo 143. [(worldcat)](https://search.worldcat.org/title/963618321)
-* T. Adamik,*Archaeologiai Ertesítö* 110, 1983:3-9 = AE 1984:722.
+- *CIL* 3.4185.
+- *CLE* 578.
+- *ILCV* 296.
+- A. Mócsy and T. Szentléleky, *Die römischen Steindenkmäler von Savaria*. Amsterdam, 1971, p. 117, no. 161, photo 143. [(worldcat)](https://search.worldcat.org/title/963618321)
+- T. Adamik,*Archaeologiai Ertesítö* 110, 1983:3-9 = AE 1984:722.
 
 ## Keywords
 

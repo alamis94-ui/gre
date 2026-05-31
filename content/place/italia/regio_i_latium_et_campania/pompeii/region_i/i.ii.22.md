@@ -48,11 +48,11 @@ This [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated in 1873 
 
 ## Bibliography
 
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 45 [(worldcat)](https://search.worldcat.org/title/9528380)
-* GiornSc, n.s., 1874-1877, col.60
-* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 24-25 [(worldcat)](https://search.worldcat.org/title/222353569)
-* Mau, A. 1874. *BdI*, pp.263
-* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 13 [(worldcat)](https://search.worldcat.org/title/254502217)
+- Fiorelli, G. 1875. *Descrizione di Pompei*, p. 45 [(worldcat)](https://search.worldcat.org/title/9528380)
+- GiornSc, n.s., 1874-1877, col.60
+- Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 24-25 [(worldcat)](https://search.worldcat.org/title/222353569)
+- Mau, A. 1874. *BdI*, pp.263
+- Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 13 [(worldcat)](https://search.worldcat.org/title/254502217)
 
 ## Places
 

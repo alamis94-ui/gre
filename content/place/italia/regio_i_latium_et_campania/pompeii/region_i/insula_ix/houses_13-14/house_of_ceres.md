@@ -76,12 +76,12 @@ unspecified
 
 ## Bibliography
 
-* DeVos, "Scavi nuovi sconoscuti (1.9.13)," *Meded* 38 (1976): 38, 49-50, 62 and pl. 35 (plan), 51, 50 and figs. 27, 32.
-* Döhl, p. 5 (?I.9....).
-* Jashemski, *Gardens*, vol.II, pp. 45, 323, 395. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Kapossy, p. 39.
-* *PPP*, 1:109.
-* *PPP*, 1:109.
+- DeVos, "Scavi nuovi sconoscuti (1.9.13)," *Meded* 38 (1976): 38, 49-50, 62 and pl. 35 (plan), 51, 50 and figs. 27, 32.
+- Döhl, p. 5 (?I.9....).
+- Jashemski, *Gardens*, vol.II, pp. 45, 323, 395. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Kapossy, p. 39.
+- *PPP*, 1:109.
+- *PPP*, 1:109.
 
 ## Places
 

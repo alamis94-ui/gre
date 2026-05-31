@@ -47,16 +47,16 @@ This site was excavated in 1868 revealing a [peristyle](http://vocab.getty.edu/p
 
 ## Bibliography
 
-* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 74  [(worldcat)](https://search.worldcat.org/title/10781121)
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 55-56 [(worldcat)](https://search.worldcat.org/title/9528380)
-* n.d. 1865-1869. *GiornSc*, n.s. 1 , cols. 185-187 (where the address is given as I.ii)
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 27 [(worldcat)](https://search.worldcat.org/title/222353569)
-* Matz, F. 1869. *BdI*, p. 240-241
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. IV*, plate 32
-* Maiuri, A. 1939. *NSc*, pp. 168-169
-* Sogliano, A., 1879. *Le pitture murali campane scoverte negli anni 1867-79. Napoli: Giannini*, p. 204, no. 604
-* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313), nos. 44-50
+- Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 74  [(worldcat)](https://search.worldcat.org/title/10781121)
+- Fiorelli, G. 1875. *Descrizione di Pompei*, p. 55-56 [(worldcat)](https://search.worldcat.org/title/9528380)
+- n.d. 1865-1869. *GiornSc*, n.s. 1 , cols. 185-187 (where the address is given as I.ii)
+- Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 27 [(worldcat)](https://search.worldcat.org/title/222353569)
+- Matz, F. 1869. *BdI*, p. 240-241
+- Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78
+- Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. IV*, plate 32
+- Maiuri, A. 1939. *NSc*, pp. 168-169
+- Sogliano, A., 1879. *Le pitture murali campane scoverte negli anni 1867-79. Napoli: Giannini*, p. 204, no. 604
+- Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313), nos. 44-50
 
 ## Places
 

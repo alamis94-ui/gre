@@ -58,8 +58,8 @@ Unspecified
 
 ## Bibliography
 
-* Jacono, Osservazioni su i viridarii pompeiani, p. 12 [(worldcat)](https://search.worldcat.org/title/1131425884)
-* Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Mairui, *Notizie degli scavi di Antichita* (1944-1945), p. 150 and fig. 6 (plan) on p. 144 [(worldcat)](https://search.worldcat.org/title/638883283)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p.172 [(worldcat)](https://search.worldcat.org/title/823239162)
-* Sogliano, *Notizie degli scavi di Antichita* (1881), pp. 320-321 [(worldcat)](https://search.worldcat.org/title/638883283)
+- Jacono, Osservazioni su i viridarii pompeiani, p. 12 [(worldcat)](https://search.worldcat.org/title/1131425884)
+- Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mairui, *Notizie degli scavi di Antichita* (1944-1945), p. 150 and fig. 6 (plan) on p. 144 [(worldcat)](https://search.worldcat.org/title/638883283)
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p.172 [(worldcat)](https://search.worldcat.org/title/823239162)
+- Sogliano, *Notizie degli scavi di Antichita* (1881), pp. 320-321 [(worldcat)](https://search.worldcat.org/title/638883283)

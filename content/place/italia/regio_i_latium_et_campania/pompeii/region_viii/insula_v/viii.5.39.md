@@ -60,11 +60,11 @@ Unspecified
 
 ## Bibliography
 
-* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 78, no. 372 [(worldcat)](https://search.worldcat.org/title/1131425884)
-* Dohl, *Plastik aus Pompeji*, pp. 46-47 [(worldcat)](https://search.worldcat.org/title/52662796)
-* Dwyer, *Pompeian Oscilla Collections*, Mitteilungen des Deutsches Archäologisches Institut. Römische Abteilung , p. 281, no. 106 [(worldcat)](https://search.worldcat.org/title/8605701)
-* Jashemski, *Gardens*, vol. II, p. 218 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1884), pp. 127-130 [(worldcat)](https://search.worldcat.org/title/823239162)
-* Mau, *Pompeii:Its Life and Art*, 2nd ed. Trans. by Kelsey, pp. 341-343, plan on p. 341 [(worldcat)](https://search.worldcat.org/title/1197366621)
-* Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 280-281, 324, 359-360 [(worldcat)](https://search.worldcat.org/title/638883283)
-* Soprano, *I triclini all'aperto di Pompei* In Pompeiana, p. 301, no. 16. [(worldcat)](https://search.worldcat.org/title/78719058)
+- Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 78, no. 372 [(worldcat)](https://search.worldcat.org/title/1131425884)
+- Dohl, *Plastik aus Pompeji*, pp. 46-47 [(worldcat)](https://search.worldcat.org/title/52662796)
+- Dwyer, *Pompeian Oscilla Collections*, Mitteilungen des Deutsches Archäologisches Institut. Römische Abteilung , p. 281, no. 106 [(worldcat)](https://search.worldcat.org/title/8605701)
+- Jashemski, *Gardens*, vol. II, p. 218 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1884), pp. 127-130 [(worldcat)](https://search.worldcat.org/title/823239162)
+- Mau, *Pompeii:Its Life and Art*, 2nd ed. Trans. by Kelsey, pp. 341-343, plan on p. 341 [(worldcat)](https://search.worldcat.org/title/1197366621)
+- Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 280-281, 324, 359-360 [(worldcat)](https://search.worldcat.org/title/638883283)
+- Soprano, *I triclini all'aperto di Pompei* In Pompeiana, p. 301, no. 16. [(worldcat)](https://search.worldcat.org/title/78719058)

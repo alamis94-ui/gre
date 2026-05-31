@@ -65,7 +65,7 @@ North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is n
 
 ## Bibliography
 
-*  M. De Franceschini, 1998, *Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell'insediamento romano nel territorio, dall'età repubblicana al tardo impero*, Roma.[(worldcat)](https://search.worldcat.org/title/1071842281)
+- M. De Franceschini, 1998, *Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell'insediamento romano nel territorio, dall'età repubblicana al tardo impero*, Roma.[(worldcat)](https://search.worldcat.org/title/1071842281)
 
 ## Places
 

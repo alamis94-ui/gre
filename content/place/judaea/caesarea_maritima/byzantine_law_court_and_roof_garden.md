@@ -43,7 +43,7 @@ During the third phase, in the 6th century, the entire garden, including the fou
 
 ## Bibliography
 
-*  K.G. Holum, "Inscriptions from the imperial revenue office of Byzantine Caesarea Palaestinae" Journal of Roman Archaeology Supplement 14, 1995: 333-345. [(worldcat)](https://search.worldcat.org/title/607804837)
+- K.G. Holum, "Inscriptions from the imperial revenue office of Byzantine Caesarea Palaestinae" Journal of Roman Archaeology Supplement 14, 1995: 333-345. [(worldcat)](https://search.worldcat.org/title/607804837)
 
 ## Keywords
 

@@ -79,11 +79,11 @@ When the excavation work reached the northeast corner of this house in 1901, a s
 
 ## Bibliography
 
-* Döhl, p. 14.
-* Jashemski, *Gardens*, vol.II, p. 117. [(worldcat)](https://search.worldcat.org/title/1029851777)
-* Mau, *RM* (1901), p. 363. [(worldcat)](https://search.worldcat.org/title/1189330863)
-* Sogliano, *NSc* (1901), pp. 261, 330, 331 and plan on p. 329. [(worldcat)](https://search.worldcat.org/title/1091982220)
-* Soprano, p. 299, no. 11.
+- Döhl, p. 14.
+- Jashemski, *Gardens*, vol.II, p. 117. [(worldcat)](https://search.worldcat.org/title/1029851777)
+- Mau, *RM* (1901), p. 363. [(worldcat)](https://search.worldcat.org/title/1189330863)
+- Sogliano, *NSc* (1901), pp. 261, 330, 331 and plan on p. 329. [(worldcat)](https://search.worldcat.org/title/1091982220)
+- Soprano, p. 299, no. 11.
 
 ## Places
 

@@ -63,7 +63,7 @@ Unspecified
 
 ## Bibliography
 
--  J.B. Ward Perkins and A. Kahane, ed., *The Via Gabina*, Papers of the British School at Rome, 40 (1972), 91-126. [worldcat](https://search.worldcat.org/title/5542975846)
+- J.B. Ward Perkins and A. Kahane, ed., *The Via Gabina*, Papers of the British School at Rome, 40 (1972), 91-126. [worldcat](https://search.worldcat.org/title/5542975846)
 - W. Widrig, *Two Sites on the Ancient Via Gabina*, British Museum Occasional Paper 24 (1980), 119-141. [worldcat](https://search.worldcat.org/title/277246450)
 - W. Widrig, *Land Use at the Via Gabina Villas*, Ancient Roman Villa Gardens (Dumbarton Oaks, 1987), 225-260. [worldcat](https://search.worldcat.org/title/848945186)
 

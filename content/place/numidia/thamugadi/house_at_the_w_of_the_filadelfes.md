@@ -57,10 +57,10 @@ This large house (2500m2) was laid out around two peristyles. The E peristyle ha
 
 ## Bibliography
 
-* Ballu A., *Rapport*, 1922, p. 47-53. [(worldcat)](https://search.worldcat.org/title/557425503)
-* Ballu A., *Rapport* 1923, p. 45-47: plan dépliant. [(worldcat)](https://search.worldcat.org/title/494571409)
-* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
-* Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](https://search.worldcat.org/title/643640586)
+- Ballu A., *Rapport*, 1922, p. 47-53. [(worldcat)](https://search.worldcat.org/title/557425503)
+- Ballu A., *Rapport* 1923, p. 45-47: plan dépliant. [(worldcat)](https://search.worldcat.org/title/494571409)
+- Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
+- Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](https://search.worldcat.org/title/643640586)
 
 ## Places
 

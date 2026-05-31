@@ -78,11 +78,11 @@ Unspecified
 
 ## Bibliography
 
-* Della Corte, *Case*, p. 11. [(worldcat)](https://search.worldcat.org/title/869407232)
-* Jashemski, *Gardens*, vol.II, pp. 116, 396. [(worldcat)](https://search.worldcat.org/title/1029851777)
-* Mau, *RM* (1901), p. 352; PPP, 2:85. [(worldcat)](https://search.worldcat.org/title/1189330863)
-* Schefold, *WändP*, p. 85. [(worldcat)](https://search.worldcat.org/title/1100462668)
-* Sogliano, *NSc* (1901), p. 161 and fig. 1 (plan) on p.145. [(worldcat)](https://search.worldcat.org/title/1091982220)
+- Della Corte, *Case*, p. 11. [(worldcat)](https://search.worldcat.org/title/869407232)
+- Jashemski, *Gardens*, vol.II, pp. 116, 396. [(worldcat)](https://search.worldcat.org/title/1029851777)
+- Mau, *RM* (1901), p. 352; PPP, 2:85. [(worldcat)](https://search.worldcat.org/title/1189330863)
+- Schefold, *WändP*, p. 85. [(worldcat)](https://search.worldcat.org/title/1100462668)
+- Sogliano, *NSc* (1901), p. 161 and fig. 1 (plan) on p.145. [(worldcat)](https://search.worldcat.org/title/1091982220)
 
 ## Places
 

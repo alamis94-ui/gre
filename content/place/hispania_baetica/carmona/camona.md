@@ -49,7 +49,7 @@ unspecified
 
 ## Bibliography
 
-* Vaquerizo Gil, Desiderio, *Necroìpolis urbanas en Baetica*, Tarragona 2010).[(worldcat)](https://search.worldcat.org/title/929776098)
+- Vaquerizo Gil, Desiderio, *Necroìpolis urbanas en Baetica*, Tarragona 2010).[(worldcat)](https://search.worldcat.org/title/929776098)
 
 ## Places
 

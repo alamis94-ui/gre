@@ -63,36 +63,36 @@ C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belon
 
 ## Bibliography
 
-* Breton, E. 1855. *Plan of Pompeii*, pp. 481, 489-490, 492
-* Brun, R. 1863. *BdI*, p. 91-93
-* Döhl, H. 1976. *Plastik aus Pompeji*, Habilitationsschrift, Göttingen, p. 2-3
-* Dwyer, E.J. 1981. *Pompeian Domestic Sculpture. A Study of Five Pompeians Houses and their Contents*, pp. 79-81, 82-84, 88-89, 107-108
-* Dwyer, E.J. 1982. *Pompeian Oscilla Collections*, pp. 261-264, nos. 1-11
-* Elia. 1937. *Mon. Pitt. Ant*, In Pompeii 1, sec. 3, p. 4, fig. 3
-* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, pp. 66-67, 387-388, 392-394, 397, 399-400 and plate 165, no. 182-183
-* Fiorelli, G. 1863. *Giornale dei Soprastanti*, pp. 658-688 (see also Fiorelli, G. 1859)
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 62 [(worldcat)](https://search.worldcat.org/title/9528380)
-* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* pp. 21-22 and figs. 28-29 [(worldcat)](https://search.worldcat.org/title/312003872)
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 29-30, 32-33, 394 [(worldcat)](https://search.worldcat.org/title/222353569)
-* Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und romischen Zeit*, Zurich, p. 48, 51-52  [(worldcat)](https://search.worldcat.org/title/804937054?referer=di&ht=edition)
-* Lugebil, K. J. 1861. *BdI*, p. 240
-* Maiuri, A. 1926. *BdA*, p. 350
-* Maiuri, A. 1939. *NSc*, pp. 575-576
-* Mau, A. 1907. *Pompeii: It's life and art*, pp. 359-361 and fig. 179 on p. 360
-* Minervini. 1853. *Bull.Arch.Nap.*, 2, p. 65
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 79
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. III*, p. 8 and plate 5
-* Overbeck, J. and Mau, A. 1884. *Pompeji in seinen Gebäuden*, pp. 363-366, 544-545
-* *PPP*, 1, p. 10
-* *PAH*, 1853. 2, pp. 583, 586-587
-* *PAH*, 1858. pp. 671-673
-* *PAH*, 1859. 2, pp. 685-688
-* *PAH*, 1868. pp. 670
-* Pernice, E. and Winter, F. 1925, *Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii*, 5, pp. 14, 30 and plates 8.2, 19.4
-* Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 15
-* Vittorio Spinazzola, 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, figs. 646-647 on p. 654, no. 336
-* Van Buren, A.W. 1932. *MAAR 10*, plates 1-2
-* Ward-Perkins, J. and Claridge, A. 1976. *Pompeii A.D. 79*, no. 83
+- Breton, E. 1855. *Plan of Pompeii*, pp. 481, 489-490, 492
+- Brun, R. 1863. *BdI*, p. 91-93
+- Döhl, H. 1976. *Plastik aus Pompeji*, Habilitationsschrift, Göttingen, p. 2-3
+- Dwyer, E.J. 1981. *Pompeian Domestic Sculpture. A Study of Five Pompeians Houses and their Contents*, pp. 79-81, 82-84, 88-89, 107-108
+- Dwyer, E.J. 1982. *Pompeian Oscilla Collections*, pp. 261-264, nos. 1-11
+- Elia. 1937. *Mon. Pitt. Ant*, In Pompeii 1, sec. 3, p. 4, fig. 3
+- Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, pp. 66-67, 387-388, 392-394, 397, 399-400 and plate 165, no. 182-183
+- Fiorelli, G. 1863. *Giornale dei Soprastanti*, pp. 658-688 (see also Fiorelli, G. 1859)
+- Fiorelli, G. 1875. *Descrizione di Pompei*, p. 62 [(worldcat)](https://search.worldcat.org/title/9528380)
+- Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* pp. 21-22 and figs. 28-29 [(worldcat)](https://search.worldcat.org/title/312003872)
+- Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 29-30, 32-33, 394 [(worldcat)](https://search.worldcat.org/title/222353569)
+- Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und romischen Zeit*, Zurich, p. 48, 51-52  [(worldcat)](https://search.worldcat.org/title/804937054?referer=di&ht=edition)
+- Lugebil, K. J. 1861. *BdI*, p. 240
+- Maiuri, A. 1926. *BdA*, p. 350
+- Maiuri, A. 1939. *NSc*, pp. 575-576
+- Mau, A. 1907. *Pompeii: It's life and art*, pp. 359-361 and fig. 179 on p. 360
+- Minervini. 1853. *Bull.Arch.Nap.*, 2, p. 65
+- Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 79
+- Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. III*, p. 8 and plate 5
+- Overbeck, J. and Mau, A. 1884. *Pompeji in seinen Gebäuden*, pp. 363-366, 544-545
+- *PPP*, 1, p. 10
+- *PAH*, 1853. 2, pp. 583, 586-587
+- *PAH*, 1858. pp. 671-673
+- *PAH*, 1859. 2, pp. 685-688
+- *PAH*, 1868. pp. 670
+- Pernice, E. and Winter, F. 1925, *Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii*, 5, pp. 14, 30 and plates 8.2, 19.4
+- Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 15
+- Vittorio Spinazzola, 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, figs. 646-647 on p. 654, no. 336
+- Van Buren, A.W. 1932. *MAAR 10*, plates 1-2
+- Ward-Perkins, J. and Claridge, A. 1976. *Pompeii A.D. 79*, no. 83
 
 ## Places
 

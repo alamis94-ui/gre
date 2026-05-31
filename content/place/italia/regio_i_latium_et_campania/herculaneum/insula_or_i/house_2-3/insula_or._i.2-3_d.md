@@ -61,5 +61,5 @@ Unspecified
 
 ## Bibliography
 
-* Maiuri, *Herculaneum*, p. 67 [(worldcat)](https://search.worldcat.org/title/1107784297)
-* Maiuri, *Ercolano*, pp. 359, 360 [(worldcat)](https://search.worldcat.org/title/490581395)
+- Maiuri, *Herculaneum*, p. 67 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Ercolano*, pp. 359, 360 [(worldcat)](https://search.worldcat.org/title/490581395)

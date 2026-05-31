@@ -37,7 +37,7 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 
 ## Bibliography
 
-* Y. Hirschfeld, Ramat Hanadiv Excavations, Jerusalem 2000; S.T.A.M. Mols, Wooden Furniture in Herculaneum, Amsterdam (1999):139-40. [worldcat](https://search.worldcat.org/title/44755201)
+- Y. Hirschfeld, Ramat Hanadiv Excavations, Jerusalem 2000; S.T.A.M. Mols, Wooden Furniture in Herculaneum, Amsterdam (1999):139-40. [worldcat](https://search.worldcat.org/title/44755201)
 
 ## Keywords
 

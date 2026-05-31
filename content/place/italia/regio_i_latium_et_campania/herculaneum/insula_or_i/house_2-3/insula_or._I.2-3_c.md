@@ -60,4 +60,4 @@ Unspecified
 
 ## Bibliography
 
-* Maiuri, *Ercolano*, p. 353 [(worldcat)](https://search.worldcat.org/title/490581395)
+- Maiuri, *Ercolano*, p. 353 [(worldcat)](https://search.worldcat.org/title/490581395)

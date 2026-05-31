@@ -64,10 +64,10 @@ unspecified
 
 ## Bibliography
 
-* Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
-* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Viola, "*Scavi*" p. 12. [(worldcat)](https://search.worldcat.org/title/715087975)
-* Warscher, "Codex."
+- Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
+- Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Viola, "*Scavi*" p. 12. [(worldcat)](https://search.worldcat.org/title/715087975)
+- Warscher, "Codex."
 
 ## Places
 

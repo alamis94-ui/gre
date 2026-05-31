@@ -75,11 +75,11 @@ Unspecified
 
 ## Bibliography
 
-* Jashemski, *Gardens*, vol.II, p. 116.[(worldcat)](https://search.worldcat.org/title/1029851777)
-* Mau, *RM* (1901), p. 324.[(worldcat)](https://search.worldcat.org/title/1189330863)
-* Pernice, p. 28.[(worldcat)](https://search.worldcat.org/title/714016975)
-* Sogliano, *NSc* (1899), fig. 1 (plan) on p. 339.[(worldcat)](https://search.worldcat.org/title/1091982220)
-* Sogliano, *NSc* (1901), p.258. [(worldcat)](https://search.worldcat.org/title/1091982220)
+- Jashemski, *Gardens*, vol.II, p. 116.[(worldcat)](https://search.worldcat.org/title/1029851777)
+- Mau, *RM* (1901), p. 324.[(worldcat)](https://search.worldcat.org/title/1189330863)
+- Pernice, p. 28.[(worldcat)](https://search.worldcat.org/title/714016975)
+- Sogliano, *NSc* (1899), fig. 1 (plan) on p. 339.[(worldcat)](https://search.worldcat.org/title/1091982220)
+- Sogliano, *NSc* (1901), p.258. [(worldcat)](https://search.worldcat.org/title/1091982220)
 
 ## Places
 

@@ -33,7 +33,7 @@ A slab unearthed near Resça <!-- Reșcuța ? -->
 
 ## Bibliography
 
-* *AE* 1957, 334.
+- *AE* 1957, 334.
 
 ## Keywords
 

@@ -78,18 +78,18 @@ unspecified
 
 ## Bibliography
 
-* Boyce, p. 22, no. 6.
-* Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
-* *GiornSc*, n.s., 3 (1874-1877), col. 57.
-* Jashemski, *Gardens*, 1:1 10-1 1 1. [(worldcat)](https://search.worldcat.org/title/884024123)
-* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Mau, *BdI* (1874), pp. 197-198.
-* Niccolini, *Case*, vol. 2, "Descr. Gen.," p. 76.
-* Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](https://search.worldcat.org/title/637248120)
-* Sogliano, "Pitture," p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580)
-* Soprano, p.305, no. 23.
-* Viola, "*Scavi*" p. 11. [(worldcat)](https://search.worldcat.org/title/715087975)
+- Boyce, p. 22, no. 6.
+- Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
+- *GiornSc*, n.s., 3 (1874-1877), col. 57.
+- Jashemski, *Gardens*, 1:1 10-1 1 1. [(worldcat)](https://search.worldcat.org/title/884024123)
+- Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Mau, *BdI* (1874), pp. 197-198.
+- Niccolini, *Case*, vol. 2, "Descr. Gen.," p. 76.
+- Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](https://search.worldcat.org/title/637248120)
+- Sogliano, "Pitture," p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580)
+- Soprano, p.305, no. 23.
+- Viola, "*Scavi*" p. 11. [(worldcat)](https://search.worldcat.org/title/715087975)
 
 ## Places
 

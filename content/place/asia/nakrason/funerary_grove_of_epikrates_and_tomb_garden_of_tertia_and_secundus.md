@@ -58,7 +58,7 @@ Unspecified
 
 ## Bibliography
 
-* P. Herrmann and K. Z. Polaktan, *Das Testament des Epikrates und andere neue Inschriften aus dem Museum von Manisa* (Sitz. Wien 265.1). Vienna, 1969, pp. 7-36. [(worldcat)](https://search.worldcat.org/title/1123735245)
+- P. Herrmann and K. Z. Polaktan, *Das Testament des Epikrates und andere neue Inschriften aus dem Museum von Manisa* (Sitz. Wien 265.1). Vienna, 1969, pp. 7-36. [(worldcat)](https://search.worldcat.org/title/1123735245)
 
 ## Places
 

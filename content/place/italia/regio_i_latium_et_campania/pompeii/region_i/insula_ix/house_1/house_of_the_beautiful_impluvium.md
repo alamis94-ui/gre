@@ -66,9 +66,9 @@ unspecified
 
 ## Bibliography
 
-* *CIL* IV. 10274, 10333 (for *amphoras* found in the garden March 3, 1952).
-* de Vos, p.135 in Bastet.
-* Jashemski, *Gardens*, vol.II, pp. 44; 395. [(worldcat)](https://search.worldcat.org/title/921816405)
+- *CIL* IV. 10274, 10333 (for *amphoras* found in the garden March 3, 1952).
+- de Vos, p.135 in Bastet.
+- Jashemski, *Gardens*, vol.II, pp. 44; 395. [(worldcat)](https://search.worldcat.org/title/921816405)
 
 ## Places
 

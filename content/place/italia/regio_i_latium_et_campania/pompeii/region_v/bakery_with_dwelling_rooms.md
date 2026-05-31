@@ -76,11 +76,11 @@ Unspecified
 
 ## Bibliography
 
-* Boyce, p. 39, no. 117. [(worldcat)](https://search.worldcat.org/title/491367250)
-* Jashemski, *Gardens*, vol.II, pp. 116, 336.  [(worldcat)](https://search.worldcat.org/title/1029851777)
-* Mau, *RM* (1901), pp. 313-314. [(worldcat)](https://search.worldcat.org/title/1189330863)
-* Schefold, *WändP*, p. 83. [(worldcat)](https://search.worldcat.org/title/1100462668)
-* Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](https://search.worldcat.org/title/1091982220)
+- Boyce, p. 39, no. 117. [(worldcat)](https://search.worldcat.org/title/491367250)
+- Jashemski, *Gardens*, vol.II, pp. 116, 336.  [(worldcat)](https://search.worldcat.org/title/1029851777)
+- Mau, *RM* (1901), pp. 313-314. [(worldcat)](https://search.worldcat.org/title/1189330863)
+- Schefold, *WändP*, p. 83. [(worldcat)](https://search.worldcat.org/title/1100462668)
+- Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](https://search.worldcat.org/title/1091982220)
 
 ## Places
 

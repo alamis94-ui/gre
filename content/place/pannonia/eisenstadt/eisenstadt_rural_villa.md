@@ -29,7 +29,7 @@ The residence of this *villa rustica* was entered on the southeast by a portico 
 
 ## Bibliography
 
-* E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 137-151, fig. 73. [(worldcat)](https://search.worldcat.org/title/785736879)
+- E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 137-151, fig. 73. [(worldcat)](https://search.worldcat.org/title/785736879)
 
 ## Keywords
 

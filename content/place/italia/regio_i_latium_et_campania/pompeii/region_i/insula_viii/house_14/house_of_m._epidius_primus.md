@@ -62,8 +62,8 @@ unspecified
 
 ## Bibliography
 
-* Della Corte, *NSc* (1946), p. 108.
-* Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Della Corte, *NSc* (1946), p. 108.
+- Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
 
 ## Places
 

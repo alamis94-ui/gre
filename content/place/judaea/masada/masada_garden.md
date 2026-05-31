@@ -37,10 +37,10 @@ The Northern or Hanging Palace, the latest of Herod's constructions on the site,
 
 ## Bibliography
 
-* G. Foerster, Masada VII:  The Architectural Decoration.  Jerusalem:  Israel Exploration Society, 1996
-* E. Netzer, Masada V:  The Architecture and Stratigraphy.  Jerusalem:  Israel Exploration Society, 1994 [worldcat](https://search.worldcat.org/title/311674028)
-* E. Netzer The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999, 98-107 [(worldcat)](https://search.worldcat.org/title/1089147869)
-* G. Kathryn L. "The Landscape Palaces of Herod the Great." Near Eastern Archaeology, 77.2 (2014): 76-97. [worldcat](https://search.worldcat.org/title/5856461866)
+- G. Foerster, Masada VII:  The Architectural Decoration.  Jerusalem:  Israel Exploration Society, 1996
+- E. Netzer, Masada V:  The Architecture and Stratigraphy.  Jerusalem:  Israel Exploration Society, 1994 [worldcat](https://search.worldcat.org/title/311674028)
+- E. Netzer The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999, 98-107 [(worldcat)](https://search.worldcat.org/title/1089147869)
+- G. Kathryn L. "The Landscape Palaces of Herod the Great." Near Eastern Archaeology, 77.2 (2014): 76-97. [worldcat](https://search.worldcat.org/title/5856461866)
 
 ## Keywords
 

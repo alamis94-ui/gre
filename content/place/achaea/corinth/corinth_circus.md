@@ -40,8 +40,8 @@ The so-called "hippodrome garden" type (see the Domus Flavia on the Palatine Hil
 
 ## Bibliography
 
-* J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* Berkeley, 1986. [(worldcat)](https://search.worldcat.org/title/299732316)
-* D. G. Romano, "A Roman Circus in Corinth," *Hesperia* 74, 2005: 585-611. [(worldcat)](https://search.worldcat.org/title/359326258).
+- J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* Berkeley, 1986. [(worldcat)](https://search.worldcat.org/title/299732316)
+- D. G. Romano, "A Roman Circus in Corinth," *Hesperia* 74, 2005: 585-611. [(worldcat)](https://search.worldcat.org/title/359326258).
 
 ## Keywords
 

@@ -97,15 +97,15 @@ Augustus' remodeling of the theater and *porticus* (in 32 BCE), discussed above,
 
 ## Bibliography
 
-* F. Coarelli, *Il Campo Marzio*, Rome, 1997, pp. 539-79. [(worldcat)](https://search.worldcat.org/title/906743621)
-* P.A., Gianfrotta, O. Mazzucato, M., Polia, "Scavo nell'area del Teatro Argentina 1968-69," *Bollettino della Commissione Archaeologica Comunale di Roma* 81 (1968-69), pp. 25-36. [(worldcat)](https://search.worldcat.org/title/43879063)
-* K. Gleason, "Porticus Pompeiana: a new perspective on the first public park of ancient Rome," *Journal of Garden History* Vol. 14, No. 1 (1994), pp. 13-27. [(worldcat)](https://search.worldcat.org/title/1100898687)
-* K. Gleason, "Gardens and Landscapes of the Past," *University Expeditions*, Vol. 32, No. 2 (1990), pp. 3-13. [(Expedition)](<http://www.penn.museum/sites/expedition/?p=3110>)
-* P. Grimal, *Les Jardins Romains*, Paris, 1969, pp. 171-6. [(worldcat)](https://search.worldcat.org/title/959046569)
-* E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Porticus Pompei" (P. Gros), pp. 148-9. [(worldcat)](https://search.worldcat.org/title/956078474)
-* A. Kuttner, "Culture and History at Pompey's Museum," *Transactions of the American Philological Association* 129 (1999), pp. 343-73. [(worldcat)](https://search.worldcat.org/title/228297096)
-* M. Gagliardo and J.Packer "A New Look at Pompey's Theater: History, Documentation, and Recent Excavation," *American Journal of Archaeology* Vol. 110, No. 1 (January 2006), pp. 93-122. [(worldcat)](https://search.worldcat.org/title/604029789)
-* E. Macaulay-Lewis, "Use and Reception," in *A Cultural History of Gardens in Antiquity*, ed. K.L. Gleason, London, 2013, pp. 99-118. [(worldcat)](https://search.worldcat.org/title/968535933)
+- F. Coarelli, *Il Campo Marzio*, Rome, 1997, pp. 539-79. [(worldcat)](https://search.worldcat.org/title/906743621)
+- P.A., Gianfrotta, O. Mazzucato, M., Polia, "Scavo nell'area del Teatro Argentina 1968-69," *Bollettino della Commissione Archaeologica Comunale di Roma* 81 (1968-69), pp. 25-36. [(worldcat)](https://search.worldcat.org/title/43879063)
+- K. Gleason, "Porticus Pompeiana: a new perspective on the first public park of ancient Rome," *Journal of Garden History* Vol. 14, No. 1 (1994), pp. 13-27. [(worldcat)](https://search.worldcat.org/title/1100898687)
+- K. Gleason, "Gardens and Landscapes of the Past," *University Expeditions*, Vol. 32, No. 2 (1990), pp. 3-13. [(Expedition)](<http://www.penn.museum/sites/expedition/?p=3110>)
+- P. Grimal, *Les Jardins Romains*, Paris, 1969, pp. 171-6. [(worldcat)](https://search.worldcat.org/title/959046569)
+- E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Porticus Pompei" (P. Gros), pp. 148-9. [(worldcat)](https://search.worldcat.org/title/956078474)
+- A. Kuttner, "Culture and History at Pompey's Museum," *Transactions of the American Philological Association* 129 (1999), pp. 343-73. [(worldcat)](https://search.worldcat.org/title/228297096)
+- M. Gagliardo and J.Packer "A New Look at Pompey's Theater: History, Documentation, and Recent Excavation," *American Journal of Archaeology* Vol. 110, No. 1 (January 2006), pp. 93-122. [(worldcat)](https://search.worldcat.org/title/604029789)
+- E. Macaulay-Lewis, "Use and Reception," in *A Cultural History of Gardens in Antiquity*, ed. K.L. Gleason, London, 2013, pp. 99-118. [(worldcat)](https://search.worldcat.org/title/968535933)
 
 ## Places
 

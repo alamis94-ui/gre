@@ -57,8 +57,8 @@ Unspecified
 
 ## Bibliography
 
-* Fiorelli, *Descrizione di Pompei*, pp. 350-351 [(worldcat)](https://search.worldcat.org/title/1198324804)
-* Jashemski, *Gardens*, 1:160 and 216 (balloon photo) and 217 (plan) on pp. 138-139 [(worldcat)](https://search.worldcat.org/title/1047945215)
-* Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,vol. 3, pl. 2 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
-* Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1, p. 202 (Feb. 7, 1767) [(worldcat)](https://search.worldcat.org/title/952709056)
+- Fiorelli, *Descrizione di Pompei*, pp. 350-351 [(worldcat)](https://search.worldcat.org/title/1198324804)
+- Jashemski, *Gardens*, 1:160 and 216 (balloon photo) and 217 (plan) on pp. 138-139 [(worldcat)](https://search.worldcat.org/title/1047945215)
+- Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,vol. 3, pl. 2 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
+- Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1, p. 202 (Feb. 7, 1767) [(worldcat)](https://search.worldcat.org/title/952709056)

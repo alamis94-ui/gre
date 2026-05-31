@@ -67,10 +67,10 @@ unspecified
 
 ## Bibliography
 
-* Della Corte, *NSc* (1946), p. 95.
-* Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Schefold, *WändP*, p. 37.
-* Soprano, p. 297, no. 7.
+- Della Corte, *NSc* (1946), p. 95.
+- Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Schefold, *WändP*, p. 37.
+- Soprano, p. 297, no. 7.
 
 ## Places
 

@@ -98,5 +98,4 @@ Stub records -- still need to check _index.md files for content or template in t
 
 italia
 
-- Convert * lists to - lists
 - Get coordinates from Pleiades records

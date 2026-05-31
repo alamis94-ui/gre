@@ -58,5 +58,5 @@ Excavated 1953.
 
 ## Bibliography
 
-* Jashemski, W.F. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
-* Orr, David. G. 1972. *Roman Domestic Religion: A Study of the Roman Household Deities and their Shrines at Pompeii and Herculaneum* [(worldcat)](https://search.worldcat.org/title/644432540)
+- Jashemski, W.F. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
+- Orr, David. G. 1972. *Roman Domestic Religion: A Study of the Roman Household Deities and their Shrines at Pompeii and Herculaneum* [(worldcat)](https://search.worldcat.org/title/644432540)

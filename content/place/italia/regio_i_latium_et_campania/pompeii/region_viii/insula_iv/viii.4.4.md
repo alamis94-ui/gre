@@ -66,12 +66,12 @@ The earthquake most likely was the reason the corner columns were reinforced by 
 
 ## Bibliography
 
-* Breton, *Pompeia*, 3rd ed. pp. 461-464 [(worldcat)](https://search.worldcat.org/title/894211341)
-* Fiorelli, *Giornale degli scavi di Pompei* (1861), pp. 46-47, 345, 350 [(worldcat)](https://search.worldcat.org/title/962518899)
-* Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, pp. 2-3 [(worldcat)](https://search.worldcat.org/title/65043382)
-* Fiorelli, *Descrizione di Pompei*, pp. 334-335 [(worldcat)](https://search.worldcat.org/title/252039996)
-* Jashemski, *Gardens*, vol. II, p. 212 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Minervini, *Bullettino archeologico italiano* (1861), p. 53 [(worldcat)](https://search.worldcat.org/title/759182452)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
-* Overbeck and Mau, *Pompeji in seinen Gebäuden, Altertümern und Kunstwerken*, pp. 293-294 and fig. 162(plan) on p. 290 [(worldcat)](https://search.worldcat.org/title/1189285747)
-* Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 49-50 and pl. 32.4 [(worldcat)](https://search.worldcat.org/title/680390526)
+- Breton, *Pompeia*, 3rd ed. pp. 461-464 [(worldcat)](https://search.worldcat.org/title/894211341)
+- Fiorelli, *Giornale degli scavi di Pompei* (1861), pp. 46-47, 345, 350 [(worldcat)](https://search.worldcat.org/title/962518899)
+- Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, pp. 2-3 [(worldcat)](https://search.worldcat.org/title/65043382)
+- Fiorelli, *Descrizione di Pompei*, pp. 334-335 [(worldcat)](https://search.worldcat.org/title/252039996)
+- Jashemski, *Gardens*, vol. II, p. 212 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Minervini, *Bullettino archeologico italiano* (1861), p. 53 [(worldcat)](https://search.worldcat.org/title/759182452)
+- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
+- Overbeck and Mau, *Pompeji in seinen Gebäuden, Altertümern und Kunstwerken*, pp. 293-294 and fig. 162(plan) on p. 290 [(worldcat)](https://search.worldcat.org/title/1189285747)
+- Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 49-50 and pl. 32.4 [(worldcat)](https://search.worldcat.org/title/680390526)

@@ -47,8 +47,8 @@ unspecified
 
 ## Bibliography
 
-* CIL5.7454, cf. p. 7454
-* ILS8342
+- CIL5.7454, cf. p. 7454
+- ILS8342
 
 ## Places
 

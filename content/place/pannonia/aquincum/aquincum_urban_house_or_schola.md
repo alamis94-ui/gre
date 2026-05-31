@@ -31,8 +31,8 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 ## Bibliography
 
-* A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 166, pl. 16b. [(worldcat)](https://search.worldcat.org/title/644823914)
-* H. Polenz and K. Póczy, *Das römische Budapest. Neue Ausgrabungen und Funde in Aquincum*, Münster, 1986, p. 124, fig. 47, pl. 10. [(worldcat)](https://search.worldcat.org/title/19741038)
+- A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 166, pl. 16b. [(worldcat)](https://search.worldcat.org/title/644823914)
+- H. Polenz and K. Póczy, *Das römische Budapest. Neue Ausgrabungen und Funde in Aquincum*, Münster, 1986, p. 124, fig. 47, pl. 10. [(worldcat)](https://search.worldcat.org/title/19741038)
 
 ## Keywords
 

@@ -69,18 +69,18 @@ unspecified
 
 ## Bibliography
 
-* Jashemski, *Gardens*, 1:74-77 and figs. 117, 118, 120, 122 on p. 74-76, fig. 126 on p. 78, figs. 171-173 on pp. 106-107, and fig. 408 on p. 274. [(worldcat)](https://search.worldcat.org/title/884024123)
-* Idem, *Gardens*, vol.II, pp. 44, 317-320. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Bastet, p. 75.
-* De Vos, *Guida*, p. 124.
-* Idem, *Rom.Paint.*, pp. 127-129. [(worldcat)](https://search.worldcat.org/title/1016254127)
-* Le Corsu, "Un oratoire pompéien consacré à Dionysos-Osiris," *RevueArch*, fasc. 2 (1967): 239, 242-249 (little mention of plant material).
-* Maiuri, *BdA*, (1952), pp. 7-9.
-* Michel, pp. 386-390.
-* Peters, "Van Prima Porta," pp. 6-8.
-* *PPP*, 1:95-96.
-* Schefold, *WändP*, p.38.
-* Sichtermann, *Antike Welt* (1974), no. 3, pp. 41-45.
+- Jashemski, *Gardens*, 1:74-77 and figs. 117, 118, 120, 122 on p. 74-76, fig. 126 on p. 78, figs. 171-173 on pp. 106-107, and fig. 408 on p. 274. [(worldcat)](https://search.worldcat.org/title/884024123)
+- Idem, *Gardens*, vol.II, pp. 44, 317-320. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Bastet, p. 75.
+- De Vos, *Guida*, p. 124.
+- Idem, *Rom.Paint.*, pp. 127-129. [(worldcat)](https://search.worldcat.org/title/1016254127)
+- Le Corsu, "Un oratoire pompéien consacré à Dionysos-Osiris," *RevueArch*, fasc. 2 (1967): 239, 242-249 (little mention of plant material).
+- Maiuri, *BdA*, (1952), pp. 7-9.
+- Michel, pp. 386-390.
+- Peters, "Van Prima Porta," pp. 6-8.
+- *PPP*, 1:95-96.
+- Schefold, *WändP*, p.38.
+- Sichtermann, *Antike Welt* (1974), no. 3, pp. 41-45.
 
 ## Places
 

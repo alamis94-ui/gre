@@ -47,7 +47,7 @@ unspecified
 
 ## Bibliography
 
-* CIL 5.2935
+- CIL 5.2935
 
 ## Places
 

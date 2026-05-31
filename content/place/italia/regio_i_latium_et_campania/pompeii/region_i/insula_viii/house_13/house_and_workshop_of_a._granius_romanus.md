@@ -59,8 +59,8 @@ unspecified
 
 ## Bibliography
 
-* Della Corte, *Case*, p. 327.
-* Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Della Corte, *Case*, p. 327.
+- Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
 
 ## Places
 

@@ -57,4 +57,4 @@ Unspecified
 
 ## Bibliography
 
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 226-227 [(worldcat)](https://search.worldcat.org/title/823239162)
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 226-227 [(worldcat)](https://search.worldcat.org/title/823239162)

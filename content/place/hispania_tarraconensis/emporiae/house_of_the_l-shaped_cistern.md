@@ -37,7 +37,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
 
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
+- J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
@@ -64,7 +64,7 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 - A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972 [(worldcat)](https://search.worldcat.org/title/7243478)
 
--  R. Marcet i Barbé and E. Sanmartí, *Empuries*, Barcelona, 1989 [(worldcat)](https://search.worldcat.org/title/22917816)
+- R. Marcet i Barbé and E. Sanmartí, *Empuries*, Barcelona, 1989 [(worldcat)](https://search.worldcat.org/title/22917816)
 
 - R. Mar and J. Ruiz de Arbulo, *Ampurias romana : historia, arquitectura y arqueología*. Sabadell, 1993 [(worldcat)](https://search.worldcat.org/title/30732452)
 

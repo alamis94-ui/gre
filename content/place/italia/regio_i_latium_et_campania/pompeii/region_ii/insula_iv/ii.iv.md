@@ -78,7 +78,7 @@ Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 [worldcat](https://search.worldcat.org/title/792767628)
 - Della Corte, M. 1958. *Notizie degli scavi antichita*, p. 125, no. 238 (Pittakos inscription); [worldcat](https://search.worldcat.org/title/638883283)
 - Dwyer, Eugene J. 1981. *Pompeian Oscilla Collections: (pls. 80-130)* Mainz: Verlag Philipp von Zabern, p. 279, no. 81 [worldcat](https://search.worldcat.org/title/8605701)
--  Rakob, F. 1964. *Ein Grottentriklinium in Pompeji,*RM (1964), pp. 182-194;[worldcat](https://search.worldcat.org/title/915809627)
+- Rakob, F. 1964. *Ein Grottentriklinium in Pompeji,*RM (1964), pp. 182-194;[worldcat](https://search.worldcat.org/title/915809627)
 - Döhl, H. 1976. *Plastik aus Pompeji, tesi di libera d tingen*, pp. 8-10.
 - Idem, *Pompeii (Novara)*, p. 111 [worldcat](https://search.worldcat.org/title/2992975)
 - Idem, *Pomp. Sculpture,* pp. 67, 128, and figs. 197, 212.

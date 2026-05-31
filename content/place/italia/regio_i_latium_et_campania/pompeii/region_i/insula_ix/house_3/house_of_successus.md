@@ -73,11 +73,11 @@ unspecified
 
 ## Bibliography
 
-* Della Corte, *Case*, p. 339, no. 723a.
-* Jashemski, *Gardens*, vol. 1, fig. 160 on p. 102 (for the portrait). [(worldcat)](https://search.worldcat.org/title/884024123)
-* Jashemski, *Gardens*, vol.II, pp. 44; 395. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Maiuri, *Pompeii*, p. 82. [(worldcat)](https://search.worldcat.org/title/470375462)
-* Schefold, *WandP*, p. 38.
+- Della Corte, *Case*, p. 339, no. 723a.
+- Jashemski, *Gardens*, vol. 1, fig. 160 on p. 102 (for the portrait). [(worldcat)](https://search.worldcat.org/title/884024123)
+- Jashemski, *Gardens*, vol.II, pp. 44; 395. [(worldcat)](https://search.worldcat.org/title/921816405)
+- Maiuri, *Pompeii*, p. 82. [(worldcat)](https://search.worldcat.org/title/470375462)
+- Schefold, *WandP*, p. 38.
 
 ## Places
 

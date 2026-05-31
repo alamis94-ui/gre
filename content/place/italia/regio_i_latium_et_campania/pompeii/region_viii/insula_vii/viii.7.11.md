@@ -52,5 +52,5 @@ Unspecified
 
 ## Bibliography
 
-* Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is VIII.viii.11) [(worldcat)](https://search.worldcat.org/title/254502217)
+- Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is VIII.viii.11) [(worldcat)](https://search.worldcat.org/title/254502217)

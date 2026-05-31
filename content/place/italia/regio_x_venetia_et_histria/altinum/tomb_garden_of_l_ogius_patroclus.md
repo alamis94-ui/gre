@@ -47,8 +47,8 @@ unspecified
 
 ## Bibliography
 
-* CIL 5.2176
-* ILS 8369
+- CIL 5.2176
+- ILS 8369
 
 ## Places
 

@@ -48,8 +48,8 @@ unspecified
 
 ## Bibliography
 
-* G. B. Brusin, *Inscriptiones Aquileiae*, Udine 1991-1993, no. 192.[(worldcat)](https://search.worldcat.org/title/603656316)
-* S. Panciera, *Libitina e dintorni : Libitina e i luci sepolcrali*, Rome 2004, nn. 17-31. [(worldcat)](https://search.worldcat.org/title/849004166)
+- G. B. Brusin, *Inscriptiones Aquileiae*, Udine 1991-1993, no. 192.[(worldcat)](https://search.worldcat.org/title/603656316)
+- S. Panciera, *Libitina e dintorni : Libitina e i luci sepolcrali*, Rome 2004, nn. 17-31. [(worldcat)](https://search.worldcat.org/title/849004166)
 
 ## Places
 

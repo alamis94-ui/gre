@@ -62,7 +62,7 @@ This house was excavated in 1882 to reveal a small garden (a) at the rear entere
 
 ## Bibliography
 
-* Dohl, *Plastik aus Pompeji*,p. 46 [(worldcat)](https://search.worldcat.org/title/52662796)
-* Jashemski, *Gardens*, vol. II, p. 218 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p. 108 [(worldcat)](https://search.worldcat.org/title/823239162)
-* Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 377, 422 [(worldcat)](https://search.worldcat.org/title/638883283)
+- Dohl, *Plastik aus Pompeji*,p. 46 [(worldcat)](https://search.worldcat.org/title/52662796)
+- Jashemski, *Gardens*, vol. II, p. 218 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p. 108 [(worldcat)](https://search.worldcat.org/title/823239162)
+- Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 377, 422 [(worldcat)](https://search.worldcat.org/title/638883283)

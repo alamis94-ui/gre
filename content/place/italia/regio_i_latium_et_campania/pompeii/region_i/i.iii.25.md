@@ -49,14 +49,14 @@ B. The viridarium lay across the entire width of the house to the rear. The west
 
 ## Bibliography
 
-* Döhl, H. 1976. *Plastik aus Pompeji*, Habilitationsschrift, Göttingen, p. 1
-* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 74
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 57 [(worldcat)](https://search.worldcat.org/title/9528380)
-* Fiorelli, G. 1870-1873. GiornSc, n.s. 2, col. 461
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 28 [(worldcat)](https://search.worldcat.org/title/222353569)
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78
-* Trendelenberg, A. 1871. *BdI*, p. 172
-* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313)
+- Döhl, H. 1976. *Plastik aus Pompeji*, Habilitationsschrift, Göttingen, p. 1
+- Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 74
+- Fiorelli, G. 1875. *Descrizione di Pompei*, p. 57 [(worldcat)](https://search.worldcat.org/title/9528380)
+- Fiorelli, G. 1870-1873. GiornSc, n.s. 2, col. 461
+- Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 28 [(worldcat)](https://search.worldcat.org/title/222353569)
+- Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78
+- Trendelenberg, A. 1871. *BdI*, p. 172
+- Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313)
 
 ## Places
 
