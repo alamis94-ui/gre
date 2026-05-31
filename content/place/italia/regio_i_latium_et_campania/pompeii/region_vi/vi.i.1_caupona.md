@@ -83,4 +83,4 @@ Soprano, p. 300, no. 13.
 ## Places
 
 - {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}>}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}

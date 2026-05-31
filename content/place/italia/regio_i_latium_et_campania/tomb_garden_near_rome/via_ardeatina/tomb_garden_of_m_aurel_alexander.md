@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- {{< id vocab="Pleiades" id="587835546" name="Via Ardeatina" >}}>}}
+- {{< id vocab="Pleiades" id="587835546" name="Via Ardeatina" >}}
 
 ## Sublocation
 
