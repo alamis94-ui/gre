@@ -5,27 +5,15 @@ type: garden
 title: Rustic villa at Rheinbach-Flerzheim
 latlon: [ 51.606474, 5.794368 ]
 author: Maureen Carroll
-contributor: David Ratzan
+contributor: David Ratzan, Jane Millar, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-31
 draft: true
 ---
 
-## Location
+## Dates
 
-Rheinbach-Flerzheim
-
-## Garden
-
-Rustic villa at Rheinbach-Flerzheim
-
-## Keywords
-
-- {{< keyword "villae rusticae" >}}
-- {{< keyword "hedges" >}}
-- {{< keyword "balnea" >}}
-- {{< keyword "kitchen gardens" >}}
-- {{< keyword "piscinae" >}}
+Second century CE to mid-fifth century CE
 
 ## Garden Description
 
@@ -37,21 +25,25 @@ Enclosing the farm complex was a hedge or row of trees, the planting trenches of
 
 ## Plans
 
-{{< image file="rheinbach-flerzheim_plan1_EUR_GI_RheFle_Rv_carroll.jpg" caption="Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells." credit="Adapted from Carroll 2001, fig. 38." alt="" >}}
+{{< image file="rheinbach-flerzheim_plan1_EUR_GI_RheFle_Rv_carroll.jpg" caption="Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells." credit="Adapted from Carroll 2001, fig. 38." alt="" >}}
 
 <!-- ## Images -->
 
-## Dates
+## Keywords
 
-Second century CE to mid-fifth century CE
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "hedges" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "archaeobotany" >}}
+- {{< keyword "pollen" >}}
 
 ## Bibliography
 
 - M. Gechter, "Der römische Gutshof von Rheinbach-Flerzheim," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 249-54, 452-60. [worldcat](https://search.worldcat.org/title/28027282)
 - M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 79, fig. 38. [worldcat](https://search.worldcat.org/title/1120840822)
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="981524" name="Germania Inferior" >}}
-- {{< id vocab="TGN" id="7192890" name="Flerzheim (inhabited place)" >}}
-
+-->

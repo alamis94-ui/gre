@@ -89,7 +89,6 @@
 
 User forks of the old GRE repo that have updates that might not be in main GRE repo, as of 2025-03-26:
 - [ ] [amartyashri](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...amartyashri:gre-archive-2025-06-04:master) (Amartya Shri) - 28 files in Achaea, Pleaides links, removed empty sections
-- [ ] [jemillar](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...jemillar:gre-archive-2025-06-04:master) (Jane Millar, UT Austin) - 36 files in Achaea, Germania Inferior, Italia: links, tags, etc.
 
 
 Stub records -- still need to check _index.md files for content or template in these provinces:
@@ -98,3 +97,6 @@ italia
 
 - Get coordinates from Pleiades records
 - search "fishes" -- some snippets are too long!
+- people pages are not listing all contributors
+- editorial style for including species names (hambach has two different styles)
+- inline links that go to external sites should be marked as such, and open in new tab

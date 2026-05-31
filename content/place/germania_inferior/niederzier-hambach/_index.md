@@ -3,16 +3,18 @@ gre_id: "ad09c89554"
 aliases: [/id/ad09c89554]
 type: place
 title: Niederzier-Hambach
-author: Author Name
-contributor: Contributor Name
+author: Maureen Carroll
+contributor: Keith Jenkins
 date: 2026-05-16
-modified: 2026-05-16
+modified: 2026-05-31
 draft: true
 ---
 
 <!-- ## Dates -->
 
 ## Place Description
+
+In the Hambacher Forst region, which lies approximately 30-35 km. west of the former capital city [Colonia Claudia Ara Agrippinensium (mod. Cologne)](https://pleiades.stoa.org/places/108751), a number of modest *villae rusticae* have been excavated.
 
 <!--
 ## Maps
@@ -39,8 +41,6 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="109210" name="Niederzier-Hambach" >}}

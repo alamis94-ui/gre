@@ -5,35 +5,15 @@ type: garden
 title: Atrium House
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
-contributor: David Ratzan
+contributor: David Ratzan, Jane Millar
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-31
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Cologne]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108751" name="Cologne" >}}
-
-## Location Description
-
-This large town on the west bank of the Rhine river was the *civitas* capital of the Ubii in the first half of the 1st century CE. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
-## Garden
-
-Atrium House (Colonia Claudia Ara Agrippinensium)
-
-## Keywords
-
-- {{< keyword "villae urbanae" >}}
-- {{< keyword "villae urbanae" >}}
-- {{< keyword "atrium houses" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "apsed pools" >}}
-- {{< keyword "piscinae" >}}
+Middle of the first century CE until the fourth century CE
 
 ## Garden Description
 
@@ -45,24 +25,26 @@ Entering from the colonnaded street at the west, one passed through a room recon
 
 ## Plans
 
-{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}}
+{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the Atrium House at Colonia Claudia Ara Agrippinensium with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}}
 
 <!-- ## Images -->
-
-## Dates
-
-Middle of the first century CE until the fourth century CE
 
 ## Bibliography
 
 - G. Precht, "Die Ausgrabungen um den Kölner Dom. Vorbericht über die Untersuchungen," *Kölner Jahrbuch* 12, 1971:55-56, fig. 2, pl. 7.2. [(worldcat)](https://search.worldcat.org/title/638867317)
-- H. Hellenkemper, "Architektur als Beitrag zur Geschichte der CCAA," in H. Temporini, ed., *Aufstieg und Niedergang der Römischen Welt* II.4, Berlin, 1974, p. 810, figs. 20-21.
+- H. Hellenkemper, "Architektur als Beitrag zur Geschichte der CCAA," in H. Temporini, ed., *Aufstieg und Niedergang der Römischen Welt* II.4, Berlin, 1974, p. 810, figs. 20-21. [(worldcat)](http://www.worldcat.org/oclc/874279979)
+
+## Keywords
+
+- {{< keyword "villae urbanae" >}}
+- {{< keyword "atrium houses" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "apsed pools" >}}
+- {{< keyword "piscinae" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
-- {{< id vocab="TGN" id="7004446" name="Cologne (inhabited place)" >}}
-
-## Related articles
-
-[House of Dionysos (Colonia Claudia Ara Agrippinensium)]({{<relref "colonia_cologne_dionysius.md">}})

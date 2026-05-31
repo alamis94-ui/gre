@@ -5,28 +5,15 @@ type: garden
 title: Urban House on Lungenstrasse
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
-contributor: David Ratzan
+contributor: David Ratzan, Jane Millar
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-31
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Cologne]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108751" name="Cologne" >}}
-
-## Location Description
-
-This large town on the west bank of the Rhine river was the *civitas* capital of the Ubii in the first half of the 1st century CE. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
-## Garden
-
-Urban house on Lungenstrasse (Colonia Claudia Ara Agrippinensium)
-
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "mural paintings" >}}
+mid-first to mid-second century CE
 
 ## Garden Description
 
@@ -42,16 +29,17 @@ In the leveled remains of the 1st century house were fragments of painted wall p
 
 {{< image file="cologne_lungenstrasse_image1_EUR_GI_ColClaAA_HL_carroll.jpg" caption="Fragments of garden paintings from the peristyle courtyard house on Lungengasse (Colonia Claudia Ara Agrippinensium)." credit="Photo courtesy of M. Carroll." alt="" >}}
 
-## Dates
-
-mid-first to mid-second century CE
-
+<!--
 ## Bibliography
 
 None
+-->
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "mural paintings" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
-- {{< id vocab="TGN" id="7004446" name="Cologne (inhabited place)" >}}
-

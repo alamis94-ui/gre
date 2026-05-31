@@ -3,16 +3,18 @@ gre_id: "89b93a50e5"
 aliases: [/id/89b93a50e5]
 type: place
 title: Colonia Ulpia Xanten
-author: Author Name
+author: Keith Jenkins
 contributor: Contributor Name
 date: 2026-05-16
-modified: 2026-05-16
+modified: 2026-05-31
 draft: true
 ---
 
 <!-- ## Dates -->
 
 ## Place Description
+
+Colonia Ulpia Traiana is located in the modern city of Xanten, Germany.
 
 <!--
 ## Maps
@@ -39,8 +41,8 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
+
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="108896" name="Col. Ulpia Traiana/Tricensimae" >}}
+- {{< id vocab="TGN" id="7208125" name="Colonia Ulpia Traiana (ancient site)" >}}

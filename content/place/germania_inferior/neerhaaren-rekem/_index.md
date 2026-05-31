@@ -4,9 +4,9 @@ aliases: [/id/81613b5173]
 type: place
 title: Neerhaaren-Rekem
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-16
-modified: 2026-05-16
+modified: 2026-05-31
 draft: true
 ---
 
@@ -39,8 +39,7 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="109193" name="Neerhaaren-Rekem" >}}
+- {{< id vocab="TGN" id="7251143" name="Neerharen (inhabited place)" >}}

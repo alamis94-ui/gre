@@ -5,31 +5,15 @@ type: garden
 title: Urban House on Gertrudenstrasse
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
-contributor: David Ratzan
+contributor: David Ratzan, Jane Millar
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-31
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Cologne]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108751" name="Cologne" >}}
-
-## Location Description
-
-This large town on the west bank of the Rhine river was the *civitas* capital of the Ubii in the first half of the 1st century CE. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
-## Garden
-
-Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)
-
-## Keywords
-
-- {{< keyword "villae urbanae" >}}
-- {{< keyword "villae urbanae" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "apsed pools" >}}
-- {{< keyword "piscinae" >}}
+Middle of the first century CE until the fourth century CE
 
 ## Garden Description
 
@@ -45,13 +29,16 @@ The courtyard was unpaved, and the presence of a source of water suggests that i
 
 <!-- ## Images -->
 
-## Dates
-
-Middle of the first century CE until the fourth century CE
-
 ## Bibliography
 
 - R. Thomas, *Römische Wandmalerei in Köln*, Mainz, 1993, pp. 321-327, figs. 138-39. [(worldcat)](https://search.worldcat.org/title/30330730)
+
+## Keywords
+
+- {{< keyword "villae urbanae" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "apsed pools" >}}
+- {{< keyword "piscinae" >}}
 
 ## Places
 
