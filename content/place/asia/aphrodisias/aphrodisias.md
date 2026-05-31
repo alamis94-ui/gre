@@ -37,10 +37,10 @@ Aphrodisias (_Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis_), in Ca
 - Roueché, C., and J.M. Reynolds. 1989. _Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim_. London: Society for the Promotion of Roman Studies. [(worldcat)](https://search.worldcat.org/title/4669803971)
 - Wilson, A.I. 2015. "Water, nymphs and a palm grove: monumental water displays at Aphrodisias." In _Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012_, edited by R.R.R. Smith, J. Lenaghan, A. Sokolicek, and K. Welch, 100-135. _JRA_ Supplement 103. [(worldcat)](https://search.worldcat.org/title/950610833)
 
-<!-- 
+<!--
 original bibliography
-- T. Reinach, "Inscriptions d'Aphrodisias" REG 19 (1906), n. 15, p. 107 [(worldcat)](https://search.worldcat.org/title/504802954) 
-- Charlotte Roueché, Joyce Maire Reynolds, *Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim*. London:  Society for the Promotion of Roman Studies, 1989, Pp. 70, 71, 78. [(worldcat)](https://search.worldcat.org/title/4669803971) 
+- T. Reinach, "Inscriptions d'Aphrodisias" REG 19 (1906), n. 15, p. 107 [(worldcat)](https://search.worldcat.org/title/504802954)
+- Charlotte Roueché, Joyce Maire Reynolds, *Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim*. London:  Society for the Promotion of Roman Studies, 1989, Pp. 70, 71, 78. [(worldcat)](https://search.worldcat.org/title/4669803971)
 - Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water display at Aphrodisias (R. R. R. Smith, J. Lenaghan, A. Sokolicek, & K. Welch, Eds.), Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012, Portsmouth, Journal of Roman Archaeology. Supplement 103, 100-135. [(worldcat)](https://search.worldcat.org/title/6568599066) -->
 
 ## Keywords

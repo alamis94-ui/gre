@@ -14,7 +14,7 @@ containing:
 {{- with resources.Get "keywords.csv" -}}
     {{- $opts := dict "targetType" "map" -}}
     {{- $keywords = transform.Unmarshal $opts . -}}
-    
+
     {{/* include version of keywords without parentheticals */}}
     {{ $morekeywords := slice }}
     {{ range $keywords }}

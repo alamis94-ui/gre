@@ -44,7 +44,7 @@ A large and heavy stone found in 1904 in use as a doorstep at Kale Keui records 
 ## Bibliography
 
 - T. Callender, “Explorations in Lycaonia and Isauria,” in W. M. Ramsay, ed., Studies in the History and Art of the Eastern Provinces of the Roman Empire. Aberdeen, 1906, p. 164, no. 23.
-- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, p. 144. 
+- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, p. 144.
 
 <!--
 ## Keywords

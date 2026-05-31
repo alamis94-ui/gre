@@ -43,6 +43,6 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 - {{< keyword "statues" >}}
 - {{< keyword "statuettes" >}}
 
-<!-- 
+<!--
 ## Places
 -->

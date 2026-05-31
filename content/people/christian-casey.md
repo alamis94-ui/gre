@@ -6,7 +6,7 @@ draft: true
 ---
 
 ISAW Library (Institute for the Study of the Ancient World)
-CLIR Fellow (2019-2021) (Council on Library and Information Resources) 
+CLIR Fellow (2019-2021) (Council on Library and Information Resources)
 
 <!--
 ## E-mail

@@ -18,23 +18,23 @@ vHighlights = []
 
 # Navigate the directory tree start at a predefined root directory
 for sRoot, vDirs, vFiles in os.walk(sBaseDir):
-    
+
     # Loop through all the files in the current directory
     for sFilename in vFiles:
         _, sExt = os.path.splitext(sFilename)   # Get file extension (looking for .md)
-        
+
         # Work with only .md files, but not with any _index.md files
         # This leaves only the entries proper
         if sExt == '.md' and not sFilename == '_index.md':
-            
+
             with open(os.path.join(sRoot,sFilename),'r') as f:
                 sFile = f.read()
-            
+
             for tMatch in re.findall(reHighlightedText, sFile):
                 if not tMatch in vHighlights:
                     vHighlights.append(tMatch)
 
-# Now that we've found them all and added them to a list, 
+# Now that we've found them all and added them to a list,
 # we can go through the list and print them out or save them into a text file or whatever
 for tHighlight in vHighlights:
     # We can use the color in the style attribute to set the text color!

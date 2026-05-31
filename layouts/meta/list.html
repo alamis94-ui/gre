@@ -38,7 +38,7 @@
             </tr>
         {{ end }}
     </table>
-    
+
     {{ $pages := sort (where .Site.RegularPages "Type" "garden") "Path" }}
     <h1 id="gardens">All gardens ({{ $pages.Len }})</h1>
     <table class="meta" id="metagarden">
@@ -56,7 +56,7 @@
             {{ if $v.Draft}}
                 {{ $draft = "draft"}}
             {{ end }}
-            
+
             <tr class="{{ $draft }}">
                 <td>{{ add 1 $i }}</td>
                 <td class="path"><a href="{{ urls.JoinPath site.BaseURL $v.Path }}">{{ $v.Path }}</a></td>

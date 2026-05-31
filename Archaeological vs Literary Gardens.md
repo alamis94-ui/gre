@@ -16,7 +16,7 @@
 - [x] Features Pausanias *and* Pindar
 - [x] No excavations
 - [x] No bibliography
-- [x] No plans 
+- [x] No plans
 
 ### Athens
 
@@ -52,28 +52,28 @@
 
 - [ ] No authors cited
 - [ ] No excavations explicitly mentioned, but it is clear that information gathered was from excavations
-- [ ] Has bibliography 
+- [ ] Has bibliography
 - [ ] Has a plan
 
 #### Hadrian's Library - Literary and Archaeological
 
 - [x] Pausanias cited
 - [ ] No excavations explicitly mentioned, but it is clear that some information gathered was from excavations
-- [ ] Has bibliography 
+- [ ] Has bibliography
 - [ ] Has a plan
 
 #### Temple of Hephaistos - Archaeological
 
 - [ ] No authors cited
 - [ ] Excavations mentiones
-- [ ] Has bibliography 
+- [ ] Has bibliography
 - [ ] Has a plan
 
 #### Altar of the Twelve Gods - Literary and Archaeological
 
 - [x] Roman author Statius cited
 - [ ] Clear signs of excavations int he bibliography
-- [ ] Has bibliography 
+- [ ] Has bibliography
 - [x] No plans
 
 ### Aulis
@@ -82,14 +82,14 @@
 
 - [x] Pausanias, Homer, Euripides cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ### Chaeronea
 
 #### Tomb Garden and Cistern of Gallatis, son of Pythion - Literary (evidence comes from inscription)
 
-- [x] Gallatis'sinscription is the sole reference 
+- [x] Gallatis'sinscription is the sole reference
 - [x] No excavations
 - [ ] Has bibliography (source used only as a tool for getting the primary source inscription)
 - [x] No plan
@@ -109,7 +109,7 @@
 
 - [x] Pausanias cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ### Eua
@@ -118,7 +118,7 @@
 
 - [ ] No author
 - [ ] Has excavations
-- [ ] Has bibliography 
+- [ ] Has bibliography
 - [x] No plan (could just mean they cound't come by one, not nesccisarily because it's a literary garden)
 
 ### Isthmia
@@ -127,7 +127,7 @@
 
 - [x] Pausanias cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ### Kyrtones
@@ -136,7 +136,7 @@
 
 - [x] Pausanias cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ### Megalopolis
@@ -145,16 +145,16 @@
 
 - [x] Pausanias cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ### Nemea
 
-#### Sanctuary of Zeus - Literary and Archaeological 
+#### Sanctuary of Zeus - Literary and Archaeological
 
 - [x] Pausanias cited
 - [ ] Excavations mentioned
-- [ ] Has bibliography 
+- [ ] Has bibliography
 - [ ] Has plan
 
 ### Nikopolis
@@ -163,7 +163,7 @@
 
 - [x] Dio Cassius, Seutonius, Plutarch, Antonius, and Strabo cited
 - [ ] Has excavations mentioned
-- [ ] Has bibliography 
+- [ ] Has bibliography
 - [ ] Has plan
 
 ### Olympia
@@ -172,7 +172,7 @@
 
 - [x] Pindar, Pausanias cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 #### House of Nero - Archaeological
@@ -209,7 +209,7 @@
 
 - [x] Pausanias, Strabo, Homer cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ### Pallene
@@ -218,7 +218,7 @@
 
 - [x] Pausanias cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ### Phigalia
@@ -227,7 +227,7 @@
 
 - [x] Pausanias cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ### Sikyon
@@ -236,7 +236,7 @@
 
 - [x] Pausanias cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ### Titane
@@ -245,7 +245,7 @@
 
 - [x] Pausanias cited
 - [x] No excavations explicitly mentioned
-- [x] No bibliography 
+- [x] No bibliography
 - [x] No plan
 
 ## Conclusion

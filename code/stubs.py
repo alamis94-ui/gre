@@ -12,14 +12,14 @@
 # Aegyptus,Fayum,Vineyard at Theadelphia
 #
 # Given that input, the following files will be created (if they don't already exist)
-# 
+#
 # /content/place/aegyptus/_index.md
 # /content/place/aegyptus/alexandria/_index.md
 # /content/place/aegyptus/alexandria/kanopos.md
 # /content/place/aegyptus/alexandria/three_tomb_gardens_at_kanopos.md
 # /content/place/aegyptus/fayum/_index.md
 # /content/place/aegyptus/fayum/vinyard_at_theadelphia.md
-# 
+#
 
 import os
 import re
@@ -31,7 +31,7 @@ def pathize(s):
     # lowercase, with all punctuation (except hyphens) converted to underscores
     if s:
         return re.sub(r'[^\w-]+', '_', s.lower().strip())
-    
+
 def run(s):
     """Run the command"""
     if s:
@@ -56,7 +56,7 @@ with open('code/stubs.csv', newline='') as f:
             # create the garden
             if g:
                 run(f'hugo new content place/{p}/{s}/{g}.md -k garden --quiet')
-        
+
         # or make a garden without a sublocation
         elif g:
             run(f'hugo new content place/{p}/{g}.md -k garden --quiet')

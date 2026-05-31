@@ -8,12 +8,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>
-		{{- if not (eq .Path "/home") -}}  
+		{{- if not (eq .Path "/home") -}}
 			{{- $mytitle := .Title -}}
 			{{- if not .Title -}}
 				{{- $mytitle = (replaceRE "/place/" " " .Path | title) -}}
 			{{- end -}}
-			{{- $mytitle }} - 
+			{{- $mytitle }} -
 		{{ end -}}
 		{{- .Site.Title -}}
 	</title>

@@ -73,7 +73,7 @@ unspecified
 - Peters, "Van Prima Porta," pp. 6-8.
 - *PPP*, 1:95-96, 1:101-102.
 - Schefold, *WändP*, p.38.
-- Sichtermann, *Antike Welt* (1974), no. 3, pp. 41-48. 
+- Sichtermann, *Antike Welt* (1974), no. 3, pp. 41-48.
 
 ## Places
 
