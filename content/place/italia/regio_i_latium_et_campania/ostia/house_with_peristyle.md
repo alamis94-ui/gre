@@ -3,7 +3,7 @@ gre_id: "93e760d9c3"
 aliases: [/id/93e760d9c3]
 type: garden
 title: House with Peristyle
-latlon: [ 41.752743867143124, 12.286672797879733 ]
+latlon: [ 41.752499, 12.287096 ]
 author: Thomas Morard
 contributor: Joshua Rosenheim
 date: 2021-04-21

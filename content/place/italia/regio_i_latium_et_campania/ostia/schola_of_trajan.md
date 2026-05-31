@@ -3,7 +3,7 @@ gre_id: "d74ca61040"
 aliases: [/id/d74ca61040]
 type: garden
 title: Schola of Trajan
-latlon: [ 41.752743867143124, 12.286672797879733 ]
+latlon: [ 41.752343, 12.286960 ]
 author: Thomas Morard
 contributor: Joshua Rosenheim
 date: 2021-04-21

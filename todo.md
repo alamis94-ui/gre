@@ -89,9 +89,7 @@
 
 User forks of the old GRE repo that have updates that might not be in main GRE repo, as of 2025-03-26:
 - [ ] [amartyashri](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...amartyashri:gre-archive-2025-06-04:master) (Amartya Shri) - 28 files in Achaea, Pleaides links, removed empty sections
-- [ ] [crc034](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...crc034:gre-archive-2025-06-04:master) (Clarie Campbell, Univ. Arkansas) - 4 files in Italia: draft=false, ignore /docs files
 - [ ] [jemillar](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...jemillar:gre-archive-2025-06-04:master) (Jane Millar, UT Austin) - 36 files in Achaea, Germania Inferior, Italia: links, tags, etc.
-- [ ] [joshuarosenheim](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...joshuarosenheim:gre-archive-2025-06-04:master) (Joshua Rosenheim, Cornell) - 9 files in Italia (Ostia and Rome): coordinates, but beware some files have moved
 
 
 Stub records -- still need to check _index.md files for content or template in these provinces:
@@ -99,3 +97,4 @@ Stub records -- still need to check _index.md files for content or template in t
 italia
 
 - Get coordinates from Pleiades records
+- search "fishes" -- some snippets are too long!

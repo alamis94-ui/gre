@@ -3,7 +3,7 @@ gre_id: "25fff046fb"
 aliases: [/id/25fff046fb]
 type: garden
 title: Porticus of Pompey
-latlon: [ 41.894007, 12.479061 ]
+latlon: [ 41.895098, 12.475233 ]
 author: Elizabeth Macaulay, Kathryn Gleason
 contributor: Joshua Rosenheim, Rhiannon Paré
 date: 2021-04-17

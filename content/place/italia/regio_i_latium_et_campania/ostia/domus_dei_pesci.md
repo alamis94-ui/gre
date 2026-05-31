@@ -3,7 +3,7 @@ gre_id: "0c51c2cecb"
 aliases: /id/0c51c2cecb
 type: garden
 title: Garden beneath the House of the Fishes (Domus dei Pesci)
-latlon: [ 41.75282967075262, 12.28930212931829 ]
+latlon: [ 41.752740, 12.289140 ]
 author: Stella Falzone
 contributor: Joshua Rosenheim
 date: 2021-04-21
