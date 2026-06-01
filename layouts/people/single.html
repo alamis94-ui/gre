@@ -21,22 +21,79 @@
 
         {{/* list authored garden and place pages */}}
         {{ $pages := where (where .Site.Pages ".Params.Author" $person) ".Type" "like" "garden|place" }}
+        {{ $seen := slice }}
         {{ if $pages }}
+            <hr>
             <h2>Author of</h2>
             <ul class="people-gardens">
-            {{ range $pages }}
-                <li><a href="{{ urls.JoinPath site.BaseURL (index .Aliases 0) }}">{{ .Title }}</a></li>
+            {{ range sort $pages ".Path" "asc" }}
+                {{ $type := .Type }}
+                {{ $aliases := .Aliases }}
+                {{ $path := replace .Path "/place/" "" }}
+                {{ $path = replaceRE "_" " " $path }}
+                {{ $folder := $path }}
+                {{ if eq $type "garden" }}
+                    {{ $folder = replaceRE "/[^/]*$" "" $folder }}
+                {{ end }}
+                {{ $indent := mul 2 (strings.Count "/" $path) }}
+                {{ if not (in $seen $folder) }}
+                    {{ range $k, $v := split $folder "/" }}
+                        {{ if not (in $seen .) }}
+                            <div style="margin-left: {{ mul 2 $k }}em" {{ if eq $k 0 }}class="province"{{ end }}>
+                                {{ if eq $type "place" }}
+                                    <a href="{{ urls.JoinPath site.BaseURL (index $aliases 0) }}">{{ title . }}</a> (place)
+                                {{ else }}
+                                    {{ title . }}
+                                {{ end }}
+                            </div>
+                            {{ $seen = $seen | append . }}
+                        {{ end }}
+                    {{ end }}
+                    {{ $seen = $seen | append $folder }}
+                {{ end }}
+                {{ if eq .Type "garden" }}
+                    <div style="margin-left:{{ $indent }}em"> <a href="{{ urls.JoinPath site.BaseURL (index .Aliases 0) }}">{{ .Title }}</a></div>
+                {{ end }}
             {{ end }}
             </ul>
         {{ end }}
 
         {{/* list contributions to garden and place pages */}}
-        {{ $pages := where (where .Site.Pages ".Params.Contributor" $person) ".Type" "like" "garden|place" }}
+        {{ $pages := where (where .Site.Pages ".Params.Contributor" "like" $person) ".Type" "like" "garden|place" }}
+        {{ $seen := slice }}
         {{ if $pages }}
+            <hr>
             <h2>Contributor to</h2>
             <ul class="people-gardens">
-            {{ range $pages }}
-                <li><a href="{{ urls.JoinPath site.BaseURL (index .Aliases 0) }}">{{ .Title }}</a></li>
+            {{ range sort $pages ".Path" "asc" }}
+                {{ $type := .Type }}
+                {{ $aliases := .Aliases }}
+                {{ $path := replace .Path "/place/" "" }}
+                {{ $path = replaceRE "_" " " $path }}
+                {{ $folder := $path }}
+                {{ if eq $type "garden" }}
+                    {{ $folder = replaceRE "/[^/]*$" "" $folder }}
+                {{ end }}
+                {{ $indent := mul 2 (strings.Count "/" $path) }}
+                {{ if not (in $seen $folder) }}
+                    {{ range $k, $v := split $folder "/" }}
+                        {{ if not (in $seen .) }}
+                            <div style="margin-left: {{ mul 2 $k }}em" {{ if eq $k 0 }}class="province"{{ end }}>
+                                {{ if eq $type "place" }}
+                                    <a href="{{ urls.JoinPath site.BaseURL (index $aliases 0) }}">{{ title . }}</a>
+                                    {{ if eq $k 0 }}(province){{ else }}(place){{ end }}
+                                {{ else }}
+                                    {{ title . }}
+                                {{ end }}
+                            </div>
+                            {{ $seen = $seen | append . }}
+                        {{ end }}
+                    {{ end }}
+                    {{ $seen = $seen | append $folder }}
+                {{ end }}
+                {{ if eq .Type "garden" }}
+                    <div style="margin-left:{{ $indent }}em"><a href="{{ urls.JoinPath site.BaseURL (index .Aliases 0) }}">{{ .Title }}</a></div>
+                {{ end }}
             {{ end }}
             </ul>
         {{ end }}

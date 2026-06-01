@@ -97,6 +97,5 @@ italia
 
 - Get coordinates from Pleiades records
 - search "fishes" -- some snippets are too long!
-- people pages are not listing all contributors
 - editorial style for including species names (hambach has two different styles)
 - inline links that go to external sites should be marked as such, and open in new tab
