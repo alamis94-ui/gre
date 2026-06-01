@@ -3,16 +3,18 @@ gre_id: "a565cfb9a9"
 aliases: [/id/a565cfb9a9]
 type: place
 title: Tyrus
-author: Author Name
-contributor: Contributor Name
+author: Kathryn Gleason, Amina-Aïcha Malek
+contributor: Keith Jenkins
 date: 2026-05-14
-modified: 2026-05-14
+modified: 2026-05-30
 draft: true
 ---
 
 <!-- ## Dates -->
 
 ## Place Description
+
+Tyre, an ancient Phoenician port city (est. 2750 BCE), became part of the Roman Empire in 64 BCE.  It was legendary as the birthplace of the goddess Europa and queen Dido, founder of Carthage.
 
 <!--
 ## Maps
@@ -39,8 +41,6 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="678437" name="Tyrus/Col. Septimia Severa" >}}

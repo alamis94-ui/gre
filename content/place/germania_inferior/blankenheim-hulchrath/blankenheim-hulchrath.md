@@ -5,9 +5,9 @@ type: garden
 title: Rustic villa at Blankenheim-Hülchrath
 latlon: [ 51.606474, 5.794368 ]
 author: Maureen Carroll
-contributor: David Ratzan
+contributor: David Ratzan, Jane Millar
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-31
 draft: true
 ---
 
@@ -22,6 +22,7 @@ Rustic villa at Blankenheim-Hülchrath
 
 ## Keywords
 
+- {{< keyword "courtyards" >}}
 - {{< keyword "villae rusticae" >}}
 
 ## Garden Description
@@ -49,7 +50,5 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981524" name="Germania Inferior" >}}
-- {{< id vocab="TGN" id="6002234" name="Germania Inferior (province)" >}}
-
-
+- {{< id vocab="Pleiades" id="108810" name="Blankenheim-Hülchrath" >}}
+- {{< id vocab="TGN" id="1038549" name="Blankenheim (inhabited place)" >}}

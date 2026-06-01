@@ -5,27 +5,15 @@ type: garden
 title: Rural Villa at Neerhaaren-Rekem
 latlon: [ 50.907583, 5.686724 ]
 author: Maureen Carroll
-contributor: David Ratzan
+contributor: David Ratzan, Jane Millar, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-05-31
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Neerhaaren-Rekem]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="109193" name="Neerhaaren-Rekem" >}}
-
-## Garden
-
-Rural villa at Neerhaaren-Rekem
-
-## Keywords
-
-- {{< keyword "villae rusticae" >}}
-- {{< keyword "arbors" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "piscinae" >}}
+Late first century CE
 
 ## Garden Description
 
@@ -39,15 +27,18 @@ The facade of this modest house of a *villa rustica* near the [Meuse river](http
 
 <!-- ## Images -->
 
-## Dates
-
-Late first century CE
-
 ## Bibliography
 
 - G. De Boe, M. De Bie, and L. Van Impe, "Heerharen-Rekem. Die komplexe Besiedlungsgeschichte einer vor den Kiesbaggern geretteten Fundstätte," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 490-493, fig. 288. [worldcat](https://search.worldcat.org/title/475480390)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 297-300, fig. 105. [worldcat](https://search.worldcat.org/title/445007864)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="109193" name="Neerhaaren-Rekem" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "arbors" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "piscinae" >}}
+
+<!--
+## Places
+-->

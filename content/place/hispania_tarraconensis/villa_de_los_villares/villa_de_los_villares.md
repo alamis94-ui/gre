@@ -13,7 +13,6 @@ draft: true
 
 ## Province
 
-[Hispania Tarraconensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
 
 ## Province Description
@@ -38,7 +37,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
 
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
+- J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
@@ -73,8 +72,8 @@ The first third of the 2nd century
 
 ## Bibliography
 
-* M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1982 [(worldcat)](https://search.worldcat.org/title/876519837)
-* J. M. Blázquez, Los jardines en la Hispania Romana, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 33 [(worldcat)](https://search.worldcat.org/title/1090911182)
+- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1982 [(worldcat)](https://search.worldcat.org/title/876519837)
+- J. M. Blázquez, Los jardines en la Hispania Romana, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 33 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 ## Places
 

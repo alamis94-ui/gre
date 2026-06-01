@@ -79,12 +79,12 @@ vAuthors.sort()
 vAuthorsNotDraft = list(set(vAuthorsNotDraft))
 vAuthorsNotDraft.sort()
 
-# 
+#
 # sAuthorList = ''
 # for tAuthor in vAuthors:
 # 	sAuthorList += '%s\n' % tAuthor
-# 
-# 
+#
+#
 # sAuthorList = sAuthorList.strip()
 
 # Save that list to a file

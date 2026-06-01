@@ -29,7 +29,7 @@ A Roman guest house of the 2nd century CE, so-called Guest House I, was erected 
 
 ## Bibliography
 
-* A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](https://search.worldcat.org/title/51584745)
+- A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](https://search.worldcat.org/title/51584745)
 
 ## Keywords
 

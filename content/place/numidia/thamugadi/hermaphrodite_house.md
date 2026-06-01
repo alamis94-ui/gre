@@ -13,7 +13,6 @@ draft: false
 
 ## Province
 
-- [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
 ## Province Description
@@ -60,9 +59,9 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 
 ## Bibliography
 
-* Ballu, A., *Les ruines de Timgad*, Paris, 1903, p. 90-94. [(worldcat)](https://search.worldcat.org/title/804848941)
-* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
-* Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 65, fig. 7. [(worldcat)](https://search.worldcat.org/title/643640586)
+- Ballu, A., *Les ruines de Timgad*, Paris, 1903, p. 90-94. [(worldcat)](https://search.worldcat.org/title/804848941)
+- Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
+- Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 65, fig. 7. [(worldcat)](https://search.worldcat.org/title/643640586)
 
 ## Places
 

@@ -13,7 +13,6 @@ draft: false
 
 ## Province
 
-- [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
 ## Province Description
@@ -66,10 +65,10 @@ Located SW of the Decumanus and NE of the forum, the house of the "Jardinières"
 
 ## Bibliography
 
-*  Ballu, A., *Les ruines de Timgad (Antique Thamugadi)*, Paris, 1897, pp. 224-226, plan fig. 36. S. [(worldcat)](https://search.worldcat.org/title/1055093825)
-*  Boeswillwald, E., Cagnat, R., Ballu, A., *Timgad: une cité africaine sous l'Empire romain*, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.[(worldcat)](https://search.worldcat.org/title/156040038)
-* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
-*  Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](https://search.worldcat.org/title/643640586)
+- Ballu, A., *Les ruines de Timgad (Antique Thamugadi)*, Paris, 1897, pp. 224-226, plan fig. 36. S. [(worldcat)](https://search.worldcat.org/title/1055093825)
+- Boeswillwald, E., Cagnat, R., Ballu, A., *Timgad: une cité africaine sous l'Empire romain*, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.[(worldcat)](https://search.worldcat.org/title/156040038)
+- Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
+- Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](https://search.worldcat.org/title/643640586)
 
 ## Places
 

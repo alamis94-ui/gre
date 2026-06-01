@@ -36,7 +36,7 @@ Lycaonia was part of the central interior region of Anatolia, north of the Tauru
 
 - “Lycaonia,” Brill’s New Pauly, eds. H. Cancik and H. Schneider, Brill Online, 2012.
 - M.H. Ballance, “Roman Roads in Lycaonia” Anatolian Studies, 8, 1958: 223-34.
-- A.N. Sherwin-White, “Rome, Pamphylia and Cilicia, 133-70 B.C.” Journal of Roman Studies, 66, 1976: 1-14. 
+- A.N. Sherwin-White, “Rome, Pamphylia and Cilicia, 133-70 B.C.” Journal of Roman Studies, 66, 1976: 1-14.
 
 <!--
 ## Keywords

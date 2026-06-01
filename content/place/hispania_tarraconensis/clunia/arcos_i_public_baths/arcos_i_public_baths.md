@@ -13,7 +13,6 @@ draft: true
 
 ## Province
 
-- [Hispania Tarraconensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
 
 ## Province Description
@@ -38,7 +37,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
 
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
+- J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
@@ -61,7 +60,7 @@ The steep sides of the meseta and its height above the surrounding plain clearly
 
 - A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972, pp. 125-133 [(worldcat)](https://search.worldcat.org/title/7243478)
 
--  P. de Palol, *Clunia, Historia de la ciudad y guía de las excavaciones*. Diputación Provincial de Burgos, 1994 [(worldcat)](https://search.worldcat.org/title/34212878)
+- P. de Palol, *Clunia, Historia de la ciudad y guía de las excavaciones*. Diputación Provincial de Burgos, 1994 [(worldcat)](https://search.worldcat.org/title/34212878)
 
 - On the underground water system, see L. Valdés, F. Tuset, J. Reina, M. Farjas, *Colonia Clunia Sulpicia*  at  public-repository.epoch-net.org/publications/VAST2004/37-44.pdf.
 

@@ -1,8 +1,8 @@
 ---
 title: "Pompeii: status update"
 date: 2021-04-21
-author: 
-contributor: 
+author:
+contributor:
 draft: false
 ---
 

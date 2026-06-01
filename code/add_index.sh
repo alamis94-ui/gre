@@ -2,7 +2,7 @@
 
 #script to recursively travel the content directory and create _index.md files
 
-function traverse() {   
+function traverse() {
     for file in $(ls "$1")
     do
         if [[ ! -d "${1}/${file}" ]]; then

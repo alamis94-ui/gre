@@ -13,7 +13,6 @@ draft: true
 
 ## Province
 
-[Lusitania]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
@@ -63,7 +62,7 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 
 ## Bibliography
 
-* R. Durán Cabello, 'La técnica constructiva de la llamada 'Casa Basílica' de Mérida', in *La casa urbana hispanorromana : ponencias y comunicaciones.*, 1991, pp. 359-69. [(worldcat)](https://search.worldcat.org/title/434540010)
+- R. Durán Cabello, 'La técnica constructiva de la llamada 'Casa Basílica' de Mérida', in *La casa urbana hispanorromana : ponencias y comunicaciones.*, 1991, pp. 359-69. [(worldcat)](https://search.worldcat.org/title/434540010)
 
 ## Places
 

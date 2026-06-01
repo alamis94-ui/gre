@@ -71,7 +71,7 @@ Gardens: Beginning and last third of second century
 
 ## Bibliography
 
-* C. Gaston and C. Munier "Une luxueuse domus de la find du IIe siècle à Besançon, college Lumière (Doubs, F)"" in *Premières Journées archéologiques frontalières de l'Arc jurassien: Mandeure, sa campagne et ses relations d'Avenches à Luxeuil et d'Augst à Besançon*. Ed, Cécile Bélet-Gonda, Presses Univ. Franche-Comté (2007), 103-112.
+- C. Gaston and C. Munier "Une luxueuse domus de la find du IIe siècle à Besançon, college Lumière (Doubs, F)"" in *Premières Journées archéologiques frontalières de l'Arc jurassien: Mandeure, sa campagne et ses relations d'Avenches à Luxeuil et d'Augst à Besançon*. Ed, Cécile Bélet-Gonda, Presses Univ. Franche-Comté (2007), 103-112.
 
 ## Places
 

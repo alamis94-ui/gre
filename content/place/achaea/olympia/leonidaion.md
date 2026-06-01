@@ -29,8 +29,8 @@ This building southwest of the temple of Zeus was the largest guest house in the
 
 ## Bibliography
 
-* A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](https://search.worldcat.org/title/51584745)
-* R. Tölle-Kastenbein, *Antike Wasserkultur*. Munich, 1990, p. 192. [(worldcat)](https://search.worldcat.org/title/231090332)
+- A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](https://search.worldcat.org/title/51584745)
+- R. Tölle-Kastenbein, *Antike Wasserkultur*. Munich, 1990, p. 192. [(worldcat)](https://search.worldcat.org/title/231090332)
 
 ## Keywords
 

@@ -49,7 +49,7 @@ unspecified
 
 ## Bibliography
 
-* D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, p. 495, fig. 471.
+- D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, p. 495, fig. 471.
 
 ## Places
 

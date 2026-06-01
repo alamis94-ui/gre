@@ -4,9 +4,9 @@ aliases: [/id/f490521a98]
 type: place
 title: Voerendaal
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-16
-modified: 2026-05-16
+modified: 2026-05-31
 draft: true
 ---
 
@@ -39,8 +39,7 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="109442" name="Voerendaal" >}}
+- {{< id vocab="TGN" id="7272601" name="Voerendaal (inhabited place)" >}}

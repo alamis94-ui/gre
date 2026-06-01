@@ -23,7 +23,7 @@ Itzar Hirshfeld identified a possible balsam terrace near the oasis of Ein Gedi,
 The only possible archaeobotanical evidence found to date for the plant itself comes from a cave at Qumran. Porath and Arubas report that a small Herodian-period juglet wrapped in palm fibers and carefully hidden in the rocks contains oil that does not correspond with any known modern oil and is consistent with ancient descriptions of balsam but analysis on the contents was less than conclusive.
 Date palm remains, by contrast, are commonly seen in the carbonized plant remains found in Jericho, Wadi Qelt, Masada,Kumran, and other excavations in the valley.  In an astonishing recent development, botanist Elaine Solowey was able to use growth hormones to activate three dessicated date pits from excavated contexts at Masada.  These were C14 dated to the Roman period.  One seed successfully grew into a male palm.  Subsequent work with desiccated pits from the Kumran area have produced female plants. (Sallon et al. 2020)
 
-<!-- 
+<!--
 ## Maps
 -->
 
@@ -39,8 +39,8 @@ Date palm remains, by contrast, are commonly seen in the carbonized plant remain
 
 ## Bibliography
 
-* Patrich, J.,"A Juglet Containing Balsam Oil (?) from a Cave near Qumran," Israel Exploration Journal  39 (1989):43-49 [(worldcat)](https://search.worldcat.org/title/310426513)
-* Sallon, S., Cherif, E., Chabrillange, N., Solowey, E., Gros-Balthazard, M., Ivorra, S., & Aberlenc, F. (2020). Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies. Science advances, 6(6), eaax0384. [(worldcat)](https://search.worldcat.org/title/8536654525)
+- Patrich, J.,"A Juglet Containing Balsam Oil (?) from a Cave near Qumran," Israel Exploration Journal  39 (1989):43-49 [(worldcat)](https://search.worldcat.org/title/310426513)
+- Sallon, S., Cherif, E., Chabrillange, N., Solowey, E., Gros-Balthazard, M., Ivorra, S., & Aberlenc, F. (2020). Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies. Science advances, 6(6), eaax0384. [(worldcat)](https://search.worldcat.org/title/8536654525)
 
 ## Keywords
 

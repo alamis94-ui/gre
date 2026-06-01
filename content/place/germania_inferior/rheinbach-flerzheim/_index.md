@@ -4,9 +4,9 @@ aliases: [/id/8ff4e1931c]
 type: place
 title: Rheinbach-Flerzheim
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-16
-modified: 2026-05-16
+modified: 2026-05-31
 draft: true
 ---
 
@@ -39,8 +39,6 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="TGN" id="7192890" name="Flerzheim (inhabited place)" >}}

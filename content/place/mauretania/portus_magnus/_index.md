@@ -4,9 +4,9 @@ aliases: [/id/985110d649]
 type: place
 title: Portus Magnus
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-07
-modified: 2026-05-07
+modified: 2026-05-22
 draft: true
 ---
 
@@ -14,6 +14,7 @@ draft: true
 
 ## Place Description
 
+The ancient city is located about 5 km from the modern city of Arzew and 35 km northeast of Oran. An important settlement on the west coast of Algeria, it served as a Roman trading post and naval base during the early Roman Empire period.
 <!--
 ## Maps
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
@@ -39,8 +40,6 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="285503" name="Portus Magnus" >}}

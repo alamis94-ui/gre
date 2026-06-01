@@ -13,7 +13,6 @@ draft: false
 
 ## Province
 
-- [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
 
 ## Province Description
@@ -51,7 +50,7 @@ House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice
 
 The large block of buildings called the "House of Bacchus", (about 7000 m2) has three separated gardens A, B, C and a peristyle VI. This site has been excavated during four periods (1929, 1931,1937 and 1944).
 
-1-The first garden A is a large open area at the north-east corner of the buildings, along the narrow street which separates it from the Great Baths. It could be overlooked from the portico stretching before the great reception hall with seven apses, constructed in the middle of the fifth century. Earlier (second-third century), people could enter it through a door, two steps of which are still visible under the north wall, in front of an underground door of the Great Baths; this garden belonged then to the public baths dedicated in 193 B. C.. At that time, on the western side of this garden, there were little baths excavated under the seven apses room and contemporaneous with the latter.
+1-The first garden A is a large open area at the north-east corner of the buildings, along the narrow street which separates it from the Great Baths. It could be overlooked from the portico stretching before the great reception hall with seven apses, constructed in the middle of the fifth century. Earlier (second-third century), people could enter it through a door, two steps of which are still visible under the north wall, in front of an underground door of the Great Baths; this garden belonged then to the public baths dedicated in 193 BCE. At that time, on the western side of this garden, there were little baths excavated under the seven apses room and contemporaneous with the latter.
 
 2-The main building (Plan view Fig. 1) is composed of two peristyle dwellings, formerly separate, linked up during the Late Empire; the central space of the large one was paved, first with slabs, afterwards with mosaic. The little peristyle (7 m x 10 m) was a garden (B) enclosed by three porticoes, supported by six columns (rough and probably stuccoed) and bordered by a low wall. On the south side, there was a semi-circular pool, the front of which was closed by two stone plates, engraved with lozenges and joined by a cut column. The exedra and the rooms having view into the garden seem to have been devoted to private life, unlike the large one.
 
@@ -81,11 +80,11 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 ## Bibliography
 
-* Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](https://search.worldcat.org/title/4824686051)
-* Blanchard-Lemée, M., "La Maison de Bacchus à Djemila: Architecture et décor d'une grande demeure provinciale à la fin de l'antiquité", in *Bulletin archéologique du CTHS.*, NS, fasc. 17 B (Colloque sur l'archéologie et l'histoire de l'Afrique du Nord, Perpignan, 1981), 1984, pp. 131-143. [(worldcat)](https://search.worldcat.org/title/848793520)
-*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
-* Malek, A.-A., "Le jardin au fil de l'eau:  mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l'époque romaine*, eds, V. Brouquier-Reddé et F. Hurlet, Bordeaux, Ausonius, 2018, pp. 248-249. [(worldcat)](https://search.worldcat.org/title/1078217356)
-* Malek, A.-A. "De l'espace pictural à l'espace du jardin : mosaïques et jardins dans les domus de l'Afrique romaine", in *Archéologie des jardins: analyse des espaces et méthodes d'approches*, Van Ossel, P., Guimier-Sorbets, A.-M. (dir.), Archéologie et histoire romaine 26, Editions Monique Mergoil, 2014, p. 20. [(worldcat)](https://search.worldcat.org/title/869205223)
+- Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](https://search.worldcat.org/title/4824686051)
+- Blanchard-Lemée, M., "La Maison de Bacchus à Djemila: Architecture et décor d'une grande demeure provinciale à la fin de l'antiquité", in *Bulletin archéologique du CTHS.*, NS, fasc. 17 B (Colloque sur l'archéologie et l'histoire de l'Afrique du Nord, Perpignan, 1981), 1984, pp. 131-143. [(worldcat)](https://search.worldcat.org/title/848793520)
+- Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
+- Malek, A.-A., "Le jardin au fil de l'eau:  mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l'époque romaine*, eds, V. Brouquier-Reddé et F. Hurlet, Bordeaux, Ausonius, 2018, pp. 248-249. [(worldcat)](https://search.worldcat.org/title/1078217356)
+- Malek, A.-A. "De l'espace pictural à l'espace du jardin : mosaïques et jardins dans les domus de l'Afrique romaine", in *Archéologie des jardins: analyse des espaces et méthodes d'approches*, Van Ossel, P., Guimier-Sorbets, A.-M. (dir.), Archéologie et histoire romaine 26, Editions Monique Mergoil, 2014, p. 20. [(worldcat)](https://search.worldcat.org/title/869205223)
 
 ## Places
 

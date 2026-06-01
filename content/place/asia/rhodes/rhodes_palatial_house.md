@@ -14,7 +14,7 @@ draft: true
 
 ## Dates
 
-300 BCE - 300 CE 
+300 BCE - 300 CE
 <!-- dates from Pleiades https://pleiades.stoa.org/places/994502886/hellenistischer-palastbau -->
 
 
@@ -26,7 +26,7 @@ unspecified
 
 ## Garden Description
 
-At the foot of the acropolis in Rhodes stood a late Hellenistic building that occupied an entire insula.  Unfortunately the building is poorly preserved.  Because of the size of the building and its provision with luxurious reception rooms and a large bath suite, the excavators proposed that this was not simply a private house, but that it had some other special function.  
+At the foot of the acropolis in Rhodes stood a late Hellenistic building that occupied an entire insula.  Unfortunately the building is poorly preserved.  Because of the size of the building and its provision with luxurious reception rooms and a large bath suite, the excavators proposed that this was not simply a private house, but that it had some other special function.
 
 The building had three courtyards in the eastern sector, and a large open area with a semi-circular pool (15.30 x 17.30 m) in the western part.  Various renovations were carried out before the late second century CE.  These included the addition of decorative pools in two of the courtyards and an alteration to the semi-circular pool in the western part of the building.  No trace of any pavement was found in this area.  The natural rocky ground of the site was left unaltered at the northern end of this pool, giving the whole area a rusticated appearance.  Various fragments of sculpture, including a herm, a dog and a marble vessel (_louterion_), were found on site.  The excavators have reconstructed this part of the building as a landscaped garden adorned with plantings, the pool and sculpture.
 
@@ -42,7 +42,7 @@ The building had three courtyards in the eastern sector, and a large open area w
 
 <!--
 ## Images
-{{< image file="filename.jpg" caption="" credit="" alt="" >}}  
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
 original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos,” in W. Hoepfner and G. Brands, eds., Basileia. Die Paläste der hellenistischen Könige, Berlin, 1996, pp. 182-192, figs. 7-8.
 -->
 

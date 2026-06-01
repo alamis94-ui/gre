@@ -48,8 +48,8 @@ ca. 280-380 CE
 
 ## Bibliography
 
-* K. Branigan, *The Roman Villa in South-West England*, Bradford-on-Avon, 1976, pp. 55, 77, fig. 34. [(worldcat)](https://search.worldcat.org/title/928084211)
-* K. Branigan, Gatcombe. *The Excavation and Study of a Romano-British Villa Estate*, 1967-1976. British Archeological Reports, Brit. Ser. 44, Oxford, 1977, pp. 50, 141, 181-182, figs. 2, 33. [(worldcat)](https://search.worldcat.org/title/823036601)
+- K. Branigan, *The Roman Villa in South-West England*, Bradford-on-Avon, 1976, pp. 55, 77, fig. 34. [(worldcat)](https://search.worldcat.org/title/928084211)
+- K. Branigan, Gatcombe. *The Excavation and Study of a Romano-British Villa Estate*, 1967-1976. British Archeological Reports, Brit. Ser. 44, Oxford, 1977, pp. 50, 141, 181-182, figs. 2, 33. [(worldcat)](https://search.worldcat.org/title/823036601)
 
 ## Places
 

@@ -31,8 +31,8 @@ After the death of Herodes the villa probably became imperial property. A phase 
 
 ## Bibliography
 
-* G. Ieranò, "I tesori di un intellettuale," *Archeo* 6, 2001:48-53
-* G. Spyropoulos, *Drei Meisterwerke der griechischen Plastik aus der Villa des Herodes Atticus zu Eva/Loukou.* Frankfurt-am-Main, 2001. [(worldcat)](https://search.worldcat.org/title/1039041411)
+- G. Ieranò, "I tesori di un intellettuale," *Archeo* 6, 2001:48-53
+- G. Spyropoulos, *Drei Meisterwerke der griechischen Plastik aus der Villa des Herodes Atticus zu Eva/Loukou.* Frankfurt-am-Main, 2001. [(worldcat)](https://search.worldcat.org/title/1039041411)
 
 ## Keywords
 
