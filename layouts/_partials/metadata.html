@@ -1,4 +1,7 @@
+{{ if and (findRE `place|garden` .Type) (ne "/place" .Path) }}
+{{/* show metadata on place and garden pages (except "All Gardens") */}}
 <div class="metadata">
+	{{ .Path }}
 
 {{- $page := .Page -}}
 
@@ -60,3 +63,4 @@
 </div>
 
 </div>
+{{ end }}

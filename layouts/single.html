@@ -8,10 +8,7 @@
 			{{- partial "breadcrumbs.html" . -}}
 
 			<h1 class="post__title">{{ .Title }}</h1>
-			{{- if eq .Type "garden" -}}
-				<!-- metadata for garden articles -->
-				{{- partial "metadata.html" . -}}
-			{{- end -}}
+			{{- partial "metadata.html" . -}}
 		</header>
 		{{- if .Params.thumbnail }}
 		<figure class="post__thumbnail">
@@ -21,6 +18,7 @@
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix">
 			{{ .Content }}
+			<!--{{ partial "superlocations.html" . }}-->
 		</div>
 		{{- if .Params.tags }}
 		<footer class="post__footer">
