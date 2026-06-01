@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+## Province Description
 
 The area of Cilicia along the southern coast of Anatolia, pivotal to maritime routes linking ancient Asia Minor with the kingdoms and provinces of the east, continuously shifted under Roman control from the first century BCE until the reign of Diocletian.  The region was historically divided into the mountainous ‘Rough Cilicia’ (Cilicia Tracheia) to the west, and ‘Plain of Cilicia’ (Cilicia Pedias), along the eastern coast, which famously became associated with pirates exploiting maritime trade in the eastern Mediterranean.  The Tarsus Mountains formed its northern border, with the Anatolian plateau to the west, the Syrian desert plains to the east, and the Mediterranean to the south.  In 102 BCE, following the breakdown of the Seleucid Empire, part of the area was established as a province of Rome.  It was not until after Pompey had defeated the last of the pirates in 67 BCE, and its inhabitants were subjugated, that Cilicia was settled permanently.  Parts of the territory were alternately dissolved, granted to vassal kings, or governed as part of Syria until 72 CE, when Cilicia became a province again under the reign of Vespasian, with a capital at Tarsus and with close administrative connection to the island of Cyprus.  At the end of the third century CE, Diocletian incorporated ‘Rough Cilicia’ as its own province, with a new title of Isauria, and a capital at Seleucia.
 

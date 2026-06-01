@@ -1,5 +1,8 @@
 ---
 title: All Gardens
-modified: 2025-06-29
 draft: false
 ---
+<!--
+This file is necessary for the top-level "All Gardens" page.
+It is currently blank, but intro text could be added below.
+ -->
