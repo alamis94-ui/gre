@@ -2,7 +2,7 @@
 gre_id: "fd304affef"
 aliases: [/id/fd304affef]
 type: place
-title: Liguria
+title: Regio IX Liguria
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
