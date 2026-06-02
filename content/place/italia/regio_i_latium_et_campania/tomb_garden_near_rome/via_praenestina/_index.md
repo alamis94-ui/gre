@@ -4,7 +4,7 @@ aliases: [/id/f3acf01bf2]
 type: place
 title: Via Praenestina
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-06-01
 modified: 2026-06-01
 draft: true
@@ -39,8 +39,6 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}

@@ -3,7 +3,7 @@ gre_id: "efece6e140"
 aliases: [/id/efece6e140]
 type: garden
 title: II.3.7/9
-latlon: [ 0, 0 ]
+latlon: [ 40.752371, 14.492337 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner
 date: 2021-04-21

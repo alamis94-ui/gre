@@ -3,30 +3,17 @@ gre_id: "4d6880017e"
 aliases: [/id/4d6880017e]
 type: garden
 title: Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane
-latlon: [ 51.667934, 6.448177 ]
+latlon: [ 41.892049, 12.529719 ]
 author: Francesca Carboni
-contributor: Lingyi Xu
+contributor: Lingyi Xu, Keith Jenkins
 date: 2020-11-29
-modified: 2025-06-29
+modified: 2026-06-01
 draft: true
 ---
 
-## Location
+## Dates
 
-- [via praenestina]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
-
-## Sublocation
-
-## Sublocation Description
-
-## Garden
-
-Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane
-
-## Keywords
-
-- {{< keyword "tombs" >}}
+Unspecified
 
 ## Garden Description
 
@@ -38,13 +25,14 @@ A marble slab found in 1745 near a circular tomb monument beside the Via Praenes
 
 <!-- ## Images -->
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 176 n. 7. [worldcat](https://search.worldcat.org/title/886794800)
 
+## Keywords
+
+- {{< keyword "tombs" >}}
+
 ## Places
 
+- {{< id vocab="Pleiades" id="423093" name="Il Torraccio" >}}
