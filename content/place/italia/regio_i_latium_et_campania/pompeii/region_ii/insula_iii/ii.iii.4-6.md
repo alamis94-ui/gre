@@ -3,7 +3,7 @@ gre_id: "cdfd80b73c"
 aliases: [/id/cdfd80b73c]
 type: garden
 title: II.3.4-6
-latlon: [ 0, 0 ]
+latlon: [ 40.752371, 14.492447 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner
 date: 2021-04-21

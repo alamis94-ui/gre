@@ -3,37 +3,17 @@ gre_id: "4cdf8e98d7"
 aliases: [/id/4cdf8e98d7]
 type: garden
 title: Villa at site 11
-latlon: [ 41.890683, 12.632573 ]
+latlon: [ 41.878239, 12.628907 ]
 author: Walter Widrig
-contributor: Lingyi Xu
+contributor: Lingyi Xu, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-06-01
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Villa at site 11]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="622606468" name="Villa at site 11" >}}
-
-## Sublocation
-
-Via Gabina
-
-## Sublocation Description
-
-For six and a half weeks each summer from 1976 through 1989 Philip Oliver-Smith and the author (both of Rice University) excavated, often to bedrock, two sites fourteen kilometers east of the center of ancient Rome. The team worked from a surface survey conducted by John Ward Perkins and Anne Kahane in 1964, which traced the path of the via Gabina, a road joining Rome and Gabii  and supplanted in the 1st century BCE by the more up-to-date via Praeneste (today the via Praenestina-Fig.1).  This same survey established by the collection of surface material thirty-five occupation sites bordering the via Gabina. From these sites we selected three for further investigation, two of which were fully uncovered to reveal the remains of two suburban villas and a late Roman horreum or giant barn.  For recording purposes we kept the site designations of Ward Perkins and Kahane.  Therefore the discussion here will refer to the villas at Site 10 and Site 11.  In 1976, our first season, two trial trenches located structures at Site 13 (another villa?), but no further digging was done here because of problems involving crop rotation (our work was carried out on the land of a still existing farm), time, and money.
-
-## Garden
-
-Villa at site 11
-
-## Keywords
-
-- {{< keyword "barns" >}}
-- {{< keyword "atrium houses" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "villae suburbanae" >}}
+Unspecified
 
 ## Garden Description
 
@@ -49,17 +29,19 @@ This villa at Site 11 was a simple "U" plan farmhouse initiated at the beginning
 
 {{< image file="fig03_11axon2bc.jpg" caption="fig03_the axon of the Villa at site 11." credit="" alt="" >}}
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - J.B. Ward Perkins and A. Kahane, ed., *The Via Gabina*, Papers of the British School at Rome, 40 (1972), 91-126. [worldcat](https://search.worldcat.org/title/5542975846)
 - W. Widrig, *Two Sites on the Ancient Via Gabina*, British Museum Occasional Paper 24 (1980), 119-141. [worldcat](https://search.worldcat.org/title/277246450)
 - W. Widrig, *Land Use at the Via Gabina Villas*, Ancient Roman Villa Gardens (Dumbarton Oaks, 1987), 225-260. [worldcat](https://search.worldcat.org/title/848945186)
 
+## Keywords
+
+- {{< keyword "barns" >}}
+- {{< keyword "atrium houses" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "villae suburbanae" >}}
+
 ## Places
 
-- {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
-
+- {{< id vocab="Pleiades" id="42248665" name="Via Gabina villas" >}}

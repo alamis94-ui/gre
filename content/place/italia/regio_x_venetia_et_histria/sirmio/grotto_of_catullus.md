@@ -13,7 +13,6 @@ draft: true
 
 ## Location
 
-- [Sirmio]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="383781" name="Sirmio" >}}
 
 ## Sublocation

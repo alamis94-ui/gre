@@ -91,11 +91,11 @@ User forks of the old GRE repo that have updates that might not be in main GRE r
 - [ ] [amartyashri](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...amartyashri:gre-archive-2025-06-04:master) (Amartya Shri) - 28 files in Achaea, Pleaides links, removed empty sections
 
 
-Stub records -- still need to check _index.md files for content or template in these provinces:
-
-italia
-
+Stub records -- still need to check _index.md files for content or template in Italia
 - Get coordinates from Pleiades records
 - search "fishes" -- some snippets are too long!
 - editorial style for including species names (hambach has two different styles)
 - inline links that go to external sites should be marked as such, and open in new tab
+- province boundaries
+- via praenestina is the same road as via gabina
+- move "tomb garden near rome" folder contents into regio_i_latium_et_campania/roma?
