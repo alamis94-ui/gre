@@ -39,6 +39,8 @@ def run(s):
 
 with open('code/stubs.csv', newline='') as f:
     for r in csv.DictReader(f):
+        if r['province'] == 'stop':
+            break
         p = pathize(r['province'])
         s = pathize(r['sublocation'])
         g = pathize(r['garden'])
@@ -55,8 +57,8 @@ with open('code/stubs.csv', newline='') as f:
                 run(f'hugo new content place/{p}/{s}/_index.md -k place -f')
             # create the garden
             if g:
-                run(f'hugo new content place/{p}/{s}/{g}.md -k garden --quiet')
+                run(f'hugo new content place/{p}/{s}/{g}.md -k garden')
 
         # or make a garden without a sublocation
         elif g:
-            run(f'hugo new content place/{p}/{g}.md -k garden --quiet')
+            run(f'hugo new content place/{p}/{g}.md -k garden')
