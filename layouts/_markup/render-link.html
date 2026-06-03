@@ -1,0 +1,10 @@
+{{/* identify external links and open them in a new tab */}}
+{{- $url := .Destination | safeURL -}}
+{{- $external := and (hasPrefix $url "http") (not (hasPrefix $url "https://roman-gardens.github.io/") ) -}}
+<a href="{{ $url }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if $external }} target="_blank"{{ end -}}
+>
+  {{- with .Text }}{{ . }}{{ end -}}
+</a>
+{{- /* omit trailing newline */ -}}

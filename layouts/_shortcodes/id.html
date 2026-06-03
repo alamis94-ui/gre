@@ -32,7 +32,7 @@ Example usage (in a garden article):
     {{ $vocabname = .vocabname }}
 {{ end }}
 {{ if $url }}
-    <a target="_blank" href="{{ urls.JoinPath $url $id }}" title="{{ $vocabname }}">{{ $vocab }}: {{ $id }}</a>
+    (<a class="id" target="_blank" href="{{ urls.JoinPath $url $id }}" title="{{ $vocabname }}">{{ $vocab }}:{{ $id }}</a>)
 {{ end }}
 
 {{/* linebreak if we aren't showing the name (as in ORCID/WorldCat on a people page) */}}

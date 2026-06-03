@@ -93,9 +93,8 @@ User forks of the old GRE repo that have updates that might not be in main GRE r
 
 Stub records -- still need to check _index.md files for content or template in Italia
 - Get coordinates from Pleiades records
-- search "fishes" -- some snippets are too long!
 - editorial style for including species names (hambach has two different styles)
-- inline links that go to external sites should be marked as such, and open in new tab
 - province boundaries
 - via praenestina is the same road as via gabina
 - move "tomb garden near rome" folder contents into regio_i_latium_et_campania/roma?
+- 'jashemski-catalogue' exists in front matter for 86 gardens -- this could be useful for tracking progress compared to Jashemski's original list, but we would want to add these numbers to those gardens that came from ithe original documents

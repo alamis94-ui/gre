@@ -14,18 +14,19 @@ a.nav {
 
 /* external links */
 a + a[target=_blank] {
-  padding-left: 0.5em;
+  xpadding-left: 0.5em;
 }
 a[target=_blank] {
-  font-family: "Candara", "Arial", sans-serif;
   color: #44f ! important;
+  background-image: url(/img/link-external.svg);
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: 1em;
+  padding-right: 1.2em;
 }
-a[target=_blank]::after {
-  content: "🗗";
-  padding-left: 2px;
-  padding-right: 2em;
+a.id {
+  font-size: 80%;
 }
-
 
 body {
   font-family: "Georgia", "Palatino", serif;
