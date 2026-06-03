@@ -27,4 +27,5 @@
     "python-envs.defaultPackageManager": "ms-python.python:conda",
     "workbench.colorTheme": "Dark Modern",
     "workbench.tree.indent": 16,
+    "workbench.browser.openLocalhostLinks": false,
 }
