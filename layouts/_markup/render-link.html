@@ -1,6 +1,10 @@
 {{/* identify external links and open them in a new tab */}}
 {{- $url := .Destination | safeURL -}}
 {{- $external := and (hasPrefix $url "http") (not (hasPrefix $url "https://roman-gardens.github.io/") ) -}}
+{{- if not (hasPrefix $url "http") -}}
+    {{/* expand relative links, so they work on localhost and test websites */}}
+    {{- $url = urls.JoinPath site.BaseURL $url -}}
+{{- end -}}
 <a href="{{ $url }}"
   {{- with .Title }} title="{{ . }}"{{ end -}}
   {{- if $external }} target="_blank"{{ end -}}
