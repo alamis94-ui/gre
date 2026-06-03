@@ -6,6 +6,7 @@ title: House R2  (Tang AmpR2 and AmpR3)
 latlon: [ 47.260687, 9.617966 ]
 author:
 contributor: Qianli Jiang
+jashemski-catalogue: TAR 1.7 R2
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

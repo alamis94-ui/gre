@@ -98,3 +98,4 @@ Stub records -- still need to check _index.md files for content or template in I
 - via praenestina is the same road as via gabina
 - move "tomb garden near rome" folder contents into regio_i_latium_et_campania/roma?
 - 'jashemski-catalogue' exists in front matter for 86 gardens -- this could be useful for tracking progress compared to Jashemski's original list, but we would want to add these numbers to those gardens that came from ithe original documents
+- place names, old or modern (probably old) -- for example Segobriga vs Cuenca, Spain

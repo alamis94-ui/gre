@@ -6,6 +6,7 @@ title: House of Condes de Barcelona Street
 latlon: [ 41.385, 2.173611 ]
 author: Clopper Almon
 contributor: Qianli Jiang
+jashemski-catalogue: TAR 2.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

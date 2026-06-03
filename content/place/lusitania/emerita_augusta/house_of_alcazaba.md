@@ -6,6 +6,7 @@ title: House of Alcazaba
 latlon: [ 36.720965, -4.416832 ]
 author:
 contributor: Yiyun Liu
+jashemski-catalogue: LUS 1.3
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

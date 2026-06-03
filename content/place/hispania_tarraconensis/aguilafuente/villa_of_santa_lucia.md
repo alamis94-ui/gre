@@ -6,6 +6,7 @@ title: Villa of Santa Lucia
 latlon: [ 41.216005, -4.085251 ]
 author: Clopper Almon
 contributor: Qianli Jiang
+jashemski-catalogue: TAR 12.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -6,6 +6,7 @@ title: House of the Skeletons
 latlon: [ 40.099, -8.4933 ]
 author: Jorge de Alarcão
 contributor: Xingjian Wang, Victoria Austen
+jashemski-catalogue: LUS 6.4
 date: 2021-04-21
 modified: 2026-05-13
 draft: true

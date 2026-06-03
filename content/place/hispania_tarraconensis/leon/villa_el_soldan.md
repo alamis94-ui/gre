@@ -2,10 +2,11 @@
 gre_id: "15b1cb6052"
 aliases: [/id/15b1cb6052]
 type: garden
-title: Villa El Soldán  (The Sultan)
+title: Villa El Soldán (The Sultan)
 latlon: [ 42.453889, -6.240556 ]
 author:
 contributor: Yiyun Liu
+jashemski-catalogue: TAR 14.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

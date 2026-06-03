@@ -6,6 +6,7 @@ title: Villa de Torre de Palma
 latlon: [ 39.062264, -7.488473 ]
 author:
 contributor: Xingjian Wang
+jashemski-catalogue: LUS 4.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

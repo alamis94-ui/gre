@@ -6,6 +6,7 @@ title: House of the Sundial
 latlon: [ 0, 0 ]
 author:
 contributor: Lai Ching Tsui
+jashemski-catalogue: BAE 7.2
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

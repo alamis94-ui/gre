@@ -3,11 +3,12 @@ gre_id: "c4de63c41a"
 aliases: [/id/c4de63c41a]
 type: garden
 title: House of the Triclinium
-latlon: [ 0, 0 ]
+latlon: [ 37.442, -6.043278 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Keith Jenkins
+jashemski-catalogue: BAE 9.7
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-06-03
 draft: true
 ---
 
