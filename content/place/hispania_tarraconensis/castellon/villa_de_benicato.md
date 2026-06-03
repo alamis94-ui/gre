@@ -6,6 +6,7 @@ title: Villa de Benicató
 latlon: [ 39.832943, -0.14602 ]
 author:
 contributor: Xingjian Wang
+jashemski-catalogue: TAR 17.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

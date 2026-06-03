@@ -2,10 +2,11 @@
 gre_id: "92633827fc"
 aliases: [/id/92633827fc]
 type: garden
-title: R1 Casa Villanueve
+title: House 1, or Casa Villanueve
 latlon: [ 47.260687, 9.617966 ]
 author:
 contributor: Qianli Jiang
+jashemski-catalogue: TAR 1.6 R1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

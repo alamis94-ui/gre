@@ -12,7 +12,6 @@
     <h1 id="places">All places ({{ $pages.Len }})</h1>
     <table class="meta" id="metaplace">
         <tr>
-            <th>#</th>
             <th>path</th>
             <th>title</th>
             <th>author</th>
@@ -20,22 +19,19 @@
             <th>date</th>
             <th>updated</th>
         </tr>
-        {{ range $i, $v := $pages }}
-            {{ $draft := "" }}
-            {{ if $v.Draft}}
-                {{ $draft = "draft"}}
-            {{ end }}
-            <tr class="{{ $draft }}">
-                <td>{{ add 1 $i }}</td>
-                <td class="path"><a href="{{ urls.JoinPath site.BaseURL $v.Path }}">{{ $v.Path }}</a></td>
-                <td class="title">{{ $v.Title }}
-                    {{ if $draft }}<b>(DRAFT)</b>{{ end }}
+        {{ range $p := $pages }}
+            {{ if ne $p.Path "/place" }}
+            <tr {{ if $p.Draft }}class="draft"{{ end }}>
+                <td class="path"><a href="{{ urls.JoinPath site.BaseURL $p.Path }}">{{ replace $p.Path "/place" "" }}</a></td>
+                <td class="title">{{ $p.Title }}
+                    {{ if $p.Draft }}<b>(DRAFT)</b>{{ end }}
                 </td>
-                <td>{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
-                <td>{{ htmlUnescape (replace $v.Params.Contributor ", " ",<br>") | safeHTML }}</td>
-                <td class="date">{{ $v.Date.Format "2006-01-02" }}</td>
-                <td class="date">{{ $v.Lastmod.Format "2006-01-02" }}</td>
+                <td>{{ htmlUnescape (replace $p.Params.Author ", " ",<br>") | safeHTML }}</td>
+                <td>{{ htmlUnescape (replace $p.Params.Contributor ", " ",<br>") | safeHTML }}</td>
+                <td class="date">{{ $p.Date.Format "2006-01-02" }}</td>
+                <td class="date">{{ $p.Lastmod.Format "2006-01-02" }}</td>
             </tr>
+            {{ end }}
         {{ end }}
     </table>
 
@@ -43,7 +39,7 @@
     <h1 id="gardens">All gardens ({{ $pages.Len }})</h1>
     <table class="meta" id="metagarden">
         <tr>
-            <th>#</th>
+            <th>jashemski number</th>
             <th>path</th>
             <th>title</th>
             <th>author</th>
@@ -51,22 +47,17 @@
             <th>date</th>
             <th>updated</th>
         </tr>
-        {{ range $i, $v := $pages }}
-            {{ $draft := "" }}
-            {{ if $v.Draft}}
-                {{ $draft = "draft"}}
-            {{ end }}
-
-            <tr class="{{ $draft }}">
-                <td>{{ add 1 $i }}</td>
-                <td class="path"><a href="{{ urls.JoinPath site.BaseURL $v.Path }}">{{ $v.Path }}</a></td>
-                <td class="title">{{ $v.Title }}
-                    {{ if $draft }}<b>(DRAFT)</b>{{ end }}
+        {{ range $p := $pages }}
+            <tr {{ if $p.Draft }}class="draft"{{ end }}>
+                <td>{{ $p.Param "jashemski-catalogue" }}</td>
+                <td class="path"><a href="{{ urls.JoinPath site.BaseURL $p.Path }}">{{ replace $p.Path "/place" "" }}</a></td>
+                <td class="title">{{ $p.Title }}
+                    {{ if $p.Draft }}<b>(DRAFT)</b>{{ end }}
                 </td>
-                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
-                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Contributor ", " ",<br>") | safeHTML }}</td>
-                <td class="nowrap">{{ $v.Date.Format "2006-01-02" }}</td>
-                <td class="nowrap">{{ $v.Lastmod.Format "2006-01-02" }}</td>
+                <td class="nowrap">{{ htmlUnescape (replace $p.Params.Author ", " ",<br>") | safeHTML }}</td>
+                <td class="nowrap">{{ htmlUnescape (replace $p.Params.Contributor ", " ",<br>") | safeHTML }}</td>
+                <td class="nowrap">{{ $p.Date.Format "2006-01-02" }}</td>
+                <td class="nowrap">{{ $p.Lastmod.Format "2006-01-02" }}</td>
             </tr>
         {{ end }}
     </table>
@@ -151,17 +142,14 @@
                 }
                 values.push({val:v, row:rows[i]})
             }
-            if (numeric) {
-                values.sort((a,b) => { return a.val - b.val })
-            } else {
-                values.sort((a,b) => {
-                    let aa = (a.val + '').toUpperCase()
-                    let bb = (b.val + '').toUpperCase()
-                    if (aa < bb) return -1
-                    if (aa > bb) return 1
-                    return 0
-                })
-            }
+            // the collator will smartly sort strings containing numbers
+            var collator = new Intl.Collator(undefined, {numeric: true, sensitivity: 'base'})
+            values = values.sort((a, b) => {
+                // force empty values to sort last
+                let aa = a.val ? a.val : 'zzzzz'
+                let bb = b.val ? b.val : 'zzzzz'
+                return collator.compare(aa, bb)
+            })
             if (dir === 'desc') {
                 values = values.reverse()
             }

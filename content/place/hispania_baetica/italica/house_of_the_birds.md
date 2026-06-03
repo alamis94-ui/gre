@@ -3,11 +3,12 @@ gre_id: "73d1a43068"
 aliases: [/id/73d1a43068]
 type: garden
 title: House of the Birds
-latlon: [ 0, 0 ]
+latlon: [ 37.441789, -6.044481 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Keith Jenkins
+jashemski-catalogue: BAE 9.3
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-06-03
 draft: true
 ---
 

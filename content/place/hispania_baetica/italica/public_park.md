@@ -2,12 +2,13 @@
 gre_id: "cbc00aa8f3"
 aliases: [/id/cbc00aa8f3]
 type: garden
-title: Public Square
-latlon: [ 0, 0 ]
+title: Public Park
+latlon: [ 37.442918, -6.045527 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Keith Jenkins
+jashemski-catalogue: BAE 9.1
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-06-03
 draft: true
 ---
 

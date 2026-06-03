@@ -1,11 +1,12 @@
 ---
-gre_id: "65ffcfe9e6"
-aliases: [/id/65ffcfe9e6]
+gre_id: "557ae46f1d"
+aliases: [/id/557ae46f1d]
 type: garden
-title: Villa Dehesa de Soria
-latlon: [ 41.669224, -2.620865 ]
-author: Clopper Almon
-contributor: Qianli Jiang
+title: Villa de Los Villares
+latlon: [ 41.713123, -3.150103 ]
+author:
+contributor: Yiyun Liu
+jashemski-catalogue: TAR 10.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true
@@ -31,42 +32,53 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
+## Bibliography
+
+- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
+
+- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
+
+- J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
+
+- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
+
 ## Location
 
-- [Villa Dehesa de Soria]({{<relref ".">}})
+- [Villa de Los Villares]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="188623838" name="Villa de Los Villares" >}}
 
 ## Garden
 
-Villa Dehesa de Soria
+Villa de Los Villares
 
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "mosaics" >}}
 
 ## Garden Description
 
-The villa was first excavated in 1928-9.(Ampu  More than 22 rooms were paved with mosaics for a total area of 1,400 square meters of mosaic. Made of local stones, they date from the second century AD. Among them is a rare picture of a crown of shafts a grain, a symbol of agricultural fertility.
-
-This villa is one of the best examples in Spain of an axially planned peristyle villa. In the center of its grand peristyle courtyard (41 x 22 m.) was a structure which may have been part of a water supply system for the garden in the courtyard. The main reception room (Fig. 1, 1, in the center of the north wing) had a wide opening onto the garden and a passage through the low wall which otherwise surrounded the garden on three sides and half of the fourth. Likewise room [2] on the east side, possibly a triclinium, had a good view of the garden.  An unusual feature, however, is that, with the exception of these two rooms, all the other rooms around the porticoes of the peristyle did not open directly onto the portico but onto narrow corridors perpendicular to the portico. Thus, unless they had windows, they did not get light and air directly from the garden courtyard.
+The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos.  The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.
+The villa was built in the first third of the 2nd century, destroyed by the Germanic invasions of the years immediately after 256, then rebuilt and enlarged under the restored empire, and finally abandoned  in the 5th century.  The large central peristyle courtyard (43.5 x 19 m) had porticoes on all four sides and a garden with a drainage system in the middle.  On the south side, the room with the circular, quadrilobed interior had a mosaic of Ceres and a cornucopia.  A series of agricultural buildings and other gardens joined it on the north side.
 
 ## Plans
 
-{{< image file="his_tar_cue_soria_fig1.jpg" caption="Villa of Cuevas de Soria." credit="Gorges, Planche XLIV." alt="" >}}
+{{< image file="his_tar_san_villares_fig1.jpg" caption="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" credit="Gorges, Planche XLV" alt="" >}}
 
 ## Dates
 
-2C AD
+The first third of the 2nd century
 
 ## Bibliography
 
-- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](https://search.worldcat.org/title/7840420644)
+- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1982 [(worldcat)](https://search.worldcat.org/title/876519837)
+- J. M. Blázquez, Los jardines en la Hispania Romana, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 33 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="246361" name="Cuevas de Soria" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
-
+- {{< id vocab="Pleiades" id="188623838" name="Villa de Los Villares" >}}
+- {{< id vocab="TGN" id="7322442" name="Santervás del Burgo (inhabited place)" >}}
 
 

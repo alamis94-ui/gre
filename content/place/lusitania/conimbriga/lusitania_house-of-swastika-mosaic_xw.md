@@ -6,6 +6,7 @@ title: House of the Swastika Mosaic
 latlon: [ 40.099026, -8.494163 ]
 author:
 contributor: Xingjian Wang
+jashemski-catalogue: LUS 6.3
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

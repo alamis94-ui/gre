@@ -3,11 +3,12 @@ gre_id: "c73d6e2c2f"
 aliases: [/id/c73d6e2c2f]
 type: garden
 title: House of the Rhodian Peristyle
-latlon: [ 0, 0 ]
+latlon: [ 37.442029, -6.043939 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Keith Jenkins
+jashemski-catalogue: BAE 9.4
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-06-03
 draft: true
 ---
 

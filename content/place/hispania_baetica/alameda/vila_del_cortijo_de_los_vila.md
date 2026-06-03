@@ -6,6 +6,7 @@ title: Villa del Cortijo de los Vila
 latlon: [ 37.216462, -4.657951 ]
 author:
 contributor: Lai Ching Tsui
+jashemski-catalogue: BAE 5.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

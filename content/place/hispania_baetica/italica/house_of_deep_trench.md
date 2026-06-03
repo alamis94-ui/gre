@@ -2,12 +2,13 @@
 gre_id: "8dbbeb7015"
 aliases: [/id/8dbbeb7015]
 type: garden
-title: House of the Deep Trench
-latlon: [ 0, 0 ]
+title: House by the Deep Trench (Casa de Cañada Honda)
+latlon: [ 37.441226, -6.043175 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Keith Jenkins
+jashemski-catalogue: BAE 9.6
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-06-03
 draft: true
 ---
 

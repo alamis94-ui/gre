@@ -6,6 +6,7 @@ title: Tomb garden and baths of P. Caecil(ius) Rufus and Valeria
 latlon: [ 39.678125, -0.277247 ]
 author: John Bodel
 contributor: Xingjian Wang
+jashemski-catalogue: TAR 18.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

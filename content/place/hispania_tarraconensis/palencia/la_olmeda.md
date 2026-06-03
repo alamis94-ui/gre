@@ -6,6 +6,7 @@ title: La Olmeda
 latlon: [ 42.482035, -4.736989 ]
 author:
 contributor: Xingjian Wang
+jashemski-catalogue: TAR 13.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

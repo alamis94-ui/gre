@@ -6,6 +6,7 @@ title: House of the Peristyle
 latlon: [ 47.260687, 9.617966 ]
 author:
 contributor: Qianli Jiang
+jashemski-catalogue: TAR 1.5 N101
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

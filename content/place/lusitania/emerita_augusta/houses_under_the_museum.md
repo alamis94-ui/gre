@@ -6,6 +6,7 @@ title: Houses Under the Museum
 latlon: [ 38.917216, -6.341213 ]
 author:
 contributor: Yiyun Liu
+jashemski-catalogue: LUS 1.8
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -6,6 +6,7 @@ title: Villa Bruñel
 latlon: [ 37.885309, -3.079082 ]
 author:
 contributor: Lai Ching Tsui
+jashemski-catalogue: BAE 1.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

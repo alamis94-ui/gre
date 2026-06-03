@@ -2,12 +2,13 @@
 gre_id: "c72ff9e782"
 aliases: [/id/c72ff9e782]
 type: garden
-title: theaters
-latlon: [ 0, 0 ]
+title: Italica Theater
+latlon: [ 37.4400768235, -6.03870183489 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Keith Jenkins
+jashemski-catalogue: BAE 9.8
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-06-03
 draft: true
 ---
 

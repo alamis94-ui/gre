@@ -6,6 +6,7 @@ title: Villa de La Cocosa
 latlon: [ 38.738228, -6.99544 ]
 author: Clopper Almon
 contributor: Xingjian Wang
+jashemski-catalogue: LUS 3.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

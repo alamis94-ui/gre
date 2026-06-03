@@ -6,6 +6,7 @@ title: House of the Mithraeum
 latlon: [ 38.917216, -6.341213 ]
 author:
 contributor: Yiyun Liu
+jashemski-catalogue: LUS 1.7
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

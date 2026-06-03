@@ -6,6 +6,7 @@ title: Peristyle of the Theater
 latlon: [ 38.917216, -6.341213 ]
 author:
 contributor: Yiyun Liu
+jashemski-catalogue: LUS 1.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

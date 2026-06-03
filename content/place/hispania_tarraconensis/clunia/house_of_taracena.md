@@ -6,6 +6,7 @@ title: House of Taracena
 latlon: [ 41.781168, -3.371106 ]
 author: Clopper Almon
 contributor: Qianli Jiang, Keith Jenkins
+jashemski-catalogue: TAR 11.1
 date: 2021-04-21
 modified: 2026-06-01
 draft: true

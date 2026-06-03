@@ -6,6 +6,7 @@ title: Villa el Ruedo
 latlon: [ 37.443110, -4.089429 ]
 author: Clopper Almon, D. Vaquerizo
 contributor: Lai Ching Tsui
+jashemski-catalogue: BAE 2.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

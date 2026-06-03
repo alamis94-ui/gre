@@ -6,6 +6,7 @@ title: House of the Mithra
 latlon: [ 37.487748, -4.459183 ]
 author:
 contributor: Lai Ching Tsui
+jashemski-catalogue: BAE 3.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

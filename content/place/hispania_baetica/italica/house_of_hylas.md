@@ -3,11 +3,12 @@ gre_id: "d9d49da85e"
 aliases: [/id/d9d49da85e]
 type: garden
 title: House of Hylas
-latlon: [ 0, 0 ]
+latlon: [ 37.441685, -6.043649 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Keith Jenkins
+jashemski-catalogue: BAE 9.5
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-06-03
 draft: true
 ---
 
