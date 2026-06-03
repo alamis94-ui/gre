@@ -361,12 +361,20 @@ table#metakeywords {
   font-family: Arial;
 }
 
+table.meta td {
+  border: 1px solid #ccc;
+}
+
 table.meta th {
   text-align: left;
+  position: sticky;
+  top: -1px;
+  background: #c22d30;
+  color: #fff;
 }
 
 table.meta th:hover {
-  background: #eee;
+  background: #822d30;
   cursor: pointer;
 }
 
