@@ -3,7 +3,7 @@ gre_id: "af4bdb0410"
 aliases: [/id/af4bdb0410]
 type: garden
 title: House of the Peristyle
-latlon: [ 47.260687, 9.617966 ]
+latlon: [ 42.13342, 3.1145495 ]
 author:
 contributor: Qianli Jiang
 jashemski-catalogue: TAR 1.5 N101

@@ -3,7 +3,7 @@ gre_id: "3290f5df6b"
 aliases: [/id/3290f5df6b]
 type: garden
 title: House R2  (Tang AmpR2 and AmpR3)
-latlon: [ 47.260687, 9.617966 ]
+latlon: [ 42.13342, 3.1145495 ]
 author:
 contributor: Qianli Jiang
 jashemski-catalogue: TAR 1.7 R2

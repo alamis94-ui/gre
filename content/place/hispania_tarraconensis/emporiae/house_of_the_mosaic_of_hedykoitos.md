@@ -3,7 +3,7 @@ gre_id: "b0bff5a21c"
 aliases: [/id/b0bff5a21c]
 type: garden
 title: House of the Mosaic of Hedykoitos
-latlon: [ 47.260687, 9.617966 ]
+latlon: [ 42.13342, 3.1145495 ]
 author:
 contributor: Qianli Jiang
 jashemski-catalogue: TAR 1.3 N52

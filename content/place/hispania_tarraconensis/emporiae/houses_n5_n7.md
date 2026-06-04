@@ -3,7 +3,7 @@ gre_id: "c508ff1711"
 aliases: [/id/c508ff1711]
 type: garden
 title: Houses N5 and N7
-latlon: [ 47.260687, 9.617966 ]
+latlon: [ 42.13342, 3.1145495 ]
 author:
 contributor: Qianli Jiang
 jashemski-catalogue: TAR 1.1 N5, TAR 1.2 N7

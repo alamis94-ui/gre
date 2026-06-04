@@ -3,7 +3,7 @@ gre_id: "48566b8135"
 aliases: [/id/48566b8135]
 type: garden
 title: House of the L-shaped Cistern
-latlon: [ 47.260687, 9.617966 ]
+latlon: [ 42.13342, 3.1145495 ]
 author:
 contributor: Qianli Jiang
 jashemski-catalogue: TAR 1.4 N75
