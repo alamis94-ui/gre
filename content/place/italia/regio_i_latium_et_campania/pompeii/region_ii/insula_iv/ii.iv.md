@@ -6,6 +6,7 @@ title: II.4 Estate of Julia Felix; Praedia di Giulia Felice
 latlon: [ 40.751957, 14.493271 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner
+jashemski-catalogue: 143, 144, 145
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

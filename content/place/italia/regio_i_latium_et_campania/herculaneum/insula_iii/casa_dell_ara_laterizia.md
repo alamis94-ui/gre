@@ -3,11 +3,11 @@ gre_id: "3a24879b01"
 aliases: [/id/3a24879b01]
 type: garden
 title: Casa dell'Ara Laterizia
-date: 2020-09-29
 latlon: [ 40.806029, 14.346488 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
-Jashemski-catalogue: 539-540
+jashemski-catalogue: 539-540
+date: 2020-09-29
 modified: 2025-06-29
 draft: true
 ---

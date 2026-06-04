@@ -6,7 +6,7 @@ title: Casa A Graticcio
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
-Jashemski-catalogue: 538
+jashemski-catalogue: 538
 date: 2020-09-29
 modified: 2025-06-29
 draft: true

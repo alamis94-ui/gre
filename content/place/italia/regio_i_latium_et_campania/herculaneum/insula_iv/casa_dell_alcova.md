@@ -3,11 +3,11 @@ gre_id: "5c94b917b1"
 aliases: [/id/5c94b917b1]
 type: garden
 title: Casa dell'Alcova
-date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
-Jashemski-catalogue: 542-543
+jashemski-catalogue: 542-543
+date: 2020-09-29
 modified: 2025-06-29
 draft: true
 ---

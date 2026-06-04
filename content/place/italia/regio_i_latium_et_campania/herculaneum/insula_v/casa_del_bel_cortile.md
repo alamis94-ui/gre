@@ -3,11 +3,11 @@ gre_id: "fed58129af"
 aliases: [/id/fed58129af]
 type: garden
 title: Casa del bel Cortile
-date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
-Jashemski-catalogue: Appendix II. 110
+jashemski-catalogue: Appendix II. 110
+date: 2020-09-29
 modified: 2025-06-29
 draft: true
 ---

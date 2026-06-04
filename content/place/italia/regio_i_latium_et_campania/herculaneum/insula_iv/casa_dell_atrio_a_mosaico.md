@@ -3,11 +3,11 @@ gre_id: "df48683f15"
 aliases: [/id/df48683f15]
 type: garden
 title: Casa dell'Atrio a Mosaico
-date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
-Jashemski-catalogue: 541
+jashemski-catalogue: 541
+date: 2020-09-29
 modified: 2025-06-29
 draft: true
 ---

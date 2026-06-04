@@ -6,6 +6,7 @@ title: II.3.7/9
 latlon: [ 40.752371, 14.492337 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner
+jashemski-catalogue: 142
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

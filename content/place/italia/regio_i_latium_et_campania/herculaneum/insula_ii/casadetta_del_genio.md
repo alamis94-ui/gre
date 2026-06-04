@@ -6,7 +6,7 @@ title: Casadetta del Genio
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
-Jashemski-catalogue: 535-536
+jashemski-catalogue: 535-536
 date: 2020-09-29
 modified: 2025-06-29
 draft: true

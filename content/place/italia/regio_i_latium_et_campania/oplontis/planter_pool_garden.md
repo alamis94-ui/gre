@@ -7,6 +7,7 @@ latlon: [ 0, 0 ]
 author: Author Name
 translator: Translator Name
 contributor: Contributor Name
+jashemski-catalogue: 595
 date: 2026-05-30
 modified: 2026-05-30
 draft: true

@@ -2,12 +2,12 @@
 gre_id: "33272c1a3c"
 aliases: [/id/33272c1a3c]
 type: garden
-title: Casa del Larario Fiorito (II.ix.4)
-date: 2021-04-21
+title: II.ix.4 Casa del Larario Fiorito
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner
 jashemski-catalogue: 15X
+date: 2021-04-21
 modified: 2025-06-29
 draft: false
 ---

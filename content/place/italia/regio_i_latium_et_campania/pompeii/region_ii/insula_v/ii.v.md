@@ -2,10 +2,11 @@
 gre_id: "0f38629b65"
 aliases: [/id/0f38629b65]
 type: garden
-title: II.5 Large Vineyard
+title: II.v Large Vineyard
 latlon: [ 40.752264, 14.494333 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner
+jashemski-catalogue: 146
 date: 2021-04-21
 modified: 2025-06-29
 draft: false
@@ -16,6 +17,8 @@ draft: false
 Excavated 1755, 1814 and between 1912 and 1972.
 
 ## Garden Description
+
+<!-- formerly II.viii -->
 
 Located north of the amphitheater, this site was initially identified as the Foro Boario or Cattle Market.  A small amount of excavation was started in 1755, but in 1814 the entrance and south wall were excavated. Most of the excavation was completed in the 1950s, except the northeastern section. In 1966, Jashemski undertook preliminary sub-soil excavations and proved that the area had been under cultivation. Work continued through 1968 and 1970 removing some undisturbed lapilli and consequently 2,014 vine root cavities were recorded with an equal number of stakes in that section. It was noted that ninety percent of the root cavities had a diameter ranging from 2 to 5.5 cm with the average being just under 4 cm. The total range of size was from 1 cm to 8.5 cm. The vines were spaced four Roman feet apart, trained on a rectangular framed trellis (*vitus compluviata*) and each vine had three or four depressions for watering at the base. Also discovered were two well preserved examples of propagation by layering.
 A north-south path starting from the entrance divided the vineyard into equal halves. An east-west path crossed this leading to the outdoor [triclinium](http://vocab.getty.edu/page/aat/300004359) and two rooms where the wine was made. A third path was discovered in 1970 running parallel to the north wall. Fifteen coins were found on the third path. The paths ran under [arbors](http://vocab.getty.edu/page/aat/300006781) and usually two root cavities were found by each of the posts that supported the [arbor](http://vocab.getty.edu/page/aat/300006781).
