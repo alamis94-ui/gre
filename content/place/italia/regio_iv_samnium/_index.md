@@ -2,7 +2,7 @@
 gre_id: "c9ce7f7648"
 aliases: [/id/c9ce7f7648]
 type: place
-title: Regio Iv
+title: Regio IV
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30

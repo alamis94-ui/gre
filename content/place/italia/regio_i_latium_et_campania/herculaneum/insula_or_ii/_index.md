@@ -2,7 +2,7 @@
 gre_id: "a58d22a510"
 aliases: [/id/a58d22a510]
 type: place
-title: Insula Or Ii
+title: Insula Or II
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01

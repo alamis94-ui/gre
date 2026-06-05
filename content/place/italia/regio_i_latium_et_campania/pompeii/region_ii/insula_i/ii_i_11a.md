@@ -2,7 +2,7 @@
 gre_id: "dcfe69bf59"
 aliases: [/id/dcfe69bf59]
 type: garden
-title: Ii I 11a
+title: II.i.11a
 latlon: [ 0, 0 ]
 author: Author Name
 translator: Translator Name

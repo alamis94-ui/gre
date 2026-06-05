@@ -103,4 +103,3 @@ User forks of the old GRE repo that have updates that might not be in main GRE r
 - instructions for reporting issues
 - Divya as main contact for everything instead of Kathy?
 - about the color scheme (blue external, red internal, green navigation, etc.)
-- fix title casing

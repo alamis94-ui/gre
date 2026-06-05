@@ -2,7 +2,7 @@
 gre_id: "3b0a1eba04"
 aliases: [/id/3b0a1eba04]
 type: garden
-title: Ii Ii 2c
+title: II.ii.2c
 latlon: [ 0, 0 ]
 author: Author Name
 translator: Translator Name

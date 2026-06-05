@@ -2,7 +2,7 @@
 gre_id: "0ad39ba640"
 aliases: [/id/0ad39ba640]
 type: place
-title: Insula Vi
+title: Insula VI
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01

@@ -2,7 +2,7 @@
 gre_id: "c337b5100c"
 aliases: [/id/c337b5100c]
 type: place
-title: Regio Ii
+title: Regio II
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30

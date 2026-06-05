@@ -2,7 +2,7 @@
 gre_id: "02793f3a2d"
 aliases: [/id/02793f3a2d]
 type: place
-title: Regio Iii Isis Et Serapis
+title: Regio III Isis Et Serapis
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01

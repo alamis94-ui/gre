@@ -2,7 +2,7 @@
 gre_id: "5e00851dbb"
 aliases: [/id/5e00851dbb]
 type: place
-title: Insula Vii
+title: Insula VII
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
