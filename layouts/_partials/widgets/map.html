@@ -183,15 +183,16 @@
 						console.log('Unable to add point to map', p)
 					}
 				}
-			{{ else if eq .Type "garden" }}
-				{{ if .Params.latlon }}
-					{{ $lat := index .Params.latlon 0 }}
-					{{ $lon := index .Params.latlon 1 }}
-					{{ $url := print .Site.BaseURL "id/" .Params.gre_id }}
-					addPoint({{ $lat }}, {{ $lon }}, {{ .Title}}, {{ $url }})
+			{{ else }}
+				{{ $gardens := slice }}
+				{{ if eq .Type "garden" }}
+					{{ $gardens = slice .Page }}
+				{{ else if eq .Type "place" }}
+					{{ $gardens = .RegularPagesRecursive }}
+			    {{ else if eq .Path "/home" }}
+					{{ $gardens = .Site.RegularPages }}
 				{{ end }}
-			{{ else if eq .Type "place" }}
-				{{- range .RegularPagesRecursive }}
+				{{- range $gardens }}
 					{{ if .Params.latlon }}
 						{{ $lat := index .Params.latlon 0 }}
 						{{ $lon := index .Params.latlon 1 }}
