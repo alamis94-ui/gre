@@ -4,15 +4,19 @@ aliases: [/id/16c4a9f181]
 type: place
 title: Cuicul
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-07
-modified: 2026-05-07
+modified: 2026-06-05
 draft: true
 ---
 
 <!-- ## Dates -->
 
 ## Place Description
+
+<!-- TODO: Cuicul falls within the Mauretania Caesarienisis polygon, rather than the Numidia polygon.
+    The text says the frontier fluctuated.  Perhaps we can find borders that align with Cuicul being in Numidia?
+-->
 
 <!--
 ## Maps

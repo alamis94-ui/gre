@@ -5,34 +5,24 @@ type: garden
 title: Villa Bruñel
 latlon: [ 37.885309, -3.079082 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Keith Jenkins
 jashemski-catalogue: BAE 1.1
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2026-06-05
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Quesada]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="265996" name="Quesada" >}}
+unspecified
 
-## Garden
+## Excavation Dates
 
-Villa Bruñel
-
-## Keywords
-
-- {{< keyword "apses" >}}
-- {{< keyword "buttresses" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "rills" >}}
+1965-1971
 
 ## Garden Description
+
+<!-- TODO: this garden location appears to actually be in Tarraconensis, not Baetica -->
 
 This villa, 5 kilometers north of the center of Quesada, was excavated in eight campaigns between 1965 and 1971, and had multiple phases of construction.  The north end of the villa appears as a normal peristyle villa. Directly across the middle of the peristyle and its garden, a mighty wall slices slices the peristyle in two halves running east-west. Beyond the wall, the peristyle and garden continue.  But the east-west wall turns out to be the north side of a vast double-apsed hall, which is followed, further south, by another villa wrapping around a large courtyard with covered galleries on all four sides, while off to the southeast, there is another peristyle with garden, porticoes, and surrounding rooms.
 
@@ -50,11 +40,9 @@ Sotomayor did not think that the gran patio was a garden, and proposed that it m
 
 ## Maps
 
-<!-- ## Plans -->
-
-## Images
-
 {{< image file="HIS_BAE_Quesdad_Vb_lcoation map_CA fig1.jpg" caption="Fig. 1: Location map of Villa Brunel." credit="" alt="" >}}
+
+## Plans
 
 {{< image file="HIS_BAE_Quesdad_Vb_all phases CA fig2.jpg" caption="Fig. 2: Plan of Villa Brunel showing all phases." credit="" alt="" >}}
 
@@ -62,13 +50,11 @@ Sotomayor did not think that the gran patio was a garden, and proposed that it m
 
 {{< image file="HIS_BAE_Quesdad_Vb_plan_phase3_CAfig4.jpg" caption="Fig. 4: Plan of Villa Brunel showing phase 3." credit="" alt="" >}}
 
+## Images
+
 {{< image file="HIS_BAE_Quesdad_Vb_fig5_CA.jpg" caption="Fig. 5: Photo of Villa Brunel looking south across the garden." credit="" alt="" >}}
 
 {{< image file="HIS_BAE_Quesdad_Vb_photo_CA_fig6.jpg" caption="Fig. 6: Photo of Villa Brunel looking west across the garden." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 
@@ -76,9 +62,17 @@ unspecified
 - M. Sotomayor, 'La villa romana de Bruñel,' *Cuadernos de Prehistoria de la Universidad de Granada 10*, (Granada, 1985), 335-366. [(worldcat)](https://search.worldcat.org/title/934427727)
 - M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982).[(worldcat)](https://search.worldcat.org/title/876519837)
 
+## Keywords
+
+- {{< keyword "apses" >}}
+- {{< keyword "buttresses" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "rills" >}}
+
 ## Places
 
-- [Pago de Bruñel]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="265996" name="Pago de Bruñel" >}}
-- {{< id vocab="TGN" id="7027137" name="Castillo de Mulva (deserted settlement)" >}}
-

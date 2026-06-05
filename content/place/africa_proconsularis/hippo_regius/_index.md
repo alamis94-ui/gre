@@ -14,6 +14,8 @@ draft: true
 
 ## Place Description
 
+<!-- TODO: Should Hippo Regius, and the domus, be under Numidia, instead of Africa Proconsularis? -->
+
 The city of Hippo Regius overlooks a sheltered bay where, from earliest times, ships could moor. An independent city under the reign of the king Micipsa, the city was involved in the turmoil of the Roman civil wars, with the defeat and the suicide of Metellus Scipio and his ally Juba I. Under Augustus, the city became a *municipium*, and later a colony under Trajan. The wealthy port was also the residence of the imperial procurator in charge of supplying Rome with wheat. During the fourth century Saint Augustine was the bishop of the city.
 
 Excavations have brought to light the theater, considered to be the largest in Africa, built against the St. Augustine hill; also parts of the forum, a public fountain, the market, the northern and southern baths, the so called Christian district with its basilica and so called villas' district.
