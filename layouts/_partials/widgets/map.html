@@ -1,9 +1,10 @@
-{{ if or (findRE `place|garden` .Type) (eq "/home" .Path) }}
+{{ if or (findRE `place|garden` .Type) (findRE `/home|/search` .Path) }}
 <!-- Leaflet (JS/CSS) -->
 <script src="{{ .Site.BaseURL }}js/leaflet-1.9.4.js"></script>
 <script src="{{ .Site.BaseURL }}js/leaflet-tilelayer-colorfilter.min.js"></script>
 <script src="{{ .Site.BaseURL }}js/leaflet.fullscreen.min.js"></script>
 <script src="{{ .Site.BaseURL }}js/L.Control.Basemaps-min.js"></script>
+<script src="{{ .Site.BaseURL }}js/province-polygons.js"></script>
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/leaflet.css"/>
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/leaflet.fullscreen.css"/>
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/L.Control.Basemaps.css"/>
@@ -135,39 +136,71 @@
 				osm_hi.addTo(map);
 			{{ end }}
 
+			<!-- Add Roman Provinces -->
+			let provinceStyle = {
+				color: '#000',
+				weight: 1,
+				opacity: 1,
+				fillColor: '#c22d30',
+				fillOpacity: 0
+			}
+			let provinces = L.geoJSON(provinceGeoJSON, {
+				style: provinceStyle
+			}).bindPopup(function (layer) {
+				return layer.feature.properties.name
+			})
+			provinces.addTo(map);
 
-
-			<!-- add marker for each garden relevant to the current page -->
+			<!-- Add marker for each garden relevant to the current page -->
 			markers = [];
 			bounds = L.latLngBounds();
-			var div_circle = L.divIcon({ className: 'dot' });
-			{{ $points := slice . }}
-			{{ if not .File }}
-				{{ $points = .Site.RegularPages }}
-			{{ else if eq .File.Path "home.md" }}
-				{{ $points = .Site.RegularPages }}
-			{{ else }}
-				{{ with .RegularPagesRecursive }}
-						{{ $points = . }}
-				{{ end }}
-			{{ end }}
-			{{- range $points }}
+			let div_circle = L.divIcon({ className: 'dot' })
+			
+			function addPoint(lat, lon, name, url) {
+				if (lat && lon) {
+					marker = L.marker([ lat, lon ], { icon: div_circle });
+					marker.bindPopup(`<a href='${url}'>${name}</a>`);
+					marker.addTo(map);
+					markers.push(marker);
+					bounds.extend(marker.getLatLng());
+				}
+			}
+
+			{{ if hasPrefix .Path "/search" }}
+				// join search result ids (ref) to page info
+				for (const r of window.results) {
+					let p = window.pageData[r['ref']]
+					try {
+						addPoint(p.latlon[0], p.latlon[1], p.title, p.url)
+					}
+					catch (err) {
+						console.log('Unable to add point to map', p)
+					}
+				}
+			{{ else if eq .Type "garden" }}
 				{{ if .Params.latlon }}
 					{{ $lat := index .Params.latlon 0 }}
 					{{ $lon := index .Params.latlon 1 }}
-					{{ if gt $lat 0 }}
-						marker = L.marker([ {{ $lat }}, {{ $lon }} ], { icon: div_circle });
-						marker.bindPopup("<a href='{{ .Permalink }}'>{{ .Title }}</a>");
-						marker.addTo(map);
-						markers.push(marker);
-						bounds.extend(marker.getLatLng());
-					{{ end }}
+					{{ $url := print .Site.BaseURL "id/" .Params.gre_id }}
+					addPoint({{ $lat }}, {{ $lon }}, {{ .Title}}, {{ $url }})
 				{{ end }}
-			{{- end }}
+			{{ else if eq .Type "place" }}
+				{{- range .RegularPagesRecursive }}
+					{{ if .Params.latlon }}
+						{{ $lat := index .Params.latlon 0 }}
+						{{ $lon := index .Params.latlon 1 }}
+						{{ $url := print .Site.BaseURL "id/" .Params.gre_id }}
+						addPoint({{ $lat }}, {{ $lon }}, {{ .Title}}, {{ $url }})
+					{{ end }}
+				{{- end }}
+			{{ end }}
+
 			if (bounds.isValid()) {
-				map.fitBounds(bounds.pad(0.05));
+				// instantly zoom to the current points
+				map.fitBounds(bounds.pad(0.05), {animate:false});
+				// don't automatically zoom beyond 17 (single points would otherwise be 19)
 				if (map.getZoom() > 17) {
-					map.setZoom(17);
+					map.setZoom(17, {animate:false});
 				}
 			}
 		</script>
