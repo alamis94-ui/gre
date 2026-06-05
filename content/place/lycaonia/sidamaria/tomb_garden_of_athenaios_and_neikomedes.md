@@ -3,9 +3,8 @@ gre_id: "de367d9aab"
 aliases: [/id/de367d9aab]
 type: garden
 title: Tomb Garden of Athenaios and Neikomedes
-latlon: [ 37.4804740568, 33.6310136959 ]
+latlon: [ 37.450686, 33.600575 ]
 author: John Bodel
-translator: Translator Name
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-05-07
@@ -22,7 +21,7 @@ draft: true
 
 SIDAMARIA
 
-A large and heavy stone found in 1904 in use as a doorstep at Kale Keui records the dedication by two brothers, Athenaios and Neikomedes, the sons of Nicanor, of a tomb monument for their father and mother and calls on the heavenly and chthonian Menes (Anatolian deities related to the Roman Di Manes) not to allow anyone “except [a brother ?] to sell or buy the garden (peribolo) of the tomb” (need Greek). The prohibition against sale suggests that here, as often elsewhere in Asia Minor and Italy, a garden is referred to metonymically by the perimeter wall that enclosed it.
+A large and heavy stone found in 1904 in use as a doorstep at Kale Keui ("Kaleköy"?) records the dedication by two brothers, Athenaios and Neikomedes, the sons of Nicanor, of a tomb monument for their father and mother and calls on the heavenly and chthonian Menes (Anatolian deities related to the Roman Di Manes) not to allow anyone “except [a brother ?] to sell or buy the garden (peribolo) of the tomb” (need Greek). The prohibition against sale suggests that here, as often elsewhere in Asia Minor and Italy, a garden is referred to metonymically by the perimeter wall that enclosed it.
 
 
 <!--
