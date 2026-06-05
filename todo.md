@@ -91,7 +91,7 @@ User forks of the old GRE repo that have updates that might not be in main GRE r
 - [ ] [amartyashri](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...amartyashri:gre-archive-2025-06-04:master) (Amartya Shri) - 28 files in Achaea, Pleaides links, removed empty sections
 
 
-Stub records -- still need to check _index.md files for content or template in Italia
+- Stub records -- still need to check _index.md files for content or template in Italia
 - Get coordinates from Pleiades records
 - editorial style for including species names (hambach has two different styles)
 - province boundaries
@@ -99,3 +99,8 @@ Stub records -- still need to check _index.md files for content or template in I
 - move "tomb garden near rome" folder contents into regio_i_latium_et_campania/roma?
 - 'jashemski-catalogue' exists in front matter for 86 gardens -- this could be useful for tracking progress compared to Jashemski's original list, but we would want to add these numbers to those gardens that came from ithe original documents
 - place names, old or modern (probably old) -- for example Segobriga vs Cuenca, Spain
+- update about/history/etc -- all people links (including contact) should go to GRE people page
+- instructions for reporting issues
+- Divya as main contact for everything instead of Kathy?
+- about the color scheme (blue external, red internal, green navigation, etc.)
+- fix title casing
