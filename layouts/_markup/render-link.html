@@ -1,9 +1,11 @@
 {{/* identify external links and open them in a new tab */}}
-{{- $url := .Destination | safeURL -}}
+{{- $url := .Destination -}}
 {{- $external := and (hasPrefix $url "http") (not (hasPrefix $url "https://roman-gardens.github.io/") ) -}}
 {{- if not (hasPrefix $url "http") -}}
-    {{/* expand relative links, so they work on localhost and test websites */}}
-    {{- $url = urls.JoinPath site.BaseURL $url -}}
+    {{/* expand top-level relative links, so they work on localhost and test websites */}}
+    {{- if hasPrefix $url "/" -}}
+      {{- $url = urls.JoinPath site.BaseURL $url -}}
+    {{- end -}}
 {{- end -}}
 <a href="{{ $url }}"
   {{- with .Title }} title="{{ . }}"{{ end -}}
