@@ -13,7 +13,7 @@ We present this evidence for the garden culture of the Roman Empire in a searcha
 ## Beta!
 
 We are launching the GRE website in a beta format. As a legacy project, our goal is to share the original text prepared by Wilhelmina Jashemski and her editorial team, and develop this site in collaboration with our readers. We invite you to test out the entries and join us to make this a great resource in content and function! We will also be seeking new garden entries. To give feedback, submit an entry, or join us,
-visit the [contribute]({{<relref "../contribute/">}}) page.
+visit the [join](/join) page.
 
 <!--For the most recent information about the status of the project and news about upcoming publications and features, please see our [blog]({{<relref "../blog/">}}).-->
 

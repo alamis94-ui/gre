@@ -25,7 +25,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 		_, sExt = os.path.splitext(sFilename)   # Get file extension (looking for .md)
 		
 		# Skip the meta pages
-		vExcluded = ['about.md', 'citation.md', 'contribute.md']
+		vExcluded = ['about.md', 'citation.md', 'join.md']
 		if sFilename in vExcluded:
 			continue
 		

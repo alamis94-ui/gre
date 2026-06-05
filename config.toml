@@ -55,7 +55,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 	[[menu.main]]
 		name = "Join"
-		pageRef = "/contribute/"
+		pageRef = "/join/"
 		weight = 60
 
 	[[menu.main]]

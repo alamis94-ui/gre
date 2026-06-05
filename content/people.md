@@ -9,7 +9,7 @@ draft: false
 
 The Gardens of the Roman Empire Project has engaged a wonderful community of scholars, archaeologists, and students over the years.  We have a group of **editors**, who are coordinating the project, a **digital humanities team** that is shaping this website and bringing the data to life, **area editorial teams** for the provinces and major cities, who are seeking out new gardens and reviewing entries; and our contributing **authors**.
 
-We gratefully acknowledge our past editors and the many volunteer and student assistants who have helped us build this project over the years. **[Join us!]({{<ref "contribute/">}})**
+We gratefully acknowledge our past editors and the many volunteer and student assistants who have helped us build this project over the years. **[Join us!](/join/)**
 
 - *Italics* original editor
 - \*  Deceased
