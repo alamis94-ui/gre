@@ -31,13 +31,13 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< image file="Fig. 24, II.v. 8.34.66.jpg" caption="excavation detail 1" credit="" alt="stuff measured the size of the hole." >}}
 
-{{< image file="Fig. 25, II.v. 27.26.66.jpg" caption="excavation work" credit="" alt="work on the site excavation." >}}
+{{< image file="Fig. 25, II.v. 27.26.66.jpg" caption="excavation work" credit="" alt="" >}}
 
 {{< image file="Fig. 26, II.v. 36.26.66.jpg" caption="one excavation site" credit="" alt="the excavation site looked like a T shape with many fragments  ." >}}
 
-{{< image file="Fig. 27, II.v. 36.17.66.jpg" caption="the excavated bones" credit="" alt="the excavated bones  ." >}}
+{{< image file="Fig. 27, II.v. 36.17.66.jpg" caption="the excavated bones" credit="" alt="" >}}
 
-{{< image file="Fig. 28, II.v. 36.19.66.jpg" caption="the excavated holes" credit="" alt="the excavated holes  ." >}}
+{{< image file="Fig. 28, II.v. 36.19.66.jpg" caption="the excavated holes" credit="" alt="" >}}
 
 {{< image file="Fig. 29, II.v. 37.9.66.jpg" caption="excavated root cavities" credit="" alt="people sit on the excavated root cavities, looking at the remains  ." >}}
 
@@ -55,11 +55,11 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< image file="Fig. 36, II.v. 26.32.68.jpg" caption="hole and remains" credit="" alt="one size of the hole and another remains." >}}
 
-{{< image file="Fig. 37, II.v. 26.34.68.jpg" caption="a line of holes" credit="" alt="a line of holes." >}}
+{{< image file="Fig. 37, II.v. 26.34.68.jpg" caption="a line of holes" credit="" alt="" >}}
 
 {{< image file="Fig. 38, II.v. 27.36.68.jpg" caption="archeologist" credit="" alt="one stuff." >}}
 
-{{< image file="Fig. 39, II.v. 28.6.68.jpg" caption="fragments" credit="" alt="fragments and gravel near the wall." >}}
+{{< image file="Fig. 39, II.v. 28.6.68.jpg" caption="fragments and gravel near the wall" credit="" alt="" >}}
 
 {{< image file="Fig. 40, II.v. 33.14.68.jpg" caption="part of site overview" credit="" alt="people were working at the excavation and discussing something." >}}
 
@@ -67,19 +67,19 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< image file="Fig. 42, II.v. 51.13.68.jpg" caption="three holes" credit="" alt="three different shape holes." >}}
 
-{{< image file="Fig. 43, II.v. 56.29.68.jpg" caption="a line-shape hole" credit="" alt="a line-shape hole." >}}
+{{< image file="Fig. 43, II.v. 56.29.68.jpg" caption="a line-shape hole" credit="" alt="" >}}
 
 {{< image file="Fig. 44, II.v. 58.3.68.jpg" caption="stone remains 1" credit="" alt="the remains." >}}
 
 {{< image file="Fig. 45, II.v. 58.4.68.jpg" caption="stone remains detail" credit="" alt="the remains detail." >}}
 
-{{< image file="Fig. 46, II.v. 58.9.68.jpg" caption="site view" credit="" alt="site view." >}}
+{{< image file="Fig. 46, II.v. 58.9.68.jpg" caption="site view" credit="" alt="" >}}
 
 {{< image file="Fig. 47, II.v. 10.8.70.jpg" caption="excavation work" credit="" alt="four people are working on the excavation." >}}
 
-{{< image file="Fig. 48, II.v. 11.23.70.jpg" caption="site view" credit="" alt="site view." >}}
+{{< image file="Fig. 48, II.v. 11.23.70.jpg" caption="site view" credit="" alt="" >}}
 
-{{< image file="Fig. 49, II.v. 7.29.70.jpg" caption="site with wild flowers" credit="" alt="site with wild flowers." >}}
+{{< image file="Fig. 49, II.v. 7.29.70.jpg" caption="site with wild flowers" credit="" alt="" >}}
 
 {{< image file="Fig. 50, II.v. 7.29.70.jpg" caption="line holes" credit="" alt="" >}}
 
@@ -101,7 +101,7 @@ The entrance directly across from the amphitheater was designed to be an archite
 {{< image file="Fig. 57, II.v. 15.11.70.jpg" caption="hole work" credit="" alt="people put mud in the hole" >}}
 
 
-{{< image file="Fig. 58, II.v. 16.28.70.jpg" caption="hole fix" credit="" alt="fix the hole" >}}
+{{< image file="Fig. 58, II.v. 16.28.70.jpg" caption="hole fix" credit="" alt="" >}}
 
 {{< image file="Fig. 59, II.v. 16.38.70.jpg" caption="excavation work" credit="" alt="people worked on the excavation" >}}
 

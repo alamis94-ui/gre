@@ -34,7 +34,7 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 
 ## Images
 
-{{< image file="Ephesos Northwest corner 5a.jpg" caption="Garden painting in the North-West corner of the peristyle" credit="" alt="Garden painting in the North-West corner of the peristyle showing plants and painted windows with more surrounding context" >}}
+{{< image file="Ephesos Northwest corner 5a.jpg" caption="Garden painting in the North-West corner of the peristyle" credit="" alt="The painting shows plants and painted windows with more surrounding context" >}}
 
 {{< image file="photo by N. Blanc.jpg" caption="Detail of the garden painting in the North-West corner of the peristyle." credit="Photo by N. Blanc" alt="Detail of the garden painting in the North-West corner of the peristyle showing plants in the foreground and trees with red fruits" >}}
 

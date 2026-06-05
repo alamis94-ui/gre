@@ -24,7 +24,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 - [Thamugadi]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 
-{{< image file="timgad_city_plan_house_of_the_planters.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="Plan of Thamugadi." >}}
+{{< image file="timgad_city_plan_house_of_the_planters.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="" >}}
 
 ## Location Description
 
@@ -50,10 +50,10 @@ Located SW of the Decumanus and NE of the forum, the house of the "Jardinières"
 
 ## Plans
 
-{{< image file="house_of_the_planters1.jpg" caption="Fig. 1: Plan of the House of the Planters" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l'Empire romain, p. 88-92, Plan fig.40" >}}
+{{< image file="house_of_the_planters1.jpg" caption="Fig. 1: Plan of the House of the Planters at Thamugadi" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)" alt="" >}}
 ## Images
 
-{{< image file="house_of_the_planters_drawing.jpg" caption="Fig. 2: Drawing of the courtyard of the House of the Planter" credit="(Ballu, A., 1897,fig. 36)" alt="Drawing of the courtyard of the House of the Planter">}}
+{{< image file="house_of_the_planters_drawing.jpg" caption="Fig. 2: Drawing of the courtyard of the House of the Planter" credit="(Ballu, A., 1897,fig. 36)" alt="">}}
 
 <!--
 {{< image file="#" caption="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ)." credit="" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi">}}

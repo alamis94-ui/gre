@@ -44,9 +44,9 @@ To the northeast there are the baths of la Planchette, today backfilled.  This b
 
 ## Plans
 
-{{< image file="baths_of_la_planchette_1.png" caption="Fig.1 Plan of Baths of La Planchette_1" credit="" alt="Plan of Baths of La Planchette_1" >}}
+{{< image file="baths_of_la_planchette_1.png" caption="Fig.1 Plan of Baths of La Planchette_1" credit="" alt="" >}}
 
-{{< image file="baths_of_la_planchette_2.png" caption="Fig.2 Plan of Baths of La Planchette_2" credit="" alt="Plan of Baths of La Planchette_2" >}}
+{{< image file="baths_of_la_planchette_2.png" caption="Fig.2 Plan of Baths of La Planchette_2" credit="" alt="" >}}
 
 <!-- ## Dates -->
 

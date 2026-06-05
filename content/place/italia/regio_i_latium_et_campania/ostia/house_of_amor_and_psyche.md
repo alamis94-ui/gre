@@ -73,13 +73,13 @@ The [*viridarium*](https://en.wiktionary.org/wiki/viridarium) is the main source
 
 ## Figures
 
-{{< image file="ostia_fig3_colored.jpg" caption="Figure 1: Plan" credit="(after Becatti 1961)." alt="Plan of the House of Amor and Psyche" >}}
+{{< image file="ostia_fig3_colored.jpg" caption="Figure 1: Plan of the House of Amor and Psyche" credit="(after Becatti 1961)." alt="" >}}
 
 {{< image file="ostia_fig4.jpg" caption="Figure 2: Nymphaeum (PA-OAnt, Photo Archive)." credit="" alt="Photo of Nymphaeum" >}}
 
-{{< image file="ostia_fig5_better.jpg" caption="Figure 3: Axonometry" credit="(R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." alt="Axonometry" >}}
+{{< image file="ostia_fig5_better.jpg" caption="Figure 3: Axonometry" credit="(R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." alt="" >}}
 
-{{< image file="ostia_fig4b.jpg" caption="Figure 4: Section" credit="(R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." alt="Section" >}}
+{{< image file="ostia_fig4b.jpg" caption="Figure 4: Section" credit="(R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." alt="" >}}
 
 ## Dates
 

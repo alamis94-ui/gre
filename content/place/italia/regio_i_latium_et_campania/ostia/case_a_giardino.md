@@ -68,7 +68,7 @@ A sculptural group with a fishing scene, which could be interpreted as a fountai
 
 ## Figures
 
-{{< image file="ostia_fig10_better_colored.jpg" caption="Figure 1: Plan" credit="(after Ricciardi, Scrinari 1996)." alt="Plan of the Garden Houses" >}}
+{{< image file="ostia_fig10_better_colored.jpg" caption="Figure 1: Plan of the Garden Houses" credit="(after Ricciardi, Scrinari 1996)." alt="" >}}
 
 {{< image file="ostia_fig11.jpg" caption="Figure 2: Fountain (PA-OAnt, Photo Archive)." credit="" alt="Plan of the Garden Houses" >}}
 

@@ -85,9 +85,9 @@ The garden also forms the backdrop to the rooms in the east part of the house, a
 
 ## Figures
 
-{{< image file="ostia_fig20_better_colored.jpg" caption="Figure 1: Plan" credit="(after Boersma 1985)." alt="Plan of the Fortuna Annonaria" >}}
+{{< image file="ostia_fig20_better_colored.jpg" caption="Figure 1: Plan of the Fortuna Annonaria" credit="(after Boersma 1985)." alt="" >}}
 
-{{< image file="ostia_fig21_better.jpg" caption="Figure 2: Axonometry" credit="(from Boersma 1985)." alt="Axonometry of the Fortuna Annonaria" >}}
+{{< image file="ostia_fig21_better.jpg" caption="Figure 2: Axonometry of the Fortuna Annonaria" credit="(from Boersma 1985)." alt="" >}}
 
 {{< image file="ostia_fig22.jpg" caption="Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive)." credit="" alt="The garden seen from the oecus" >}}
 

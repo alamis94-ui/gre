@@ -24,7 +24,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 - [Thamugadi]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 
-{{< image file="timgad_city_plan_house_of_the_west_of_the_filadelfes.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="Plan of Thamugadi." >}}
+{{< image file="timgad_city_plan_house_of_the_west_of_the_filadelfes.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="" >}}
 
 ## Location Description
 

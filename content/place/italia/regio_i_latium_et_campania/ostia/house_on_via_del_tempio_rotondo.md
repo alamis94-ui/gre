@@ -73,7 +73,7 @@ This house was only partially excavated between June 1972 and January 1973 (Fig.
 
 {{< image file="ostia_fig15_better_colored.jpg" caption="Fig. 1: Plan (after M. Supino; PA-OAnt, Archives)." credit="" alt="Plan of the House on Via del Tempio Rotundo" >}}
 
-{{< image file="ostia_fig17_better.jpg" caption="Fig. 2: Plan of the peristyle, with column bases and flower pots" credit="(from Messineo 1984)." alt="Plan of the peristyle, with column bases and flower pots" >}}
+{{< image file="ostia_fig17_better.jpg" caption="Fig. 2: Plan of the peristyle, with column bases and flower pots" credit="(from Messineo 1984)." alt="" >}}
 
 ## Photos
 
