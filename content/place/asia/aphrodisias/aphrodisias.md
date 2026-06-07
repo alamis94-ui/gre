@@ -23,7 +23,7 @@ Aphrodisias (_Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis_), in Ca
 
 ## Plans
 
-{{< image file="South agora plan.jpg" caption="Plan of the South Agora, also called as the Place of Palms at Aphrodisias" credit="Mica and Ahmet Ertegün South Agora Pool Project" alt="" >}}
+{{< image file="south-agora-plan.jpg" caption="Plan of the South Agora, also called as the Place of Palms at Aphrodisias" credit="Mica and Ahmet Ertegün South Agora Pool Project" alt="" >}}
 
 ## Images
 

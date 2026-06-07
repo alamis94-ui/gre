@@ -39,7 +39,7 @@ We next consider the identity of the many smaller roots.  Since this garden was 
 
 ## Plans
 
-{{< image file="AFR_Thub_Hba_malek fig1.jpg" caption="Fig. 1: Plan of the House of Bacchus and Ariadne." credit="(CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)" alt="" >}}
+{{< image file="AFR_Thub_Hba_malekfig1.jpg" caption="Fig. 1: Plan of the House of Bacchus and Ariadne." credit="(CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)" alt="" >}}
 
 ## Images
 

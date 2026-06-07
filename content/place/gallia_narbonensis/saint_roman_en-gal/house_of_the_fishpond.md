@@ -45,7 +45,7 @@ In the course of the second century, some two meters of fill was added to the ga
 
 ## Plans
 
-{{< image file="House of the Fishpond.png" caption="house of the fishpond" credit="" alt="" >}}
+{{< image file="house_of_the_fishpond.png" caption="House of the fishpond" credit="" alt="" >}}
 
 
 <!-- ## Images -->

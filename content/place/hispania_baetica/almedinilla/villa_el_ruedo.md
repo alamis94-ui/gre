@@ -49,11 +49,11 @@ The chronology of the house is quite tentative.  A first phase, probably to be p
 
 ## Images
 
-{{< image file="HIS_BAE_Almedinilla_El Ruedo_Fig. 1_CA.jpg" caption="Fig. 1 Site Plan showing the planting pits and water features." credit="" alt="" >}}
+{{< image file="HIS_BAE_Almedinilla_El_Ruedo_Fig1_CA.jpg" caption="Fig. 1 Site Plan showing the planting pits and water features." credit="" alt="" >}}
 
-{{< image file="HIS_BAE_Almedinilla_El Ruedo_Fig. 2_CA.jpg" caption="Fig. 2  Plan detail of stibadium and pools." credit="" alt="" >}}
+{{< image file="HIS_BAE_Almedinilla_El_Ruedo_Fig2_CA.jpg" caption="Fig. 2  Plan detail of stibadium and pools." credit="" alt="" >}}
 
-{{< image file="HIS_BAE_Almedinilla_El Ruedo_Fig. 3_CA.jpg" caption="Fig. 3  Photograph looking south over stibadium and pools (Clopper Almon)." credit="" alt="" >}}
+{{< image file="HIS_BAE_Almedinilla_El_Ruedo_Fig3_CA.jpg" caption="Fig. 3  Photograph looking south over stibadium and pools (Clopper Almon)." credit="" alt="" >}}
 
 ## Dates
 

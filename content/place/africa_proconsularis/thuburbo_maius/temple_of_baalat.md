@@ -23,7 +23,7 @@ Only the central passage (III) way leading to the temple (IV) was paved. The res
 
 ## Plans
 
-{{< image file="Temple of Baalat.jpg" caption="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" credit="" alt="" >}}
+{{< image file="temple_baalat.jpg" caption="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" credit="" alt="" >}}
 
 ## Bibliography
 

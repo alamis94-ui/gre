@@ -29,7 +29,7 @@ The peristyle garden of the house (ca 16.50 x 8.50 m) was enclosed on four sides
 
 ## Images
 
-{{< image file="AFR_Hip_Vsfphoto_Amalek fig2.jpg" caption="Fig. 2: Photographic view of the garden and its semi-circular basin. (aOrOc CNRS-ENS A.-A Malek)" credit="" alt="">}}
+{{< image file="AFR_Hip_Vsf_Amalekfig2.jpg" caption="Fig. 2: Photographic view of the garden and its semi-circular basin. (aOrOc CNRS-ENS A.-A Malek)" credit="" alt="">}}
 
 ## Bibliography
 
