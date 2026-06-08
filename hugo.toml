@@ -1,14 +1,14 @@
 baseURL = "https://roman-gardens.github.io/"
 relativeURLs = false
 
-languageCode = "en-us"
+locale = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
 
 publishDir = "docs"
 
-buildDrafts = false
 enableEmoji = true
+enableGitInfo = true
 enableInlineShortcodes = true
 
 # This prevents diacritics in URLs (as for links to people pages)

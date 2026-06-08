@@ -59,8 +59,8 @@
 	{{- with .Date -}}
 		<div>Published: {{ time.Format "2006-01-02" . }}</div>
 	{{- end -}}
-	{{- with .Params.Modified -}}
-		<div>Modified: {{ time.Format "2006-01-02" . }}</div>
+	{{- with .GitInfo -}}
+		<div>Last modified: {{ .AuthorDate.Format "2006-01-02" }}</div>
 	{{- end -}}
 </div>
 

@@ -18,7 +18,7 @@ function smallcrumbs(dir) {
 
 // build the search index from each garden page (TODO: include place pages -- but how to display in results?)
 window.pageData = {
-{{- range $ri, $rv := where .Site.Pages "Type" "garden" -}}
+{{- range $ri, $rv := where (sort .Site.Pages "Path") "Type" "garden" -}}
 	{{- if .Title -}}
 		{{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
 		{{- $place := title (replaceRE "[\\W_]+" " " .Path) -}}
@@ -28,7 +28,7 @@ window.pageData = {
 	"smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),
 	"content": {{ $content }},
 	"url": "{{ print .Site.BaseURL "id/" .Params.gre_id "/" }}",
-	"draft": {{ if .Draft }}true{{ else }}false{{ end }},
+	"draft": {{ .Draft }},
 	"latlon": {{ .Params.latlon }} },
 	{{ end -}}
 {{- end -}}
