@@ -1,13 +1,6 @@
 {{- if len .Summary }}
-	<!-- this template gets used when browsing gardens by location or tag -->
+	<!-- this template gets used when browsing gardens by location -->
 	<article class="list__item post">
-		{{- if .Params.thumbnail }}
-		<figure class="list__thumbnail">
-			<a href="{{ .Permalink }}">
-				<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}" />
-			</a>
-		</figure>
-		{{- end }}
 		<header class="list__header">
 			<div class='smallcrumbs'>
 				{{- $crumbs := replaceRE "/place/" "" (path.Dir .Path) -}}
@@ -19,9 +12,6 @@
 				</a>
 				{{- if .Params.draft }} (DRAFT) {{- end }}
 			</h3>
-			{{- with .Params.lead }}
-			<p class="list__lead post__lead">{{ . }}</p>
-			{{- end }}
 			{{ with partial "post_meta.html" . -}}
 			<div class="list__meta meta">{{ . }}</div>
 			{{- end }}
@@ -38,12 +28,5 @@
 			{{ $excerpt }}...
 		</div>
 
-		{{- if .Site.Params.readmore }}
-		{{- if .Truncated }}
-		<div class="list__footer clearfix">
-			<a class="list__footer-readmore btn" href="{{ .RelPermalink }}">{{ T "read_more" }}</a>
-		</div>
-		{{- end }}
-		{{- end }}
 	</article>
 {{- end }}

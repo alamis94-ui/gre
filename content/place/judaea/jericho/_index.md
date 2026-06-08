@@ -1,7 +1,7 @@
 ---
 slug: "7a8816878c"
 type: place
-title: Hasmonean and Herodian Palace Complex at Jericho
+title: Jericho
 author: Kathryn Gleason
 contributor: Keith Jenkins
 date: 2026-05-16
