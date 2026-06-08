@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Site.Language.Lang }}">
 <head>
-  {{- if or (.Site.BuildDrafts) (in .Site.BaseURL "test") }}
+  {{- if in .Site.BaseURL "test" }}
 	<meta name="robots" content="noindex, nofollow">
   {{- end }}
 	<meta charset="UTF-8">

@@ -16,6 +16,8 @@
 - handle links in captions/credits
 - remove "Credit: " from display of image credit?  (Review credit values to see if they can stand on their own?)
 - Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
+- experiment with embedded metadata -- hugo has some support for image metadata https://gohugo.io/methods/resource/meta/
+    - would probably need to run hugo on the gre-images directory
 
 # Cleanup
 
