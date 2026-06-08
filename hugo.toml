@@ -40,7 +40,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 	[[menu.main]]
 		name = "Gardens"
-		pageRef = "/place/"
+		pageRef = "/place"
 		weight = 30
 
 	[[menu.main]]
@@ -94,6 +94,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 [permalinks]
 	[permalinks.section]
-		place = "id/:slug/"
+		place = "/id/:slug/"
 	[permalinks.page]
 		place = "/id/:slug/"

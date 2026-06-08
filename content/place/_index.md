@@ -1,4 +1,5 @@
 ---
+slug: "all"
 title: All Gardens
 draft: false
 ---
