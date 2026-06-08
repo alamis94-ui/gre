@@ -1,19 +1,23 @@
 {{- $path := .Path -}}
 
-{{/* get the current place name */}}
-{{- $thisplace := partial "this-place.html" .Path -}}
+{{/* get the immediate sublocations for this place */}}
+{{ $places := where .Pages "Type" "place" }}
 
-{{ $places := where (where .Pages "Type" "place") "Params.author" "gt" "" }}
+{{/* get all the gardens within this place */}}
 {{ $gardens := where .RegularPagesRecursive "Type" "garden" }}
 
 {{/* Build a list of sortable place names */}}
 {{ $sortable := slice }}
 {{ range $places }}
     {{/* force roman rumerals 1-39 to sort better (e.g. IX comes after VIII) */}}
-    {{ $s := replaceRE "([IVX]*X[IVX]*)" "zzz$1" .Title }}
-    {{ if $s }}
-        {{ $sortable = $sortable | append $s }}
+    {{ $s := .Title }}
+    {{ if not $s }}
+        {{/* if no _index.md content, infer title from path */}}
+        {{ $s = print (replaceRE `.*/` "" .Path) }}
     {{ end }}
+    {{ $s = replaceRE `([IVX]*X[IVX]*)` "zzz$1" $s }}
+    {{ $s = replaceRE `([ivx]*x[ivx]*)` "zzz$1" $s }}
+    {{ $sortable = $sortable | append $s }}
 {{ end }}
 
 {{ if $sortable}}
@@ -26,10 +30,13 @@
             {{/* undo the roman sorting hack */}}
             {{ $v := replaceRE "zzz" "" . }}
             {{ if $v }}
-                {{ range where $places "Title" $v }}
+                {{ range or (where $places "Title" $v) (where $places "Path" "like" (print $v `\b`) )}}
+                    {{ if not .Title }}
+                        {{ $v = print "[" $v "]"}}
+                    {{ end }}
                     {{ $count := len .RegularPagesRecursive }}
                     {{ if $count }}
-                      <li><a href="{{ .Permalink }}">{{ .Title }}</a>
+                      <li><a href="{{ .Permalink }}">{{ $v }}</a>
                       ({{ len .RegularPagesRecursive }} gardens)</li>
                     {{ end }}
                 {{ end }}
