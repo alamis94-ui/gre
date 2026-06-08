@@ -1,6 +1,5 @@
 ---
-gre_id: "ad8849a255"
-aliases: [/id/ad8849a255]
+slug: "ad8849a255"
 type: garden
 title: Rhodes Palatial House
 latlon: [ 36.4430001211, 28.21542628580 ]

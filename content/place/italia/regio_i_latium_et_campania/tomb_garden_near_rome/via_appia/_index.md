@@ -1,13 +1,12 @@
 ---
-gre_id: "77dc8a38b4"
-aliases: [/id/77dc8a38b4]
+slug: "77dc8a38b4"
 type: place
 title: Via Appia
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

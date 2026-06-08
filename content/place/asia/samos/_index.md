@@ -1,13 +1,12 @@
 ---
-gre_id: "10d70e7aca"
-aliases: [/id/10d70e7aca]
+slug: "10d70e7aca"
 type: place
 title: Samos
 author: Author Name
 contributor: Victoria Austen
 date: 2025-09-21
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

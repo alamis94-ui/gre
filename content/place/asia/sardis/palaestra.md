@@ -1,6 +1,5 @@
 ---
-gre_id: "76fb8a654b"
-aliases: [/id/76fb8a654b]
+slug: "76fb8a654b"
 type: garden
 title: Palaestra
 latlon: [ 0, 0 ]

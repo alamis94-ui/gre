@@ -1,6 +1,5 @@
 ---
-gre_id: "2fb1883c76"
-aliases: [/id/2fb1883c76]
+slug: "2fb1883c76"
 type: garden
 title: Villa Of Brutus
 latlon: [ 0, 0 ]

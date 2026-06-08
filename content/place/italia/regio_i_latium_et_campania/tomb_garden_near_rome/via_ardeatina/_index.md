@@ -1,13 +1,12 @@
 ---
-gre_id: "3bfae982a8"
-aliases: [/id/3bfae982a8]
+slug: "3bfae982a8"
 type: place
 title: Via Ardeatina
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

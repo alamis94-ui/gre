@@ -1,13 +1,12 @@
 ---
-gre_id: "031ce792d6"
-aliases: [/id/031ce792d6]
+slug: "031ce792d6"
 type: place
 title: Tivoli
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "1c6fcfd3a1"
-aliases: [/id/1c6fcfd3a1]
+slug: "1c6fcfd3a1"
 type: garden
 title: Horticultural pots
 latlon: [ 42.439512, 3.176623 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "2424e12a7d"
-aliases: [/id/2424e12a7d]
+slug: "2424e12a7d"
 type: place
 title: Scafati
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-31
 modified: 2026-05-31
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

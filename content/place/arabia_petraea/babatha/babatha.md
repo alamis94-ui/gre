@@ -1,6 +1,5 @@
 ---
-gre_id: "a401c7d278"
-aliases: [/id/a401c7d278]
+slug: "a401c7d278"
 type: garden
 title: Babatha's Orchard
 latlon: [ 31.024905, 35.456543 ]

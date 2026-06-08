@@ -1,6 +1,5 @@
 ---
-gre_id: "e5cccd48c0"
-aliases: [/id/e5cccd48c0]
+slug: "e5cccd48c0"
 type: garden
 title: Sanctuary of Poseidon
 latlon: [ 37.915797, 22.992968 ]

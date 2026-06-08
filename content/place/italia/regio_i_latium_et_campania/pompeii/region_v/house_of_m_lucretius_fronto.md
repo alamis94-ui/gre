@@ -1,6 +1,5 @@
 ---
-gre_id: "b48e71074e"
-aliases: [/id/b48e71074e]
+slug: "b48e71074e"
 type: garden
 title: House of M. Lucretius Fronto (V.iv.a/11)
 latlon: [ 40.74941, 14.485429 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "fa1ac28283"
-aliases: [/id/fa1ac28283]
+slug: "fa1ac28283"
 type: place
 title: Lycaonia
 author: Catherine Kearns
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

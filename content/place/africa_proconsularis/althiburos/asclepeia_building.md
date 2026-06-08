@@ -1,6 +1,5 @@
 ---
-gre_id: "a0f428953b"
-aliases: [/id/a0f428953b]
+slug: "a0f428953b"
 type: garden
 title: Asclepieia Building
 latlon: [ 35.875740, 8.786768 ]

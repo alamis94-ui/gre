@@ -1,13 +1,12 @@
 ---
-gre_id: "f493bd55c3"
-aliases: [/id/f493bd55c3]
+slug: "f493bd55c3"
 type: place
 title: Hippo Regius
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 modified: 2025-09-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

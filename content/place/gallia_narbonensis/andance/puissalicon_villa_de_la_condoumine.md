@@ -1,6 +1,5 @@
 ---
-gre_id: "9e4fc7e761"
-aliases: [/id/9e4fc7e761]
+slug: "9e4fc7e761"
 type: garden
 title: Puissalicon, villa de la Condoumine
 latlon: [ 42.439512, 3.176623 ]

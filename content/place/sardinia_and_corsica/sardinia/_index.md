@@ -1,13 +1,12 @@
 ---
-gre_id: "a5fba537c1"
-aliases: [/id/a5fba537c1]
+slug: "a5fba537c1"
 type: place
 title: Sardinia
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-12
 modified: 2025-07-12
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "90aacd419f"
-aliases: [/id/90aacd419f]
+slug: "90aacd419f"
 type: garden
 title: House of the Ram (La Maison au Bélier)
 latlon: [ 49.254081, 4.032937 ]

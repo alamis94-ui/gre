@@ -1,13 +1,12 @@
 ---
-gre_id: "e63db0078b"
-aliases: [/id/e63db0078b]
+slug: "e63db0078b"
 type: place
 title: Lavra
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

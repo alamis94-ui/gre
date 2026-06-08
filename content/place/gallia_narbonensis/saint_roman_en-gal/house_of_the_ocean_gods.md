@@ -1,6 +1,5 @@
 ---
-gre_id: "c8e6b21444"
-aliases: [/id/c8e6b21444]
+slug: "c8e6b21444"
 type: garden
 title: House of the Ocean Gods
 latlon: [ 42.439512, 3.176623 ]

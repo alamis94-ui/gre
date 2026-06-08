@@ -1,13 +1,12 @@
 ---
-gre_id: "f3acf01bf2"
-aliases: [/id/f3acf01bf2]
+slug: "f3acf01bf2"
 type: place
 title: Via Praenestina
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

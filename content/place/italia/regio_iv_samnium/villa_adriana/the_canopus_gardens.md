@@ -1,6 +1,5 @@
 ---
-gre_id: "7824cc66c9"
-aliases: [/id/7824cc66c9]
+slug: "7824cc66c9"
 type: garden
 title: The Canopus gardens (Fig. 1, n. 2)
 latlon: [ 41.938472, 12.775940 ]

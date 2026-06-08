@@ -1,6 +1,5 @@
 ---
-gre_id: "88c343cdb1"
-aliases: [/id/88c343cdb1]
+slug: "88c343cdb1"
 type: garden
 title: Collegium of the Exedra
 latlon: [ 37.442682, -6.045057 ]

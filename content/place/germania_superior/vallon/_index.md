@@ -1,13 +1,12 @@
 ---
-gre_id: "2224182bf5"
-aliases: [/id/2224182bf5]
+slug: "2224182bf5"
 type: place
 title: Vallon
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

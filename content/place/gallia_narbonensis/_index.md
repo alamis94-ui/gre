@@ -1,13 +1,12 @@
 ---
-gre_id: "d726a57eb8"
-aliases: [/id/d726a57eb8]
+slug: "d726a57eb8"
 type: place
 title: Gallia Narbonensis
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-07
 modified: 2025-07-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

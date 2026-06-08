@@ -1,6 +1,5 @@
 ---
-gre_id: "1ed466c4a5"
-aliases: [/id/1ed466c4a5]
+slug: "1ed466c4a5"
 type: garden
 title: Carmona, near Seville (Hispalis) BAETICA
 latlon: [ 37.468785, -5.65132 ]

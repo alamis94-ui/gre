@@ -1,13 +1,12 @@
 ---
-gre_id: "43fbbaaff1"
-aliases: [/id/43fbbaaff1]
+slug: "43fbbaaff1"
 type: place
 title: Palencia
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

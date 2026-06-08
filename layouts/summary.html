@@ -14,7 +14,7 @@
 				{{- partial "romancase.html" $crumbs -}}
 			</div>
 			<h3 class="list__title post__title">
-				<a href="{{ .RelPermalink }}" rel="bookmark">
+				<a href="{{ .Permalink }}" rel="bookmark">
 				{{ .Title }}
 				</a>
 				{{- if .Params.draft }} (DRAFT) {{- end }}

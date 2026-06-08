@@ -1,13 +1,12 @@
 ---
-gre_id: "3ae7dd1c92"
-aliases: [/id/3ae7dd1c92]
+slug: "3ae7dd1c92"
 type: place
 title: Briord
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,13 +1,12 @@
 ---
-gre_id: "9c897f3ae5"
-aliases: [/id/9c897f3ae5]
+slug: "9c897f3ae5"
 type: place
 title: Aventicum
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

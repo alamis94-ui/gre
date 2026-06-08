@@ -1,6 +1,5 @@
 ---
-gre_id: "5a1594755c"
-aliases: [/id/5a1594755c]
+slug: "5a1594755c"
 type: garden
 title: House of Africa (Maison de l'Afrique)
 latlon: [ 35.296057, 10.707584 ]

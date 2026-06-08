@@ -1,13 +1,12 @@
 ---
-gre_id: "06d1d3c7d0"
-aliases: [/id/06d1d3c7d0]
+slug: "06d1d3c7d0"
 type: place
 title: Labastide D Armagnac
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,13 +1,12 @@
 ---
-gre_id: "530a80ad1d"
-aliases: [/id/530a80ad1d]
+slug: "530a80ad1d"
 type: place
 title: Arelate
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

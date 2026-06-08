@@ -1,6 +1,5 @@
 ---
-gre_id: "b134587b51"
-aliases: [/id/b134587b51]
+slug: "b134587b51"
 type: garden
 title: VIII.2.3. House of Championnet II
 latlon: [ 40.74842, 14.48479 ]

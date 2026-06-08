@@ -1,6 +1,5 @@
 ---
-gre_id: "9970d12455"
-aliases: [/id/9970d12455]
+slug: "9970d12455"
 type: garden
 title: Gardens of the Temple of Elagabalus
 latlon: [ 41.889306, 12.487109 ]

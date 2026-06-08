@@ -1,6 +1,5 @@
 ---
-gre_id: "434f340499"
-aliases: [/id/434f340499]
+slug: "434f340499"
 type: garden
 title: Tomb Of The Blue Glass Vase
 latlon: [ 0, 0 ]

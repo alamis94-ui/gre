@@ -1,13 +1,12 @@
 ---
-gre_id: "87ca5bb50d"
-aliases: [/id/87ca5bb50d]
+slug: "87ca5bb50d"
 type: place
 title: Cordoba
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-03
 modified: 2026-06-03
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

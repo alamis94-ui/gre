@@ -1,6 +1,5 @@
 ---
-gre_id: "fcce6cd231"
-aliases: [/id/fcce6cd231]
+slug: "fcce6cd231"
 type: garden
 title: Tomb Garden Of Chaldaios
 latlon: [ 0, 0 ]

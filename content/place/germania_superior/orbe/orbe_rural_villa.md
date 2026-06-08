@@ -1,6 +1,5 @@
 ---
-gre_id: "58d35fd6db"
-aliases: [/id/58d35fd6db]
+slug: "58d35fd6db"
 type: garden
 title: Rural Villa in Orbe
 latlon: [ 46.744280, 6.536848 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "f3db68a29f"
-aliases: [/id/f3db68a29f]
+slug: "f3db68a29f"
 type: garden
 title: House of the Seasons (La maison des Saisons)
 latlon: [ 35.240165, 9.119793 ]

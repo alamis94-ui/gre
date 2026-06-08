@@ -1,6 +1,5 @@
 ---
-gre_id: "1ceef17483"
-aliases: [/id/1ceef17483]
+slug: "1ceef17483"
 type: place
 title: Italia
 author: Author Name

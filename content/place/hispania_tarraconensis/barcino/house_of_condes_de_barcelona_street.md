@@ -1,6 +1,5 @@
 ---
-gre_id: "22a357a9be"
-aliases: [/id/22a357a9be]
+slug: "22a357a9be"
 type: garden
 title: House of Condes de Barcelona Street
 latlon: [ 41.385, 2.173611 ]

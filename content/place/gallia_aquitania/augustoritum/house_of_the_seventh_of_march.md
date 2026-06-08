@@ -1,6 +1,5 @@
 ---
-gre_id: "b1b797943a"
-aliases: [/id/b1b797943a]
+slug: "b1b797943a"
 type: garden
 title: House Of The Seventh Of March
 latlon: [ 0, 0 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "f320d5908f"
-aliases: [/id/f320d5908f]
+slug: "f320d5908f"
 type: place
 title: Mauretania
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-05-22
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

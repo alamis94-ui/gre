@@ -1,13 +1,12 @@
 ---
-gre_id: "2cd1bcaad8"
-aliases: [/id/2cd1bcaad8]
+slug: "2cd1bcaad8"
 type: place
 title: Montmaurin
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

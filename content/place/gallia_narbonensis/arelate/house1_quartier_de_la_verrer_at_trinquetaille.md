@@ -1,6 +1,5 @@
 ---
-gre_id: "efd6c707c3"
-aliases: [/id/efd6c707c3]
+slug: "efd6c707c3"
 type: garden
 title: House I, Quartier de la Verrerie at Trinquetaille
 latlon: [ 43.677616, 4.630799 ]

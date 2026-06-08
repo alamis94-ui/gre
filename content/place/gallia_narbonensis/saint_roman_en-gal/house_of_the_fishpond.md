@@ -1,6 +1,5 @@
 ---
-gre_id: "554c97f02d"
-aliases: [/id/554c97f02d]
+slug: "554c97f02d"
 type: garden
 title: House of the Fishpond
 latlon: [ 42.439512, 3.176623 ]

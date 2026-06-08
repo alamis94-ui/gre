@@ -1,13 +1,12 @@
 ---
-gre_id: "44ac129071"
-aliases: [/id/44ac129071]
+slug: "44ac129071"
 type: place
 title: Italica
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15
 modified: 2025-07-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

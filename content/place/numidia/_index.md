@@ -1,6 +1,5 @@
 ---
-gre_id: "12829f5168"
-aliases: [/id/12829f5168]
+slug: "12829f5168"
 type: place
 title: Numidia
 author: Author Name

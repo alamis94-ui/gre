@@ -1,13 +1,12 @@
 ---
-gre_id: "68ccced718"
-aliases: [/id/68ccced718]
+slug: "68ccced718"
 type: place
 title: Calafell
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

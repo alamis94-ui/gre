@@ -1,6 +1,5 @@
 ---
-gre_id: "ef01be796c"
-aliases: [/id/ef01be796c]
+slug: "ef01be796c"
 type: garden
 title: Rural Villa in Winden Am See
 latlon: [ 46.5, 15.5 ]

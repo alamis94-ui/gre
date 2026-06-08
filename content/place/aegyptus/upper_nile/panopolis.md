@@ -1,6 +1,5 @@
 ---
-gre_id: "7fd4cfb8d2"
-aliases: [/id/7fd4cfb8d2]
+slug: "7fd4cfb8d2"
 type: garden
 title: Panopolis
 latlon: [ 0, 0 ]

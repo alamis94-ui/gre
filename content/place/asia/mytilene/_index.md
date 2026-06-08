@@ -1,13 +1,12 @@
 ---
-gre_id: "91be00f7c8"
-aliases: [/id/91be00f7c8]
+slug: "91be00f7c8"
 type: place
 title: Mytilene
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

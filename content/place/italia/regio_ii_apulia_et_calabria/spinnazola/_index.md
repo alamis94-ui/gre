@@ -1,13 +1,12 @@
 ---
-gre_id: "2b4cd3ff65"
-aliases: [/id/2b4cd3ff65]
+slug: "2b4cd3ff65"
 type: place
 title: Spinnazola
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

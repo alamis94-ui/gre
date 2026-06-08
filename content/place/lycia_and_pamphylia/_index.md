@@ -1,13 +1,12 @@
 ---
-gre_id: "ad4c9c3403"
-aliases: [/id/ad4c9c3403]
+slug: "ad4c9c3403"
 type: place
 title: Lycia And Pamphylia
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

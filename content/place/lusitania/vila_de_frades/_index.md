@@ -1,13 +1,12 @@
 ---
-gre_id: "43efbf12a4"
-aliases: [/id/43efbf12a4]
+slug: "43efbf12a4"
 type: place
 title: Vila De Frades
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

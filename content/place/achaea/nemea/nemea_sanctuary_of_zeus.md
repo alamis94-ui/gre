@@ -1,6 +1,5 @@
 ---
-gre_id: "16ce9bd153"
-aliases: [/id/16ce9bd153]
+slug: "16ce9bd153"
 type: garden
 title: Sanctuary of Zeus
 latlon: [ 37.809521, 22.710403 ]

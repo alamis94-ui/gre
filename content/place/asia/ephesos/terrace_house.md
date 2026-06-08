@@ -1,6 +1,5 @@
 ---
-gre_id: "a59bfedb41"
-aliases: [/id/a59bfedb41]
+slug: "a59bfedb41"
 type: garden
 title: Terrace House 2
 latlon: [ 37.944523, 27.351764 ]

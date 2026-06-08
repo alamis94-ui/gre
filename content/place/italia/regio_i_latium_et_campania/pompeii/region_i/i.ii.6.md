@@ -1,6 +1,5 @@
 ---
-gre_id: "abfb7480d1"
-aliases: [/id/abfb7480d1]
+slug: "abfb7480d1"
 type: garden
 title: I.2.6
 latlon: [ 40.750870, 14.493866 ]

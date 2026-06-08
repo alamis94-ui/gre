@@ -1,13 +1,12 @@
 ---
-gre_id: "92ffa9437e"
-aliases: [/id/92ffa9437e]
+slug: "92ffa9437e"
 type: place
 title: Nicopolis
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

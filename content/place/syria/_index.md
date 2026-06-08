@@ -1,13 +1,12 @@
 ---
-gre_id: "d3b5fcc3a2"
-aliases: [/id/d3b5fcc3a2]
+slug: "d3b5fcc3a2"
 type: place
 title: Syria
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

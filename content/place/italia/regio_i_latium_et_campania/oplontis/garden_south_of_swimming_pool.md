@@ -1,6 +1,5 @@
 ---
-gre_id: "59259fc7ec"
-aliases: [/id/59259fc7ec]
+slug: "59259fc7ec"
 type: garden
 title: Garden South Of Swimming Pool
 latlon: [ 0, 0 ]

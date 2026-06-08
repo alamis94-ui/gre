@@ -1,13 +1,12 @@
 ---
-gre_id: "f5a7b679da"
-aliases: [/id/f5a7b679da]
+slug: "f5a7b679da"
 type: place
 title: Winden Am See
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-14
 modified: 2026-05-14
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

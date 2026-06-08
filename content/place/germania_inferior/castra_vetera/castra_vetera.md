@@ -1,6 +1,5 @@
 ---
-gre_id: "ef75706a87"
-aliases: [/id/ef75706a87]
+slug: "ef75706a87"
 type: garden
 title: Legionary Houses at Castra Vetera
 latlon: [ 51.646389, 6.469989 ]

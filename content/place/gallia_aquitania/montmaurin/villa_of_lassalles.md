@@ -1,6 +1,5 @@
 ---
-gre_id: "d72f673ab1"
-aliases: [/id/d72f673ab1]
+slug: "d72f673ab1"
 type: garden
 title: Villa Of Lassalles
 latlon: [ 0, 0 ]

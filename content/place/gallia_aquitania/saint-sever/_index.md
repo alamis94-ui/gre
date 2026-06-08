@@ -1,13 +1,12 @@
 ---
-gre_id: "f6760f52a8"
-aliases: [/id/f6760f52a8]
+slug: "f6760f52a8"
 type: place
 title: Saint Sever
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

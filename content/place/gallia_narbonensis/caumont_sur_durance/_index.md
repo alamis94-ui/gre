@@ -1,13 +1,12 @@
 ---
-gre_id: "4868fefe20"
-aliases: [/id/4868fefe20]
+slug: "4868fefe20"
 type: place
 title: Caumont Sur Durance
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

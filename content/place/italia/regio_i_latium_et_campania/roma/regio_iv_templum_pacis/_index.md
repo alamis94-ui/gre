@@ -1,13 +1,12 @@
 ---
-gre_id: "a7f6f699a0"
-aliases: [/id/a7f6f699a0]
+slug: "a7f6f699a0"
 type: place
 title: Regio IV Templum Pacis
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

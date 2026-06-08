@@ -1,6 +1,5 @@
 ---
-gre_id: "33319891be"
-aliases: [/id/33319891be]
+slug: "33319891be"
 type: garden
 title: House of the Bucrania
 latlon: [ 41.752437, 12.287016 ]

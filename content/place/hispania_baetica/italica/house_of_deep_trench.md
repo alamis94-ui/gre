@@ -1,6 +1,5 @@
 ---
-gre_id: "8dbbeb7015"
-aliases: [/id/8dbbeb7015]
+slug: "8dbbeb7015"
 type: garden
 title: House by the Deep Trench (Casa de Cañada Honda)
 latlon: [ 37.441226, -6.043175 ]

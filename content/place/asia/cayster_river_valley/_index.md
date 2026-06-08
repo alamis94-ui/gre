@@ -1,13 +1,12 @@
 ---
-gre_id: "11da9e0364"
-aliases: [/id/11da9e0364]
+slug: "11da9e0364"
 type: place
 title: Cayster River Valley
 author: Author Name
 contributor: Keith Jenkins
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

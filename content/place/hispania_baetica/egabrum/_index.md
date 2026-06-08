@@ -1,13 +1,12 @@
 ---
-gre_id: "f516f8e9ce"
-aliases: [/id/f516f8e9ce]
+slug: "f516f8e9ce"
 type: place
 title: Egabrum
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15
 modified: 2025-07-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

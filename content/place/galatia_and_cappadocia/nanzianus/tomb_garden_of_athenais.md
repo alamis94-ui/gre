@@ -1,6 +1,5 @@
 ---
-gre_id: "d67532e9dd"
-aliases: [/id/d67532e9dd]
+slug: "d67532e9dd"
 type: garden
 title: Tomb Garden Of Athenais
 latlon: [ 0, 0 ]

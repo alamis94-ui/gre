@@ -1,13 +1,12 @@
 ---
-gre_id: "3f53f43ad6"
-aliases: [/id/3f53f43ad6]
+slug: "3f53f43ad6"
 type: place
 title: Aquincum
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-14
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

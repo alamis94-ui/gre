@@ -1,13 +1,12 @@
 ---
-gre_id: "3dadb93d13"
-aliases: [/id/3dadb93d13]
+slug: "3dadb93d13"
 type: place
 title: Benalmadena Costa
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15
 modified: 2025-07-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

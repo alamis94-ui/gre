@@ -1,6 +1,5 @@
 ---
-gre_id: "edac365d78"
-aliases: [/id/edac365d78]
+slug: "edac365d78"
 type: garden
 title: House with Pilasters (Clos du Verbe Incarné)
 latlon: [ 45.758866, 4.819481 ]

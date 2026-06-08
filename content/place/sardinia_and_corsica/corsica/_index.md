@@ -1,13 +1,12 @@
 ---
-gre_id: "dce929afd4"
-aliases: [/id/dce929afd4]
+slug: "dce929afd4"
 type: place
 title: Corsica
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-12
 modified: 2025-07-12
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

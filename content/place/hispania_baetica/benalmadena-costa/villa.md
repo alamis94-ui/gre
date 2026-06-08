@@ -1,6 +1,5 @@
 ---
-gre_id: "80f99c3405"
-aliases: [/id/80f99c3405]
+slug: "80f99c3405"
 type: garden
 title: Villa
 latlon: [ 0, 0 ]

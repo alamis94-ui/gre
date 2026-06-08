@@ -1,6 +1,5 @@
 ---
-gre_id: "4461d53603"
-aliases: [/id/4461d53603]
+slug: "4461d53603"
 type: garden
 title: Tomb Garden of Papias son of Adrastos
 latlon: [ 37.839047, 28.806878 ]

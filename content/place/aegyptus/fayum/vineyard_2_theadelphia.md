@@ -1,6 +1,5 @@
 ---
-gre_id: "c6652f08ae"
-aliases: [/id/c6652f08ae]
+slug: "c6652f08ae"
 type: garden
 title: Vineyard 2 Theadelphia
 latlon: [ 0, 0 ]

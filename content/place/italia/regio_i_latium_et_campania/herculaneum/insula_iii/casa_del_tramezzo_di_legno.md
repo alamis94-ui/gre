@@ -1,6 +1,5 @@
 ---
-gre_id: "d0a13c750c"
-aliases: [/id/d0a13c750c]
+slug: "d0a13c750c"
 type: garden
 title: Casa del Tramezzo di Legno
 latlon: [ 40.805843, 14.348058 ]

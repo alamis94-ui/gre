@@ -1,6 +1,5 @@
 ---
-gre_id: "4ade66dff9"
-aliases: [/id/4ade66dff9]
+slug: "4ade66dff9"
 type: place
 title: Athens
 author: Author Name

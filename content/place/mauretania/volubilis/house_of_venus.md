@@ -1,6 +1,5 @@
 ---
-gre_id: "58c73aa8e4"
-aliases: [/id/58c73aa8e4]
+slug: "58c73aa8e4"
 type: garden
 title: House of Venus (Maison du cortège de Vénus)
 latlon: [ 34.074860, -5.552739 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "c5659f791e"
-aliases: [/id/c5659f791e]
+slug: "c5659f791e"
 type: garden
 title: Villa Saint Michel
 latlon: [ 0, 0 ]

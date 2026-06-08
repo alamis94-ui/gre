@@ -1,13 +1,12 @@
 ---
-gre_id: "d59a477b8c"
-aliases: [/id/d59a477b8c]
+slug: "d59a477b8c"
 type: place
 title: Sorde L Abbaye
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

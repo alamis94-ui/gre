@@ -1,6 +1,5 @@
 ---
-gre_id: "19dff800ff"
-aliases: [/id/19dff800ff]
+slug: "19dff800ff"
 type: garden
 title: House of the Swastika Mosaic
 latlon: [ 40.099026, -8.494163 ]

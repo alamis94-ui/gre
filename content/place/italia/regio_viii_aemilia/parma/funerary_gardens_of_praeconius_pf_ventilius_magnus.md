@@ -1,6 +1,5 @@
 ---
-gre_id: "0425bb7c25"
-aliases: [/id/0425bb7c25]
+slug: "0425bb7c25"
 type: garden
 title: Funerary Gardens Of Praeconius Pf Ventilius Magnus
 latlon: [ 0, 0 ]

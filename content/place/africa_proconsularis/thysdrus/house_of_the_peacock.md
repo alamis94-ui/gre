@@ -1,6 +1,5 @@
 ---
-gre_id: "3ec02332d6"
-aliases: [/id/3ec02332d6]
+slug: "3ec02332d6"
 type: garden
 title: House of the Peacock (Maison du Paon)
 latlon: [ 35.290182, 10.704849 ]

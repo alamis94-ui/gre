@@ -1,13 +1,12 @@
 ---
-gre_id: "16bec3a03d"
-aliases: [/id/16bec3a03d]
+slug: "16bec3a03d"
 type: place
 title: Arcos De La Frontera
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15
 modified: 2025-07-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

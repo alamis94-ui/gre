@@ -1,13 +1,12 @@
 ---
-gre_id: "03019a2a6e"
-aliases: [/id/03019a2a6e]
+slug: "03019a2a6e"
 type: place
 title: Montreal
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

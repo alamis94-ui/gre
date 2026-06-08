@@ -1,6 +1,5 @@
 ---
-gre_id: "df438870c2"
-aliases: [/id/df438870c2]
+slug: "df438870c2"
 type: garden
 title: The sanctuary of Minerva 2
 latlon: [ 36.422473, 9.218866 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "208bdd1bc5"
-aliases: [/id/208bdd1bc5]
+slug: "208bdd1bc5"
 type: garden
 title: Villa de La Cocosa
 latlon: [ 38.738228, -6.99544 ]

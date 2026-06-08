@@ -1,13 +1,12 @@
 ---
-gre_id: "1c0d05dca6"
-aliases: [/id/1c0d05dca6]
+slug: "1c0d05dca6"
 type: place
 title: Eua
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

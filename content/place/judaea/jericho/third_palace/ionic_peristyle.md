@@ -1,6 +1,5 @@
 ---
-gre_id: "dcb105bb0f"
-aliases: [/id/dcb105bb0f]
+slug: "dcb105bb0f"
 type: garden
 title: Ionic Peristyle
 latlon: [ 31.853621, 35.434882 ]

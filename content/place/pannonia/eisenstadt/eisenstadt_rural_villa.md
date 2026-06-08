@@ -1,6 +1,5 @@
 ---
-gre_id: "33cc03c782"
-aliases: [/id/33cc03c782]
+slug: "33cc03c782"
 type: garden
 title: Rural Villa in Eisenstadt
 latlon: [ 47.8333, 16.5333 ]

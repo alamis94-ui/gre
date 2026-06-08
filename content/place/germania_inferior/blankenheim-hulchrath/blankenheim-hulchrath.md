@@ -1,6 +1,5 @@
 ---
-gre_id: "26e9d8a183"
-aliases: [/id/26e9d8a183]
+slug: "26e9d8a183"
 type: garden
 title: Rustic villa at Blankenheim-Hülchrath
 latlon: [ 51.606474, 5.794368 ]

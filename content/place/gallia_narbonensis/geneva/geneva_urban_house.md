@@ -1,6 +1,5 @@
 ---
-gre_id: "15b63838f2"
-aliases: [/id/15b63838f2]
+slug: "15b63838f2"
 type: garden
 title: Urban House
 latlon: [ 46.201961, 6.143798 ]

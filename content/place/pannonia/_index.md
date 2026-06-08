@@ -1,13 +1,12 @@
 ---
-gre_id: "797193c553"
-aliases: [/id/797193c553]
+slug: "797193c553"
 type: place
 title: Pannonia
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
 modified: 2026-06-05
-draft: true
+draft: false
 ---
 
 <!-- ## Province Description -->

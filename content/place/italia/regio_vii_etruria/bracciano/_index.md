@@ -1,13 +1,12 @@
 ---
-gre_id: "23f94adcf0"
-aliases: [/id/23f94adcf0]
+slug: "23f94adcf0"
 type: place
 title: Bracciano
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,13 +1,12 @@
 ---
-gre_id: "f299b25320"
-aliases: [/id/f299b25320]
+slug: "f299b25320"
 type: place
 title: Macchaerus
 author: Győző Vörös
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "42b3b5cb9c"
-aliases: [/id/42b3b5cb9c]
+slug: "42b3b5cb9c"
 type: garden
 title: Domus de La Marseillaise
 latlon: [ 42.439512, 3.176623 ]

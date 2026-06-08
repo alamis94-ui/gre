@@ -1,13 +1,12 @@
 ---
-gre_id: "e507bce258"
-aliases: [/id/e507bce258]
+slug: "e507bce258"
 type: place
 title: Scarbantia
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-14
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

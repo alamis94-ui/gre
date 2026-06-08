@@ -1,13 +1,12 @@
 ---
-gre_id: "0c3d749d8c"
-aliases: [/id/0c3d749d8c]
+slug: "0c3d749d8c"
 type: place
 title: Salona
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

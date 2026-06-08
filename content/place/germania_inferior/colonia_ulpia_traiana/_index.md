@@ -1,13 +1,12 @@
 ---
-gre_id: "89b93a50e5"
-aliases: [/id/89b93a50e5]
+slug: "89b93a50e5"
 type: place
 title: Colonia Ulpia Xanten
 author: Keith Jenkins
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-31
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

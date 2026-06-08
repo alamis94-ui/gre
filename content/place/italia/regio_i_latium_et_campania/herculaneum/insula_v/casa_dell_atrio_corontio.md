@@ -1,6 +1,5 @@
 ---
-gre_id: "659fa1217c"
-aliases: [/id/659fa1217c]
+slug: "659fa1217c"
 type: garden
 title: Casa dell'Atrio Corontio
 latlon: [ 40.805843, 14.348058 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "d91343fd24"
-aliases: [/id/d91343fd24]
+slug: "d91343fd24"
 type: garden
 title: Great Palestra (Insula or. II.4)
 latlon: [ 40.805843, 14.348058 ]

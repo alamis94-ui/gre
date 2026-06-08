@@ -1,6 +1,5 @@
 ---
-gre_id: "8218388c4c"
-aliases: [/id/8218388c4c]
+slug: "8218388c4c"
 type: place
 title: Herculaneum
 author: Author Name

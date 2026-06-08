@@ -1,6 +1,5 @@
 ---
-gre_id: "cdc8ec5f70"
-aliases: [/id/cdc8ec5f70]
+slug: "cdc8ec5f70"
 type: garden
 title: Large Garden Beyond Propylon
 latlon: [ 0, 0 ]

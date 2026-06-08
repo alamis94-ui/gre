@@ -1,6 +1,5 @@
 ---
-gre_id: "10a13bd83c"
-aliases: [/id/10a13bd83c]
+slug: "10a13bd83c"
 type: garden
 title: I.2.22
 latlon: [ 40.750870, 14.493866 ]

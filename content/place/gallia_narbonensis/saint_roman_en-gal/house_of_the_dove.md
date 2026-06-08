@@ -1,6 +1,5 @@
 ---
-gre_id: "58e835d2b0"
-aliases: [/id/58e835d2b0]
+slug: "58e835d2b0"
 type: garden
 title: House Of The Dove
 latlon: [ 0, 0 ]

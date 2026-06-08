@@ -1,13 +1,12 @@
 ---
-gre_id: "0410fdeb48"
-aliases: [/id/0410fdeb48]
+slug: "0410fdeb48"
 type: place
 title: Unknown Provenance
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "260813cd75"
-aliases: [/id/260813cd75]
+slug: "260813cd75"
 type: garden
 title: Peristyle garden in house of Messius Ampliatus (II.ii.4)
 latlon: [ 0, 0 ]

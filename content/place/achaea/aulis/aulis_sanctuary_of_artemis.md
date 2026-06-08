@@ -1,6 +1,5 @@
 ---
-gre_id: "d9747cf8bb"
-aliases: [/id/d9747cf8bb]
+slug: "d9747cf8bb"
 type: garden
 title: Sanctuary of Artemis
 latlon: [ 38.430259, 23.593654 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "1a7cf84cd7"
-aliases: [/id/1a7cf84cd7]
+slug: "1a7cf84cd7"
 type: garden
 title: Herodian First Palace
 latlon: [ 31.853694, 35.434513 ]

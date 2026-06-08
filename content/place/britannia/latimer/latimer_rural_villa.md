@@ -1,6 +1,5 @@
 ---
-gre_id: "63f24ff3d5"
-aliases: [/id/63f24ff3d5]
+slug: "63f24ff3d5"
 type: garden
 title: Rural Villa in Latimer
 latlon: [ 51.679234, -0.549776 ]

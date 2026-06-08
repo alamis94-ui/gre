@@ -1,6 +1,5 @@
 ---
-gre_id: "c3209da57c"
-aliases: [/id/c3209da57c]
+slug: "c3209da57c"
 type: garden
 title: Unfinished Tomb 16
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "ab8009da1e"
-aliases: [/id/ab8009da1e]
+slug: "ab8009da1e"
 type: garden
 title: Villa Romana
 latlon: [ 0, 0 ]

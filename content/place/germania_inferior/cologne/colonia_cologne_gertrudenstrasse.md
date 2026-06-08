@@ -1,6 +1,5 @@
 ---
-gre_id: "95e33081e5"
-aliases: [/id/95e33081e5]
+slug: "95e33081e5"
 type: garden
 title: Urban House on Gertrudenstrasse
 latlon: [ 50.940671, 6.959908 ]

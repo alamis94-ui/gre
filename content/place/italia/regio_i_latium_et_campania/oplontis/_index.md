@@ -1,13 +1,12 @@
 ---
-gre_id: "066a52090c"
-aliases: [/id/066a52090c]
+slug: "066a52090c"
 type: place
 title: Oplontis
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

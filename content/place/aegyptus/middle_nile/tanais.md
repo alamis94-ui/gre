@@ -1,6 +1,5 @@
 ---
-gre_id: "cb3d3aa992"
-aliases: [/id/cb3d3aa992]
+slug: "cb3d3aa992"
 type: garden
 title: Tanais
 latlon: [ 0, 0 ]

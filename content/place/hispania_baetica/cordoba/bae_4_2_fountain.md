@@ -1,6 +1,5 @@
 ---
-gre_id: "fb95f2ed38"
-aliases: [/id/fb95f2ed38]
+slug: "fb95f2ed38"
 type: garden
 title: Bae 4 2 Fountain
 latlon: [ 0, 0 ]

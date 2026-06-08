@@ -1,6 +1,5 @@
 ---
-gre_id: "f131b6a9bb"
-aliases: [/id/f131b6a9bb]
+slug: "f131b6a9bb"
 type: garden
 title: House of the Scattered Branches and Flowers (Maison de la Jonchée)
 latlon: [ 36.608500, 2.203253 ]

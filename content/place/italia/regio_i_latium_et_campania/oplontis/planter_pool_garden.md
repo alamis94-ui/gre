@@ -1,6 +1,5 @@
 ---
-gre_id: "d284aea94e"
-aliases: [/id/d284aea94e]
+slug: "d284aea94e"
 type: garden
 title: Planter Pool Garden
 latlon: [ 0, 0 ]

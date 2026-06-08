@@ -1,13 +1,12 @@
 ---
-gre_id: "caf797a36b"
-aliases: [/id/caf797a36b]
+slug: "caf797a36b"
 type: place
 title: Ein Gedi
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

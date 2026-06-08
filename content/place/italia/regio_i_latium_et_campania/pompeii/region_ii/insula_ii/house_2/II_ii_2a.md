@@ -1,6 +1,5 @@
 ---
-gre_id: "db7d29c09a"
-aliases: [/id/db7d29c09a]
+slug: "db7d29c09a"
 type: garden
 title: II.ii.2 (House of D. Octavius Quartio)
 latlon: [ 40.750870, 14.493866 ]

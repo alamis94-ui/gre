@@ -1,6 +1,5 @@
 ---
-gre_id: "171b33f4c4"
-aliases: [/id/171b33f4c4]
+slug: "171b33f4c4"
 type: garden
 title: House of the Arsenal (Maison de l'Arsenal)
 latlon: [ 49.118135, 6.174155 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "93e760d9c3"
-aliases: [/id/93e760d9c3]
+slug: "93e760d9c3"
 type: garden
 title: House with Peristyle
 latlon: [ 41.752499, 12.287096 ]

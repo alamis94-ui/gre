@@ -1,6 +1,5 @@
 ---
-gre_id: "181c32511b"
-aliases: [/id/181c32511b]
+slug: "181c32511b"
 type: garden
 title: House Of Bacchus And Ariadne
 latlon: [ 0, 0 ]

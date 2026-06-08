@@ -1,13 +1,12 @@
 ---
-gre_id: "0b64c8758c"
-aliases: [/id/0b64c8758c]
+slug: "0b64c8758c"
 type: place
 title: Segobriga
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

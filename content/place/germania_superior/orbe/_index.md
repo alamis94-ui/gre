@@ -1,13 +1,12 @@
 ---
-gre_id: "ae14cee0fc"
-aliases: [/id/ae14cee0fc]
+slug: "ae14cee0fc"
 type: place
 title: Orbe
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

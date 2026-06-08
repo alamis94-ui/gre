@@ -1,6 +1,5 @@
 ---
-gre_id: "92633827fc"
-aliases: [/id/92633827fc]
+slug: "92633827fc"
 type: garden
 title: House 1, or Casa Villanueve
 latlon: [ 42.13342, 3.1145495 ]

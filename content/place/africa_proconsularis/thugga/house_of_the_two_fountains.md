@@ -1,6 +1,5 @@
 ---
-gre_id: "9ec06fbe5b"
-aliases: [/id/9ec06fbe5b]
+slug: "9ec06fbe5b"
 type: garden
 title: House of the Two Fountains (Maison aux deux Fontaines)
 latlon: [ 36.422473, 9.218866 ]

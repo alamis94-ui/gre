@@ -1,6 +1,5 @@
 ---
-gre_id: "a67a113e82"
-aliases: [/id/a67a113e82]
+slug: "a67a113e82"
 type: garden
 title: Tomb Garden Of An Anonymous
 latlon: [ 0, 0 ]

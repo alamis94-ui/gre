@@ -1,6 +1,5 @@
 ---
-gre_id: "2749debd19"
-aliases: [/id/2749debd19]
+slug: "2749debd19"
 type: place
 title: Britannia
 author: Maureen Carroll

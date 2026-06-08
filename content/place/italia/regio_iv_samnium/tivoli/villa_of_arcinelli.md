@@ -1,6 +1,5 @@
 ---
-gre_id: "c6d7888238"
-aliases: [/id/c6d7888238]
+slug: "c6d7888238"
 type: garden
 title: Villa Of Arcinelli
 latlon: [ 0, 0 ]

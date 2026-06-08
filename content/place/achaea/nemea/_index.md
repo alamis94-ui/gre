@@ -1,13 +1,12 @@
 ---
-gre_id: "76930a8438"
-aliases: [/id/76930a8438]
+slug: "76930a8438"
 type: place
 title: Nemea
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

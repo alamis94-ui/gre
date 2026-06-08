@@ -1,6 +1,5 @@
 ---
-gre_id: "5e67228278"
-aliases: [/id/5e67228278]
+slug: "5e67228278"
 type: place
 title: Pupput
 author: Amina-Aïcha Malek

@@ -1,6 +1,5 @@
 ---
-gre_id: "eaa78964ed"
-aliases: [/id/eaa78964ed]
+slug: "eaa78964ed"
 type: garden
 title: House Rue Des Colonnes
 latlon: [ 0, 0 ]

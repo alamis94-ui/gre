@@ -1,13 +1,12 @@
 ---
-gre_id: "6d26a46804"
-aliases: [/id/6d26a46804]
+slug: "6d26a46804"
 type: place
 title: Andance
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

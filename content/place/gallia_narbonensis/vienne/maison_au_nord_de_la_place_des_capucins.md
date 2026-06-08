@@ -1,6 +1,5 @@
 ---
-gre_id: "cd4e9b17fe"
-aliases: [/id/cd4e9b17fe]
+slug: "cd4e9b17fe"
 type: garden
 title: Maison Au Nord De La Place Des Capucins
 latlon: [ 0, 0 ]

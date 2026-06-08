@@ -1,6 +1,5 @@
 ---
-gre_id: "dba6ef61c4"
-aliases: [/id/dba6ef61c4]
+slug: "dba6ef61c4"
 type: garden
 title: Aphrodite Orchard
 latlon: [ 0, 0 ]

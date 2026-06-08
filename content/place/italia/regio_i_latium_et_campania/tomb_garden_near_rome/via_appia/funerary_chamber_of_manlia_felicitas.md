@@ -1,6 +1,5 @@
 ---
-gre_id: "b773ddb08b"
-aliases: [/id/b773ddb08b]
+slug: "b773ddb08b"
 type: garden
 title: Funerary Chamber of Manlia Felicitas
 latlon: [ 41.853944, 12.517797 ]

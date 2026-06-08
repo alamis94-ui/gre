@@ -1,13 +1,12 @@
 ---
-gre_id: "a9de857644"
-aliases: [/id/a9de857644]
+slug: "a9de857644"
 type: place
 title: Palermo
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

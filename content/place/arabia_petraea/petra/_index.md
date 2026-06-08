@@ -1,6 +1,5 @@
 ---
-gre_id: "7eaf43759f"
-aliases: [/id/7eaf43759f]
+slug: "7eaf43759f"
 type: place
 title: Petra
 author: Leigh-Ann Bedal

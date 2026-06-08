@@ -1,13 +1,12 @@
 ---
-gre_id: "c4e775abd3"
-aliases: [/id/c4e775abd3]
+slug: "c4e775abd3"
 type: place
 title: Elba
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

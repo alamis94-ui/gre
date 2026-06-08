@@ -1,13 +1,12 @@
 ---
-gre_id: "41c1d3ea3c"
-aliases: [/id/41c1d3ea3c]
+slug: "41c1d3ea3c"
 type: place
 title: Hispania Baetica
 author:
 contributor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
-draft: true
+draft: false
 ---
 
 <!-- ## Province Description -->

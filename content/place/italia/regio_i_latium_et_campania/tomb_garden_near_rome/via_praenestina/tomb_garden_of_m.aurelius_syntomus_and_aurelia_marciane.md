@@ -1,6 +1,5 @@
 ---
-gre_id: "4d6880017e"
-aliases: [/id/4d6880017e]
+slug: "4d6880017e"
 type: garden
 title: Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane
 latlon: [ 41.892049, 12.529719 ]

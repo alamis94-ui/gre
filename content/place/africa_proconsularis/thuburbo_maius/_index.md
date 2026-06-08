@@ -1,6 +1,5 @@
 ---
-gre_id: "9ecd995dff"
-aliases: [/id/9ecd995dff]
+slug: "9ecd995dff"
 type: place
 title: Thuburbo Maius
 author: Wilhelmina Jashemski

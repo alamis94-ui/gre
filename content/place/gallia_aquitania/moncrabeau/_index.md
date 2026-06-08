@@ -1,13 +1,12 @@
 ---
-gre_id: "c9789d4cb8"
-aliases: [/id/c9789d4cb8]
+slug: "c9789d4cb8"
 type: place
 title: Moncrabeau
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

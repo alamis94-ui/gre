@@ -1,6 +1,5 @@
 ---
-gre_id: "1f9c41b003"
-aliases: [/id/1f9c41b003]
+slug: "1f9c41b003"
 type: garden
 title: House of Ceres; Casa di Cerere (I.ix.13-14)
 latlon: [ 40.74941, 14.485429 ]

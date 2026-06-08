@@ -1,6 +1,5 @@
 ---
-gre_id: "f9106fc722"
-aliases: [/id/f9106fc722]
+slug: "f9106fc722"
 type: garden
 title: House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.viii.9)
 latlon: [ 40.74941, 14.485429 ]

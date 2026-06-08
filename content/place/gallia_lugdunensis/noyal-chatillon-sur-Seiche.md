@@ -1,6 +1,5 @@
 ---
-gre_id: "b43a41fef1"
-aliases: [/id/b43a41fef1]
+slug: "b43a41fef1"
 type: garden
 title: Villa de Châtillon-sur-Seiche
 latlon: [ 48.042566, -1.65974 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "ae5b25e9bf"
-aliases: [/id/ae5b25e9bf]
+slug: "ae5b25e9bf"
 type: garden
 title: House of the Fishing Scene
 latlon: [ 35.874279, 8.785248 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "646e65fbff"
-aliases: [/id/646e65fbff]
+slug: "646e65fbff"
 type: place
 title: Nakrason
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

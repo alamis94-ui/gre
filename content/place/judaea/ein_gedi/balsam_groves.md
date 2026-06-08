@@ -1,6 +1,5 @@
 ---
-gre_id: "828f403e58"
-aliases: [/id/828f403e58]
+slug: "828f403e58"
 type: garden
 title: Ein Gedi Balsam Groves
 latlon: [ 31.468449, 35.388383 ]

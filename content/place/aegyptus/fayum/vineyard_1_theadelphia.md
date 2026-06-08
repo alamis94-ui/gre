@@ -1,6 +1,5 @@
 ---
-gre_id: "408d429c37"
-aliases: [/id/408d429c37]
+slug: "408d429c37"
 type: garden
 title: Vineyard 1 Theadelphia
 latlon: [ 0, 0 ]

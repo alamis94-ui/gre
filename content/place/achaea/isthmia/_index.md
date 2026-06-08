@@ -1,13 +1,12 @@
 ---
-gre_id: "de037718d1"
-aliases: [/id/de037718d1]
+slug: "de037718d1"
 type: place
 title: Isthmia
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

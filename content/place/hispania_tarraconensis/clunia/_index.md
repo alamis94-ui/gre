@@ -1,13 +1,12 @@
 ---
-gre_id: "c9779ffcc2"
-aliases: [/id/c9779ffcc2]
+slug: "c9779ffcc2"
 type: place
 title: Clunia
 author: Clopper Almon
 contributor: Keith Jenkins
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "4fbd9a860e"
-aliases: [/id/4fbd9a860e]
+slug: "4fbd9a860e"
 type: garden
 title: Vaise - House with the Xenia
 latlon: [ 45.758866, 4.819481 ]

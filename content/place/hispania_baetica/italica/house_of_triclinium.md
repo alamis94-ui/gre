@@ -1,6 +1,5 @@
 ---
-gre_id: "c4de63c41a"
-aliases: [/id/c4de63c41a]
+slug: "c4de63c41a"
 type: garden
 title: House of the Triclinium
 latlon: [ 37.442, -6.043278 ]

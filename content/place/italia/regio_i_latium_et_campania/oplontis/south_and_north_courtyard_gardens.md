@@ -1,6 +1,5 @@
 ---
-gre_id: "6cd14ae10b"
-aliases: [/id/6cd14ae10b]
+slug: "6cd14ae10b"
 type: garden
 title: South And North Courtyard Gardens
 latlon: [ 0, 0 ]

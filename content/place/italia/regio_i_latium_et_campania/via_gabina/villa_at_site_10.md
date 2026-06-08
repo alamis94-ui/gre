@@ -1,6 +1,5 @@
 ---
-gre_id: "4e09dabd43"
-aliases: [/id/4e09dabd43]
+slug: "4e09dabd43"
 type: garden
 title: Villa at site 10
 latlon: [ 41.877977, 12.628776 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "5c3c939e6d"
-aliases: [/id/5c3c939e6d]
+slug: "5c3c939e6d"
 type: garden
 title: House of the Two Hunts
 latlon: [ 36.838512, 11.115794 ]

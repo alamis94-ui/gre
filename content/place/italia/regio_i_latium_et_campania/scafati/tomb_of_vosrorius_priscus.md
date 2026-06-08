@@ -1,6 +1,5 @@
 ---
-gre_id: "a765d6b0c4"
-aliases: [/id/a765d6b0c4]
+slug: "a765d6b0c4"
 type: garden
 title: Tomb Of Vosrorius Priscus
 latlon: [ 0, 0 ]

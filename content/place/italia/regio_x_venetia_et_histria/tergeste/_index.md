@@ -1,13 +1,12 @@
 ---
-gre_id: "90f5585dff"
-aliases: [/id/90f5585dff]
+slug: "90f5585dff"
 type: place
 title: Tergeste
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

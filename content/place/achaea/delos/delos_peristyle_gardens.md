@@ -1,6 +1,5 @@
 ---
-gre_id: "137e564fe8"
-aliases: [/id/137e564fe8]
+slug: "137e564fe8"
 type: garden
 title: Peristyle Gardens in the Quarter of the Theater
 latlon: [ 37.392022, 25.270238 ]

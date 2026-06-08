@@ -1,6 +1,5 @@
 ---
-gre_id: "33b0c24a54"
-aliases: [/id/33b0c24a54]
+slug: "33b0c24a54"
 type: garden
 title: Tomb Garden of Q(uintius) Medicus
 latlon: [ 41.922827, 12.595784 ]

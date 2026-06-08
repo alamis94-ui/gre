@@ -1,6 +1,5 @@
 ---
-gre_id: "b382a81e40"
-aliases: [/id/b382a81e40]
+slug: "b382a81e40"
 type: garden
 title: Baths of La Planchette
 latlon: [ 42.439512, 3.176623 ]

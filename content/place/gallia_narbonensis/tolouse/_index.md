@@ -1,13 +1,12 @@
 ---
-gre_id: "1425c29ca6"
-aliases: [/id/1425c29ca6]
+slug: "1425c29ca6"
 type: place
 title: Tolouse
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

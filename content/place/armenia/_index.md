@@ -1,13 +1,12 @@
 ---
-gre_id: "f80536a732"
-aliases: [/id/f80536a732]
+slug: "f80536a732"
 type: place
 title: Armenia
 author: Catherine Kearns
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

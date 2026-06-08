@@ -1,6 +1,5 @@
 ---
-gre_id: "3b37043a57"
-aliases: [/id/3b37043a57]
+slug: "3b37043a57"
 type: garden
 title: Tomb Garden Cicero Thabudeiensis
 latlon: [ 0, 0 ]

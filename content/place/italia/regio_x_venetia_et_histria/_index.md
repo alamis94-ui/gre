@@ -1,13 +1,12 @@
 ---
-gre_id: "55021f24a1"
-aliases: [/id/55021f24a1]
+slug: "55021f24a1"
 type: place
-title: Venetia et Histria
+title: "Regio X: Venetia et Histria"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

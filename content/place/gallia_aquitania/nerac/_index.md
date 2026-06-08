@@ -1,13 +1,12 @@
 ---
-gre_id: "42dcdf9a6a"
-aliases: [/id/42dcdf9a6a]
+slug: "42dcdf9a6a"
 type: place
 title: Nerac
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

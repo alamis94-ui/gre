@@ -1,6 +1,5 @@
 ---
-gre_id: "fc6807050c"
-aliases: [/id/fc6807050c]
+slug: "fc6807050c"
 type: garden
 title: Private Villa
 latlon: [ 37.7324600706, 26.8391253467 ]

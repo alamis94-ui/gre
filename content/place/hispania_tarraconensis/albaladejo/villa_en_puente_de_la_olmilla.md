@@ -1,6 +1,5 @@
 ---
-gre_id: "3153042981"
-aliases: [/id/3153042981]
+slug: "3153042981"
 type: garden
 title: Villa en Puente de la Olmilla
 latlon: [ 38.602777, -2.765277 ]

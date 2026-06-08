@@ -1,6 +1,5 @@
 ---
-gre_id: "1e065832bd"
-aliases: [/id/1e065832bd]
+slug: "1e065832bd"
 type: garden
 title: House Of The Five Mosaics
 latlon: [ 0, 0 ]

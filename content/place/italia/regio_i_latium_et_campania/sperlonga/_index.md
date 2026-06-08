@@ -1,13 +1,12 @@
 ---
-gre_id: "7e7b414f7e"
-aliases: [/id/7e7b414f7e]
+slug: "7e7b414f7e"
 type: place
 title: Sperlonga
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

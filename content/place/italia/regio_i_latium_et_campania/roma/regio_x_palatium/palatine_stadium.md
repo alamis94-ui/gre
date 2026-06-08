@@ -1,6 +1,5 @@
 ---
-gre_id: "1d89c56774"
-aliases: [/id/1d89c56774]
+slug: "1d89c56774"
 type: garden
 title: The Palatine 'Stadium'
 latlon: [ 41.889306, 12.487109 ]

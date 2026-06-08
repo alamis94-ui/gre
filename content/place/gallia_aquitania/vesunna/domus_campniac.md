@@ -1,6 +1,5 @@
 ---
-gre_id: "d4f07e2578"
-aliases: [/id/d4f07e2578]
+slug: "d4f07e2578"
 type: garden
 title: Domus Campniac
 latlon: [ 0, 0 ]

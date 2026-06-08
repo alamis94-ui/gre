@@ -1,6 +1,5 @@
 ---
-gre_id: "874c1ce568"
-aliases: [/id/874c1ce568]
+slug: "874c1ce568"
 type: garden
 title: Tomb Garden
 latlon: [ 0, 0 ]

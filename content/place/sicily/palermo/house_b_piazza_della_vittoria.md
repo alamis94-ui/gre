@@ -1,6 +1,5 @@
 ---
-gre_id: "b4666256a7"
-aliases: [/id/b4666256a7]
+slug: "b4666256a7"
 type: garden
 title: House B, Piazza della Vittoria
 latlon: [ 38.11127, 13.353442 ]

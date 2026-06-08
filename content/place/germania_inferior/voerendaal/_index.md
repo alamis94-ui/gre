@@ -1,13 +1,12 @@
 ---
-gre_id: "f490521a98"
-aliases: [/id/f490521a98]
+slug: "f490521a98"
 type: place
 title: Voerendaal
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-31
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

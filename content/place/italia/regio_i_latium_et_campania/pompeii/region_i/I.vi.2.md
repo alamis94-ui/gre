@@ -1,6 +1,5 @@
 ---
-gre_id: "032ed2076c"
-aliases: [/id/032ed2076c]
+slug: "032ed2076c"
 type: garden
 title: I.6.2 House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus
 latlon: [ 40.74941, 14.485429 ]

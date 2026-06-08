@@ -1,6 +1,5 @@
 ---
-gre_id: "2aca7f0286"
-aliases: [/id/2aca7f0286]
+slug: "2aca7f0286"
 type: garden
 title: Kitchen Garden
 latlon: [ 0, 0 ]

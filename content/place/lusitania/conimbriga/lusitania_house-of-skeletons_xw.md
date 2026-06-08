@@ -1,6 +1,5 @@
 ---
-gre_id: "c37c091923"
-aliases: [/id/c37c091923]
+slug: "c37c091923"
 type: garden
 title: House of the Skeletons
 latlon: [ 40.099, -8.4933 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "d2904d9952"
-aliases: [/id/d2904d9952]
+slug: "d2904d9952"
 type: place
 title: Megalopolis
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

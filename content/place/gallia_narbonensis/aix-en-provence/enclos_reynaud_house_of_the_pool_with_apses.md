@@ -1,6 +1,5 @@
 ---
-gre_id: "b6f1f6afd8"
-aliases: [/id/b6f1f6afd8]
+slug: "b6f1f6afd8"
 type: garden
 title: Enclos Reynaud, House of the pool with apses
 latlon: [ 42.439512, 3.176623 ]

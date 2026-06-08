@@ -1,6 +1,5 @@
 ---
-gre_id: "5a5fcd7cc9"
-aliases: [/id/5a5fcd7cc9]
+slug: "5a5fcd7cc9"
 type: garden
 title: Tomb Garden Of Lictoria Chaerusa
 latlon: [ 0, 0 ]

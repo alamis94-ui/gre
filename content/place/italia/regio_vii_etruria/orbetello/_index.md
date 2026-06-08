@@ -1,13 +1,12 @@
 ---
-gre_id: "7f9a6ea329"
-aliases: [/id/7f9a6ea329]
+slug: "7f9a6ea329"
 type: place
 title: Orbetello
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,13 +1,12 @@
 ---
-gre_id: "c7b995ce8e"
-aliases: [/id/c7b995ce8e]
+slug: "c7b995ce8e"
 type: place
 title: Parma
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

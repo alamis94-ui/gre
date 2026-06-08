@@ -1,6 +1,5 @@
 ---
-gre_id: "d3b975f8d5"
-aliases: [/id/d3b975f8d5]
+slug: "d3b975f8d5"
 type: garden
 title: Rural villa at Voerendaal
 latlon: [ 50.883207, 5.918982 ]

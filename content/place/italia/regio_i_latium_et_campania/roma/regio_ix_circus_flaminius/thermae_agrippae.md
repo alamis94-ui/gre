@@ -1,6 +1,5 @@
 ---
-gre_id: "a8ffc665cb"
-aliases: [/id/a8ffc665cb]
+slug: "a8ffc665cb"
 type: garden
 title: Thermae Agrippae
 latlon: [ 41.896879, 12.476831 ]

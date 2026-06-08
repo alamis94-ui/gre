@@ -1,6 +1,5 @@
 ---
-gre_id: "5f7b056781"
-aliases: [/id/5f7b056781]
+slug: "5f7b056781"
 type: garden
 title: Funerary Grove of T. Aemilius Vetus
 latlon: [ 0, 0 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "7c417e388e"
-aliases: [/id/7c417e388e]
+slug: "7c417e388e"
 type: place
 title: Myra
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

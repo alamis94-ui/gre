@@ -1,6 +1,5 @@
 ---
-gre_id: "c97f18e3e5"
-aliases: [/id/c97f18e3e5]
+slug: "c97f18e3e5"
 type: garden
 title: House In The Rue Des Clairettes
 latlon: [ 0, 0 ]

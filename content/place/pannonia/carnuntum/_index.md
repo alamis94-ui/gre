@@ -1,13 +1,12 @@
 ---
-gre_id: "10a5d854c8"
-aliases: [/id/10a5d854c8]
+slug: "10a5d854c8"
 type: place
 title: Carnuntum
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-14
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

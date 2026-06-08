@@ -1,6 +1,5 @@
 ---
-gre_id: "d23ef39a54"
-aliases: [/id/d23ef39a54]
+slug: "d23ef39a54"
 type: garden
 title: Corinthian Peristyle
 latlon: [ 31.853621, 35.434882 ]

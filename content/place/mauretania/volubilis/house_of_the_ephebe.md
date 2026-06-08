@@ -1,6 +1,5 @@
 ---
-gre_id: "d810c81400"
-aliases: [/id/d810c81400]
+slug: "d810c81400"
 type: garden
 title: House of the Ephebe (Maison de l'Ephebe)
 latlon: [ 34.0743512, -5.5557035 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "49e4c2d1b1"
-aliases: [/id/49e4c2d1b1]
+slug: "49e4c2d1b1"
 type: garden
 title: II.vii The Great Palaestra
 latlon: [ 40.750870, 14.493866 ]

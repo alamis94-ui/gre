@@ -1,13 +1,12 @@
 ---
-gre_id: "edcdbf6c60"
-aliases: [/id/edcdbf6c60]
+slug: "edcdbf6c60"
 type: place
 title: Sufetula
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 modified: 2025-09-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

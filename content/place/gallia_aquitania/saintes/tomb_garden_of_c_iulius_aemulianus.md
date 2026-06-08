@@ -1,6 +1,5 @@
 ---
-gre_id: "c136179046"
-aliases: [/id/c136179046]
+slug: "c136179046"
 type: garden
 title: Tomb Garden Of C Iulius Aemulianus
 latlon: [ 0, 0 ]

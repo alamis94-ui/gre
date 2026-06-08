@@ -1,6 +1,5 @@
 ---
-gre_id: "05b24acec3"
-aliases: [/id/05b24acec3]
+slug: "05b24acec3"
 type: garden
 title: Kanopos
 latlon: [ 0, 0 ]

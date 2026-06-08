@@ -1,6 +1,5 @@
 ---
-gre_id: "b1672db932"
-aliases: [/id/b1672db932]
+slug: "b1672db932"
 type: garden
 title: Sollertianna Domus
 latlon: [ 35.289921, 10.704940 ]

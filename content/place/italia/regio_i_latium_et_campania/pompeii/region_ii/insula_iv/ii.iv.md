@@ -1,6 +1,5 @@
 ---
-gre_id: "c0f96c0e73"
-aliases: [/id/c0f96c0e73]
+slug: "c0f96c0e73"
 type: garden
 title: II.4 Estate of Julia Felix; Praedia di Giulia Felice
 latlon: [ 40.751957, 14.493271 ]

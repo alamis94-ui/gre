@@ -1,6 +1,5 @@
 ---
-gre_id: "56fc447964"
-aliases: [/id/56fc447964]
+slug: "56fc447964"
 type: garden
 title: I.7.15-17 Shop-House
 latlon: [ 40.74941, 14.485429 ]

@@ -27,7 +27,7 @@ window.pageData = {
 	"title": "{{ .Title }}",
 	"smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),
 	"content": {{ $content }},
-	"url": "{{ print .Site.BaseURL "id/" .Params.gre_id "/" }}",
+	"url": {{ .Permalink }},
 	"draft": {{ .Draft }},
 	"latlon": {{ .Params.latlon }} },
 	{{ end -}}

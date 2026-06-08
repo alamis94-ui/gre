@@ -1,13 +1,12 @@
 ---
-gre_id: "bc27eeff26"
-aliases: [/id/bc27eeff26]
+slug: "bc27eeff26"
 type: place
 title: Acholla
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 modified: 2025-09-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

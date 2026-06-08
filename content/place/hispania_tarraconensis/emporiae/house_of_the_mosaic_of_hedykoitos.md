@@ -1,6 +1,5 @@
 ---
-gre_id: "b0bff5a21c"
-aliases: [/id/b0bff5a21c]
+slug: "b0bff5a21c"
 type: garden
 title: House of the Mosaic of Hedykoitos
 latlon: [ 42.13342, 3.1145495 ]

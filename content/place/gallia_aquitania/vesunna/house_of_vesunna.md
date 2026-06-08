@@ -1,6 +1,5 @@
 ---
-gre_id: "72df5e2f65"
-aliases: [/id/72df5e2f65]
+slug: "72df5e2f65"
 type: garden
 title: House Of Vesunna
 latlon: [ 0, 0 ]

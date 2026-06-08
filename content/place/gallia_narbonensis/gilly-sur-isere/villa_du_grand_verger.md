@@ -1,6 +1,5 @@
 ---
-gre_id: "5dc6c8cfb0"
-aliases: [/id/5dc6c8cfb0]
+slug: "5dc6c8cfb0"
 type: garden
 title: Villa Du Grand Verger
 latlon: [ 0, 0 ]

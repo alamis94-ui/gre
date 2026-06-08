@@ -1,6 +1,5 @@
 ---
-gre_id: "ea2e2ff27f"
-aliases: [/id/ea2e2ff27f]
+slug: "ea2e2ff27f"
 type: garden
 title: Villa De Bapteste
 latlon: [ 0, 0 ]

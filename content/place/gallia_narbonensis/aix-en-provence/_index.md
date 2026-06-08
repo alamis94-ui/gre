@@ -1,13 +1,12 @@
 ---
-gre_id: "07f47067ff"
-aliases: [/id/07f47067ff]
+slug: "07f47067ff"
 type: place
 title: Aix-en-Provence
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

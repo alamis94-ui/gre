@@ -1,13 +1,12 @@
 ---
-gre_id: "4292a90a1a"
-aliases: [/id/4292a90a1a]
+slug: "4292a90a1a"
 type: place
 title: Insula II
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

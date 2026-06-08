@@ -1,6 +1,5 @@
 ---
-gre_id: "b12b517e00"
-aliases: [/id/b12b517e00]
+slug: "b12b517e00"
 type: garden
 title: Tomb Garden Of Quaternios Munneniois
 latlon: [ 37.502075, 31.911754 ]

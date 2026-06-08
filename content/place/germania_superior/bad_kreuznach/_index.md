@@ -1,13 +1,12 @@
 ---
-gre_id: "c2098578f2"
-aliases: [/id/c2098578f2]
+slug: "c2098578f2"
 type: place
 title: Bad Kreuznach
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

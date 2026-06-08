@@ -1,13 +1,12 @@
 ---
-gre_id: "ca2abe167e"
-aliases: [/id/ca2abe167e]
+slug: "ca2abe167e"
 type: place
 title: Vesunna
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

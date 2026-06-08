@@ -1,13 +1,12 @@
 ---
-gre_id: "9d0ff6762d"
-aliases: [/id/9d0ff6762d]
+slug: "9d0ff6762d"
 type: place
 title: Ferpicloz
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

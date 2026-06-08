@@ -1,6 +1,5 @@
 ---
-gre_id: "0a16dfa1d8"
-aliases: [/id/0a16dfa1d8]
+slug: "0a16dfa1d8"
 type: garden
 title: The Circus of Roman Corinth
 latlon: [ 37.900814, 22.895986 ]

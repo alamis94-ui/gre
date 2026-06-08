@@ -1,6 +1,5 @@
 ---
-gre_id: "cd50b3b453"
-aliases: [/id/cd50b3b453]
+slug: "cd50b3b453"
 type: garden
 title: V.iv.b.
 latlon: [ 40.74941, 14.485429 ]

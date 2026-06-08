@@ -1,13 +1,12 @@
 ---
-gre_id: "e3cd0b98ba"
-aliases: [/id/e3cd0b98ba]
+slug: "e3cd0b98ba"
 type: place
 title: Thessaloniki
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-22
 modified: 2026-05-22
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

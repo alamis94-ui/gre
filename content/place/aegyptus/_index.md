@@ -1,13 +1,12 @@
 ---
-gre_id: "9d96f0bf2f"
-aliases: [/id/9d96f0bf2f]
+slug: "9d96f0bf2f"
 type: place
 title: Aegyptus
 author: Roger Bagnall
 contributor: Keith Jenkins
 date: 2026-05-06
 modified: 2025-05-10
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

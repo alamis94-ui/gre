@@ -1,13 +1,12 @@
 ---
-gre_id: "21f33a4c02"
-aliases: [/id/21f33a4c02]
+slug: "21f33a4c02"
 type: place
 title: Dietikon
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "11d4d33aa0"
-aliases: [/id/11d4d33aa0]
+slug: "11d4d33aa0"
 type: garden
 title: House Of The Large Vestibule
 latlon: [ 0, 0 ]

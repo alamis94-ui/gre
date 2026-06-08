@@ -1,6 +1,5 @@
 ---
-gre_id: "b358c1f3d6"
-aliases: [/id/b358c1f3d6]
+slug: "b358c1f3d6"
 type: garden
 title: Sanctuary of Zeus Philios
 latlon: [ 37.413033, 22.127645 ]

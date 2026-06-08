@@ -1,13 +1,12 @@
 ---
-gre_id: "79952f60e3"
-aliases: [/id/79952f60e3]
+slug: "79952f60e3"
 type: place
 title: Via Labicana
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

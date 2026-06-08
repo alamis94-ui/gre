@@ -1,6 +1,5 @@
 ---
-gre_id: "b758b14e74"
-aliases: [/id/b758b14e74]
+slug: "b758b14e74"
 type: garden
 title: House of the Black and White Triclinium (Maison du triclinium en noir et blanc)
 latlon: [ 36.392591, 10.563067 ]

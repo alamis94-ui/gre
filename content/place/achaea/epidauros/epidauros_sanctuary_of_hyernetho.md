@@ -1,6 +1,5 @@
 ---
-gre_id: "4ac5538904"
-aliases: [/id/4ac5538904]
+slug: "4ac5538904"
 type: garden
 title: Sanctuary of Hyernetho
 latlon: [ 37.633775, 23.159638 ]

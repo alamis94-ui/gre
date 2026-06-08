@@ -1,6 +1,5 @@
 ---
-gre_id: "08a99fc485"
-aliases: [/id/08a99fc485]
+slug: "08a99fc485"
 type: garden
 title: Palace Fortress
 latlon: [ 31.665784, 35.241750 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "ddd230a7f8"
-aliases: [/id/ddd230a7f8]
+slug: "ddd230a7f8"
 type: garden
 title: VIII.4.30.
 latlon: [ 0, 0 ]

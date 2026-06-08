@@ -1,13 +1,12 @@
 ---
-gre_id: "3b8c06dd73"
-aliases: [/id/3b8c06dd73]
+slug: "3b8c06dd73"
 type: place
 title: Capena
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

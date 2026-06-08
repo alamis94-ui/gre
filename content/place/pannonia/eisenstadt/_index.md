@@ -1,13 +1,12 @@
 ---
-gre_id: "836926279e"
-aliases: [/id/836926279e]
+slug: "836926279e"
 type: place
 title: Eisenstadt
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-14
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

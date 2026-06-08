@@ -1,6 +1,5 @@
 ---
-gre_id: "124efc8c8f"
-aliases: [/id/124efc8c8f]
+slug: "124efc8c8f"
 type: garden
 title: Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
 latlon: [ 47.684893, 16.583036 ]

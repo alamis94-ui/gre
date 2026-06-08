@@ -1,6 +1,5 @@
 ---
-gre_id: "0481cfbfef"
-aliases: [/id/0481cfbfef]
+slug: "0481cfbfef"
 type: garden
 title: House, rue Nationale
 latlon: [ 42.439512, 3.176623 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "773f0d500f"
-aliases: [/id/773f0d500f]
+slug: "773f0d500f"
 type: garden
 title: Southwest Garden
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "73d1a43068"
-aliases: [/id/73d1a43068]
+slug: "73d1a43068"
 type: garden
 title: House of the Birds
 latlon: [ 37.441789, -6.044481 ]

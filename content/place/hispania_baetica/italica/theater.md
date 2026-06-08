@@ -1,6 +1,5 @@
 ---
-gre_id: "c72ff9e782"
-aliases: [/id/c72ff9e782]
+slug: "c72ff9e782"
 type: garden
 title: Italica Theater
 latlon: [ 37.4400768235, -6.03870183489 ]

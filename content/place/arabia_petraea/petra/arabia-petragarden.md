@@ -1,6 +1,5 @@
 ---
-gre_id: "f3b21bbf86"
-aliases: [/id/f3b21bbf86]
+slug: "f3b21bbf86"
 type: garden
 title: Petra Garden and Pool Complex
 latlon: [ 30.328615, 35.443000 ]

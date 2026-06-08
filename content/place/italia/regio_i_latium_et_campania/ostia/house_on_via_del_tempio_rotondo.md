@@ -1,6 +1,5 @@
 ---
-gre_id: "5cdeb84b3f"
-aliases: [/id/5cdeb84b3f]
+slug: "5cdeb84b3f"
 type: garden
 title: House on Via del Tempio Rotondo
 latlon: [ 41.753312445649286, 12.288591244178454 ]

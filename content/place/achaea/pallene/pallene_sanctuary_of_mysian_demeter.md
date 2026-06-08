@@ -1,6 +1,5 @@
 ---
-gre_id: "fd8693dc71"
-aliases: [/id/fd8693dc71]
+slug: "fd8693dc71"
 type: garden
 title: Sanctuary of Mysian Demeter
 latlon: [ 38.018398, 23.849020 ]

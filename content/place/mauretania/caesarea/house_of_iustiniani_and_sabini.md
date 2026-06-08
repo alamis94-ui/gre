@@ -1,6 +1,5 @@
 ---
-gre_id: "2089405bc1"
-aliases: [/id/2089405bc1]
+slug: "2089405bc1"
 type: garden
 title: House of Iustiniani and Sabini (Maison de Kaid Youcef)
 latlon: [ 36.602595, 2.182992 ]

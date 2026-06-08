@@ -1,6 +1,5 @@
 ---
-gre_id: "b8e25a29e3"
-aliases: [/id/b8e25a29e3]
+slug: "b8e25a29e3"
 type: garden
 title: Villa of the Bath
 latlon: [ 45.697547, 13.737716 ]

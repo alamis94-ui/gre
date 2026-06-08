@@ -1,13 +1,12 @@
 ---
-gre_id: "487608ac47"
-aliases: [/id/487608ac47]
+slug: "487608ac47"
 type: place
 title: Savaria
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-14
 modified: 2026-05-14
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

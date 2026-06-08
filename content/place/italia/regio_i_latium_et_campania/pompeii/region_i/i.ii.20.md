@@ -1,6 +1,5 @@
 ---
-gre_id: "4b7f618619"
-aliases: [/id/4b7f618619]
+slug: "4b7f618619"
 type: garden
 title: I.2.20 Caupona of Innulus
 latlon: [ 40.750870, 14.493866 ]

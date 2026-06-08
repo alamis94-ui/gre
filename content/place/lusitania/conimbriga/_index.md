@@ -1,13 +1,12 @@
 ---
-gre_id: "c25c5c8e8a"
-aliases: [/id/c25c5c8e8a]
+slug: "c25c5c8e8a"
 type: place
 title: Conimbriga
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

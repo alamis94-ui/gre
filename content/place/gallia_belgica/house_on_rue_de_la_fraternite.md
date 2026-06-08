@@ -1,6 +1,5 @@
 ---
-gre_id: "5df14b027f"
-aliases: [/id/5df14b027f]
+slug: "5df14b027f"
 type: garden
 title: House on rue de la Fraternité
 latlon: [ 50.292741, 2.778580 ]

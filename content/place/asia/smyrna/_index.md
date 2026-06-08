@@ -1,13 +1,12 @@
 ---
-gre_id: "b8e9675005"
-aliases: [/id/b8e9675005]
+slug: "b8e9675005"
 type: place
 title: Smyrna
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

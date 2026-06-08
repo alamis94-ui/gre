@@ -1,6 +1,5 @@
 ---
-gre_id: "e8675d5f11"
-aliases: [/id/e8675d5f11]
+slug: "e8675d5f11"
 type: garden
 title: Trajan S Villa
 latlon: [ 0, 0 ]

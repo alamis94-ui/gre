@@ -1,6 +1,5 @@
 ---
-gre_id: "6e51ae92a0"
-aliases: [/id/6e51ae92a0]
+slug: "6e51ae92a0"
 type: garden
 title: House of Asinus Nica, Central District (Maison de l'Ane, quartier central)
 latlon: [ 36.317690, 5.736683 ]

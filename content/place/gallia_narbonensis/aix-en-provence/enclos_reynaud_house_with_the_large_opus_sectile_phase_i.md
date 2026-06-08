@@ -1,6 +1,5 @@
 ---
-gre_id: "7ecf27b251"
-aliases: [/id/7ecf27b251]
+slug: "7ecf27b251"
 type: garden
 title: NAR 6.3 Enclos Reynaud, House with the large opus sectile, phase I
 latlon: [ 42.439512, 3.176623 ]

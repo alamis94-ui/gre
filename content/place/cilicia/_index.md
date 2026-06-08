@@ -1,13 +1,12 @@
 ---
-gre_id: "d8d7ee31f4"
-aliases: [/id/d8d7ee31f4]
+slug: "d8d7ee31f4"
 type: place
 title: Cilicia
 author: Catherine Kearns
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

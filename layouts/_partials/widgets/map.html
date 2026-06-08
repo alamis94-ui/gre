@@ -196,7 +196,7 @@
 					{{ if .Params.latlon }}
 						{{ $lat := index .Params.latlon 0 }}
 						{{ $lon := index .Params.latlon 1 }}
-						{{ $url := print .Site.BaseURL "id/" .Params.gre_id }}
+						{{ $url := .Permalink }}
 						addPoint({{ $lat }}, {{ $lon }}, {{ .Title}}, {{ $url }})
 					{{ end }}
 				{{- end }}

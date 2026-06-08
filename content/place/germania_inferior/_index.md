@@ -1,13 +1,12 @@
 ---
-gre_id: "abf180236c"
-aliases: [/id/abf180236c]
+slug: "abf180236c"
 type: place
 title: Germania Inferior
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar, Keith Jenkins
 date: 2021-04-21
 modified: 2026-05-31
-draft: true
+draft: false
 ---
 
 <!-- ## Dates

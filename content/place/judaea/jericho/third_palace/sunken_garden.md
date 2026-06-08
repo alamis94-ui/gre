@@ -1,6 +1,5 @@
 ---
-gre_id: "9d91dd8940"
-aliases: [/id/9d91dd8940]
+slug: "9d91dd8940"
 type: garden
 title: Sunken Garden
 latlon: [ 31.853621, 35.434882 ]

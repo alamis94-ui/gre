@@ -1,6 +1,5 @@
 ---
-gre_id: "18a75adaf8"
-aliases: [/id/18a75adaf8]
+slug: "18a75adaf8"
 type: garden
 title: Porticus Liviae
 latlon: [ 41.894044, 12.496495 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "8a6db3fdb1"
-aliases: [/id/8a6db3fdb1]
+slug: "8a6db3fdb1"
 type: garden
 title: Domus Tiberiana
 latlon: [ 41.889306, 12.487109 ]

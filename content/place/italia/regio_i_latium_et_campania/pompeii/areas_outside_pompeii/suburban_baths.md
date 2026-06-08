@@ -1,6 +1,5 @@
 ---
-gre_id: "277470ce0c"
-aliases: [/id/277470ce0c]
+slug: "277470ce0c"
 type: garden
 title: Suburban Baths
 latlon: [ 0, 0 ]

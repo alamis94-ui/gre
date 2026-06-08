@@ -1,6 +1,5 @@
 ---
-gre_id: "19c1b644fb"
-aliases: [/id/19c1b644fb]
+slug: "19c1b644fb"
 type: garden
 title: Rural Villa in Darenth
 latlon: [ 51.421122, 0.257752 ]

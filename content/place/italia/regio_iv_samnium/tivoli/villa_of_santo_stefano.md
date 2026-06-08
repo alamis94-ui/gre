@@ -1,6 +1,5 @@
 ---
-gre_id: "f1c13ea3c2"
-aliases: [/id/f1c13ea3c2]
+slug: "f1c13ea3c2"
 type: garden
 title: Villa Of Santo Stefano
 latlon: [ 0, 0 ]

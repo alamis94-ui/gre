@@ -1,6 +1,5 @@
 ---
-gre_id: "e735f72800"
-aliases: [/id/e735f72800]
+slug: "e735f72800"
 type: garden
 title: Villa de Muscapeu
 latlon: [ 43.407853, 5.923999 ]

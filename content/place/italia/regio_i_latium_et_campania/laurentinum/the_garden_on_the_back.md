@@ -1,6 +1,5 @@
 ---
-gre_id: "8a45b729f8"
-aliases: [/id/8a45b729f8]
+slug: "8a45b729f8"
 type: garden
 title: The garden on the back
 latlon: [ 41.711087, 12.346884 ]

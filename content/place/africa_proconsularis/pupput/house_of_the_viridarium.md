@@ -1,6 +1,5 @@
 ---
-gre_id: "c5a0311387"
-aliases: [/id/c5a0311387]
+slug: "c5a0311387"
 type: garden
 title: House of the Viridarium with Niches (Maison du viridarium à niches)
 latlon: [ 36.392815, 10.562846 ]

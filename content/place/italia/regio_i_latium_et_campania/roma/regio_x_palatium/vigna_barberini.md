@@ -1,6 +1,5 @@
 ---
-gre_id: "b50312a60b"
-aliases: [/id/b50312a60b]
+slug: "b50312a60b"
 type: garden
 title: Vigna Barberini
 latlon: [ 41.889306, 12.487109 ]

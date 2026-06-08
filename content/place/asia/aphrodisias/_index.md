@@ -1,13 +1,12 @@
 ---
-gre_id: "ec44bb9cbd"
-aliases: [/id/ec44bb9cbd]
+slug: "ec44bb9cbd"
 type: place
 title: Aphrodisias
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "ed9aa10662"
-aliases: [/id/ed9aa10662]
+slug: "ed9aa10662"
 type: garden
 title: Tomb Garden of C. Hostius Pamphilus
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "4480f4a5de"
-aliases: [/id/4480f4a5de]
+slug: "4480f4a5de"
 type: garden
 title: Villa of the Frescoes (La villa des Fresques)
 latlon: [ 36.594845, 2.443919 ]

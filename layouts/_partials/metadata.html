@@ -14,6 +14,7 @@
 {{ end }}
 
 <div class="left">
+	{{ if ne .Params.author "Author Name" }}
 	{{- with .Params.author -}}
 		{{- $vals := partial "listify.html" . -}}
 		<div>
@@ -30,7 +31,9 @@
 			{{ end }}
 		</div>
 	{{- end }}
+	{{ end }}
 
+	{{ if ne .Params.contributor "Contributor Name" }}
 	{{- with .Params.contributor }}
 		{{ $vals := partial "listify.html" . }}
 		<div>
@@ -47,20 +50,20 @@
 			{{ end }}
 		</div>
 	{{- end }}
+	{{ end }}
 </div>
 
 <div class="right">
-	{{- with .Params.gre_id }}
-		{{ $url := print $.Site.BaseURL "id/" . "/" }}
+	{{- with .Permalink }}
 		<div>
-			Permalink: <a href="{{ $url }}">{{ $url }}</a>
+			Permalink: <a href="{{ . }}">{{ . }}</a>
 		</div>
 	{{- end }}
 	{{- with .Date -}}
 		<div>Published: {{ time.Format "2006-01-02" . }}</div>
 	{{- end -}}
 	{{- with .GitInfo -}}
-		<div>Last modified: {{ .AuthorDate.Format "2006-01-02" }}</div>
+		<div>Last modified: {{ .AuthorDate.Format "2006-01-02" }}<!--{{ .AuthorDate.Format "3:04PM" }}--></div>
 	{{- end -}}
 </div>
 

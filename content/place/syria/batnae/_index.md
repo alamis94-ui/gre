@@ -1,13 +1,12 @@
 ---
-gre_id: "5aea9dfa2f"
-aliases: [/id/5aea9dfa2f]
+slug: "5aea9dfa2f"
 type: place
 title: Batnae
 author: Catherine Kearns
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

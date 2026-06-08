@@ -1,6 +1,5 @@
 ---
-gre_id: "af71a50afa"
-aliases: [/id/af71a50afa]
+slug: "af71a50afa"
 type: garden
 title: Tomb Garden of C. Nonius Minyas
 latlon: [ 0, 0 ]

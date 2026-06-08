@@ -1,6 +1,5 @@
 ---
-gre_id: "1f6d3e89b7"
-aliases: [/id/1f6d3e89b7]
+slug: "1f6d3e89b7"
 type: garden
 title: Insula dei Dipinti
 latlon: [ 41.75511864107492, 12.287953204806119 ]

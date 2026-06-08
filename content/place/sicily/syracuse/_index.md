@@ -1,13 +1,12 @@
 ---
-gre_id: "eeef42c727"
-aliases: [/id/eeef42c727]
+slug: "eeef42c727"
 type: place
 title: Syracuse
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "384ea74144"
-aliases: [/id/384ea74144]
+slug: "384ea74144"
 type: garden
 title: Villa Of Ventidius Bassus
 latlon: [ 0, 0 ]

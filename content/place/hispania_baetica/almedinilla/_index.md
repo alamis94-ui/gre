@@ -1,13 +1,12 @@
 ---
-gre_id: "985a3fb134"
-aliases: [/id/985a3fb134]
+slug: "985a3fb134"
 type: place
 title: Almedinilla
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15
 modified: 2025-07-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

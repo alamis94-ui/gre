@@ -1,13 +1,12 @@
 ---
-gre_id: "5812c07b63"
-aliases: [/id/5812c07b63]
+slug: "5812c07b63"
 type: place
 title: Altafulla
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

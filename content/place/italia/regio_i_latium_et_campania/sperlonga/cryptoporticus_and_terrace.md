@@ -1,6 +1,5 @@
 ---
-gre_id: "2b6f517e74"
-aliases: [/id/2b6f517e74]
+slug: "2b6f517e74"
 type: garden
 title: The Gardens of Sperlonga. The peristyle garden
 latlon: [ 41.251480, 13.449332 ]

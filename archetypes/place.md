@@ -1,7 +1,5 @@
 ---
-{{- $id := substr (sha256 now) 0 10 }}
-gre_id: "{{ $id }}"
-aliases: [/id/{{ $id }}]
+slug: "{{ substr (sha256 now) 0 10 }}"
 type: place
 title: {{ title (replaceRE `[-_]` " " .Name) }}
 author: Author Name

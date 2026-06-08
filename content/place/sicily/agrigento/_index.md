@@ -1,13 +1,12 @@
 ---
-gre_id: "fae408f9ab"
-aliases: [/id/fae408f9ab]
+slug: "fae408f9ab"
 type: place
 title: Agrigento
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

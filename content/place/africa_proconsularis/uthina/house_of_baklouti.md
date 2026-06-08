@@ -1,6 +1,5 @@
 ---
-gre_id: "49d22e6ecc"
-aliases: [/id/49d22e6ecc]
+slug: "49d22e6ecc"
 type: garden
 title: House of Baklouti (Maison de Baklouti)
 latlon: [ 36.607458, 10.172291 ]

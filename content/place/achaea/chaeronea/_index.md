@@ -1,13 +1,12 @@
 ---
-gre_id: "9de6eb09da"
-aliases: [/id/9de6eb09da]
+slug: "9de6eb09da"
 type: place
 title: Chaeronea
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

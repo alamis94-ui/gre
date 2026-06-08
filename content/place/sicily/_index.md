@@ -1,13 +1,12 @@
 ---
-gre_id: "f76d433a3e"
-aliases: [/id/f76d433a3e]
+slug: "f76d433a3e"
 type: place
 title: Sicily
 author: Roger Wilson
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

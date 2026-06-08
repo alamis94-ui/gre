@@ -1,6 +1,5 @@
 ---
-gre_id: "2b2200091a"
-aliases: [/id/2b2200091a]
+slug: "2b2200091a"
 type: garden
 title: House of Vestibule with Columns
 latlon: [ 42.439512, 3.176623 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "cc227bb5cc"
-aliases: [/id/cc227bb5cc]
+slug: "cc227bb5cc"
 type: garden
 title: VIII.3.8. House of the Wild Boar I; Casa del Cinghiale I; House of L. Coelius Caldus
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "c50b3e4a5e"
-aliases: [/id/c50b3e4a5e]
+slug: "c50b3e4a5e"
 type: garden
 title: House Of The Fish
 latlon: [ 0, 0 ]

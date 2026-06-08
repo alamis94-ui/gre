@@ -1,6 +1,5 @@
 ---
-gre_id: "9e45de979b"
-aliases: [/id/9e45de979b]
+slug: "9e45de979b"
 type: garden
 title: I.4.11 Caupona of Copious
 latlon: [ 40.750870, 14.493866 ]

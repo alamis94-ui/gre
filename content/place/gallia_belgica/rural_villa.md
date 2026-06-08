@@ -1,6 +1,5 @@
 ---
-gre_id: "f90a828059"
-aliases: [/id/f90a828059]
+slug: "f90a828059"
 type: garden
 title: Villa Rustica near Bad Dürkheim
 latlon: [ 49.447612, 8.197689]

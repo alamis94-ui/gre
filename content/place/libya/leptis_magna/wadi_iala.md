@@ -1,6 +1,5 @@
 ---
-gre_id: "e4745ac5de"
-aliases: [/id/e4745ac5de]
+slug: "e4745ac5de"
 type: garden
 title: Wadi Iala
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "332f4c455f"
-aliases: [/id/332f4c455f]
+slug: "332f4c455f"
 type: garden
 title: II.iii.3 House Of Venus Marina
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "cbc00aa8f3"
-aliases: [/id/cbc00aa8f3]
+slug: "cbc00aa8f3"
 type: garden
 title: Public Park
 latlon: [ 37.442918, -6.045527 ]

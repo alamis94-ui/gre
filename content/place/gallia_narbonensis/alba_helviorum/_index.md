@@ -1,13 +1,12 @@
 ---
-gre_id: "98b9180eb4"
-aliases: [/id/98b9180eb4]
+slug: "98b9180eb4"
 type: place
 title: Alba Helviorum
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

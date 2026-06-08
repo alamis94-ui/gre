@@ -1,6 +1,5 @@
 ---
-gre_id: "715633921e"
-aliases: [/id/715633921e]
+slug: "715633921e"
 type: garden
 title: The anonymous sanctuary, Dar Lachheb
 latlon: [ 36.422473, 9.218866 ]

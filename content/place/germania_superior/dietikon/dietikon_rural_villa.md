@@ -1,6 +1,5 @@
 ---
-gre_id: "040883db1f"
-aliases: [/id/040883db1f]
+slug: "040883db1f"
 type: garden
 title: Rural Villa in Dietikon
 latlon: [ 49.214670, 8.015747 ]

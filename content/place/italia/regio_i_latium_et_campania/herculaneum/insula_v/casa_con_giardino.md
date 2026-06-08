@@ -1,6 +1,5 @@
 ---
-gre_id: "688915e49a"
-aliases: [/id/688915e49a]
+slug: "688915e49a"
 type: garden
 title: Casa con Giardino
 latlon: [ 40.805843, 14.348058 ]

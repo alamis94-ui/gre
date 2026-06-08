@@ -1,13 +1,12 @@
 ---
-gre_id: "3b0161d435"
-aliases: [/id/3b0161d435]
+slug: "3b0161d435"
 type: place
 title: Andematunnum
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

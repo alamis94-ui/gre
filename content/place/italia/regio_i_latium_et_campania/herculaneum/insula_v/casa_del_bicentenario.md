@@ -1,6 +1,5 @@
 ---
-gre_id: "cd4ec5400c"
-aliases: [/id/cd4ec5400c]
+slug: "cd4ec5400c"
 type: garden
 title: Casa del Bicentenario
 latlon: [ 40.805843, 14.348058 ]

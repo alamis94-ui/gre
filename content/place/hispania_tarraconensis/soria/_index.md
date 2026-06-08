@@ -1,13 +1,12 @@
 ---
-gre_id: "e84a7929bd"
-aliases: [/id/e84a7929bd]
+slug: "e84a7929bd"
 type: place
 title: Soria
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

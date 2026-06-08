@@ -1,13 +1,12 @@
 ---
-gre_id: "adc8c150d5"
-aliases: [/id/adc8c150d5]
+slug: "adc8c150d5"
 type: place
 title: Hispania Tarraconensis
 author: Margareta Orfia, J. M. Alvarez Martinez, Trinidad Nogales Basarrate, Clopper Almon
 contributor: Keith Jenkins
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

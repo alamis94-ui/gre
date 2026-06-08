@@ -1,6 +1,5 @@
 ---
-gre_id: "f1a0523454"
-aliases: [/id/f1a0523454]
+slug: "f1a0523454"
 type: garden
 title: Insula or. II
 latlon: [ 40.805843, 14.348058 ]

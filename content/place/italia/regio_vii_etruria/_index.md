@@ -1,13 +1,12 @@
 ---
-gre_id: "6e3ea46b27"
-aliases: [/id/6e3ea46b27]
+slug: "6e3ea46b27"
 type: place
-title: Regio VII Etruria
+title: "Regio VII: Etruria"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

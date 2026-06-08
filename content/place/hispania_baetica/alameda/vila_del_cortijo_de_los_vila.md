@@ -1,6 +1,5 @@
 ---
-gre_id: "d641fc022c"
-aliases: [/id/d641fc022c]
+slug: "d641fc022c"
 type: garden
 title: Villa del Cortijo de los Vila
 latlon: [ 37.216462, -4.657951 ]

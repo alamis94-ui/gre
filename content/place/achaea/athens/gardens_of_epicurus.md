@@ -1,6 +1,5 @@
 ---
-gre_id: "603e67549e"
-aliases: [/id/603e67549e]
+slug: "603e67549e"
 type: garden
 title: Garden of Epicurus
 latlon: [ 37.972633, 23.722746 ]

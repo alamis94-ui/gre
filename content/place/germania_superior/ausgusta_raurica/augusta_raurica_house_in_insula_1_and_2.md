@@ -1,6 +1,5 @@
 ---
-gre_id: "60772b090d"
-aliases: [/id/60772b090d]
+slug: "60772b090d"
 type: garden
 title: House in Insula 1 and 2 in Augusta Raurica
 latlon: [ 47.533241, 7.722118 ]

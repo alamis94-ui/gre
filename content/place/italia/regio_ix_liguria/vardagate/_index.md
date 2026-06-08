@@ -1,13 +1,12 @@
 ---
-gre_id: "4cdd4e583f"
-aliases: [/id/4cdd4e583f]
+slug: "4cdd4e583f"
 type: place
 title: Vardagate
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

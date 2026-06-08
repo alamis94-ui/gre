@@ -1,13 +1,12 @@
 ---
-gre_id: "8243a0e7a7"
-aliases: [/id/8243a0e7a7]
+slug: "8243a0e7a7"
 type: place
 title: Eccles
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

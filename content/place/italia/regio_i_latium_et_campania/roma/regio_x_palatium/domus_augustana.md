@@ -1,6 +1,5 @@
 ---
-gre_id: "b03661296b"
-aliases: [/id/b03661296b]
+slug: "b03661296b"
 type: garden
 title: Domus Augustana
 latlon: [ 41.889306, 12.487109 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "eaee25d9ed"
-aliases: [/id/eaee25d9ed]
+slug: "eaee25d9ed"
 type: garden
 title: Domus Flavia, Upper Peristyle and Nymphaea
 latlon: [ 41.889306, 12.487109 ]

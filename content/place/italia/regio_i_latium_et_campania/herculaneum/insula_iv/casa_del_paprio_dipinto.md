@@ -1,6 +1,5 @@
 ---
-gre_id: "39e0336d94"
-aliases: [/id/39e0336d94]
+slug: "39e0336d94"
 type: garden
 title: Casa del Paprio Dipinto
 latlon: [ 40.805843, 14.348058 ]

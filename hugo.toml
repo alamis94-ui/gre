@@ -92,5 +92,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
 	[markup.goldmark.renderer]
 	  unsafe = true
 
-[frontmatter]
-  lastmod = ["modified",":fileModTime"]
+[permalinks]
+	[permalinks.section]
+		place = "id/:slug/"
+	[permalinks.page]
+		place = "/id/:slug/"

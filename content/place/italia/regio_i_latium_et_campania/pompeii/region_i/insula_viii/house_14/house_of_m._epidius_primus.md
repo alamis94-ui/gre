@@ -1,6 +1,5 @@
 ---
-gre_id: "bf86bfac83"
-aliases: [/id/bf86bfac83]
+slug: "bf86bfac83"
 type: garden
 title: House of M. Epidius Primus (I.viii.14)
 latlon: [ 40.74941, 14.485429 ]

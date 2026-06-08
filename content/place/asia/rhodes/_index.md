@@ -1,13 +1,12 @@
 ---
-gre_id: "59a1052de4"
-aliases: [/id/59a1052de4]
+slug: "59a1052de4"
 type: place
 title: Rhodes
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2026-05-12
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

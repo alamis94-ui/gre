@@ -1,6 +1,5 @@
 ---
-gre_id: "2ef0db08ba"
-aliases: [/id/2ef0db08ba]
+slug: "2ef0db08ba"
 type: garden
 title: House of the Dolphins (Maison des dauphins)
 latlon: [ 35.290739, 10.704487 ]

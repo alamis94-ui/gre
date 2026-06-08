@@ -1,6 +1,5 @@
 ---
-gre_id: "9c24534c32"
-aliases: [/id/9c24534c32]
+slug: "9c24534c32"
 type: garden
 title: Rural Estate in Gatcombe
 latlon: [ 51.437167, -2.67623 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "99addb7aff"
-aliases: [/id/99addb7aff]
+slug: "99addb7aff"
 type: garden
 title: Tomb Garden of Claudia Semne
 latlon: [ 0, 0 ]

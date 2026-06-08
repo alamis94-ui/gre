@@ -1,6 +1,5 @@
 ---
-gre_id: "16c4ab940e"
-aliases: [/id/16c4ab940e]
+slug: "16c4ab940e"
 type: garden
 title: Ibrahimiya
 latlon: [ 0, 0 ]

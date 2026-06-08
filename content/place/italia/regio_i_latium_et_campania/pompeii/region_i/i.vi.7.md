@@ -1,6 +1,5 @@
 ---
-gre_id: "217200fd4f"
-aliases: [/id/217200fd4f]
+slug: "217200fd4f"
 type: garden
 title: I.6.7 Fullonica of Stephanus
 latlon: [ 40.74941, 14.485429 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "506c8bf97f"
-aliases: [/id/506c8bf97f]
+slug: "506c8bf97f"
 type: garden
 title: Little Circus
 latlon: [ 0, 0 ]

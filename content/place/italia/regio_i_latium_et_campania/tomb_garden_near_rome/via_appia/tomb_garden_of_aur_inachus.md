@@ -1,6 +1,5 @@
 ---
-gre_id: "14593f97f9"
-aliases: [/id/14593f97f9]
+slug: "14593f97f9"
 type: garden
 title: Tomb Garden of Aur(elius) Inachus
 latlon: [ 0, 0 ]

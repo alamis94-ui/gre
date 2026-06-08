@@ -1,13 +1,12 @@
 ---
-gre_id: "e5e669d243"
-aliases: [/id/e5e669d243]
+slug: "e5e669d243"
 type: place
 title: Bithynia And Pontus
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

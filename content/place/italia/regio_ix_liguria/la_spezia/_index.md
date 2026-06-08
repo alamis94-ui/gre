@@ -1,13 +1,12 @@
 ---
-gre_id: "6e7f4ba053"
-aliases: [/id/6e7f4ba053]
+slug: "6e7f4ba053"
 type: place
 title: La Spezia
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "e0925df062"
-aliases: [/id/e0925df062]
+slug: "e0925df062"
 type: garden
 title: I.6.11 Casa Dei Quadretti Teatralli; House of the Calavii; Casa di Casca Longus
 latlon: [ 40.74941, 14.485429 ]

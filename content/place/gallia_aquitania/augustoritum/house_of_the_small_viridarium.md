@@ -1,6 +1,5 @@
 ---
-gre_id: "d4e9cec0b9"
-aliases: [/id/d4e9cec0b9]
+slug: "d4e9cec0b9"
 type: garden
 title: House Of The Small Viridarium
 latlon: [ 0, 0 ]

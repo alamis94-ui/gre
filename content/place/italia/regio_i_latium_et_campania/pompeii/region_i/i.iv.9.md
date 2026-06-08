@@ -1,6 +1,5 @@
 ---
-gre_id: "93bd6acd13"
-aliases: [/id/93bd6acd13]
+slug: "93bd6acd13"
 type: garden
 title: I.4.9
 latlon: [ 40.750870, 14.493866 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "e968a88f88"
-aliases: [/id/e968a88f88]
+slug: "e968a88f88"
 type: place
 title: Third Palace
 author: Kathryn Gleason
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

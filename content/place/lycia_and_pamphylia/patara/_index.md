@@ -1,13 +1,12 @@
 ---
-gre_id: "342e7af57c"
-aliases: [/id/342e7af57c]
+slug: "342e7af57c"
 type: place
 title: Patara
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

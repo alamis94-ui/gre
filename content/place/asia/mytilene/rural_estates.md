@@ -1,6 +1,5 @@
 ---
-gre_id: "13d354311c"
-aliases: [/id/13d354311c]
+slug: "13d354311c"
 type: garden
 title: Rural Estates
 latlon: [ 0, 0 ]

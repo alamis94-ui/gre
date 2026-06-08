@@ -1,6 +1,5 @@
 ---
-gre_id: "8a80e4f676"
-aliases: [/id/8a80e4f676]
+slug: "8a80e4f676"
 type: garden
 title: Tomb 19
 latlon: [ 0, 0 ]

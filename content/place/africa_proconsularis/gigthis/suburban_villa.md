@@ -1,6 +1,5 @@
 ---
-gre_id: "cf4ea335a0"
-aliases: [/id/cf4ea335a0]
+slug: "cf4ea335a0"
 type: garden
 title: Suburban Villa
 latlon: [ 33.532711, 10.674151 ]

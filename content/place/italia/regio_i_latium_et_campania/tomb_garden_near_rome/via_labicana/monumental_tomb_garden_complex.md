@@ -1,6 +1,5 @@
 ---
-gre_id: "546d6c983a"
-aliases: [/id/546d6c983a]
+slug: "546d6c983a"
 type: garden
 title: Monumental Tomb Garden Complex
 latlon: [ 0, 0 ]

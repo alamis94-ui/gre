@@ -1,13 +1,12 @@
 ---
-gre_id: "f0373df219"
-aliases: [/id/f0373df219]
+slug: "f0373df219"
 type: place
 title: Saint Syr Sur Mer Var 83
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

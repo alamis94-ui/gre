@@ -1,6 +1,5 @@
 ---
-gre_id: "aa75859597"
-aliases: [/id/aa75859597]
+slug: "aa75859597"
 type: garden
 title: Temple of Diana
 latlon: [ 38.917216, -6.341213 ]

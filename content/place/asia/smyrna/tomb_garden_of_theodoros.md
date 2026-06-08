@@ -1,6 +1,5 @@
 ---
-gre_id: "65c7333dd1"
-aliases: [/id/65c7333dd1]
+slug: "65c7333dd1"
 type: garden
 title: Tomb Garden Of Theodoros
 latlon: [ 0, 0 ]

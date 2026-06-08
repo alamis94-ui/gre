@@ -1,13 +1,12 @@
 ---
-gre_id: "81613b5173"
-aliases: [/id/81613b5173]
+slug: "81613b5173"
 type: place
 title: Neerhaaren-Rekem
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-31
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "fa9dfb2850"
-aliases: [/id/fa9dfb2850]
+slug: "fa9dfb2850"
 type: garden
 title: House of Flavius Germanus (La maison de Flavius Germanicus)
 latlon: [ 34.0750773, -5.5543848 ]

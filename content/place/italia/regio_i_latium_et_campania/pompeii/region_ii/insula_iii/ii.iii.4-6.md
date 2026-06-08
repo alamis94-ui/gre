@@ -1,6 +1,5 @@
 ---
-gre_id: "cdfd80b73c"
-aliases: [/id/cdfd80b73c]
+slug: "cdfd80b73c"
 type: garden
 title: II.3.4-6
 latlon: [ 40.752371, 14.492447 ]

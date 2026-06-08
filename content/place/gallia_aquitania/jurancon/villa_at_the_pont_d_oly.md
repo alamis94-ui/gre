@@ -1,6 +1,5 @@
 ---
-gre_id: "6ecf3c3b98"
-aliases: [/id/6ecf3c3b98]
+slug: "6ecf3c3b98"
 type: garden
 title: Villa At The Pont D Oly
 latlon: [ 0, 0 ]

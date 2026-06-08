@@ -1,13 +1,12 @@
 ---
-gre_id: "0ad39ba640"
-aliases: [/id/0ad39ba640]
+slug: "0ad39ba640"
 type: place
 title: Insula VI
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

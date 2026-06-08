@@ -1,6 +1,5 @@
 ---
-gre_id: "39615f57fd"
-aliases: [/id/39615f57fd]
+slug: "39615f57fd"
 type: garden
 title: I.5.2 Officina Coriarioum of M. Vesonius Primus
 latlon: [ 40.74941, 14.485429 ]

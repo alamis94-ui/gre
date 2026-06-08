@@ -1,6 +1,5 @@
 ---
-gre_id: "bd26d0f1d1"
-aliases: [/id/bd26d0f1d1]
+slug: "bd26d0f1d1"
 type: garden
 title: House of Taracena
 latlon: [ 41.781168, -3.371106 ]

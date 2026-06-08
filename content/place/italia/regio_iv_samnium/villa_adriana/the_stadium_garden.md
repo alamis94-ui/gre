@@ -1,6 +1,5 @@
 ---
-gre_id: "a0d7d220fb"
-aliases: [/id/a0d7d220fb]
+slug: "a0d7d220fb"
 type: garden
 title: The Stadium-garden (Fig. 1, n. 4)
 latlon: [ 41.941169, 12.775543 ]

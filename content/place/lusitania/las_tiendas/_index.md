@@ -1,13 +1,12 @@
 ---
-gre_id: "893226a116"
-aliases: [/id/893226a116]
+slug: "893226a116"
 type: place
 title: Las Tiendas
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

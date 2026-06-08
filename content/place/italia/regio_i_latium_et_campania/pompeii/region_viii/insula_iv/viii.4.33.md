@@ -1,6 +1,5 @@
 ---
-gre_id: "fd7365d9ae"
-aliases: [/id/fd7365d9ae]
+slug: "fd7365d9ae"
 type: garden
 title: VIII.4.33.
 latlon: [ 0, 0 ]

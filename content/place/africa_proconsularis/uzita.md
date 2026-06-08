@@ -1,6 +1,5 @@
 ---
-gre_id: "457a644d4d"
-aliases: [/id/457a644d4d]
+slug: "457a644d4d"
 type: garden
 title: Uzita
 latlon: [ 35.686972, 10.753957 ]

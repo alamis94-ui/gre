@@ -1,6 +1,5 @@
 ---
-gre_id: "a231092c3d"
-aliases: [/id/a231092c3d]
+slug: "a231092c3d"
 type: garden
 title: VIII.3.27.
 latlon: [ 0, 0 ]

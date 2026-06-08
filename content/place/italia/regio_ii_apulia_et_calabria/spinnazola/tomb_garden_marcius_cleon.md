@@ -1,6 +1,5 @@
 ---
-gre_id: "c32d04f0ab"
-aliases: [/id/c32d04f0ab]
+slug: "c32d04f0ab"
 type: garden
 title: Tomb Garden Marcius Cleon
 latlon: [ 0, 0 ]

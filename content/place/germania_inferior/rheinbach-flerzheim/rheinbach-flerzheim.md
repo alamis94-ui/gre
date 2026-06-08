@@ -1,6 +1,5 @@
 ---
-gre_id: "b8b53a7d18"
-aliases: [/id/b8b53a7d18]
+slug: "b8b53a7d18"
 type: garden
 title: Rustic villa at Rheinbach-Flerzheim
 latlon: [ 51.606474, 5.794368 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "24def34ea1"
-aliases: [/id/24def34ea1]
+slug: "24def34ea1"
 type: place
 title: Friedberg Pfingstweide
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

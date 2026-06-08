@@ -1,13 +1,12 @@
 ---
-gre_id: "a743be9664"
-aliases: [/id/a743be9664]
+slug: "a743be9664"
 type: place
 title: Insula IV
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "2296429b74"
-aliases: [/id/2296429b74]
+slug: "2296429b74"
 type: garden
 title: Bakery with Dwelling Rooms (V.iv.1.)
 latlon: [ 40.74941, 14.485429 ]

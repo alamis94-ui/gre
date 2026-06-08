@@ -1,13 +1,12 @@
 ---
-gre_id: "973dbc1da1"
-aliases: [/id/973dbc1da1]
+slug: "973dbc1da1"
 type: place
 title: Carmona
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15
 modified: 2025-07-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

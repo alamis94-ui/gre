@@ -1,13 +1,12 @@
 ---
-gre_id: "c6114bd7d1"
-aliases: [/id/c6114bd7d1]
+slug: "c6114bd7d1"
 type: place
 title: Valentine
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "efece6e140"
-aliases: [/id/efece6e140]
+slug: "efece6e140"
 type: garden
 title: II.3.7/9
 latlon: [ 40.752371, 14.492337 ]

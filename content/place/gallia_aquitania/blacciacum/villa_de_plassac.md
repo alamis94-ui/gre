@@ -1,6 +1,5 @@
 ---
-gre_id: "44ee382a88"
-aliases: [/id/44ee382a88]
+slug: "44ee382a88"
 type: garden
 title: Villa De Plassac
 latlon: [ 0, 0 ]

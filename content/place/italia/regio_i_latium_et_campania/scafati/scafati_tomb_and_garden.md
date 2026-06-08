@@ -1,6 +1,5 @@
 ---
-gre_id: "8a8771a758"
-aliases: [/id/8a8771a758]
+slug: "8a8771a758"
 type: garden
 title: Scafati Tomb And Garden
 latlon: [ 0, 0 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "ea85bd18f2"
-aliases: [/id/ea85bd18f2]
+slug: "ea85bd18f2"
 type: place
 title: Barcino
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

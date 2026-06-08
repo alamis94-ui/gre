@@ -1,13 +1,12 @@
 ---
-gre_id: "2e38568951"
-aliases: [/id/2e38568951]
+slug: "2e38568951"
 type: place
 title: Vienne
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-03
 modified: 2026-06-03
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

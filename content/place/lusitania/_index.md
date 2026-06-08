@@ -1,13 +1,12 @@
 ---
-gre_id: "33c1f61842"
-aliases: [/id/33c1f61842]
+slug: "33c1f61842"
 type: place
 title: Lusitania
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

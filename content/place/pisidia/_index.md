@@ -1,13 +1,12 @@
 ---
-gre_id: "1002a4c2b1"
-aliases: [/id/1002a4c2b1]
+slug: "1002a4c2b1"
 type: place
 title: Pisidia
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-06-05
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "fc5b8ea073"
-aliases: [/id/fc5b8ea073]
+slug: "fc5b8ea073"
 type: garden
 title: Rural Villa in Chedworth
 latlon: [ 51.819999, -1.924458 ]

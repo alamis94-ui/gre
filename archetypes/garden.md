@@ -1,7 +1,5 @@
 ---
-{{- $id := substr (sha256 now) 0 10 }}
-gre_id: "{{ $id }}"
-aliases: [/id/{{ $id }}]
+slug: "{{ substr (sha256 now) 0 10 }}"
 type: garden
 title: {{ title (replaceRE `[-_]` " " .Name) }}
 latlon: [ 0, 0 ]

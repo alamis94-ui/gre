@@ -1,6 +1,5 @@
 ---
-gre_id: "0eae32f03a"
-aliases: [/id/0eae32f03a]
+slug: "0eae32f03a"
 type: garden
 title: Tomb Of Eumachia
 latlon: [ 0, 0 ]

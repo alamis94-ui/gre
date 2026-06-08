@@ -1,6 +1,5 @@
 ---
-gre_id: "b85436cd7e"
-aliases: [/id/b85436cd7e]
+slug: "b85436cd7e"
 type: garden
 title: Tomb Garden and Pool of Cingius Iustinus
 latlon: [ 43.539561, 16.483426 ]

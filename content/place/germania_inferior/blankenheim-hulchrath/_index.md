@@ -1,13 +1,12 @@
 ---
-gre_id: "0536fc27ec"
-aliases: [/id/0536fc27ec]
+slug: "0536fc27ec"
 type: place
 title: Blankenheim-Hulchrath
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

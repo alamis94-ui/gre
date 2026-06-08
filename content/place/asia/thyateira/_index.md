@@ -1,13 +1,12 @@
 ---
-gre_id: "f2b5ee1234"
-aliases: [/id/f2b5ee1234]
+slug: "f2b5ee1234"
 type: place
 title: Thyateira
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

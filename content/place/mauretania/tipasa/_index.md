@@ -1,13 +1,12 @@
 ---
-gre_id: "f35f787606"
-aliases: [/id/f35f787606]
+slug: "f35f787606"
 type: place
 title: Tipasa
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-05-22
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

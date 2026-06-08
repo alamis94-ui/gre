@@ -1,6 +1,5 @@
 ---
-gre_id: "28fedbde2d"
-aliases: [/id/28fedbde2d]
+slug: "28fedbde2d"
 type: garden
 title: Villa Romana de els Munts
 latlon: [ 41.136023, 1.385800 ]

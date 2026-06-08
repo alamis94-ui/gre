@@ -1,13 +1,12 @@
 ---
-gre_id: "c9ce7f7648"
-aliases: [/id/c9ce7f7648]
+slug: "c9ce7f7648"
 type: place
-title: Regio IV
+title: "Regio IV: Samnium"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

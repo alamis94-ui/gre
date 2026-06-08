@@ -1,13 +1,12 @@
 ---
-gre_id: "8f23150942"
-aliases: [/id/8f23150942]
+slug: "8f23150942"
 type: place
 title: Cirta
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

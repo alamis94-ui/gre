@@ -1,6 +1,5 @@
 ---
-gre_id: "bebfeb914f"
-aliases: [/id/bebfeb914f]
+slug: "bebfeb914f"
 type: garden
 title: Villa Of La Garenne
 latlon: [ 0, 0 ]

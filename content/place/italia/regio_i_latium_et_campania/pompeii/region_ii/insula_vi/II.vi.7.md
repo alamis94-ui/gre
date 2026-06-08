@@ -1,6 +1,5 @@
 ---
-gre_id: "e8b20fff6b"
-aliases: [/id/e8b20fff6b]
+slug: "e8b20fff6b"
 type: garden
 title: II.vi.7 Park Area adjacent to the Great Palaestra and the Amphitheater
 latlon: [ 40.7511, 14.49449]

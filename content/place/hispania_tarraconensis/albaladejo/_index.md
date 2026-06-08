@@ -1,13 +1,12 @@
 ---
-gre_id: "ef0c7e7b4a"
-aliases: [/id/ef0c7e7b4a]
+slug: "ef0c7e7b4a"
 type: place
 title: Albaladejo
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

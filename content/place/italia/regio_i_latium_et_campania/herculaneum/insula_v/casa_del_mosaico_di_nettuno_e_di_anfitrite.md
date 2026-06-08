@@ -1,6 +1,5 @@
 ---
-gre_id: "5cb15906f2"
-aliases: [/id/5cb15906f2]
+slug: "5cb15906f2"
 type: garden
 title: Casa del Mosaico di Nettuno e di Anfitrite
 latlon: [ 40.805843, 14.348058 ]

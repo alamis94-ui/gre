@@ -1,6 +1,5 @@
 ---
-gre_id: "8a35ebb898"
-aliases: [/id/8a35ebb898]
+slug: "8a35ebb898"
 type: garden
 title: House of Sucellus
 latlon: [ 42.439512, 3.176623 ]

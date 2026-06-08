@@ -1,6 +1,5 @@
 ---
-gre_id: "4624d2d32a"
-aliases: [/id/4624d2d32a]
+slug: "4624d2d32a"
 type: garden
 title: Aphrodisias
 latlon: [ 37.707857, 28.724015 ]

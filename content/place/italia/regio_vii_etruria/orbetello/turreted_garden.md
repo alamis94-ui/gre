@@ -1,6 +1,5 @@
 ---
-gre_id: "7d821fcd74"
-aliases: [/id/7d821fcd74]
+slug: "7d821fcd74"
 type: garden
 title: Turreted Garden
 latlon: [ 0, 0 ]

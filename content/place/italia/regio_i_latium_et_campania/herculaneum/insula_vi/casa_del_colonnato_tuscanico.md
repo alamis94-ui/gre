@@ -1,6 +1,5 @@
 ---
-gre_id: "ed31244283"
-aliases: [/id/ed31244283]
+slug: "ed31244283"
 type: garden
 title: Casa del Colonnato Tuscanico (VI.17/26)
 latlon: [ 40.805843, 14.348058 ]

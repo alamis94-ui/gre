@@ -1,6 +1,5 @@
 ---
-gre_id: "007c015ec1"
-aliases: [/id/007c015ec1]
+slug: "007c015ec1"
 type: garden
 title: Hercules Musarum
 latlon: [ 41.893253, 12.477600]

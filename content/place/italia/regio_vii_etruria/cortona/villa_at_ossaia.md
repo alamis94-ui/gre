@@ -1,6 +1,5 @@
 ---
-gre_id: "94498a240b"
-aliases: [/id/94498a240b]
+slug: "94498a240b"
 type: garden
 title: Villa At Ossaia
 latlon: [ 0, 0 ]

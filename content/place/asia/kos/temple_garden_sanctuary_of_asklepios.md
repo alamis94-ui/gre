@@ -1,6 +1,5 @@
 ---
-gre_id: "c0650573df"
-aliases: [/id/c0650573df]
+slug: "c0650573df"
 type: garden
 title: Temple Garden, Sanctuary of Asklepios
 latlon: [ 0, 0 ]

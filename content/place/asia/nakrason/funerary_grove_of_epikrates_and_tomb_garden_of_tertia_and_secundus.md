@@ -1,6 +1,5 @@
 ---
-gre_id: "50eb63744b"
-aliases: [/id/50eb63744b]
+slug: "50eb63744b"
 type: garden
 title: Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus
 latlon: [ 0, 0 ]

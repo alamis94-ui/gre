@@ -1,6 +1,5 @@
 ---
-gre_id: "942e967fc3"
-aliases: [/id/942e967fc3]
+slug: "942e967fc3"
 type: garden
 title: Villa Lamarque
 latlon: [ 0, 0 ]

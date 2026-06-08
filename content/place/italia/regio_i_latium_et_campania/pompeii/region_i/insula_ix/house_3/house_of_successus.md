@@ -1,6 +1,5 @@
 ---
-gre_id: "fe162e4efd"
-aliases: [/id/fe162e4efd]
+slug: "fe162e4efd"
 type: garden
 title: House of Successus (I.ix.3)
 latlon: [ 40.74941, 14.485429 ]

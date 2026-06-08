@@ -1,6 +1,5 @@
 ---
-gre_id: "bbefc2a31b"
-aliases: [/id/bbefc2a31b]
+slug: "bbefc2a31b"
 type: garden
 title: Planted Area Along Country Road
 latlon: [ 0, 0 ]

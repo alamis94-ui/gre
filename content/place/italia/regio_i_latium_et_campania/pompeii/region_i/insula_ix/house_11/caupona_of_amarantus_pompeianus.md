@@ -1,6 +1,5 @@
 ---
-gre_id: "2173092aab"
-aliases: [/id/2173092aab]
+slug: "2173092aab"
 type: garden
 title: Caupona of Amarantus Pompeianus (I.ix.11)
 latlon: [ 40.74941, 14.485429 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "33754fa5b8"
-aliases: [/id/33754fa5b8]
+slug: "33754fa5b8"
 type: place
 title: Sirmio
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

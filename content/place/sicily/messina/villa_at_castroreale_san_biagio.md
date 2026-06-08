@@ -1,6 +1,5 @@
 ---
-gre_id: "0b97b62ed5"
-aliases: [/id/0b97b62ed5]
+slug: "0b97b62ed5"
 type: garden
 title: Villa at Castroreale San Biagio
 latlon: [ 38.192251, 15.556634 ]

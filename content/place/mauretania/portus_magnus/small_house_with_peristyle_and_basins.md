@@ -1,6 +1,5 @@
 ---
-gre_id: "66554c8a9a"
-aliases: [/id/66554c8a9a]
+slug: "66554c8a9a"
 type: garden
 title: Small House with peristyle and basins
 latlon: [ 35.804994, -0.259247 ]

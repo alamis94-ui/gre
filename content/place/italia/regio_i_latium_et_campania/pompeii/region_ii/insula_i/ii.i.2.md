@@ -1,6 +1,5 @@
 ---
-gre_id: "9a0462febf"
-aliases: [/id/9a0462febf]
+slug: "9a0462febf"
 type: garden
 title: II.i.2 (House of Aemilius Primio and Aemiluis Saturninus)
 latlon: [ 40.750870, 14.493866 ]

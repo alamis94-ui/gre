@@ -1,6 +1,5 @@
 ---
-gre_id: "9f5e65f46d"
-aliases: [/id/9f5e65f46d]
+slug: "9f5e65f46d"
 type: garden
 title: Temple of Caelestis (Temple de Caelestis)
 latlon: [ 36.40112, 9.904448 ]

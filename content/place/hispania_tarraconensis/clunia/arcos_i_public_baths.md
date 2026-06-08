@@ -1,6 +1,5 @@
 ---
-gre_id: "71ab14ebd1"
-aliases: [/id/71ab14ebd1]
+slug: "71ab14ebd1"
 type: garden
 title: Arcos I Public Baths
 latlon: [ 41.782658, -3.369157 ]

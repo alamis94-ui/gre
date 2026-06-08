@@ -1,6 +1,5 @@
 ---
-gre_id: "df75e8b245"
-aliases: [/id/df75e8b245]
+slug: "df75e8b245"
 type: garden
 title: Tomb Garden Of P Paconius Hermeias
 latlon: [ 0, 0 ]

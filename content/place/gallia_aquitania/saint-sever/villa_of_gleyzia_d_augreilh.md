@@ -1,6 +1,5 @@
 ---
-gre_id: "8b66fa209c"
-aliases: [/id/8b66fa209c]
+slug: "8b66fa209c"
 type: garden
 title: Villa Of Gleyzia D Augreilh
 latlon: [ 0, 0 ]

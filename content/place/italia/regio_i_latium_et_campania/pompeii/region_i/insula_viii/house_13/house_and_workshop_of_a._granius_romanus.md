@@ -1,6 +1,5 @@
 ---
-gre_id: "151456a175"
-aliases: [/id/151456a175]
+slug: "151456a175"
 type: garden
 title: House and Workshop of A. Granius Romanus (I.viii.13)
 latlon: [ 40.74941, 14.485429 ]

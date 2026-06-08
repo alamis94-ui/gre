@@ -1,13 +1,12 @@
 ---
-gre_id: "420d0f0968"
-aliases: [/id/420d0f0968]
+slug: "420d0f0968"
 type: place
 title: Germania Superior
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Province Description -->

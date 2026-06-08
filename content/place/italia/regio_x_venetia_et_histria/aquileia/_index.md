@@ -1,13 +1,12 @@
 ---
-gre_id: "4802774b73"
-aliases: [/id/4802774b73]
+slug: "4802774b73"
 type: place
 title: Aquileia
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

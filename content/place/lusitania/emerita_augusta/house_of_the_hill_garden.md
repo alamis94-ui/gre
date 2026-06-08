@@ -1,6 +1,5 @@
 ---
-gre_id: "650262e560"
-aliases: [/id/650262e560]
+slug: "650262e560"
 type: garden
 title: House of the Hill Garden
 latlon: [ 38.917216, -6.341213 ]

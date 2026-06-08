@@ -1,6 +1,5 @@
 ---
-gre_id: "c69dd85a16"
-aliases: [/id/c69dd85a16]
+slug: "c69dd85a16"
 type: garden
 title: Tomb Garden of Anonymous 2
 latlon: [ 38.085927, 27.744117 ]

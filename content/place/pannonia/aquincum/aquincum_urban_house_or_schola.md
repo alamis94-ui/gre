@@ -1,6 +1,5 @@
 ---
-gre_id: "9eef0a86c1"
-aliases: [/id/9eef0a86c1]
+slug: "9eef0a86c1"
 type: garden
 title: Urban House or Schola in Aquincum
 latlon: [ 47.563402, 19.049911 ]
