@@ -25,30 +25,9 @@
         {{ if $pages }}
             <hr>
             <h2>Author of</h2>
-            <ul class="people-gardens">
-            {{ $indent := 0 }}
-            {{ range sort $pages ".Path" "asc" }}
-                {{ range $i, $p := .Ancestors.Reverse }}
-                    {{ $indent = add $i 1 }}
-                    {{ if not (or (in $seen .Permalink ) (lt $i 2)) }}
-                        <div style="margin-left: {{ mul 2 $i }}em" {{ if eq $i 2 }}class="province"{{ end }}>
-                            {{ if .Title }}
-                                {{ .Title }}
-                            {{ else }}
-                                [{{ index (split .Path "/") $i }}]
-                            {{ end  }}
-                        </div>
-                        {{ $seen = $seen | append .Permalink }}
-                    {{ end }}
-                {{ end }}
-                <div style="margin-left: {{ mul 2 $indent }}em" {{ if eq $indent 2 }}class="province"{{ end }}>
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    {{ if eq .Type "place" }}
-                         (place)
-                        {{ $seen = $seen | append .Permalink }}
-                    {{ end }}
-                </div>
-            {{ end }}
+            <div class="people-gardens">
+                {{ partial "pages-hierarchy.html" $pages }}
+            </div>
         {{ end }}
 
         {{/* list contributions to garden and place pages */}}
@@ -57,32 +36,11 @@
         {{ if $pages }}
             <hr>
             <h2>Contributor to</h2>
-            <ul class="people-gardens">
-            {{ $indent := 0 }}
-            {{ range sort $pages ".Path" "asc" }}
-                {{ range $i, $p := .Ancestors.Reverse }}
-                    {{ $indent = add $i 1 }}
-                    {{ if not (or (in $seen .Permalink ) (lt $i 2)) }}
-                        <div style="margin-left: {{ mul 2 $i }}em" {{ if eq $i 2 }}class="province"{{ end }}>
-                            {{ if .Title }}
-                                {{ .Title }}
-                            {{ else }}
-                                [{{ index (split .Path "/") $i }}]
-                            {{ end  }}
-                        </div>
-                        {{ $seen = $seen | append .Permalink }}
-                    {{ end }}
-                {{ end }}
-                <div style="margin-left: {{ mul 2 $indent }}em" {{ if eq $indent 2 }}class="province"{{ end }}>
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    {{ if eq .Type "place" }}
-                         (place)
-                        {{ $seen = $seen | append .Permalink }}
-                    {{ end }}
-                </div>
-            {{ end }}
+            <div class="people-gardens">
+                {{ partial "pages-hierarchy.html" $pages }}
+            </div>
         {{ end }}
 
-	</article>
+    </article>
 </main>
 {{ end }}
