@@ -25,10 +25,7 @@
 	</div>
 
 	<!-- List all garden articles under this location -->
-	{{- $pages := slice -}}
-	{{- range where (sort page.RegularPagesRecursive ".Path") "Type" "garden" -}}
-		{{- $pages = $pages | append . -}}
-	{{- end -}}
+	{{- $pages := where (sort page.RegularPagesRecursive ".Path") "Type" "garden" -}}
 	{{- $count := len $pages -}}
 	
 	<div class='summary'>
