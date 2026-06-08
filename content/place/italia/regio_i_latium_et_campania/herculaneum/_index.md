@@ -10,11 +10,9 @@ modified: 2025-07-07
 draft: false
 ---
 
-<!--
-## Dates
--->
+<!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description-->
 
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
@@ -45,7 +43,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 <!--
 ## Places
-places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->

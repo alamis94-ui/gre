@@ -10,13 +10,9 @@ modified: 2025-07-07
 draft: true
 ---
 
-<!--
-## Dates
-For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified"
--->
+<!-- ## Dates -->
 
-## Province Description
-<!-- This is the main text describing the province -->
+<!-- ## Place Description-->
 
 <!--
 ## Maps
@@ -45,7 +41,6 @@ For now, include dates exactly as written in the document. We will revisit the q
 
 <!--
 ## Places
-places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->

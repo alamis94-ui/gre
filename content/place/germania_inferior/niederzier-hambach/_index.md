@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 In the Hambacher Forst region, which lies approximately 30-35 km. west of the former capital city [Colonia Claudia Ara Agrippinensium (mod. Cologne)](https://pleiades.stoa.org/places/108751), a number of modest *villae rusticae* have been excavated.
 

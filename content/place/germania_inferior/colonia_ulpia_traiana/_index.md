@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 Colonia Ulpia Traiana is located in the modern city of Xanten, Germany.
 

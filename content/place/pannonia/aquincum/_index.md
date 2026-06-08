@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 This town on the Danube river acquired the rank of *municipium* under Hadrian in 124 CE. In the year 194 it was granted colonial status.
 

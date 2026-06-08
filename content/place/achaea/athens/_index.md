@@ -12,7 +12,7 @@ draft: false
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 <!--
 ## Maps

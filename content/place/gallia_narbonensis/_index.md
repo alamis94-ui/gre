@@ -10,12 +10,9 @@ modified: 2025-07-07
 draft: true
 ---
 
-<!--
-## Dates
-For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified"
--->
+<!-- ## Dates -->
 
-## Province Description
+<!-- ## Province Description -->
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 

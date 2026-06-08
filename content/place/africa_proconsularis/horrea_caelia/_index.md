@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 The site is located on the east seaside of Hergla, Tunisia. Excavations in the sixties have brought to light warehouses and a large *domus* opening towards the sea.
 

@@ -11,11 +11,12 @@ modified: 2026-05-15
 draft: true
 ---
 
-## Dates
+<!-- ## Dates
 
 106 CE to 275 CE
+-->
 
-## Province Description
+<!-- ## Province Description -->
 
 Dacia occupied the region occupied by today by Romania, Moldava, and parts of Bulgaria, Serbia, Hungary and the Ukraine. Homeland of the Gatae tribe, it was conquered by the Romans under Trajan in 106 CE. After the Romans retreated from this region in 271-275 CE, they renamed an area of Moesia Superior "Dacia Aureliana". This entry concerns only original province of Dacia.
 

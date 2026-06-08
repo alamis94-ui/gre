@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 A colonial military settlement of Macedonian Greeks on the west bank of the Euphrates in North Syria, established in the wake of Alexander the Great's conquests at a control point on the great river highway of the Euphrates (fig.1: location map of Jebel Khalid; fig. 2: aerial view of Jebel Khalid.) By the time the Jebel Khalid palace was constructed in the course of the third century BCE, these resettled Macedonians had been occupying for half a century not only the royal palaces of the Achaemenids, the powerful fifth and fourth century Persian dynasty, but also the palaces of their satraps, the local governors, and we know from literary testimony that both the royal and local palaces boasted paradeisoi, gardens for pleasure and relaxation. It is therefore reasonable that their Greek successors and replacements adopted in the third century what they found to be one of the agreeable and relaxing amenities enjoyed by their fourth-century Persian predecessors.  And from here the concept passed to the Greek builders of elaborate villas as exemplified in Greek South Italy of the second century BCE.
 

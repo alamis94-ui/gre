@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 <!-- TODO: Cuicul falls within the Mauretania Caesarienisis polygon, rather than the Numidia polygon.
     The text says the frontier fluctuated.  Perhaps we can find borders that align with Cuicul being in Numidia?

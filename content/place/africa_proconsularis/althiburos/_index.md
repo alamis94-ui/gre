@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 Althiburos was a town located on the road between Carthage and Theveste near the border of Proconsularis and Byzacena 35 km west of Mactar. Under the Roman Empire it remained an indigenous civitas until it was raised to the status of a municipium by Hadrian: municipium aelium hadrianum augustum althiburitanum and later was granted the ius Italicum.
 

@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Province Description
+<!-- ## Province Description -->
 
 As a locus of garden history, Mesopotamia possesses one of the richest narratives of the ancient world,
 fusing historical landscapes with mythological and sacred ones. From the imperial gardens of the

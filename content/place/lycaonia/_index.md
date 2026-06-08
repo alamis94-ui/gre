@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Province Description
+<!-- ## Province Description -->
 
 <!-- TODO: Lycaonia is not included in the province boundary file from DARE. The tomb garden is near the border of Cilicia, and Galatia et Cappadoci.
     According to https://referenceworks-brill-com.proxy.library.cornell.edu/display/entries/PSE3/BNPA182.xml Lycaonia didn't become a province until 371 CE,

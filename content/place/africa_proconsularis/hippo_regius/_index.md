@@ -12,7 +12,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 <!-- TODO: Should Hippo Regius, and the domus, be under Numidia, instead of Africa Proconsularis? -->
 

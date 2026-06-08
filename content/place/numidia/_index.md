@@ -7,12 +7,12 @@ author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description -->
 
 <!--
 ## Maps

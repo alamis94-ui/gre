@@ -13,7 +13,7 @@ draft: true
 
 <!-- ## Dates -->
 
-## Place Description
+<!-- ## Place Description-->
 
 <!--
 ## Maps
