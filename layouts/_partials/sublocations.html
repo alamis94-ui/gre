@@ -9,12 +9,12 @@
 {{/* Build a list of sortable place names */}}
 {{ $sortable := slice }}
 {{ range $places }}
-    {{/* force roman rumerals 1-39 to sort better (e.g. IX comes after VIII) */}}
     {{ $s := .Title }}
     {{ if not $s }}
-        {{/* if no _index.md content, infer title from path */}}
+        {{/* if no _index.md is empty, infer title from path */}}
         {{ $s = print (replaceRE `.*/` "" .Path) }}
     {{ end }}
+    {{/* hack to propertly sort Roman numerals up to 39 */}}
     {{ $s = replaceRE `([IVX]*X[IVX]*)` "zzz$1" $s }}
     {{ $s = replaceRE `([ivx]*x[ivx]*)` "zzz$1" $s }}
     {{ $sortable = $sortable | append $s }}
@@ -31,6 +31,7 @@
             {{ $v := replaceRE "zzz" "" . }}
             {{ if $v }}
                 {{ range or (where $places "Title" $v) (where $places "Path" "like" (print $v `\b`) )}}
+                    {{/* put brackets around titles inferred from path */}}
                     {{ if not .Title }}
                         {{ $v = print "[" $v "]"}}
                     {{ end }}
