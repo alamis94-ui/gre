@@ -1,7 +1,7 @@
 {{ if and (findRE `place|garden` .Type) (ne "/place" .Path) (ne "" .Content) }}
 {{/* show metadata on place and garden pages
      but not the "All Gardens" /place page
-	 and not for empty files
+     and not for empty files
 */}}
 <div class="metadata">
 
@@ -14,57 +14,57 @@
 {{ end }}
 
 <div class="left">
-	{{ if ne .Params.author "Author Name" }}
-	{{- with .Params.author -}}
-		{{- $vals := partial "listify.html" . -}}
-		<div>
-			Author{{ if gt (len $vals) 1 }}s{{ end }}:
-			{{/* List each name separated by commas, and link the name if it has a people page */}}
-			{{ range $i, $v := $vals -}}
-				{{- if ne $i 0 -}}, {{ end -}}
-				{{- $link := index $people $v -}}
-				{{- if $link -}}
-					<a href="{{ $link }}">{{ $v }}</a>
-				{{- else -}}
-					{{- $v -}}
-				{{- end -}}
-			{{ end }}
-		</div>
-	{{- end }}
-	{{ end }}
+    {{ if ne .Params.author "Author Name" }}
+    {{- with .Params.author -}}
+        {{- $vals := partial "listify.html" . -}}
+        <div>
+            Author{{ if gt (len $vals) 1 }}s{{ end }}:
+            {{/* List each name separated by commas, and link the name if it has a people page */}}
+            {{ range $i, $v := $vals -}}
+                {{- if ne $i 0 -}}, {{ end -}}
+                {{- $link := index $people $v -}}
+                {{- if $link -}}
+                    <a href="{{ $link }}">{{ $v }}</a>
+                {{- else -}}
+                    {{- $v -}}
+                {{- end -}}
+            {{ end }}
+        </div>
+    {{- end }}
+    {{ end }}
 
-	{{ if ne .Params.contributor "Contributor Name" }}
-	{{- with .Params.contributor }}
-		{{ $vals := partial "listify.html" . }}
-		<div>
-			Contributor{{ if gt (len $vals) 1 }}s{{ end }}:
-			{{/* List each name separated by commas, and link the name if it has a people page */}}
-			{{ range $i, $v := $vals -}}
-				{{- if ne $i 0 -}}, {{ end -}}
-				{{- $link := index $people $v -}}
-				{{- if $link -}}
-					<a href="{{ $link }}">{{ $v }}</a>
-				{{- else -}}
-					{{- $v -}}
-				{{- end -}}
-			{{ end }}
-		</div>
-	{{- end }}
-	{{ end }}
+    {{ if ne .Params.contributor "Contributor Name" }}
+    {{- with .Params.contributor }}
+        {{ $vals := partial "listify.html" . }}
+        <div>
+            Contributor{{ if gt (len $vals) 1 }}s{{ end }}:
+            {{/* List each name separated by commas, and link the name if it has a people page */}}
+            {{ range $i, $v := $vals -}}
+                {{- if ne $i 0 -}}, {{ end -}}
+                {{- $link := index $people $v -}}
+                {{- if $link -}}
+                    <a href="{{ $link }}">{{ $v }}</a>
+                {{- else -}}
+                    {{- $v -}}
+                {{- end -}}
+            {{ end }}
+        </div>
+    {{- end }}
+    {{ end }}
 </div>
 
 <div class="right">
-	{{- with .Permalink }}
-		<div>
-			Permalink: <a href="{{ . }}">{{ . }}</a>
-		</div>
-	{{- end }}
-	{{- with .Date -}}
-		<div>Published: {{ time.Format "2006-01-02" . }}</div>
-	{{- end -}}
-	{{- with .GitInfo -}}
-		<div>Last modified: {{ .AuthorDate.Format "2006-01-02" }}</div>
-	{{- end -}}
+    {{- with .Permalink }}
+        <div>
+            Permalink: <a href="{{ . }}">{{ . }}</a>
+        </div>
+    {{- end }}
+    {{- with .Date -}}
+        <div>Published: {{ time.Format "2006-01-02" . }}</div>
+    {{- end -}}
+    {{- with .GitInfo -}}
+        <div>Last modified: {{ .AuthorDate.Format "2006-01-02" }}</div>
+    {{- end -}}
 </div>
 
 </div>

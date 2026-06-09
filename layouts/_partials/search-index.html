@@ -1,36 +1,36 @@
 <script>
 function smallcrumbs(dir) {
-	dir = dir.toLowerCase()
-	dir = dir.replace('/place/', '')
-	if (! dir) return
+    dir = dir.toLowerCase()
+    dir = dir.replace('/place/', '')
+    if (! dir) return
 
-	// replace underscores with spaces
-	dir = dir.replace(/_/g, ' ')
+    // replace underscores with spaces
+    dir = dir.replace(/_/g, ' ')
 
-	// capitalize each word
-	dir = dir.replace(/\b(\w)/g, x => x.toUpperCase())
+    // capitalize each word
+    dir = dir.replace(/\b(\w)/g, x => x.toUpperCase())
 
-	// all caps for Roman numerals
-	dir = dir.replace(/\b[ivx]+\b/ig, x => x.toUpperCase())
+    // all caps for Roman numerals
+    dir = dir.replace(/\b[ivx]+\b/ig, x => x.toUpperCase())
 
-	return dir
+    return dir
 }
 
 // build the search index from each garden page (TODO: include place pages -- but how to display in results?)
 window.pageData = {
 {{- range $ri, $rv := where (sort .Site.Pages "Path") "Type" "garden" -}}
-	{{- if .Title -}}
-		{{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
-		{{- $place := title (replaceRE "[\\W_]+" " " .Path) -}}
-		{{- $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
+    {{- if .Title -}}
+        {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
+        {{- $place := title (replaceRE "[\\W_]+" " " .Path) -}}
+        {{- $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
 "{{ $ri }}": {
-	"title": "{{ .Title }}",
-	"smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),
-	"content": {{ $content }},
-	"url": {{ .Permalink }},
-	"draft": {{ .Draft }},
-	"latlon": {{ .Params.latlon }} },
-	{{ end -}}
+    "title": "{{ .Title }}",
+    "smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),
+    "content": {{ $content }},
+    "url": {{ .Permalink }},
+    "draft": {{ .Draft }},
+    "latlon": {{ .Params.latlon }} },
+    {{ end -}}
 {{- end -}}
 }
 </script>

@@ -1,31 +1,31 @@
 {
-	// Place your gre-roman-gardens workspace snippets here.
-	
-	"GRE id shortcode": {
-		"scope": "markdown",
-		"prefix": "id",
-		"body": [
-			"- {{< id vocab=\"$1\" id=\"$2\" name=\"$3\" >}}",
-			"$0"
-		],
-		"description": "GRE id shortcode"
-	},
-	"GRE image shortcode": {
-		"scope": "markdown",
-		"prefix": "image",
-		"body": [
-			"{{< image file=\"$1\" url=\"$2\" caption=\"$3\" credit=\"$4\" alt=\"$5\" >}}",
-			"$0"
-		],
-		"description": "GRE image shortcode"
-	},
-	"GRE keyword shortcode": {
-		"scope": "markdown",
-		"prefix": ["keyword", "kw"],
-		"body": [
-			"- {{< keyword \"$1\" >}}",
-			"$0"
-		],
-		"description": "GRE keyword shortcode"
-	}
+    // Place your gre-roman-gardens workspace snippets here.
+    
+    "GRE id shortcode": {
+        "scope": "markdown",
+        "prefix": "id",
+        "body": [
+            "- {{< id vocab=\"$1\" id=\"$2\" name=\"$3\" >}}",
+            "$0"
+        ],
+        "description": "GRE id shortcode"
+    },
+    "GRE image shortcode": {
+        "scope": "markdown",
+        "prefix": "image",
+        "body": [
+            "{{< image file=\"$1\" url=\"$2\" caption=\"$3\" credit=\"$4\" alt=\"$5\" >}}",
+            "$0"
+        ],
+        "description": "GRE image shortcode"
+    },
+    "GRE keyword shortcode": {
+        "scope": "markdown",
+        "prefix": ["keyword", "kw"],
+        "body": [
+            "- {{< keyword \"$1\" >}}",
+            "$0"
+        ],
+        "description": "GRE keyword shortcode"
+    }
 }

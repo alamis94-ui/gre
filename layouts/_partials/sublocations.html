@@ -35,10 +35,16 @@
                     {{ if not .Title }}
                         {{ $v = print "[" $v "]"}}
                     {{ end }}
+                    {{ $drafts := len (where .Site.Home.RegularPagesRecursive "Draft" true) }}
                     {{ $count := len .RegularPagesRecursive }}
+                    {{ $countpublished := len (where .RegularPagesRecursive "Draft" false)}}
                     {{ if $count }}
-                      <li><a href="{{ .Permalink }}">{{ $v }}</a>
-                      ({{ len .RegularPagesRecursive }} gardens)</li>
+                        <li><a href="{{ .Permalink }}">{{ $v }}</a>
+                        {{ if $drafts }}
+                            ({{ $countpublished }}/{{ $count }} gardens)</li>
+                        {{ else }}
+                            ({{ $count }} gardens)</li>
+                        {{ end }}
                     {{ end }}
                 {{ end }}
             {{ end }}

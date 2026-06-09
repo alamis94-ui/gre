@@ -6,43 +6,43 @@
 
 {{- define "main" -}}
 <main class="main list" role="main">
-	{{- if gt (len .Ancestors) 1 -}}
-		{{- partial "breadcrumbs.html" . -}}
-	{{- end -}}
-	{{- $thisplace := partial "this-place.html" .Path -}}
+    {{- if gt (len .Ancestors) 1 -}}
+        {{- partial "breadcrumbs.html" . -}}
+    {{- end -}}
+    {{- $thisplace := partial "this-place.html" .Path -}}
 
-	<div class='place{{ if .Params.draft }} draft{{ end }}'>
-		{{ if .Params.draft }}
-			<div class="draft">DRAFT</div>
-		{{ end }}
-		<h1 class="post__title">{{ default $thisplace .Title }}</h1>
-		{{- partial "metadata.html" . -}}	
-		{{- partial "sublocations.html" . -}}
-		<div class="content post__content clearfix">
-			{{ .Content }}
-			<!--{{ partial "superlocations.html" . }}-->
-		</div>
-	</div>
+    <div class='place{{ if .Params.draft }} draft{{ end }}'>
+        {{ if .Params.draft }}
+            <div class="draft">DRAFT</div>
+        {{ end }}
+        <h1 class="post__title">{{ default $thisplace .Title }}</h1>
+        {{- partial "metadata.html" . -}}    
+        {{- partial "sublocations.html" . -}}
+        <div class="content post__content clearfix">
+            {{ .Content }}
+            <!--{{ partial "superlocations.html" . }}-->
+        </div>
+    </div>
 
-	<!-- Find all garden articles under this location -->
-	{{- $pages := where (sort page.RegularPagesRecursive ".Path") "Type" "garden" -}}
+    <!-- Find all garden articles under this location -->
+    {{- $pages := where (sort page.RegularPagesRecursive ".Path") "Type" "garden" -}}
 
-	<!-- State how many published/total  -->
-	{{- $count := len $pages -}}
-	{{- $countpublished := len (where $pages "Params.draft" false ) -}}	
-	<div class='summary'>
-		{{- $countpublished }}{{ if ne $count $countpublished }}/{{ $count }}{{ end }}
-		garden article{{ if ne $countpublished 1 }}s{{ end }}
-		{{- if ne $thisplace "Place" }}
-			in {{ partial "romancase.html" $thisplace }}
-		{{ end -}}
-		{{ if ne $countpublished 1 }} have {{ else }} has {{ end }}
-		been published:
-	</div>
+    <!-- State how many published/total  -->
+    {{- $count := len $pages -}}
+    {{- $countpublished := len (where $pages "Params.draft" false ) -}}    
+    <div class='summary'>
+        {{- $countpublished }}{{ if ne $count $countpublished }}/{{ $count }}{{ end }}
+        garden article{{ if ne $countpublished 1 }}s{{ end }}
+        {{- if ne $thisplace "Place" }}
+            in {{ partial "romancase.html" $thisplace }}
+        {{ end -}}
+        {{ if ne $countpublished 1 }} have {{ else }} has {{ end }}
+        been published:
+    </div>
 
-	<!-- List each garden -->
-	{{- range $pages -}}
-		{{- .Render "summary" -}}
-	{{- end -}}
+    <!-- List each garden -->
+    {{- range $pages -}}
+        {{- .Render "summary" -}}
+    {{- end -}}
 </main>
 {{- end -}}

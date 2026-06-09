@@ -1,21 +1,21 @@
 {{ define "main" }}
 <main class="main" role="main">
-	<article class="post{{ if .Params.draft }} draft{{ end }}">
-		{{ if .Params.draft }}
-			<div class="draft">DRAFT</div>
-		{{ end }}
-		<header class="post__header">
-			<h1 class="post__title">{{ .Title }}</h1>
-		</header>
-		{{- if .Params.thumbnail }}
-		<figure class="post__thumbnail">
-			<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
-		</figure>
-		{{- end }}
-		{{- partial "post_toc.html" . -}}
-		<div class="content post__content clearfix">
-			{{ .Content }}
-		</div>
+    <article class="post{{ if .Params.draft }} draft{{ end }}">
+        {{ if .Params.draft }}
+            <div class="draft">DRAFT</div>
+        {{ end }}
+        <header class="post__header">
+            <h1 class="post__title">{{ .Title }}</h1>
+        </header>
+        {{- if .Params.thumbnail }}
+        <figure class="post__thumbnail">
+            <img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
+        </figure>
+        {{- end }}
+        {{- partial "post_toc.html" . -}}
+        <div class="content post__content clearfix">
+            {{ .Content }}
+        </div>
 
         {{ $person := .Params.Title }}
 
