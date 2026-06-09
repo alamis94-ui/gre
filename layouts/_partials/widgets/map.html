@@ -71,7 +71,7 @@
                 });
 
                 map.addControl(L.control.basemaps({
-                    basemaps: [osm, gsat],
+                    basemaps: [dare, osm, gsat],
                     tileX: 16,
                     tileY: 12,
                     tileZ: 5
@@ -139,7 +139,8 @@
                 osm_hi.addTo(map);
             {{ end }}
 
-            <!-- Add Roman Provinces -->
+            /* TODO: wait until we have better boundaries
+            // Add Roman Provinces
             let provinceStyle = {
                 color: '#000',
                 weight: 1,
@@ -154,10 +155,10 @@
             }).on('click', (event) => {
                 captureCoords(event)
             })
-            // TODO: wait until we have better boundaries
             // provinces.addTo(map);
+            */
 
-            <!-- Add marker for each garden relevant to the current page -->
+            // Add marker for each garden relevant to the current page
             markers = [];
             bounds = L.latLngBounds();
             let div_circle = L.divIcon({ className: 'dot' })
@@ -192,14 +193,14 @@
                 {{ else if eq .Path "/home" }}
                     {{ $gardens = .Site.RegularPages }}
                 {{ end }}
-                {{- range $gardens }}
+                {{ range $gardens }}
                     {{ if .Params.latlon }}
                         {{ $lat := index .Params.latlon 0 }}
                         {{ $lon := index .Params.latlon 1 }}
                         {{ $url := .Permalink }}
                         addPoint({{ $lat }}, {{ $lon }}, {{ .Title}}, {{ $url }})
                     {{ end }}
-                {{- end }}
+                {{ end }}
             {{ end }}
 
             if (bounds.isValid()) {
