@@ -1,5 +1,5 @@
 <!-- Display the navigational breadcrumbs at the top of each place or garden page -->
-{{- if or (eq .Type "place") (eq .Type "garden") -}}
+{{ if or (eq .Type "place") (eq .Type "garden") }}
     <!-- display path hierarchy, with each level linked -->
     <nav class="breadcrumbs">
         {{ range $i, $p := .Ancestors.Reverse }}
@@ -9,4 +9,4 @@
             {{ end }}
         {{ end }}
     </nav>
-{{- end -}}
+{{ end }}

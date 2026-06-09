@@ -1,4 +1,4 @@
-{{- $path := .Path -}}
+{{ $path := .Path }}
 
 {{/* get the immediate sublocations for this place */}}
 {{ $places := where .Pages "Type" "place" }}
@@ -20,7 +20,7 @@
     {{ $sortable = $sortable | append $s }}
 {{ end }}
 
-{{ if $sortable}}
+{{ if $sortable }}
 <div class='sublocations'>
     <h2>
         {{ if eq .Title "All Gardens" }}Provinces{{ else }}Places in {{ .Title }}{{ end }}:
@@ -30,14 +30,14 @@
             {{/* undo the roman sorting hack */}}
             {{ $v := replaceRE "zzz" "" . }}
             {{ if $v }}
-                {{ range or (where $places "Title" $v) (where $places "Path" "like" (print $v `\b`) )}}
+                {{ range or (where $places "Title" $v) (where $places "Path" "like" (print $v `\b`) ) }}
                     {{/* put brackets around titles inferred from path */}}
                     {{ if not .Title }}
-                        {{ $v = print "[" $v "]"}}
+                        {{ $v = print "[" $v "]" }}
                     {{ end }}
                     {{ $drafts := len (where .Site.Home.RegularPagesRecursive "Draft" true) }}
                     {{ $count := len .RegularPagesRecursive }}
-                    {{ $countpublished := len (where .RegularPagesRecursive "Draft" false)}}
+                    {{ $countpublished := len (where .RegularPagesRecursive "Draft" false) }}
                     {{ if $count }}
                         <li><a href="{{ .Permalink }}">{{ $v }}</a>
                         {{ if $drafts }}

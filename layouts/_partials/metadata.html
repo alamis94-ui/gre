@@ -5,7 +5,7 @@
 */}}
 <div class="metadata">
 
-{{- $page := .Page -}}
+{{ $page := .Page }}
 
 {{/* create dict of all people pages (name: permalink) */}}
 {{ $people := dict }}
@@ -15,56 +15,56 @@
 
 <div class="left">
     {{ if ne .Params.author "Author Name" }}
-    {{- with .Params.author -}}
-        {{- $vals := partial "listify.html" . -}}
-        <div>
-            Author{{ if gt (len $vals) 1 }}s{{ end }}:
-            {{/* List each name separated by commas, and link the name if it has a people page */}}
-            {{ range $i, $v := $vals -}}
-                {{- if ne $i 0 -}}, {{ end -}}
-                {{- $link := index $people $v -}}
-                {{- if $link -}}
-                    <a href="{{ $link }}">{{ $v }}</a>
-                {{- else -}}
-                    {{- $v -}}
-                {{- end -}}
-            {{ end }}
-        </div>
-    {{- end }}
+        {{ with .Params.author }}
+            {{ $vals := partial "listify.html" . }}
+            <div>
+                Author{{ if gt (len $vals) 1 }}s{{ end }}:
+                {{/* List each name separated by commas, and link the name if it has a people page */}}
+                {{ range $i, $v := $vals }}
+                    {{ if ne $i 0 }}, {{ end }}
+                    {{ $link := index $people $v }}
+                    {{ if $link }}
+                        <a href="{{ $link }}">{{ $v }}</a>
+                    {{ else }}
+                        {{ $v }}
+                    {{ end }}
+                {{ end }}
+            </div>
+        {{ end }}
     {{ end }}
 
     {{ if ne .Params.contributor "Contributor Name" }}
-    {{- with .Params.contributor }}
-        {{ $vals := partial "listify.html" . }}
-        <div>
-            Contributor{{ if gt (len $vals) 1 }}s{{ end }}:
-            {{/* List each name separated by commas, and link the name if it has a people page */}}
-            {{ range $i, $v := $vals -}}
-                {{- if ne $i 0 -}}, {{ end -}}
-                {{- $link := index $people $v -}}
-                {{- if $link -}}
-                    <a href="{{ $link }}">{{ $v }}</a>
-                {{- else -}}
-                    {{- $v -}}
-                {{- end -}}
-            {{ end }}
-        </div>
-    {{- end }}
+        {{ with .Params.contributor }}
+            {{ $vals := partial "listify.html" . }}
+            <div>
+                Contributor{{ if gt (len $vals) 1 }}s{{ end }}:
+                {{/* List each name separated by commas, and link the name if it has a people page */}}
+                {{ range $i, $v := $vals }}
+                    {{ if ne $i 0 }}, {{ end }}
+                    {{ $link := index $people $v }}
+                    {{ if $link }}
+                        <a href="{{ $link }}">{{ $v }}</a>
+                    {{ else }}
+                        {{ $v }}
+                    {{ end }}
+                {{ end }}
+            </div>
+        {{ end }}
     {{ end }}
 </div>
 
 <div class="right">
-    {{- with .Permalink }}
+    {{ with .Permalink }}
         <div>
             Permalink: <a href="{{ . }}">{{ . }}</a>
         </div>
-    {{- end }}
-    {{- with .Date -}}
+    {{ end }}
+    {{ with .Date }}
         <div>Published: {{ time.Format "2006-01-02" . }}</div>
-    {{- end -}}
-    {{- with .GitInfo -}}
+    {{ end }}
+    {{ with .GitInfo }}
         <div>Last modified: {{ .AuthorDate.Format "2006-01-02" }}</div>
-    {{- end -}}
+    {{ end }}
 </div>
 
 </div>
