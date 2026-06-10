@@ -1,6 +1,5 @@
 ---
-gre_id: "1e98e76557"
-aliases: [/id/1e98e76557]
+slug: "1e98e76557"
 type: garden
 title: Peristyle of the Petronii
 latlon: [ 36.40112, 9.904448 ]

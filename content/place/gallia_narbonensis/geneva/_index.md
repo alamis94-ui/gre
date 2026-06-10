@@ -1,13 +1,12 @@
 ---
-gre_id: "a94f21f1a4"
-aliases: [/id/a94f21f1a4]
+slug: "a94f21f1a4"
 type: place
 title: Geneva
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

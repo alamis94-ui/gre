@@ -1,6 +1,5 @@
 ---
-gre_id: "470d20177b"
-aliases: [/id/470d20177b]
+slug: "470d20177b"
 type: garden
 title: Casa A Graticcio
 latlon: [ 40.805843, 14.348058 ]

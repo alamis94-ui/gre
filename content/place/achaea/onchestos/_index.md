@@ -1,13 +1,12 @@
 ---
-gre_id: "3cbda68513"
-aliases: [/id/3cbda68513]
+slug: "3cbda68513"
 type: place
 title: Onchestos
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

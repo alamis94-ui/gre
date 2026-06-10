@@ -1,13 +1,12 @@
 ---
-gre_id: "86b74e48d1"
-aliases: [/id/86b74e48d1]
+slug: "86b74e48d1"
 type: place
 title: Emporiae
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

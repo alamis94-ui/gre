@@ -1,13 +1,12 @@
 ---
-gre_id: "b2ab4fbb4c"
-aliases: [/id/b2ab4fbb4c]
+slug: "b2ab4fbb4c"
 type: place
 title: Fraga
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

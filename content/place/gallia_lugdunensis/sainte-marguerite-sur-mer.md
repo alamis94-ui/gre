@@ -1,6 +1,5 @@
 ---
-gre_id: "79108eb6ac"
-aliases: [/id/79108eb6ac]
+slug: "79108eb6ac"
 type: garden
 title: Roman Villa
 latlon: [ 49.024342, 1.151012 ]

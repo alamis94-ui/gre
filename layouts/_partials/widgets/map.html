@@ -9,208 +9,209 @@
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/leaflet.fullscreen.css"/>
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/L.Control.Basemaps.css"/>
 <div class="widget-map widget">
-	<h4 class="widget__title">Map</h4>
-	<div class="widget__content">
-		<div id='map' class="leaflet-map"></div>
-		{{ if eq hugo.Environment "development" }}
-		<div>ctrl-click the map to capture coordinates</div>
-		{{ end }}
-		<script>
-			//Create Map
-			map = L.map('map', {
-				attributionControl: true,
-				fullscreenControl: true
-			}).setView([40, 17], 3);
-			map.attributionControl.setPrefix('Basemap');
+    <h4 class="widget__title">Map</h4>
+    <div class="widget__content">
+        <div id='map' class="leaflet-map"></div>
+        {{ if eq hugo.Environment "development" }}
+        <div>ctrl-click the map to capture coordinates</div>
+        {{ end }}
+        <script>
+            //Create Map
+            map = L.map('map', {
+                attributionControl: true,
+                fullscreenControl: true
+            }).setView([40, 17], 3);
+            map.attributionControl.setPrefix('Basemap');
 
-			{{ if eq hugo.Environment "development" }}
-				// When running hugo server locally, add basemap selector including satellite imagery, for checking coordinate accuracy
+            {{ if eq hugo.Environment "development" }}
+                // When running hugo server locally, add basemap selector including satellite imagery, for checking coordinate accuracy
 
-				// Digital Atlas of the Roman Empire, muted colors
-				var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
-					label: 'Digital Atlas of the Roman Empire (zoom 4-11 only)',
-					minZoom: 4,
-					maxZoom: 11,
-					attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
-					filter: [
-						'brightness: 100%',
-						'contrast: 100%',
-						'saturation: 30%',
-						'opacity: 100%',
-						'sepia: 10%'
-					]
-				});
+                // Digital Atlas of the Roman Empire, muted colors
+                var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
+                    label: 'Digital Atlas of the Roman Empire (zoom 4-11 only)',
+                    minZoom: 4,
+                    maxZoom: 11,
+                    attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
+                    filter: [
+                        'brightness: 100%',
+                        'contrast: 100%',
+                        'saturation: 30%',
+                        'opacity: 100%',
+                        'sepia: 10%'
+                    ]
+                });
 
-				// OpenStreetMap, muted colors, for low zoom values
-				var osm = L.tileLayer.colorFilter('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-					label: 'OpenStreetMap',
-					minZoom: 0,
-					maxZoom: 19,
-					attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-					filter: [
-						'brightness: 100%',
-						'contrast: 100%',
-						'saturation: 30%',
-						'opacity: 100%',
-						'sepia: 10%'
-					]
-				});
+                // OpenStreetMap, muted colors, for low zoom values
+                var osm = L.tileLayer.colorFilter('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    label: 'OpenStreetMap',
+                    minZoom: 0,
+                    maxZoom: 19,
+                    attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+                    filter: [
+                        'brightness: 100%',
+                        'contrast: 100%',
+                        'saturation: 30%',
+                        'opacity: 100%',
+                        'sepia: 10%'
+                    ]
+                });
 
-				var gsat = L.tileLayer.colorFilter('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
-					label: 'Google Satellite Imagery',
-					minZoom: 0,
-					maxZoom: 21,
-					attribution: '<a href="https://about.google/brand-resource-center/products-and-services/geo-guidelines/#required-attribution">Google</a>',
-					filter: [
-						'brightness: 100%',
-						'contrast: 100%',
-						'saturation: 100%',
-						'opacity: 80%',
-						'sepia: 0%'
-					]
-				});
+                var gsat = L.tileLayer.colorFilter('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
+                    label: 'Google Satellite Imagery',
+                    minZoom: 0,
+                    maxZoom: 21,
+                    attribution: '<a href="https://about.google/brand-resource-center/products-and-services/geo-guidelines/#required-attribution">Google</a>',
+                    filter: [
+                        'brightness: 100%',
+                        'contrast: 100%',
+                        'saturation: 100%',
+                        'opacity: 80%',
+                        'sepia: 0%'
+                    ]
+                });
 
-				map.addControl(L.control.basemaps({
-					basemaps: [osm, gsat],
-					tileX: 16,
-					tileY: 12,
-					tileZ: 5
-				}));
+                map.addControl(L.control.basemaps({
+                    basemaps: [dare, osm, gsat],
+                    tileX: 16,
+                    tileY: 12,
+                    tileZ: 5
+                }));
 
-				// CTRL-click on map will copy coordinates
-				function captureCoords(e) {
-					if (e.originalEvent.ctrlKey || e.originalEvent.metaKey) {
-						var coords = e.latlng.lat.toFixed(6) + ', ' + e.latlng.lng.toFixed(6);
-						navigator.clipboard.writeText(coords);
-						console.log(coords)
-					}
-				}
-				L.DomEvent.addListener(map, 'click', (e) => captureCoords(e))
+                // CTRL-click on map will copy coordinates
+                function captureCoords(e) {
+                    if (e.originalEvent.ctrlKey || e.originalEvent.metaKey) {
+                        var coords = e.latlng.lat.toFixed(6) + ', ' + e.latlng.lng.toFixed(6);
+                        navigator.clipboard.writeText(coords);
+                        console.log(coords)
+                    }
+                }
+                L.DomEvent.addListener(map, 'click', (e) => captureCoords(e))
 
-			{{ else }}
-				// For public website, use DARE basemap, backed up by OpenStreetMap
+            {{ else }}
+                // For public website, use DARE basemap, backed up by OpenStreetMap
 
-				// OpenStreetMap, muted colors, for low zoom values
-				var osm_lo = L.tileLayer.colorFilter('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-					label: 'OpenStreetMap',
-					minZoom: 0,
-					maxZoom: 3,
-					attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-					filter: [
-						'brightness: 100%',
-						'contrast: 100%',
-						'saturation: 30%',
-						'opacity: 100%',
-						'sepia: 10%'
-					]
-				});
-				osm_lo.addTo(map);
+                // OpenStreetMap, muted colors, for low zoom values
+                var osm_lo = L.tileLayer.colorFilter('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    label: 'OpenStreetMap',
+                    minZoom: 0,
+                    maxZoom: 3,
+                    attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+                    filter: [
+                        'brightness: 100%',
+                        'contrast: 100%',
+                        'saturation: 30%',
+                        'opacity: 100%',
+                        'sepia: 10%'
+                    ]
+                });
+                osm_lo.addTo(map);
 
-				// Digital Atlas of the Roman Empire, muted colors
-				var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
-					label: 'Digital Atlas of the Roman Empire (zoom 4-11 only)',
-					minZoom: 4,
-					maxZoom: 11,
-					attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
-					filter: [
-						'brightness: 100%',
-						'contrast: 100%',
-						'saturation: 30%',
-						'opacity: 100%',
-						'sepia: 10%'
-					]
-				});
-				dare.addTo(map);
+                // Digital Atlas of the Roman Empire, muted colors
+                var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
+                    label: 'Digital Atlas of the Roman Empire (zoom 4-11 only)',
+                    minZoom: 4,
+                    maxZoom: 11,
+                    attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
+                    filter: [
+                        'brightness: 100%',
+                        'contrast: 100%',
+                        'saturation: 30%',
+                        'opacity: 100%',
+                        'sepia: 10%'
+                    ]
+                });
+                dare.addTo(map);
 
-				// OpenStreetMap, muted colors, for high zoom values
-				var osm_hi = L.tileLayer.colorFilter('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-					label: 'OpenStreetMap',
-					minZoom: 12,
-					maxZoom: 19,
-					attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-					filter: [
-						'brightness: 100%',
-						'contrast: 100%',
-						'saturation: 30%',
-						'opacity: 100%',
-						'sepia: 10%'
-					]
-				});
-				osm_hi.addTo(map);
-			{{ end }}
+                // OpenStreetMap, muted colors, for high zoom values
+                var osm_hi = L.tileLayer.colorFilter('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    label: 'OpenStreetMap',
+                    minZoom: 12,
+                    maxZoom: 19,
+                    attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+                    filter: [
+                        'brightness: 100%',
+                        'contrast: 100%',
+                        'saturation: 30%',
+                        'opacity: 100%',
+                        'sepia: 10%'
+                    ]
+                });
+                osm_hi.addTo(map);
+            {{ end }}
 
-			<!-- Add Roman Provinces -->
-			let provinceStyle = {
-				color: '#000',
-				weight: 1,
-				opacity: 1,
-				fillColor: '#c22d30',
-				fillOpacity: 0
-			}
-			let provinces = L.geoJSON(provinceGeoJSON, {
-				style: provinceStyle
-			}).bindPopup(function (layer) {
-				return layer.feature.properties.name
-			}).on('click', (event) => {
-				captureCoords(event)
-			})
-			// TODO: wait until we have better boundaries
-			// provinces.addTo(map);
+            /* TODO: wait until we have better boundaries
+            // Add Roman Provinces
+            let provinceStyle = {
+                color: '#000',
+                weight: 1,
+                opacity: 1,
+                fillColor: '#c22d30',
+                fillOpacity: 0
+            }
+            let provinces = L.geoJSON(provinceGeoJSON, {
+                style: provinceStyle
+            }).bindPopup(function (layer) {
+                return layer.feature.properties.name
+            }).on('click', (event) => {
+                captureCoords(event)
+            })
+            // provinces.addTo(map);
+            */
 
-			<!-- Add marker for each garden relevant to the current page -->
-			markers = [];
-			bounds = L.latLngBounds();
-			let div_circle = L.divIcon({ className: 'dot' })
-			
-			function addPoint(lat, lon, name, url) {
-				if (lat && lon) {
-					marker = L.marker([ lat, lon ], { icon: div_circle });
-					marker.bindPopup(`<a href='${url}'>${name}</a>`);
-					marker.addTo(map);
-					markers.push(marker);
-					bounds.extend(marker.getLatLng());
-				}
-			}
+            // Add marker for each garden relevant to the current page
+            markers = [];
+            bounds = L.latLngBounds();
+            let div_circle = L.divIcon({ className: 'dot' })
+            
+            function addPoint(lat, lon, name, url) {
+                if (lat && lon) {
+                    marker = L.marker([ lat, lon ], { icon: div_circle });
+                    marker.bindPopup(`<a href='${url}'>${name}</a>`);
+                    marker.addTo(map);
+                    markers.push(marker);
+                    bounds.extend(marker.getLatLng());
+                }
+            }
 
-			{{ if hasPrefix .Path "/search" }}
-				// join search result ids (ref) to page info
-				for (const r of window.results) {
-					let p = window.pageData[r['ref']]
-					try {
-						addPoint(p.latlon[0], p.latlon[1], p.title, p.url)
-					}
-					catch (err) {
-						console.log('Unable to add point to map', p)
-					}
-				}
-			{{ else }}
-				{{ $gardens := slice }}
-				{{ if eq .Type "garden" }}
-					{{ $gardens = slice .Page }}
-				{{ else if eq .Type "place" }}
-					{{ $gardens = .RegularPagesRecursive }}
-			    {{ else if eq .Path "/home" }}
-					{{ $gardens = .Site.RegularPages }}
-				{{ end }}
-				{{- range $gardens }}
-					{{ if .Params.latlon }}
-						{{ $lat := index .Params.latlon 0 }}
-						{{ $lon := index .Params.latlon 1 }}
-						{{ $url := print .Site.BaseURL "id/" .Params.gre_id }}
-						addPoint({{ $lat }}, {{ $lon }}, {{ .Title}}, {{ $url }})
-					{{ end }}
-				{{- end }}
-			{{ end }}
+            {{ if hasPrefix .Path "/search" }}
+                // join search result ids (ref) to page info
+                for (const r of window.results) {
+                    let p = window.pageData[r['ref']]
+                    try {
+                        addPoint(p.latlon[0], p.latlon[1], p.title, p.url)
+                    }
+                    catch (err) {
+                        console.log('Unable to add point to map', p)
+                    }
+                }
+            {{ else }}
+                {{ $gardens := slice }}
+                {{ if eq .Type "garden" }}
+                    {{ $gardens = slice .Page }}
+                {{ else if eq .Type "place" }}
+                    {{ $gardens = .RegularPagesRecursive }}
+                {{ else if eq .Path "/home" }}
+                    {{ $gardens = .Site.RegularPages }}
+                {{ end }}
+                {{ range $gardens }}
+                    {{ if .Params.latlon }}
+                        {{ $lat := index .Params.latlon 0 }}
+                        {{ $lon := index .Params.latlon 1 }}
+                        {{ $url := .Permalink }}
+                        addPoint({{ $lat }}, {{ $lon }}, {{ .Title}}, {{ $url }})
+                    {{ end }}
+                {{ end }}
+            {{ end }}
 
-			if (bounds.isValid()) {
-				// instantly zoom to the current points
-				map.fitBounds(bounds.pad(0.05), {animate:false});
-				// don't automatically zoom beyond 17 (single points would otherwise be 19)
-				if (map.getZoom() > 17) {
-					map.setZoom(17, {animate:false});
-				}
-			}
-		</script>
-	</div>
+            if (bounds.isValid()) {
+                // instantly zoom to the current points
+                map.fitBounds(bounds.pad(0.05), {animate:false});
+                // don't automatically zoom beyond 17 (single points would otherwise be 19)
+                if (map.getZoom() > 17) {
+                    map.setZoom(17, {animate:false});
+                }
+            }
+        </script>
+    </div>
 </div>
 {{ end }}

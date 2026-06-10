@@ -1,6 +1,5 @@
 ---
-gre_id: "b5bffe0dc7"
-aliases: [/id/b5bffe0dc7]
+slug: "b5bffe0dc7"
 type: garden
 title: House in the Rue du Palais de Justice in Vesontio
 latlon: [ 47.23369, 6.03039 ]

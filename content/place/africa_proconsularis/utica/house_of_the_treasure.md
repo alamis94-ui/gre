@@ -1,6 +1,5 @@
 ---
-gre_id: "a89aebd07c"
-aliases: [/id/a89aebd07c]
+slug: "a89aebd07c"
 type: garden
 title: House of the Treasure (Maison au trésor)
 latlon: [ 37.055611, 10.061305 ]

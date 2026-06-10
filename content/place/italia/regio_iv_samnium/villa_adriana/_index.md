@@ -1,13 +1,12 @@
 ---
-gre_id: "3520130317"
-aliases: [/id/3520130317]
+slug: "3520130317"
 type: place
 title: Villa Adriana
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,13 +1,12 @@
 ---
-gre_id: "d2910421fa"
-aliases: [/id/d2910421fa]
+slug: "d2910421fa"
 type: place
 title: Arae Flaviae
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

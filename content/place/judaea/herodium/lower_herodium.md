@@ -1,6 +1,5 @@
 ---
-gre_id: "0af81a130f"
-aliases: [/id/0af81a130f]
+slug: "0af81a130f"
 type: garden
 title: Lower Herodium Garden Complex
 latlon: [ 31.665784, 35.241750 ]

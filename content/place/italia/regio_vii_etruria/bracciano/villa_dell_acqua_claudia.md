@@ -1,6 +1,5 @@
 ---
-gre_id: "1c57c6eb2e"
-aliases: [/id/1c57c6eb2e]
+slug: "1c57c6eb2e"
 type: garden
 title: Villa Dell Acqua Claudia
 latlon: [ 0, 0 ]

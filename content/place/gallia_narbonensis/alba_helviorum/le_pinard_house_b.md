@@ -1,6 +1,5 @@
 ---
-gre_id: "be19d05e02"
-aliases: [/id/be19d05e02]
+slug: "be19d05e02"
 type: garden
 title: Le Pinard, House B
 latlon: [ 42.439512, 3.176623 ]

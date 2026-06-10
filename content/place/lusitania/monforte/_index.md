@@ -1,13 +1,12 @@
 ---
-gre_id: "4c4449da9d"
-aliases: [/id/4c4449da9d]
+slug: "4c4449da9d"
 type: place
 title: Monforte
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

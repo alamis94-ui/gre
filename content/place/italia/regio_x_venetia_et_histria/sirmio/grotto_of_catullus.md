@@ -1,6 +1,5 @@
 ---
-gre_id: "a527d97d80"
-aliases: [/id/a527d97d80]
+slug: "a527d97d80"
 type: garden
 title: House of Grotto of Catullus
 latlon: [ 45.501241, 10.606902 ]

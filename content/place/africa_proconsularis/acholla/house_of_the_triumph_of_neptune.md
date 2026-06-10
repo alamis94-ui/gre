@@ -1,6 +1,5 @@
 ---
-gre_id: "16874f1e72"
-aliases: [/id/16874f1e72]
+slug: "16874f1e72"
 type: garden
 title: House of the Triumph of Neptune (Maison du Triomphe de Neptune)
 latlon: [ 35.079643, 11.020606 ]

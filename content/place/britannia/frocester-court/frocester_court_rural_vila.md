@@ -1,6 +1,5 @@
 ---
-gre_id: "8392cb4b65"
-aliases: [/id/8392cb4b65]
+slug: "8392cb4b65"
 type: garden
 title: Rural Villa in Frocester Court
 latlon: [ 51.726937, -2.311905 ]

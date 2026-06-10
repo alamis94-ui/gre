@@ -1,13 +1,12 @@
 ---
-gre_id: "73a89e866e"
-aliases: [/id/73a89e866e]
+slug: "73a89e866e"
 type: place
 title: Horrea Caelia
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

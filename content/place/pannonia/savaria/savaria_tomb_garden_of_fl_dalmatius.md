@@ -1,6 +1,5 @@
 ---
-gre_id: "ad694d408b"
-aliases: [/id/ad694d408b]
+slug: "ad694d408b"
 type: garden
 title: Tomb Garden of Fl(avius) Dalmatius in Savaria
 latlon: [ 47.233009, 16.631521 ]

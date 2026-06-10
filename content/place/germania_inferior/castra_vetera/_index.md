@@ -1,13 +1,12 @@
 ---
-gre_id: "e66ee6ff49"
-aliases: [/id/e66ee6ff49]
+slug: "e66ee6ff49"
 type: place
 title: Castra Vetera
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-31
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

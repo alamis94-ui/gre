@@ -1,6 +1,5 @@
 ---
-gre_id: "65237359b2"
-aliases: [/id/65237359b2]
+slug: "65237359b2"
 type: garden
 title: Palace of Hyrcanus the Tobiad
 latlon: [ 31.912796, 35.751922 ]

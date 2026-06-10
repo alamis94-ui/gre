@@ -1,6 +1,5 @@
 ---
-gre_id: "8c6ccd67f1"
-aliases: [/id/8c6ccd67f1]
+slug: "8c6ccd67f1"
 type: garden
 title: House of the Columns
 latlon: [ 42.439512, 3.176623 ]

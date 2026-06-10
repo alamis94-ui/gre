@@ -1,13 +1,12 @@
 ---
-gre_id: "aadc06c41b"
-aliases: [/id/aadc06c41b]
+slug: "aadc06c41b"
 type: place
 title: Kos
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

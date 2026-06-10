@@ -1,13 +1,12 @@
 ---
-gre_id: "55ffb02706"
-aliases: [/id/55ffb02706]
+slug: "55ffb02706"
 type: place
 title: Volubilis
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-05-22
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

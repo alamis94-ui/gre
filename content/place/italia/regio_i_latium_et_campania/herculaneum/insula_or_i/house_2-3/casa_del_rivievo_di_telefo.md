@@ -1,6 +1,5 @@
 ---
-gre_id: "f8fd3f8803"
-aliases: [/id/f8fd3f8803]
+slug: "f8fd3f8803"
 type: garden
 title: Casa del Rivievo di Telefo (Insula or. I.2-3)
 latlon: [ 40.805843, 14.348058 ]

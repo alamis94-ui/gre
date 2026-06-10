@@ -1,13 +1,12 @@
 ---
-gre_id: "28aac630c8"
-aliases: [/id/28aac630c8]
+slug: "28aac630c8"
 type: place
 title: Arcinazzo Romano
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

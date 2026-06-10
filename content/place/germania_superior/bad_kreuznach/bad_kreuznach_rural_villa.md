@@ -1,6 +1,5 @@
 ---
-gre_id: "37a576450d"
-aliases: [/id/37a576450d]
+slug: "37a576450d"
 type: garden
 title: Rural Villa in Bad Kreuznach
 latlon: [ 49.214670, 8.015747 ]

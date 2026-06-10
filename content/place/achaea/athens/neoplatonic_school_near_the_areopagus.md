@@ -1,6 +1,5 @@
 ---
-gre_id: "f6a82bdba9"
-aliases: [/id/f6a82bdba9]
+slug: "f6a82bdba9"
 type: garden
 title: Neoplatonic School Near the Areopagus
 latlon: [ 37.972372, 23.723371 ]

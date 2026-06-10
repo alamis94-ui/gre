@@ -1,6 +1,5 @@
 ---
-gre_id: "c73d6e2c2f"
-aliases: [/id/c73d6e2c2f]
+slug: "c73d6e2c2f"
 type: garden
 title: House of the Rhodian Peristyle
 latlon: [ 37.442029, -6.043939 ]

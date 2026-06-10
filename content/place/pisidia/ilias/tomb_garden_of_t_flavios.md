@@ -1,6 +1,5 @@
 ---
-gre_id: "a1b5e41f3e"
-aliases: [/id/a1b5e41f3e]
+slug: "a1b5e41f3e"
 type: garden
 title: Tomb Garden Of T Flavios
 latlon: [ 0, 0 ]

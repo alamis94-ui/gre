@@ -1,6 +1,5 @@
 ---
-gre_id: "864b23466d"
-aliases: [/id/864b23466d]
+slug: "864b23466d"
 type: garden
 title: Divorum
 latlon: [ 41.894698, 12.478022 ]

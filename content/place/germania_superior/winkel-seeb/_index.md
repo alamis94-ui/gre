@@ -1,13 +1,12 @@
 ---
-gre_id: "b7426cc013"
-aliases: [/id/b7426cc013]
+slug: "b7426cc013"
 type: place
 title: Winkel Seeb
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

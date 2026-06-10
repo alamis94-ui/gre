@@ -1,6 +1,5 @@
 ---
-gre_id: "6449d488a0"
-aliases: [/id/6449d488a0]
+slug: "6449d488a0"
 type: garden
 title: The area under the Temple of the Venus of Cnidus (Fig. 1, n. 12)
 latlon: [ 41.944593, 12.774851 ]

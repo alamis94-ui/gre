@@ -1,6 +1,5 @@
 ---
-gre_id: "84843629fd"
-aliases: [/id/84843629fd]
+slug: "84843629fd"
 type: garden
 title: Arsinoite Nome
 latlon: [ 0, 0 ]

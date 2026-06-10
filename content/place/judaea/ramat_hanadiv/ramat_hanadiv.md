@@ -1,6 +1,5 @@
 ---
-gre_id: "84fc60f497"
-aliases: [/id/84fc60f497]
+slug: "84fc60f497"
 type: garden
 title: Ramat Hanadiv
 latlon: [ 32.547145, 34.9361 ]

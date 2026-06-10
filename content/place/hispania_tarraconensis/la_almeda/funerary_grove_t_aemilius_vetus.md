@@ -1,6 +1,5 @@
 ---
-gre_id: "a344820c6d"
-aliases: [/id/a344820c6d]
+slug: "a344820c6d"
 type: garden
 title: Funerary grove of T. Aemilius Vetus
 latlon: [ 0, 0 ]

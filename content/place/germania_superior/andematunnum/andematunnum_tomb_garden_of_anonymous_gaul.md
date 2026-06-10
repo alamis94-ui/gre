@@ -1,6 +1,5 @@
 ---
-gre_id: "6e3a248c40"
-aliases: [/id/6e3a248c40]
+slug: "6e3a248c40"
 type: garden
 title: Tomb Garden of Anonymous Gaul in Andematunnum
 latlon: [ 47.864221, 5.335214 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "088b48cadc"
-aliases: [/id/088b48cadc]
+slug: "088b48cadc"
 type: place
 title: Arausio
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

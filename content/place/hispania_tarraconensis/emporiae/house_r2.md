@@ -1,6 +1,5 @@
 ---
-gre_id: "3290f5df6b"
-aliases: [/id/3290f5df6b]
+slug: "3290f5df6b"
 type: garden
 title: House R2  (Tang AmpR2 and AmpR3)
 latlon: [ 42.13342, 3.1145495 ]

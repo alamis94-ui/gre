@@ -1,6 +1,5 @@
 ---
-gre_id: "9e202e80f9"
-aliases: [/id/9e202e80f9]
+slug: "9e202e80f9"
 type: garden
 title: Porticoed Garden
 latlon: [ 0, 0 ]

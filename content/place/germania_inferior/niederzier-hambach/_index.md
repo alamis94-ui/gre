@@ -1,13 +1,12 @@
 ---
-gre_id: "ad09c89554"
-aliases: [/id/ad09c89554]
+slug: "ad09c89554"
 type: place
 title: Niederzier-Hambach
 author: Maureen Carroll
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-31
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

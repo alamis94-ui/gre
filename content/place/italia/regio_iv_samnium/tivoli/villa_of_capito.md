@@ -1,6 +1,5 @@
 ---
-gre_id: "1b4a70184b"
-aliases: [/id/1b4a70184b]
+slug: "1b4a70184b"
 type: garden
 title: Villa Of Capito
 latlon: [ 0, 0 ]

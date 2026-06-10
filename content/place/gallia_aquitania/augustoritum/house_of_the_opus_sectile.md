@@ -1,6 +1,5 @@
 ---
-gre_id: "08deb91297"
-aliases: [/id/08deb91297]
+slug: "08deb91297"
 type: garden
 title: House Of The Opus Sectile
 latlon: [ 0, 0 ]

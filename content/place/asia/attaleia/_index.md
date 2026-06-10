@@ -1,13 +1,12 @@
 ---
-gre_id: "1dec19aa39"
-aliases: [/id/1dec19aa39]
+slug: "1dec19aa39"
 type: place
 title: Attaleia
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

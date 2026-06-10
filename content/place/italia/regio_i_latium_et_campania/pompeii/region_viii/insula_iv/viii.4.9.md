@@ -1,6 +1,5 @@
 ---
-gre_id: "bc0b1d0458"
-aliases: [/id/bc0b1d0458]
+slug: "bc0b1d0458"
 type: garden
 title: VIII.4.9. House of T. Mescinius Gelo
 latlon: [ 0, 0 ]

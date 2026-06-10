@@ -1,13 +1,12 @@
 ---
-gre_id: "dd3bdcfecb"
-aliases: [/id/dd3bdcfecb]
+slug: "dd3bdcfecb"
 type: place
 title: Liedena
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

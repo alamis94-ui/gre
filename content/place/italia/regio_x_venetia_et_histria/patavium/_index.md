@@ -1,13 +1,12 @@
 ---
-gre_id: "96ecdd80a4"
-aliases: [/id/96ecdd80a4]
+slug: "96ecdd80a4"
 type: place
 title: Patavium
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

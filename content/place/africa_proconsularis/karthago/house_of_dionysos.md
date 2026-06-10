@@ -1,6 +1,5 @@
 ---
-gre_id: "cf9b8b7e86"
-aliases: [/id/cf9b8b7e86]
+slug: "cf9b8b7e86"
 type: garden
 title: House of Dionysos
 latlon: [ 36.858276, 10.331915 ]

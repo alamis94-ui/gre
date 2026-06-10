@@ -1,6 +1,5 @@
 ---
-gre_id: "3a24879b01"
-aliases: [/id/3a24879b01]
+slug: "3a24879b01"
 type: garden
 title: Casa dell'Ara Laterizia
 latlon: [ 40.806029, 14.346488 ]

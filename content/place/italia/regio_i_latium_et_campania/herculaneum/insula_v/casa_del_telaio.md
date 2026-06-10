@@ -1,6 +1,5 @@
 ---
-gre_id: "24c99cc9d4"
-aliases: [/id/24c99cc9d4]
+slug: "24c99cc9d4"
 type: garden
 title: Casa del Telaio
 latlon: [ 40.805843, 14.348058 ]

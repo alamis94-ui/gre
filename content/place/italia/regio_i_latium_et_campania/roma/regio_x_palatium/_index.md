@@ -1,13 +1,12 @@
 ---
-gre_id: "2c05324613"
-aliases: [/id/2c05324613]
+slug: "2c05324613"
 type: place
 title: Regio X Palatium
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

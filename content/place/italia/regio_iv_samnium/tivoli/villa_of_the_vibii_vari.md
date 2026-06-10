@@ -1,6 +1,5 @@
 ---
-gre_id: "f36fef8c30"
-aliases: [/id/f36fef8c30]
+slug: "f36fef8c30"
 type: garden
 title: Villa Of The Vibii Vari
 latlon: [ 0, 0 ]

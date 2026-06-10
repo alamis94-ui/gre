@@ -1,6 +1,5 @@
 ---
-gre_id: "37f6a73632"
-aliases: [/id/37f6a73632]
+slug: "37f6a73632"
 type: garden
 title: Villa De Seviac
 latlon: [ 0, 0 ]

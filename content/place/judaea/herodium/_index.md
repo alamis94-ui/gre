@@ -1,13 +1,12 @@
 ---
-gre_id: "083d61d4d3"
-aliases: [/id/083d61d4d3]
+slug: "083d61d4d3"
 type: place
 title: Herodium
 author: Kathryn Gleason, Ehud Netzer
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

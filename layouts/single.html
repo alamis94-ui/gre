@@ -1,30 +1,30 @@
 {{ define "main" }}
 <main class="main" role="main">
-	<article class="post{{ if .Params.draft }} draft{{ end }}">
-		{{ if .Params.draft }}
-			<div class="draft">DRAFT</div>
-		{{ end }}
-		<header class="post__header">
-			{{- partial "breadcrumbs.html" . -}}
+    <article class="post{{ if .Params.draft }} draft{{ end }}">
+        {{ if .Params.draft }}
+            <div class="draft">DRAFT</div>
+        {{ end }}
+        <header class="post__header">
+            {{- partial "breadcrumbs.html" . -}}
 
-			<h1 class="post__title">{{ .Title }}</h1>
-			{{- partial "metadata.html" . -}}
-		</header>
-		{{- if .Params.thumbnail }}
-		<figure class="post__thumbnail">
-			<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
-		</figure>
-		{{- end }}
-		{{- partial "post_toc.html" . -}}
-		<div class="content post__content clearfix">
-			{{ .Content }}
-			<!--{{ partial "superlocations.html" . }}-->
-		</div>
-		{{- if .Params.tags }}
-		<footer class="post__footer">
-			{{ partial "post_tags.html" . }}
-		</footer>
-		{{- end }}
-	</article>
+            <h1 class="post__title">{{ .Title }}</h1>
+            {{- partial "metadata.html" . -}}
+        </header>
+        {{- if .Params.thumbnail }}
+        <figure class="post__thumbnail">
+            <img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
+        </figure>
+        {{- end }}
+        {{- partial "post_toc.html" . -}}
+        <div class="content post__content clearfix">
+            {{ .Content }}
+            <!--{{ partial "superlocations.html" . }}-->
+        </div>
+        {{- if .Params.tags }}
+        <footer class="post__footer">
+            {{ partial "post_tags.html" . }}
+        </footer>
+        {{- end }}
+    </article>
 </main>
 {{ end }}

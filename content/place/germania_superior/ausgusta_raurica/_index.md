@@ -1,13 +1,12 @@
 ---
-gre_id: "bcc1297fb7"
-aliases: [/id/bcc1297fb7]
+slug: "bcc1297fb7"
 type: place
 title: Ausgusta Raurica
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

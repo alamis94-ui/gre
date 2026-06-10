@@ -1,6 +1,5 @@
 ---
-gre_id: "b267892f1e"
-aliases: [/id/b267892f1e]
+slug: "b267892f1e"
 type: garden
 title: The Severan Complex
 latlon: [ 41.889306, 12.487109 ]

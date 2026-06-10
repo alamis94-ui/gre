@@ -1,6 +1,5 @@
 ---
-gre_id: "2875d13abf"
-aliases: [/id/2875d13abf]
+slug: "2875d13abf"
 type: garden
 title: House On The Via Begli Augustali
 latlon: [ 0, 0 ]

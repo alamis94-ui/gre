@@ -1,6 +1,5 @@
 ---
-gre_id: "a64f3a614c"
-aliases: [/id/a64f3a614c]
+slug: "a64f3a614c"
 type: garden
 title: Caupona Of Hermes
 latlon: [ 0, 0 ]

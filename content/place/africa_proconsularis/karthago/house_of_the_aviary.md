@@ -1,6 +1,5 @@
 ---
-gre_id: "dd8246deb4"
-aliases: [/id/dd8246deb4]
+slug: "dd8246deb4"
 type: garden
 title: House of the Aviary (Maison de la Volière)
 latlon: [ 36.857906, 10.331369 ]

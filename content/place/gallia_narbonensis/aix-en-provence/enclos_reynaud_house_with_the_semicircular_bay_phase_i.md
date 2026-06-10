@@ -1,6 +1,5 @@
 ---
-gre_id: "d374ef4670"
-aliases: [/id/d374ef4670]
+slug: "d374ef4670"
 type: garden
 title: NAR 6.4 Enclos Reynaud, House with the semicircular bay, phase I
 latlon: [ 42.439512, 3.176623 ]

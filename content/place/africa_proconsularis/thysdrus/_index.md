@@ -1,6 +1,5 @@
 ---
-gre_id: "274b9a6aaf"
-aliases: [/id/274b9a6aaf]
+slug: "274b9a6aaf"
 type: place
 title: Thysdrus
 author: Wilhelmina Jashemski, Amina-Aïcha Malek

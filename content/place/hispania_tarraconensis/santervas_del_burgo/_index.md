@@ -1,13 +1,12 @@
 ---
-gre_id: "e1c4ad52d6"
-aliases: [/id/e1c4ad52d6]
+slug: "e1c4ad52d6"
 type: place
 title: Villa De Los Villares
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

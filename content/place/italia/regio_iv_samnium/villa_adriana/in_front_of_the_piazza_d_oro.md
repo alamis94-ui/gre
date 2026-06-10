@@ -1,6 +1,5 @@
 ---
-gre_id: "cf1d9c7584"
-aliases: [/id/cf1d9c7584]
+slug: "cf1d9c7584"
 type: garden
 title: The garden in front of the Piazza d'Oro (Fig. 1, n. 19)
 latlon: [ 41.941305, 12.778279 ]

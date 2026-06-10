@@ -1,6 +1,5 @@
 ---
-gre_id: "98f54a17b5"
-aliases: [/id/98f54a17b5]
+slug: "98f54a17b5"
 type: garden
 title: Villa Of Nero At Subiaco
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "fda865c325"
-aliases: [/id/fda865c325]
+slug: "fda865c325"
 type: garden
 title: Villa Of Sorde L Abbaye
 latlon: [ 0, 0 ]

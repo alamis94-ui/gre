@@ -1,13 +1,12 @@
 ---
-gre_id: "28de708a68"
-aliases: [/id/28de708a68]
+slug: "28de708a68"
 type: place
 title: Darenth
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

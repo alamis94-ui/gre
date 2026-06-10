@@ -1,6 +1,5 @@
 ---
-gre_id: "989124b02a"
-aliases: [/id/989124b02a]
+slug: "989124b02a"
 type: garden
 title: House of Europa, Central District (Maison d'Europe, Quartier Central)
 latlon: [ 36.317690, 5.736683 ]

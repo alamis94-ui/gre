@@ -1,6 +1,5 @@
 ---
-gre_id: "88a590cc40"
-aliases: [/id/88a590cc40]
+slug: "88a590cc40"
 type: garden
 title: Peristyle Market (Marché)
 latlon: [ 36.40112, 9.904448 ]

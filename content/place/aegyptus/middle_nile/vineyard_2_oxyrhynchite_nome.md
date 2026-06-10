@@ -1,6 +1,5 @@
 ---
-gre_id: "85f9f30605"
-aliases: [/id/85f9f30605]
+slug: "85f9f30605"
 type: garden
 title: Vineyard 2 Oxyrhynchite Nome
 latlon: [ 0, 0 ]

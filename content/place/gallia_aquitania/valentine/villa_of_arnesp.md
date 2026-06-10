@@ -1,6 +1,5 @@
 ---
-gre_id: "0f8efe91ee"
-aliases: [/id/0f8efe91ee]
+slug: "0f8efe91ee"
 type: garden
 title: Villa Of Arnesp
 latlon: [ 0, 0 ]

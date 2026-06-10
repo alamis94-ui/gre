@@ -1,6 +1,5 @@
 ---
-gre_id: "754214bc20"
-aliases: [/id/754214bc20]
+slug: "754214bc20"
 type: garden
 title: Enclos Milhaud, House of the Sea god
 latlon: [ 42.439512, 3.176623 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "4e4bfb9cc7"
-aliases: [/id/4e4bfb9cc7]
+slug: "4e4bfb9cc7"
 type: place
 title: Hypaipa
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,13 +1,12 @@
 ---
-gre_id: "80afe797dc"
-aliases: [/id/80afe797dc]
+slug: "80afe797dc"
 type: place
 title: Upper Nile
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

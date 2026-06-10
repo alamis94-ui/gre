@@ -1,6 +1,5 @@
 ---
-gre_id: "f69029472c"
-aliases: [/id/f69029472c]
+slug: "f69029472c"
 type: garden
 title: Three Tomb Gardens
 latlon: [ 0, 0 ]

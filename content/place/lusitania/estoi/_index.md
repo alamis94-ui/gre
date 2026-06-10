@@ -1,13 +1,12 @@
 ---
-gre_id: "5be34d65ff"
-aliases: [/id/5be34d65ff]
+slug: "5be34d65ff"
 type: place
 title: Estoi
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

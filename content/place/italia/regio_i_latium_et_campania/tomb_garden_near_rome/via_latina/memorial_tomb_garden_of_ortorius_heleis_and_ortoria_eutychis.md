@@ -1,6 +1,5 @@
 ---
-gre_id: "e1481f1f86"
-aliases: [/id/e1481f1f86]
+slug: "e1481f1f86"
 type: garden
 title: Memorial Tomb Garden of Ortorius Heleis and Ortoria Eutychis
 latlon: [ 41.649151, 13.194182 ]

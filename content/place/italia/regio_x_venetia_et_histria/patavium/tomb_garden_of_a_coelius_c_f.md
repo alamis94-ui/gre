@@ -1,6 +1,5 @@
 ---
-gre_id: "664bf5c779"
-aliases: [/id/664bf5c779]
+slug: "664bf5c779"
 type: garden
 title: Tomb garden of A. Coelius C. f.
 latlon: [ 45.4071, 11.8698 ]

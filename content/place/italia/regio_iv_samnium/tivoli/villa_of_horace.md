@@ -1,6 +1,5 @@
 ---
-gre_id: "6a24de0e50"
-aliases: [/id/6a24de0e50]
+slug: "6a24de0e50"
 type: garden
 title: Villa Of Horace
 latlon: [ 0, 0 ]

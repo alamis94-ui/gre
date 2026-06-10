@@ -1,6 +1,5 @@
 ---
-gre_id: "79d003c86c"
-aliases: [/id/79d003c86c]
+slug: "79d003c86c"
 type: garden
 title: Villa Of Quintilius Varus
 latlon: [ 0, 0 ]

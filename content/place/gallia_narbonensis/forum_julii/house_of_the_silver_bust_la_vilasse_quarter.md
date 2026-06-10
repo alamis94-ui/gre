@@ -1,6 +1,5 @@
 ---
-gre_id: "857e5462b7"
-aliases: [/id/857e5462b7]
+slug: "857e5462b7"
 type: garden
 title: House of the Silver Bust, La Vilasse Quarter
 latlon: [ 42.439512, 3.176623 ]

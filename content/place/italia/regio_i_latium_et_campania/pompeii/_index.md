@@ -1,13 +1,12 @@
 ---
-gre_id: "f4eb33ed90"
-aliases: [/id/f4eb33ed90]
+slug: "f4eb33ed90"
 type: place
 title: Pompeii
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

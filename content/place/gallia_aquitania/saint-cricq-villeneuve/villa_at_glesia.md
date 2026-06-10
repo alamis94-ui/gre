@@ -1,6 +1,5 @@
 ---
-gre_id: "0b91f82087"
-aliases: [/id/0b91f82087]
+slug: "0b91f82087"
 type: garden
 title: Villa At Glesia
 latlon: [ 0, 0 ]

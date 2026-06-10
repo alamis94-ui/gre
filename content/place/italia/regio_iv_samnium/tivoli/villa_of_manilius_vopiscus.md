@@ -1,6 +1,5 @@
 ---
-gre_id: "c95014409b"
-aliases: [/id/c95014409b]
+slug: "c95014409b"
 type: garden
 title: Villa Of Manilius Vopiscus
 latlon: [ 0, 0 ]

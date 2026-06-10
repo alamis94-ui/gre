@@ -1,13 +1,12 @@
 ---
-gre_id: "4540981d5f"
-aliases: [/id/4540981d5f]
+slug: "4540981d5f"
 type: place
 title: Antioch
 author: Christine Kondoleon, Elizabeth Macaulay
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

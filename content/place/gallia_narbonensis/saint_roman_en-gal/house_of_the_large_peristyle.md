@@ -1,6 +1,5 @@
 ---
-gre_id: "47607cea3d"
-aliases: [/id/47607cea3d]
+slug: "47607cea3d"
 type: garden
 title: House of the Large Peristyle
 latlon: [ 42.439512, 3.176623 ]

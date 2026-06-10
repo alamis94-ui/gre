@@ -1,6 +1,5 @@
 ---
-gre_id: "aeaee1dfc9"
-aliases: [/id/aeaee1dfc9]
+slug: "aeaee1dfc9"
 type: garden
 title: Barat De Vin
 latlon: [ 0, 0 ]

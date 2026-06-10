@@ -1,6 +1,5 @@
 ---
-gre_id: "cce8f17b5a"
-aliases: [/id/cce8f17b5a]
+slug: "cce8f17b5a"
 type: garden
 title: Orchard
 latlon: [ 0, 0 ]

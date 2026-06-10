@@ -1,13 +1,12 @@
 ---
-gre_id: "0cce9a7cde"
-aliases: [/id/0cce9a7cde]
+slug: "0cce9a7cde"
 type: place
 title: Jurancon
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

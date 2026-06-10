@@ -1,13 +1,12 @@
 ---
-gre_id: "bc6cffa6e3"
-aliases: [/id/bc6cffa6e3]
+slug: "bc6cffa6e3"
 type: place
 title: Ramat Hanadiv
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "72f98f966a"
-aliases: [/id/72f98f966a]
+slug: "72f98f966a"
 type: garden
 title: Mausoleon
 latlon: [ 0, 0 ]

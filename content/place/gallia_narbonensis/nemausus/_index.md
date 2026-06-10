@@ -1,13 +1,12 @@
 ---
-gre_id: "5e09be58a0"
-aliases: [/id/5e09be58a0]
+slug: "5e09be58a0"
 type: place
 title: Nemausus
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

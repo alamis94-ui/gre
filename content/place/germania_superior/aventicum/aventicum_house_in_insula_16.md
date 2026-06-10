@@ -1,6 +1,5 @@
 ---
-gre_id: "1d62991501"
-aliases: [/id/1d62991501]
+slug: "1d62991501"
 type: garden
 title: House in Insula 16 in Aventicum
 latlon: [ 46.88008, 7.040710 ]

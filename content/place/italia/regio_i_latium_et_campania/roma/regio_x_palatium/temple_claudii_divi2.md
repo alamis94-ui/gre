@@ -1,6 +1,5 @@
 ---
-gre_id: "f7427554d9"
-aliases: [/id/f7427554d9]
+slug: "f7427554d9"
 type: garden
 title: Gardens of the Temple of Claudii Divi, Rome
 latlon: [ 41.886952, 12.495084 ]

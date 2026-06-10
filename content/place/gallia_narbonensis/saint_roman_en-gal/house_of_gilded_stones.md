@@ -1,6 +1,5 @@
 ---
-gre_id: "14f5da05a7"
-aliases: [/id/14f5da05a7]
+slug: "14f5da05a7"
 type: garden
 title: House of Gilded Stones
 latlon: [ 42.439512, 3.176623 ]

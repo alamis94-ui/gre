@@ -1,6 +1,5 @@
 ---
-gre_id: "0f8c1a7d6c"
-aliases: [/id/0f8c1a7d6c]
+slug: "0f8c1a7d6c"
 type: garden
 title: Niederzier Hambach 59
 latlon: [ 50.897592, 6.445 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "2b5063bf49"
-aliases: [/id/2b5063bf49]
+slug: "2b5063bf49"
 type: garden
 title: The Libraries' Courtyard (Fig. 1, n. 13)
 latlon: [ 41.943021, 12.776021 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "0cce51bdc8"
-aliases: [/id/0cce51bdc8]
+slug: "0cce51bdc8"
 type: garden
 title: Lindos Grove
 latlon: [ 36.0912994186, 28.0882984729 ]

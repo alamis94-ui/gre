@@ -1,6 +1,5 @@
 ---
-gre_id: "c73fb3da24"
-aliases: [/id/c73fb3da24]
+slug: "c73fb3da24"
 type: garden
 title: Perfumery (Quarter of the Stadium, Insula I, Building B)
 latlon: [ 37.392022, 25.270238 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "c0e1622827"
-aliases: [/id/c0e1622827]
+slug: "c0e1622827"
 type: garden
 title: House under the Crédit Agricole
 latlon: [ 43.604175, 1.443246 ]

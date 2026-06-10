@@ -1,13 +1,12 @@
 ---
-gre_id: "9dc837134d"
-aliases: [/id/9dc837134d]
+slug: "9dc837134d"
 type: place
 title: Juliopolis
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

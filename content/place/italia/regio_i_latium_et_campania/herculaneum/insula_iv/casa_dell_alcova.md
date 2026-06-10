@@ -1,6 +1,5 @@
 ---
-gre_id: "5c94b917b1"
-aliases: [/id/5c94b917b1]
+slug: "5c94b917b1"
 type: garden
 title: Casa dell'Alcova
 latlon: [ 40.805843, 14.348058 ]

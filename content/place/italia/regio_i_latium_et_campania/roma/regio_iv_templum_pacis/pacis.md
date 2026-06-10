@@ -1,6 +1,5 @@
 ---
-gre_id: "00c8ac8a9c"
-aliases: [/id/00c8ac8a9c]
+slug: "00c8ac8a9c"
 type: garden
 title: Pacis
 latlon: [ 0, 0 ]

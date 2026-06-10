@@ -1,6 +1,5 @@
 ---
-gre_id: "ce8ff090f1"
-aliases: [/id/ce8ff090f1]
+slug: "ce8ff090f1"
 type: garden
 title: II.viii.5B Caupona
 latlon: [ 40.750870, 14.493866 ]

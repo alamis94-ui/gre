@@ -1,13 +1,12 @@
 ---
-gre_id: "146b313702"
-aliases: [/id/146b313702]
+slug: "146b313702"
 type: place
 title: Beneharnum
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

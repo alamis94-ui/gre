@@ -1,6 +1,5 @@
 ---
-gre_id: "38d5f876b8"
-aliases: [/id/38d5f876b8]
+slug: "38d5f876b8"
 type: garden
 title: La Villa des Rouaux
 latlon: [ 49.118135, 6.174155 ]

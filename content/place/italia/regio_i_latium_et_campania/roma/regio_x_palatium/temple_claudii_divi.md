@@ -1,6 +1,5 @@
 ---
-gre_id: "36b18899b0"
-aliases: [/id/36b18899b0]
+slug: "36b18899b0"
 type: garden
 title: Gardens of the Temple of the Divine Claudius
 latlon: [ 41.886952, 12.495084 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "39b28586d9"
-aliases: [/id/39b28586d9]
+slug: "39b28586d9"
 type: place
 title: Halicarnassus
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

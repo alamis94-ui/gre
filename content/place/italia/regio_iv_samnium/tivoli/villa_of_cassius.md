@@ -1,6 +1,5 @@
 ---
-gre_id: "e23af4e40f"
-aliases: [/id/e23af4e40f]
+slug: "e23af4e40f"
 type: garden
 title: Villa Of Cassius
 latlon: [ 0, 0 ]

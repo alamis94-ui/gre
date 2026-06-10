@@ -1,6 +1,5 @@
 ---
-gre_id: "27c2763d01"
-aliases: [/id/27c2763d01]
+slug: "27c2763d01"
 type: garden
 title: House Grounds of the "Villa San Pancrazio"
 latlon: [ 37.852391, 15.292123 ]

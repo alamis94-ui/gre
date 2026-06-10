@@ -1,6 +1,5 @@
 ---
-gre_id: "e728a4d278"
-aliases: [/id/e728a4d278]
+slug: "e728a4d278"
 type: place
 title: Utica
 author: Wilhelmina Jashemski, Amina-Aïcha Malek

@@ -1,27 +1,12 @@
-<!-- Display the navigational breadcrumbs at the top of each
-	placee or garden webpage -->
-{{- if or (eq .Type "place") (eq .Type "garden") -}}
-	{{- $path := .Path -}}
-	{{- $path := strings.TrimPrefix "/" $path -}}
-	{{- $dirs := split $path "/" -}}
-	{{- $levels := len $dirs -}}
-	{{- if eq .Kind "page" -}}
-		{{ $dirs = first (sub $levels 1) $dirs -}}
-	{{- end -}}
-	{{- $place := "" -}}
-
-	<!-- display path hierarchy, with each level linked -->
-	<nav class="breadcrumbs">
-		{{- range $i, $dir := $dirs -}}
-			<!-- print slash except for at beginning -->
-			{{- if ne 0 $i }} / {{ end -}}
-
-			<!-- print "All Gardens" at start of breadcrumbs -->
-			{{- $place = replaceRE "place" "all gardens" $dir -}}
-
-			<!-- capitalize and link -->
-			{{- $link := strings.Repeat (sub $levels $i 1) "../" -}}
-			<a href="{{ $link }}">{{ partial "romancase.html" $place }}</a>
-		{{- end -}}
-	</nav>
-{{- end -}}
+<!-- Display the navigational breadcrumbs at the top of each place or garden page -->
+{{ if or (eq .Type "place") (eq .Type "garden") }}
+    <!-- display path hierarchy, with each level linked -->
+    <nav class="breadcrumbs">
+        {{ range $i, $p := .Ancestors.Reverse }}
+            {{ if gt $i 0 }}
+                {{ if ne $i 1 }} / {{ end }} 
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ end }}
+        {{ end }}
+    </nav>
+{{ end }}

@@ -1,13 +1,12 @@
 ---
-gre_id: "d9a74048af"
-aliases: [/id/d9a74048af]
+slug: "d9a74048af"
 type: place
 title: Tarraco
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

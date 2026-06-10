@@ -1,6 +1,5 @@
 ---
-gre_id: "c3caa55c41"
-aliases: [/id/c3caa55c41]
+slug: "c3caa55c41"
 type: garden
 title: House of the West (Maison de l'est)
 latlon: [ 37.055611, 10.061305 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "6983390b35"
-aliases: [/id/6983390b35]
+slug: "6983390b35"
 type: garden
 title: Villa at Luna
 latlon: [ 44.1159, 9.8214 ]

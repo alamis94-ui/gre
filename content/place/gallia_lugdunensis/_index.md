@@ -1,13 +1,12 @@
 ---
-gre_id: "5d8f30d0fd"
-aliases: [/id/5d8f30d0fd]
+slug: "5d8f30d0fd"
 type: place
 title: Gallia Lugdunensis
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-07
 modified: 2025-07-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

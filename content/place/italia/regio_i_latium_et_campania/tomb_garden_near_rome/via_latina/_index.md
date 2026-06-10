@@ -1,13 +1,12 @@
 ---
-gre_id: "e5d66a99b4"
-aliases: [/id/e5d66a99b4]
+slug: "e5d66a99b4"
 type: place
 title: Via Latina
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

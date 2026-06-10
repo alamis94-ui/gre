@@ -1,6 +1,5 @@
 ---
-gre_id: "9f8461dff9"
-aliases: [/id/9f8461dff9]
+slug: "9f8461dff9"
 type: garden
 title: VIII.3.15. Caupona
 latlon: [ 0, 0 ]

@@ -1,13 +1,13 @@
 {{/*
-	If a list, return it
-	If a string, split on commas
+    If a list, return it
+    If a string, split on commas
 */}}
 {{- $list := slice -}}
 {{- if reflect.IsSlice . -}}
-	{{- $list = . -}}
+    {{- $list = . -}}
 {{- else if strings.Contains . ", " -}}
     {{- $list = split . ", " }}
 {{- else -}}
-	{{- $list = $list | append . -}}
+    {{- $list = $list | append . -}}
 {{- end -}}
 {{- return $list -}}

@@ -1,6 +1,5 @@
 ---
-gre_id: "e1ec386f49"
-aliases: [/id/e1ec386f49]
+slug: "e1ec386f49"
 type: garden
 title: Urban House on Lungenstrasse
 latlon: [ 50.940671, 6.959908 ]

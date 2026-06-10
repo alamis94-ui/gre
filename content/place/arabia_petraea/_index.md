@@ -1,6 +1,5 @@
 ---
-gre_id: "2b610bcfd6"
-aliases: [/id/2b610bcfd6]
+slug: "2b610bcfd6"
 type: place
 title: Arabia Petraea
 author: Leigh-Ann Bedal

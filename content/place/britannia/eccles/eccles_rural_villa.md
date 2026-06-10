@@ -1,6 +1,5 @@
 ---
-gre_id: "a4cf8fcabe"
-aliases: [/id/a4cf8fcabe]
+slug: "a4cf8fcabe"
 type: garden
 title: Rural Villa in Eccles
 latlon: [ 51.318926, 0.479999 ]

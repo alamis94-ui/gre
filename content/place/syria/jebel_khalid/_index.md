@@ -1,13 +1,12 @@
 ---
-gre_id: "3fe14bcae5"
-aliases: [/id/3fe14bcae5]
+slug: "3fe14bcae5"
 type: place
 title: Jebel Khalid
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

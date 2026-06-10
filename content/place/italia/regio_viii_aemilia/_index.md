@@ -1,13 +1,12 @@
 ---
-gre_id: "2679e95d53"
-aliases: [/id/2679e95d53]
+slug: "2679e95d53"
 type: place
-title: Regio VIII
+title: "Regio VIII: Aemilia"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

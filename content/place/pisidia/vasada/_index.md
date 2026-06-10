@@ -1,13 +1,12 @@
 ---
-gre_id: "fe62bf854c"
-aliases: [/id/fe62bf854c]
+slug: "fe62bf854c"
 type: place
 title: Vasada
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

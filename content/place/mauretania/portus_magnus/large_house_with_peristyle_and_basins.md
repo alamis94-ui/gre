@@ -1,6 +1,5 @@
 ---
-gre_id: "ef18d0874b"
-aliases: [/id/ef18d0874b]
+slug: "ef18d0874b"
 type: garden
 title: Large House with peristyle and basins
 latlon: [ 35.804994, -0.259247 ]

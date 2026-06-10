@@ -1,6 +1,5 @@
 ---
-gre_id: "92249ac2f9"
-aliases: [/id/92249ac2f9]
+slug: "92249ac2f9"
 type: garden
 title: Casa del Salone Nero (VI.13/11)
 latlon: [ 40.805843, 14.348058 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "1e129b7e3b"
-aliases: [/id/1e129b7e3b]
+slug: "1e129b7e3b"
 type: garden
 title: The Late Republican Domus
 latlon: [ 41.889306, 12.487109 ]

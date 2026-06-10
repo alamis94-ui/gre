@@ -1,13 +1,12 @@
 ---
-gre_id: "c4343f3c60"
-aliases: [/id/c4343f3c60]
+slug: "c4343f3c60"
 type: place
 title: Via Gabina
 author: Walter Widrig
 contributor: Keith Jenkins
 date: 2026-05-30
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

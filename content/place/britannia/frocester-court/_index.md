@@ -1,13 +1,12 @@
 ---
-gre_id: "c9a1a68292"
-aliases: [/id/c9a1a68292]
+slug: "c9a1a68292"
 type: place
 title: Frocester Court
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

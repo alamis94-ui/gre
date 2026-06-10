@@ -1,13 +1,12 @@
 ---
-gre_id: "b7b5c9e29d"
-aliases: [/id/b7b5c9e29d]
+slug: "b7b5c9e29d"
 type: place
 title: Cavalaire Sur Mer
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

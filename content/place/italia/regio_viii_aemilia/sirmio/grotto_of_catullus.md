@@ -1,6 +1,5 @@
 ---
-gre_id: "22f808335f"
-aliases: [/id/22f808335f]
+slug: "22f808335f"
 type: garden
 title: Grotto Of Catullus
 latlon: [ 0, 0 ]

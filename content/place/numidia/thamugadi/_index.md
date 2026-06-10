@@ -1,13 +1,12 @@
 ---
-gre_id: "d38bef6cff"
-aliases: [/id/d38bef6cff]
+slug: "d38bef6cff"
 type: place
 title: Thamugadi
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

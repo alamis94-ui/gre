@@ -1,6 +1,5 @@
 ---
-gre_id: "6396878ba3"
-aliases: [/id/6396878ba3]
+slug: "6396878ba3"
 type: garden
 title: Tomb garden at Tyre
 latlon: [ 33.269847, 35.203843 ]

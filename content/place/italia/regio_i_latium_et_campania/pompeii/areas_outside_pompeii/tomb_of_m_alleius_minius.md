@@ -1,6 +1,5 @@
 ---
-gre_id: "eabf8e6bb5"
-aliases: [/id/eabf8e6bb5]
+slug: "eabf8e6bb5"
 type: garden
 title: Tomb Of M Alleius Minius
 latlon: [ 0, 0 ]

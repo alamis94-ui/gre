@@ -1,13 +1,12 @@
 ---
-gre_id: "0a0a493e4e"
-aliases: [/id/0a0a493e4e]
+slug: "0a0a493e4e"
 type: place
 title: Sardinia et Corsica
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-12
 modified: 2025-07-12
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

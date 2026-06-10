@@ -1,13 +1,12 @@
 ---
-gre_id: "bbc6ec188a"
-aliases: [/id/bbc6ec188a]
+slug: "bbc6ec188a"
 type: place
 title: Munigua
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15
 modified: 2025-07-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

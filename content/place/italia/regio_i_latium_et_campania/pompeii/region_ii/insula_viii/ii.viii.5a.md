@@ -1,6 +1,5 @@
 ---
-gre_id: "44c33a5f5f"
-aliases: [/id/44c33a5f5f]
+slug: "44c33a5f5f"
 type: garden
 title: II.viii.5A Small Bath
 latlon: [ 40.750870, 14.493866 ]

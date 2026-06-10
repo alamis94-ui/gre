@@ -1,13 +1,12 @@
 ---
-gre_id: "3081b51bd4"
-aliases: [/id/3081b51bd4]
+slug: "3081b51bd4"
 type: place
 title: Nanzianus
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

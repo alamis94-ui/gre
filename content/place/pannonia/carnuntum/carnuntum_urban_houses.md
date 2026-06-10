@@ -1,6 +1,5 @@
 ---
-gre_id: "ed6a8dfedd"
-aliases: [/id/ed6a8dfedd]
+slug: "ed6a8dfedd"
 type: garden
 title: Urban Houses in Carnuntum
 latlon: [ 48.113197, 16.861685 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "91325c865c"
-aliases: [/id/91325c865c]
+slug: "91325c865c"
 type: garden
 title: House of the Mithra
 latlon: [ 37.487748, -4.459183 ]

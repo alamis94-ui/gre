@@ -1,6 +1,5 @@
 ---
-gre_id: "9afc81b032"
-aliases: [/id/9afc81b032]
+slug: "9afc81b032"
 type: garden
 title: House of the Bust of Marcus Aurelius
 latlon: [ 36.838512, 11.115794 ]

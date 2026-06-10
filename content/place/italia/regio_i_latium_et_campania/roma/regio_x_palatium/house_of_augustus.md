@@ -1,6 +1,5 @@
 ---
-gre_id: "2f6b1e398d"
-aliases: [/id/2f6b1e398d]
+slug: "2f6b1e398d"
 type: garden
 title: House of Augustus
 latlon: [ 41.889306, 12.487109 ]

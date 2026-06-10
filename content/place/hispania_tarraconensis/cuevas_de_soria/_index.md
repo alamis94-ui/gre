@@ -1,13 +1,12 @@
 ---
-gre_id: "57d788ec22"
-aliases: [/id/57d788ec22]
+slug: "57d788ec22"
 type: place
 title: Cuevas De Sona
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

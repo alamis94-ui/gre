@@ -1,13 +1,12 @@
 ---
-gre_id: "066d8c3855"
-aliases: [/id/066d8c3855]
+slug: "066d8c3855"
 type: place
 title: Regio IX Circus Flaminius
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

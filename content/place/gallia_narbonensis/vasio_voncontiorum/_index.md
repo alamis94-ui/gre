@@ -1,13 +1,12 @@
 ---
-gre_id: "b2513be1b7"
-aliases: [/id/b2513be1b7]
+slug: "b2513be1b7"
 type: place
 title: Vasio Voncontiorum
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

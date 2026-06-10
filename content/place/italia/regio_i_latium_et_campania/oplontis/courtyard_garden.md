@@ -1,6 +1,5 @@
 ---
-gre_id: "4203c3c6c8"
-aliases: [/id/4203c3c6c8]
+slug: "4203c3c6c8"
 type: garden
 title: Courtyard Garden
 latlon: [ 0, 0 ]

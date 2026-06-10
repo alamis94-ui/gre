@@ -1,13 +1,12 @@
 ---
-gre_id: "45160fc4c4"
-aliases: [/id/45160fc4c4]
+slug: "45160fc4c4"
 type: place
 title: Mesopotamia
 author: Catherine Kearns
 contributor: Keith Jenkins
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,13 +1,12 @@
 ---
-gre_id: "a9da271b6a"
-aliases: [/id/a9da271b6a]
+slug: "a9da271b6a"
 type: place
 title: Libya
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

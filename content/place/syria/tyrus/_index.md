@@ -1,13 +1,12 @@
 ---
-gre_id: "a565cfb9a9"
-aliases: [/id/a565cfb9a9]
+slug: "a565cfb9a9"
 type: place
 title: Tyrus
 author: Kathryn Gleason, Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2026-05-14
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

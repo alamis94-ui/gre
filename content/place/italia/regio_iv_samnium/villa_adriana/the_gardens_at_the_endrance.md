@@ -1,6 +1,5 @@
 ---
-gre_id: "5902264f14"
-aliases: [/id/5902264f14]
+slug: "5902264f14"
 type: garden
 title: The gardens at the entrance of Hadrian's villa (Fig. 1, n. 3)
 latlon: [ 41.941501, 12.776125 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "a6e56210af"
-aliases: [/id/a6e56210af]
+slug: "a6e56210af"
 type: garden
 title: Sanctuary of Poseidon Onchestios
 latlon: [ 38.373269, 23.150267 ]

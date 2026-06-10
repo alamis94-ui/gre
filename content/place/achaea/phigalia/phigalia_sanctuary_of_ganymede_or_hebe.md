@@ -1,6 +1,5 @@
 ---
-gre_id: "00e4043547"
-aliases: [/id/00e4043547]
+slug: "00e4043547"
 type: garden
 title: Sanctuary of Ganymede or Hebe
 latlon: [ 37.396081, 21.841947 ]

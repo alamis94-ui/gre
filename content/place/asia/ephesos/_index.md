@@ -1,13 +1,12 @@
 ---
-gre_id: "7a753a3e06"
-aliases: [/id/7a753a3e06]
+slug: "7a753a3e06"
 type: place
 title: Ephesos
 author: Kathryn Gleason
 contributor: Keith Jenkins
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

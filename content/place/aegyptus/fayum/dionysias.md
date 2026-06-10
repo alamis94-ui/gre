@@ -1,6 +1,5 @@
 ---
-gre_id: "11032f45a7"
-aliases: [/id/11032f45a7]
+slug: "11032f45a7"
 type: garden
 title: Dionysias
 latlon: [ 0, 0 ]

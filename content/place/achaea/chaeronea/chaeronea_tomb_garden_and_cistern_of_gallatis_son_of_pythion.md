@@ -1,6 +1,5 @@
 ---
-gre_id: "40b1adacb6"
-aliases: [/id/40b1adacb6]
+slug: "40b1adacb6"
 type: garden
 title: Tomb Garden and Cistern of Gallatis, Son of Pythion
 latlon: [ 38.493967, 22.841425 ]

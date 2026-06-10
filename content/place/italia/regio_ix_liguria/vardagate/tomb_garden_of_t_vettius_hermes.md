@@ -1,6 +1,5 @@
 ---
-gre_id: "fe223e8769"
-aliases: [/id/fe223e8769]
+slug: "fe223e8769"
 type: garden
 title: Tomb garden of T. Vettius Hermes
 latlon: [ 45.0818, 8.4406 ]

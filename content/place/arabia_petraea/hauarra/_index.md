@@ -1,6 +1,5 @@
 ---
-gre_id: "4490890138"
-aliases: [/id/4490890138]
+slug: "4490890138"
 type: place
 title: Hauarra
 author: M. Barbara Reeves

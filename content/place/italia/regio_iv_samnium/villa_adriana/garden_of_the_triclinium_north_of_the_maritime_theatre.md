@@ -1,6 +1,5 @@
 ---
-gre_id: "847d416007"
-aliases: [/id/847d416007]
+slug: "847d416007"
 type: garden
 title: Garden of the triclinium North of the Maritime Theatre (Fig. 1, n. 7)
 latlon: [ 41.942598, 12.775672 ]

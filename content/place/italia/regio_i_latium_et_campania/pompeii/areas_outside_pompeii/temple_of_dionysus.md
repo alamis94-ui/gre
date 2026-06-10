@@ -1,6 +1,5 @@
 ---
-gre_id: "a0f45079c6"
-aliases: [/id/a0f45079c6]
+slug: "a0f45079c6"
 type: garden
 title: Temple Of Dionysus
 latlon: [ 0, 0 ]

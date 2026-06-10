@@ -1,6 +1,5 @@
 ---
-gre_id: "2b511a037c"
-aliases: [/id/2b511a037c]
+slug: "2b511a037c"
 type: garden
 title: Temple of Hephaistos
 latlon: [ 37.975646, 23.721409 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "c6ab20cdc9"
-aliases: [/id/c6ab20cdc9]
+slug: "c6ab20cdc9"
 type: place
 title: Olisipo
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,13 +1,12 @@
 ---
-gre_id: "c29fb65145"
-aliases: [/id/c29fb65145]
+slug: "c29fb65145"
 type: place
 title: Hummetroth
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

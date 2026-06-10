@@ -1,6 +1,5 @@
 ---
-gre_id: "43d2397bce"
-aliases: [/id/43d2397bce]
+slug: "43d2397bce"
 type: garden
 title: Theater
 latlon: [ 36.422473, 9.218866 ]

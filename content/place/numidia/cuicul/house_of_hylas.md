@@ -1,6 +1,5 @@
 ---
-gre_id: "12538be0d9"
-aliases: [/id/12538be0d9]
+slug: "12538be0d9"
 type: garden
 title: House of Hylas, Central District (Maison de Castorius, Quartier central)
 latlon: [ 36.317690, 5.736683 ]

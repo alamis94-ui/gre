@@ -1,6 +1,5 @@
 ---
-gre_id: "24ecdfe9e7"
-aliases: [/id/24ecdfe9e7]
+slug: "24ecdfe9e7"
 type: garden
 title: Villa at Patti Marina
 latlon: [ 38.192251, 15.556634 ]

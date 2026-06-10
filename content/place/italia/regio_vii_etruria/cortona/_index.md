@@ -1,13 +1,12 @@
 ---
-gre_id: "a6770409bf"
-aliases: [/id/a6770409bf]
+slug: "a6770409bf"
 type: place
 title: Cortona
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

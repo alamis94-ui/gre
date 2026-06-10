@@ -1,6 +1,5 @@
 ---
-gre_id: "ae6dc15559"
-aliases: [/id/ae6dc15559]
+slug: "ae6dc15559"
 type: garden
 title: Silin
 latlon: [ 0, 0 ]

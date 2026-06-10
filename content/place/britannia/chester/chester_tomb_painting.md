@@ -1,6 +1,5 @@
 ---
-gre_id: "fd2163e5d2"
-aliases: [/id/fd2163e5d2]
+slug: "fd2163e5d2"
 type: garden
 title: Tomb Painting in Chester
 latlon: [ 53.1884, -2.8877 ]

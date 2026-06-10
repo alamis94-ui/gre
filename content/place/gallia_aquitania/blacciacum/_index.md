@@ -1,13 +1,12 @@
 ---
-gre_id: "7560c410ad"
-aliases: [/id/7560c410ad]
+slug: "7560c410ad"
 type: place
 title: Blacciacum
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "4427ca763c"
-aliases: [/id/4427ca763c]
+slug: "4427ca763c"
 type: garden
 title: Sanctuary of Demeter and Persephone
 latlon: [ 37.984037, 22.712222 ]

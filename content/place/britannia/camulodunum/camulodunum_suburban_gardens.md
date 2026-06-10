@@ -1,6 +1,5 @@
 ---
-gre_id: "b5c9a7a301"
-aliases: [/id/b5c9a7a301]
+slug: "b5c9a7a301"
 type: garden
 title: Suburban Gardens in Camulodunum
 latlon: [ 51.889795, 0.893567 ]

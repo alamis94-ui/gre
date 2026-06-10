@@ -1,6 +1,5 @@
 ---
-gre_id: "3b6b0e6ae7"
-aliases: [/id/3b6b0e6ae7]
+slug: "3b6b0e6ae7"
 type: garden
 title: Villa Borg
 latlon: [ 49.496681, 6.457675 ]

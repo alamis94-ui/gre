@@ -1,6 +1,5 @@
 ---
-gre_id: "7ed18f2ec4"
-aliases: [/id/7ed18f2ec4]
+slug: "7ed18f2ec4"
 type: garden
 title: The terrace
 latlon: [ 41.711087, 12.346884 ]

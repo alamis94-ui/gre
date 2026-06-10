@@ -1,6 +1,5 @@
 ---
-gre_id: "7098066dc8"
-aliases: [/id/7098066dc8]
+slug: "7098066dc8"
 type: garden
 title: Rhodes Groves On The Acropolis
 latlon: [ 36.443113, 28.227611 ]

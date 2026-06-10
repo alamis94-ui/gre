@@ -1,6 +1,5 @@
 ---
-gre_id: "da916f5290"
-aliases: [/id/da916f5290]
+slug: "da916f5290"
 type: garden
 title: The Garden of the Julio-Claudian Domus
 latlon: [ 41.889306, 12.487109 ]

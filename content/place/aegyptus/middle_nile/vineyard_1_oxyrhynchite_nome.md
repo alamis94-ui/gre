@@ -1,6 +1,5 @@
 ---
-gre_id: "aef6743f30"
-aliases: [/id/aef6743f30]
+slug: "aef6743f30"
 type: garden
 title: Vineyard 1 Oxyrhynchite Nome
 latlon: [ 0, 0 ]

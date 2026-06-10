@@ -1,6 +1,5 @@
 ---
-gre_id: "350811178b"
-aliases: [/id/350811178b]
+slug: "350811178b"
 type: garden
 title: Private Houses at Antioch
 latlon: [ 36.222551, 36.183214 ]

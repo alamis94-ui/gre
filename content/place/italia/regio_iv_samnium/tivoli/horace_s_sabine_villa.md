@@ -1,6 +1,5 @@
 ---
-gre_id: "c93207cb2b"
-aliases: [/id/c93207cb2b]
+slug: "c93207cb2b"
 type: garden
 title: Horace S Sabine Villa
 latlon: [ 0, 0 ]

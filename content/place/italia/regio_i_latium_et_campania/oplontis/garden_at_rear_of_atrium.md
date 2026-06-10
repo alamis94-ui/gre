@@ -1,6 +1,5 @@
 ---
-gre_id: "a715a396f2"
-aliases: [/id/a715a396f2]
+slug: "a715a396f2"
 type: garden
 title: Garden At Rear Of Atrium
 latlon: [ 0, 0 ]

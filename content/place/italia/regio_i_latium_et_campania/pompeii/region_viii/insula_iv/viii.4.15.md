@@ -1,6 +1,5 @@
 ---
-gre_id: "bbe1da0ca1"
-aliases: [/id/bbe1da0ca1]
+slug: "bbe1da0ca1"
 type: garden
 title: VIII.4.15. House of C. Cornelius Rufus; House of C. Cornelius Adiutor
 latlon: [ 0, 0 ]

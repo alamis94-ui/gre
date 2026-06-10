@@ -1,6 +1,5 @@
 ---
-gre_id: "67d01a709a"
-aliases: [/id/67d01a709a]
+slug: "67d01a709a"
 type: place
 title: Dacia Traiana
 latlon: [ 47.5, 22.5 ]
@@ -8,7 +7,7 @@ author: John Bodel
 contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates

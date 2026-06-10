@@ -1,6 +1,5 @@
 ---
-gre_id: "8758362e50"
-aliases: [/id/8758362e50]
+slug: "8758362e50"
 type: garden
 title: Masada
 latlon: [ 31.316258, 35.353684 ]

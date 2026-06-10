@@ -1,6 +1,5 @@
 ---
-gre_id: "829c927926"
-aliases: [/id/829c927926]
+slug: "829c927926"
 type: garden
 title: House with the Painted Portico
 latlon: [ 42.439512, 3.176623 ]

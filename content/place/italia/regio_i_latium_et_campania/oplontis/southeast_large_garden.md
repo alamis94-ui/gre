@@ -1,6 +1,5 @@
 ---
-gre_id: "848cf6caa5"
-aliases: [/id/848cf6caa5]
+slug: "848cf6caa5"
 type: garden
 title: Southeast Large Garden
 latlon: [ 0, 0 ]

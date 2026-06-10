@@ -1,6 +1,5 @@
 ---
-gre_id: "ac531a92fb"
-aliases: [/id/ac531a92fb]
+slug: "ac531a92fb"
 type: garden
 title: Mausoleum Augusti
 latlon: [ 41.906030, 12.476423 ]

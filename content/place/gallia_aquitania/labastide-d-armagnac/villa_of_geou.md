@@ -1,6 +1,5 @@
 ---
-gre_id: "a0bccecae9"
-aliases: [/id/a0bccecae9]
+slug: "a0bccecae9"
 type: garden
 title: Villa Of Geou
 latlon: [ 0, 0 ]

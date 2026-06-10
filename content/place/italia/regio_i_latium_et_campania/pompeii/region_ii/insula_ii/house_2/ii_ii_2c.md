@@ -1,6 +1,5 @@
 ---
-gre_id: "3b0a1eba04"
-aliases: [/id/3b0a1eba04]
+slug: "3b0a1eba04"
 type: garden
 title: II.ii.2c
 latlon: [ 0, 0 ]

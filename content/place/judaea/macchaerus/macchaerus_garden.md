@@ -1,6 +1,5 @@
 ---
-gre_id: "3362b96966"
-aliases: [/id/3362b96966]
+slug: "3362b96966"
 type: garden
 title: Machaerus Southern Courtyard
 latlon: [ 31.5673651297, 35.6241088966 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "561f06e9d4"
-aliases: [/id/561f06e9d4]
+slug: "561f06e9d4"
 type: garden
 title: Opus Sectile With Opus Quadratum
 latlon: [ 0, 0 ]

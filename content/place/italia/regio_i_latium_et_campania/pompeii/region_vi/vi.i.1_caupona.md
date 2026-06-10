@@ -1,6 +1,5 @@
 ---
-gre_id: "dc6198eba1"
-aliases: [/id/dc6198eba1]
+slug: "dc6198eba1"
 type: garden
 title: Caupona, VI.I.1
 latlon: [ 40.749738, 14.489882 ]

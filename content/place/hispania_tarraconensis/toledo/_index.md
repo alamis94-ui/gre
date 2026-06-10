@@ -1,13 +1,12 @@
 ---
-gre_id: "2eb7e316b0"
-aliases: [/id/2eb7e316b0]
+slug: "2eb7e316b0"
 type: place
 title: Toledo
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

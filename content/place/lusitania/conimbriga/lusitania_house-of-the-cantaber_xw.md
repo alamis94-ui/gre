@@ -1,6 +1,5 @@
 ---
-gre_id: "f5a5c648d6"
-aliases: [/id/f5a5c648d6]
+slug: "f5a5c648d6"
 type: garden
 title: House of the Cantaber
 latlon: [ 40.099, -8.4933 ]

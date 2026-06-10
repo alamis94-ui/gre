@@ -1,6 +1,5 @@
 ---
-gre_id: "94ca12626e"
-aliases: [/id/94ca12626e]
+slug: "94ca12626e"
 type: garden
 title: VIII.5.39. House of Acceptus and Euhodia
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "eac9f15896"
-aliases: [/id/eac9f15896]
+slug: "eac9f15896"
 type: garden
 title: Tomb Garden of Claudia Peloris
 latlon: [ 0, 0 ]

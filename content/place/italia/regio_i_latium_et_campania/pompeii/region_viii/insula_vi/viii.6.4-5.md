@@ -1,6 +1,5 @@
 ---
-gre_id: "e94db794a9"
-aliases: [/id/e94db794a9]
+slug: "e94db794a9"
 type: garden
 title: VIII.6.4-5. Market Garden
 latlon: [ 0, 0 ]

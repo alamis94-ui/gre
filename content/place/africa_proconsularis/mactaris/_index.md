@@ -1,13 +1,12 @@
 ---
-gre_id: "da2c9dcfd7"
-aliases: [/id/da2c9dcfd7]
+slug: "da2c9dcfd7"
 type: place
 title: Mactaris
 author: Wilhelmina Jashemski
 contributor: Keith Jenkins
 date: 2025-09-16
 modified: 2025-09-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

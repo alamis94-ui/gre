@@ -1,6 +1,5 @@
 ---
-gre_id: "c201365518"
-aliases: [/id/c201365518]
+slug: "c201365518"
 type: place
 title: Judaea
 author: Author Name

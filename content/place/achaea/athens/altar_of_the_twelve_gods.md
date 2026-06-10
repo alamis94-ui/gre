@@ -1,6 +1,5 @@
 ---
-gre_id: "a9bd5b21c5"
-aliases: [/id/a9bd5b21c5]
+slug: "a9bd5b21c5"
 type: garden
 title: Altar of the Twelve Gods
 latlon: [ 37.97572, 23.722662 ]

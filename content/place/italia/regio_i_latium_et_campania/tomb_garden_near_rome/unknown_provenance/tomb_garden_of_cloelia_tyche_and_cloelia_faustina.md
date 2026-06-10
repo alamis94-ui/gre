@@ -1,6 +1,5 @@
 ---
-gre_id: "2da812a6c3"
-aliases: [/id/2da812a6c3]
+slug: "2da812a6c3"
 type: garden
 title: Tomb Garden of (Cl)oelia Tyche and (C)loelia Faustina
 latlon: [ 0, 0 ]

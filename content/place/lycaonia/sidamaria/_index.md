@@ -1,13 +1,12 @@
 ---
-gre_id: "8deced6b95"
-aliases: [/id/8deced6b95]
+slug: "8deced6b95"
 type: place
 title: Sidamaria
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

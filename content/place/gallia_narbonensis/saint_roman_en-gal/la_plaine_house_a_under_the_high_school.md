@@ -1,6 +1,5 @@
 ---
-gre_id: "4f27e20214"
-aliases: [/id/4f27e20214]
+slug: "4f27e20214"
 type: garden
 title: La Plaine, House A under the High School
 latlon: [ 42.439512, 3.176623 ]

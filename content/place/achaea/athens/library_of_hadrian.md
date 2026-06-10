@@ -1,6 +1,5 @@
 ---
-gre_id: "1aef208ebc"
-aliases: [/id/1aef208ebc]
+slug: "1aef208ebc"
 type: garden
 title: Library of Hadrian
 latlon: [ 37.975531, 23.725995 ]

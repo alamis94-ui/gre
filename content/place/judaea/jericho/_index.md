@@ -1,13 +1,12 @@
 ---
-gre_id: "7a8816878c"
-aliases: [/id/7a8816878c]
+slug: "7a8816878c"
 type: place
-title: Hasmonean and Herodian Palace Complex at Jericho
+title: Jericho
 author: Kathryn Gleason
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

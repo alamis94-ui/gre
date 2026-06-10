@@ -1,6 +1,5 @@
 ---
-gre_id: "1cdecc25bd"
-aliases: [/id/1cdecc25bd]
+slug: "1cdecc25bd"
 type: garden
 title: Small Raised Garden
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "4a1a7a53e6"
-aliases: [/id/4a1a7a53e6]
+slug: "4a1a7a53e6"
 type: garden
 title: The Adonea of the Flavian Palace, Palatine
 latlon: [ 41.889306, 12.487109 ]

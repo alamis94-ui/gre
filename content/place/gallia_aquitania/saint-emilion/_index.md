@@ -1,13 +1,12 @@
 ---
-gre_id: "59e28aa259"
-aliases: [/id/59e28aa259]
+slug: "59e28aa259"
 type: place
 title: Saint Emilion
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "e60c1ee87b"
-aliases: [/id/e60c1ee87b]
+slug: "e60c1ee87b"
 type: place
 title: Tyrus
 author: Kathryn Gleason, Leigh-Ann Bedal

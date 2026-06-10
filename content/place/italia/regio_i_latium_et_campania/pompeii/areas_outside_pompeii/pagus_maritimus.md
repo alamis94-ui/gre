@@ -1,6 +1,5 @@
 ---
-gre_id: "9b8e6f6099"
-aliases: [/id/9b8e6f6099]
+slug: "9b8e6f6099"
 type: garden
 title: Pagus Maritimus
 latlon: [ 0, 0 ]

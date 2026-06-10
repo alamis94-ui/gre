@@ -1,6 +1,5 @@
 ---
-gre_id: "28bc478ef0"
-aliases: [/id/28bc478ef0]
+slug: "28bc478ef0"
 type: garden
 title: Tomb Of M Tullius
 latlon: [ 0, 0 ]

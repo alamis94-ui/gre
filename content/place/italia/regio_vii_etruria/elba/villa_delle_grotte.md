@@ -1,6 +1,5 @@
 ---
-gre_id: "282655b68b"
-aliases: [/id/282655b68b]
+slug: "282655b68b"
 type: garden
 title: Villa Delle Grotte
 latlon: [ 0, 0 ]

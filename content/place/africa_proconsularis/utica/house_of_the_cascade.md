@@ -1,6 +1,5 @@
 ---
-gre_id: "e44b3e3b84"
-aliases: [/id/e44b3e3b84]
+slug: "e44b3e3b84"
 type: garden
 title: House of the Cascade (Maison de la Cascade)
 latlon: [ 37.055611, 10.061305 ]

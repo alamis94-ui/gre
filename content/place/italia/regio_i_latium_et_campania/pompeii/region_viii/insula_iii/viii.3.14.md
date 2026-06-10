@@ -1,6 +1,5 @@
 ---
-gre_id: "5c8aada6d5"
-aliases: [/id/5c8aada6d5]
+slug: "5c8aada6d5"
 type: garden
 title: VIII.3.14. House of Queen Carolina; House of Adonis
 latlon: [ 0, 0 ]

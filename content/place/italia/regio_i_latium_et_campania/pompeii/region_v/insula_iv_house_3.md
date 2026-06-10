@@ -1,6 +1,5 @@
 ---
-gre_id: "c1fdd755e5"
-aliases: [/id/c1fdd755e5]
+slug: "c1fdd755e5"
 type: garden
 title: V.iv.3
 latlon: [ 40.74941, 14.485429 ]

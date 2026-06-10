@@ -1,13 +1,12 @@
 ---
-gre_id: "736d8005f7"
-aliases: [/id/736d8005f7]
+slug: "736d8005f7"
 type: place
 title: Althiburos
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 modified: 2025-09-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

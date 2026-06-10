@@ -1,6 +1,5 @@
 ---
-gre_id: "bccfd5398c"
-aliases: [/id/bccfd5398c]
+slug: "bccfd5398c"
 type: garden
 title: Villa La Hillere
 latlon: [ 0, 0 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "5e00851dbb"
-aliases: [/id/5e00851dbb]
+slug: "5e00851dbb"
 type: place
 title: Insula VII
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

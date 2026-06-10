@@ -1,13 +1,12 @@
 ---
-gre_id: "8ff4e1931c"
-aliases: [/id/8ff4e1931c]
+slug: "8ff4e1931c"
 type: place
 title: Rheinbach-Flerzheim
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-31
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

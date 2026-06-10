@@ -1,13 +1,12 @@
 ---
-gre_id: "4e213d1d24"
-aliases: [/id/4e213d1d24]
+slug: "4e213d1d24"
 type: place
 title: Emerita Augusta
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

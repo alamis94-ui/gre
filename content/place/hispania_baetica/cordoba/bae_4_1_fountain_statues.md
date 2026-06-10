@@ -1,6 +1,5 @@
 ---
-gre_id: "2fa91892cf"
-aliases: [/id/2fa91892cf]
+slug: "2fa91892cf"
 type: garden
 title: Bae 4 1 Fountain Statues
 latlon: [ 0, 0 ]

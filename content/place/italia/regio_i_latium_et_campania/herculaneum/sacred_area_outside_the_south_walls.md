@@ -1,6 +1,5 @@
 ---
-gre_id: "ab1e68bef5"
-aliases: [/id/ab1e68bef5]
+slug: "ab1e68bef5"
 type: garden
 title: Sacred Area Outside the South Walls
 latlon: [ 40.805843, 14.348058 ]

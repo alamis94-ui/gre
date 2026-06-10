@@ -1,13 +1,12 @@
 ---
-gre_id: "d51b938dfc"
-aliases: [/id/d51b938dfc]
+slug: "d51b938dfc"
 type: place
 title: Sikyon
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

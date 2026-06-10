@@ -1,13 +1,12 @@
 ---
-gre_id: "20171d358b"
-aliases: [/id/20171d358b]
+slug: "20171d358b"
 type: place
 title: Sagunto
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

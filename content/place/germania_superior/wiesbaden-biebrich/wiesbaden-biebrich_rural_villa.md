@@ -1,6 +1,5 @@
 ---
-gre_id: "e041f5959d"
-aliases: [/id/e041f5959d]
+slug: "e041f5959d"
 type: garden
 title: Rural Villa in Wiesbaden-Biebrich
 latlon: [ 50.044849, 8.241041 ]

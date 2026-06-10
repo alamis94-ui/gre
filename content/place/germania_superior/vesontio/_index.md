@@ -1,13 +1,12 @@
 ---
-gre_id: "85dfbd0e3c"
-aliases: [/id/85dfbd0e3c]
+slug: "85dfbd0e3c"
 type: place
 title: Vesontio
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

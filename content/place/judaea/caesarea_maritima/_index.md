@@ -1,6 +1,5 @@
 ---
-gre_id: "ec148c6c1b"
-aliases: [/id/ec148c6c1b]
+slug: "ec148c6c1b"
 type: place
 title: Caesarea Maritima
 author: Kathryn Gleason

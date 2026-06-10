@@ -1,6 +1,5 @@
 ---
-gre_id: "39d7c6a7c0"
-aliases: [/id/39d7c6a7c0]
+slug: "39d7c6a7c0"
 type: garden
 title: Urban House East of Forum
 latlon: [ 49.5, 4.5 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "5d34e59833"
-aliases: [/id/5d34e59833]
+slug: "5d34e59833"
 type: garden
 title: Herodian Second Palace
 latlon: [ 31.853703, 35.434669 ]

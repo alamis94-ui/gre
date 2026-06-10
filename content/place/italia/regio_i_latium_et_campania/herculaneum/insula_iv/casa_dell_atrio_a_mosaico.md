@@ -1,6 +1,5 @@
 ---
-gre_id: "df48683f15"
-aliases: [/id/df48683f15]
+slug: "df48683f15"
 type: garden
 title: Casa dell'Atrio a Mosaico
 latlon: [ 40.805843, 14.348058 ]

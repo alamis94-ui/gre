@@ -1,6 +1,5 @@
 ---
-gre_id: "433608adfe"
-aliases: [/id/433608adfe]
+slug: "433608adfe"
 type: garden
 title: Villa Du Palat
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "cf6297a793"
-aliases: [/id/cf6297a793]
+slug: "cf6297a793"
 type: garden
 title: Rural Villa
 latlon: [ 49.528992, 6.384557 ]

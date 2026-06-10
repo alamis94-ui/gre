@@ -1,6 +1,5 @@
 ---
-gre_id: "f46f30a755"
-aliases: [/id/f46f30a755]
+slug: "f46f30a755"
 type: garden
 title: House Of Orpheus
 latlon: [ 0, 0 ]

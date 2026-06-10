@@ -1,6 +1,5 @@
 ---
-gre_id: "6031dab152"
-aliases: [/id/6031dab152]
+slug: "6031dab152"
 type: garden
 title: Tomb 11
 latlon: [ 0, 0 ]

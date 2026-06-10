@@ -1,6 +1,5 @@
 ---
-gre_id: "4084b607e8"
-aliases: [/id/4084b607e8]
+slug: "4084b607e8"
 type: garden
 title: Villa at Borgellusa di Avola
 latlon: [ 37.069402, 15.276704 ]

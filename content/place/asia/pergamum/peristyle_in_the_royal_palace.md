@@ -1,6 +1,5 @@
 ---
-gre_id: "22d82e6588"
-aliases: [/id/22d82e6588]
+slug: "22d82e6588"
 type: garden
 title: Peristyle In The Royal Palace
 latlon: [ 0, 0 ]

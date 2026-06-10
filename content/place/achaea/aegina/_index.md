@@ -1,6 +1,5 @@
 ---
-gre_id: "1872c4a665"
-aliases: [/id/1872c4a665]
+slug: "1872c4a665"
 type: place
 title: Aegina
 author: Author Name

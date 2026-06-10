@@ -1,6 +1,5 @@
 ---
-gre_id: "4c3dd0c894"
-aliases: [/id/4c3dd0c894]
+slug: "4c3dd0c894"
 type: garden
 title: House of the Bassilica (Maison de la Bassilica)
 latlon: [ 36.858123, 10.331001 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "6ad907e90b"
-aliases: [/id/6ad907e90b]
+slug: "6ad907e90b"
 type: place
 title: Alexandria
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

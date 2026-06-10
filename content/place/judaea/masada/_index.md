@@ -1,13 +1,12 @@
 ---
-gre_id: "971e9f2561"
-aliases: [/id/971e9f2561]
+slug: "971e9f2561"
 type: place
 title: Masada
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

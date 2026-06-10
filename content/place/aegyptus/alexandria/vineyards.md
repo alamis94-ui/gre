@@ -1,6 +1,5 @@
 ---
-gre_id: "a6318547b4"
-aliases: [/id/a6318547b4]
+slug: "a6318547b4"
 type: garden
 title: Vineyards
 latlon: [ 0, 0 ]

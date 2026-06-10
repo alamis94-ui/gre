@@ -1,6 +1,5 @@
 ---
-gre_id: "de2bc2a72b"
-aliases: [/id/de2bc2a72b]
+slug: "de2bc2a72b"
 type: garden
 title: House of the Two Pools (Maison aux Deux Bassins)
 latlon: [ 36.602135, 2.187529 ]

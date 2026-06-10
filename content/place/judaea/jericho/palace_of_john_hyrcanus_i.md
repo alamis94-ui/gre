@@ -1,6 +1,5 @@
 ---
-gre_id: "0a9a4ef076"
-aliases: [/id/0a9a4ef076]
+slug: "0a9a4ef076"
 type: garden
 title: Palace of John Hyrcanus I
 latlon: [ 31.853511, 35.433756 ]

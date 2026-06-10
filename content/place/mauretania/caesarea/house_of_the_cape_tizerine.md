@@ -1,6 +1,5 @@
 ---
-gre_id: "b864bdc866"
-aliases: [/id/b864bdc866]
+slug: "b864bdc866"
 type: garden
 title: House of the Tizerine Cape (Maison du Cap Tizerine)
 latlon: [ 36.611134, 2.199236 ]

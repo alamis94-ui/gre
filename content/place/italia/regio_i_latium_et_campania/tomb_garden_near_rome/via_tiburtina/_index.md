@@ -1,13 +1,12 @@
 ---
-gre_id: "aeb16badd2"
-aliases: [/id/aeb16badd2]
+slug: "aeb16badd2"
 type: place
 title: Via Tiburtina
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

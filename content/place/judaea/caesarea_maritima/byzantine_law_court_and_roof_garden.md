@@ -1,6 +1,5 @@
 ---
-gre_id: "5c1a7e251d"
-aliases: [/id/5c1a7e251d]
+slug: "5c1a7e251d"
 type: garden
 title: Byzantine Law Court and Roof Garden
 latlon: [ 32.501237, 34.89151 ]

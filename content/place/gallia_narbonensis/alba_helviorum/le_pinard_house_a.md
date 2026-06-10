@@ -1,6 +1,5 @@
 ---
-gre_id: "b11bef169b"
-aliases: [/id/b11bef169b]
+slug: "b11bef169b"
 type: garden
 title: Le Pinard, House A
 latlon: [ 42.439512, 3.176623 ]

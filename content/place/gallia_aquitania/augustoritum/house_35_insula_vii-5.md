@@ -1,6 +1,5 @@
 ---
-gre_id: "c90bf54f5f"
-aliases: [/id/c90bf54f5f]
+slug: "c90bf54f5f"
 type: garden
 title: House 35, Insula VII-5
 latlon: [ 0, 0 ]

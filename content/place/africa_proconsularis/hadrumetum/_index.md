@@ -1,13 +1,12 @@
 ---
-gre_id: "11a073ba13"
-aliases: [/id/11a073ba13]
+slug: "11a073ba13"
 type: place
 title: Hadrumetum
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 modified: 2025-09-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

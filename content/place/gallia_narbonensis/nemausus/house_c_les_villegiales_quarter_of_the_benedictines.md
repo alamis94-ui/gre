@@ -1,6 +1,5 @@
 ---
-gre_id: "4dd2bd40e6"
-aliases: [/id/4dd2bd40e6]
+slug: "4dd2bd40e6"
 type: garden
 title: House C, Les Villégiales, quarter of the Benedictines
 latlon: [ 42.439512, 3.176623 ]

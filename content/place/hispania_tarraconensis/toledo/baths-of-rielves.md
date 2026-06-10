@@ -1,6 +1,5 @@
 ---
-gre_id: "e1cc46f46d"
-aliases: [/id/e1cc46f46d]
+slug: "e1cc46f46d"
 type: garden
 title: The so-called "Baths" of Rielves
 latlon: [ 39.960815, -4.192941 ]

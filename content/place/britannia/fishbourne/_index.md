@@ -1,13 +1,12 @@
 ---
-gre_id: "e400ec32e2"
-aliases: [/id/e400ec32e2]
+slug: "e400ec32e2"
 type: place
 title: Fishbourne
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

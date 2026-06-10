@@ -1,6 +1,5 @@
 ---
-gre_id: "34974ad663"
-aliases: [/id/34974ad663]
+slug: "34974ad663"
 type: garden
 title: Tomb Garden of L. Ogius Patroclus
 latlon: [ 45.5462731208, 12.3996813934 ]

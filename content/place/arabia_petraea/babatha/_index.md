@@ -1,6 +1,5 @@
 ---
-gre_id: "cdffb59bc8"
-aliases: [/id/cdffb59bc8]
+slug: "cdffb59bc8"
 type: place
 title: Babatha
 author: Leigh-Ann Bedal

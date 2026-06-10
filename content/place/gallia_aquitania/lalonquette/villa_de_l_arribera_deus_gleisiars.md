@@ -1,6 +1,5 @@
 ---
-gre_id: "df1dd29c67"
-aliases: [/id/df1dd29c67]
+slug: "df1dd29c67"
 type: garden
 title: Villa De L Arribera Deus Gleisiars
 latlon: [ 0, 0 ]

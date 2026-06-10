@@ -1,13 +1,12 @@
 ---
-gre_id: "e32867a366"
-aliases: [/id/e32867a366]
+slug: "e32867a366"
 type: place
 title: Insula Or I
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

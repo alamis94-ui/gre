@@ -1,13 +1,12 @@
 ---
-gre_id: "8e2069cc48"
-aliases: [/id/8e2069cc48]
+slug: "8e2069cc48"
 type: place
 title: Caesarea
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-05-22
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

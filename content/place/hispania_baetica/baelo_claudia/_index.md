@@ -1,13 +1,12 @@
 ---
-gre_id: "f7c3a25ca5"
-aliases: [/id/f7c3a25ca5]
+slug: "f7c3a25ca5"
 type: place
 title: Baelo Claudia
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15
 modified: 2025-07-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

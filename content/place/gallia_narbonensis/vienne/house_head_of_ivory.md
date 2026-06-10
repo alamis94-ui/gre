@@ -1,6 +1,5 @@
 ---
-gre_id: "0a131c2719"
-aliases: [/id/0a131c2719]
+slug: "0a131c2719"
 type: garden
 title: House Head Of Ivory
 latlon: [ 0, 0 ]

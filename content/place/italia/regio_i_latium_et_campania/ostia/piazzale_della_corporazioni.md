@@ -1,6 +1,5 @@
 ---
-gre_id: "a81d577cb3"
-aliases: [/id/a81d577cb3]
+slug: "a81d577cb3"
 type: garden
 title: Piazzale della Corporazioni
 latlon: [ 41.756389, 12.291007 ]

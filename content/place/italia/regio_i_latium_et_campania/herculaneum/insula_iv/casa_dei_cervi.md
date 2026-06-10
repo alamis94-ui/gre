@@ -1,6 +1,5 @@
 ---
-gre_id: "5a33a1fddf"
-aliases: [/id/5a33a1fddf]
+slug: "5a33a1fddf"
 type: garden
 title: Casa dei Cervi
 latlon: [ 40.805843, 14.348058 ]

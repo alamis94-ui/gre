@@ -1,13 +1,12 @@
 ---
-gre_id: "b8005b9fce"
-aliases: [/id/b8005b9fce]
+slug: "b8005b9fce"
 type: place
 title: Latimer
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

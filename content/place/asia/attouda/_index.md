@@ -1,13 +1,12 @@
 ---
-gre_id: "3cb6cb268d"
-aliases: [/id/3cb6cb268d]
+slug: "3cb6cb268d"
 type: place
 title: Attouda
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

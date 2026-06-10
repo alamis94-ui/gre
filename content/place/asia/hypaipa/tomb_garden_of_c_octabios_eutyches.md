@@ -1,6 +1,5 @@
 ---
-gre_id: "bf17e7b780"
-aliases: [/id/bf17e7b780]
+slug: "bf17e7b780"
 type: garden
 title: Tomb Garden Of C Octabios Eutyches
 latlon: [ 0, 0 ]

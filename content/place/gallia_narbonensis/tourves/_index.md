@@ -1,13 +1,12 @@
 ---
-gre_id: "877fbd7cdc"
-aliases: [/id/877fbd7cdc]
+slug: "877fbd7cdc"
 type: place
 title: Tourves
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

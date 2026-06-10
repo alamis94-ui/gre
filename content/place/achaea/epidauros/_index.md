@@ -1,13 +1,12 @@
 ---
-gre_id: "f058468554"
-aliases: [/id/f058468554]
+slug: "f058468554"
 type: place
 title: Epidauros
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

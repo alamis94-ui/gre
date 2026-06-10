@@ -1,13 +1,12 @@
 ---
-gre_id: "9c2c18ad7a"
-aliases: [/id/9c2c18ad7a]
+slug: "9c2c18ad7a"
 type: place
 title: Middle Nile
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

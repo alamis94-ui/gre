@@ -1,13 +1,12 @@
 ---
-gre_id: "0b1985a529"
-aliases: [/id/0b1985a529]
+slug: "0b1985a529"
 type: place
 title: Saint Roman En Gal
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

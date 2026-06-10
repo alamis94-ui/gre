@@ -1,6 +1,5 @@
 ---
-gre_id: "52d6bdf2dc"
-aliases: [/id/52d6bdf2dc]
+slug: "52d6bdf2dc"
 type: garden
 title: House of  Sorothus (Maison de Sorothus)
 latlon: [ 35.825866, 10.63878 ]

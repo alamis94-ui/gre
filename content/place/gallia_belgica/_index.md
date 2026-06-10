@@ -1,13 +1,12 @@
 ---
-gre_id: "9f39ffc68d"
-aliases: [/id/9f39ffc68d]
+slug: "9f39ffc68d"
 type: place
 title: Gallia Belgica
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-07
 modified: 2025-07-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

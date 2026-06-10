@@ -1,6 +1,5 @@
 ---
-gre_id: "99193ac2fa"
-aliases: [/id/99193ac2fa]
+slug: "99193ac2fa"
 type: garden
 title: Rural Villa in Sudeley/Spoonley Wood
 latlon: [ 51.940896, -1.927588 ]

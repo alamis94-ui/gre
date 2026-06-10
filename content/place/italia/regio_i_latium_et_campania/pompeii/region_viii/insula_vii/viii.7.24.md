@@ -1,6 +1,5 @@
 ---
-gre_id: "55158d5123"
-aliases: [/id/55158d5123]
+slug: "55158d5123"
 type: garden
 title: VIII.7.24.
 latlon: [ 0, 0 ]

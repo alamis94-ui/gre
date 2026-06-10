@@ -1,6 +1,5 @@
 ---
-gre_id: "22018c097b"
-aliases: [/id/22018c097b]
+slug: "22018c097b"
 type: garden
 title: Building of the Three Basins (Edifice des trois bassins)
 latlon: [ 36.40112, 9.904448 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "15e9104c88"
-aliases: [/id/15e9104c88]
+slug: "15e9104c88"
 type: place
 title: La Almeda
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

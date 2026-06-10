@@ -1,13 +1,12 @@
 ---
-gre_id: "21d4c630c4"
-aliases: [/id/21d4c630c4]
+slug: "21d4c630c4"
 type: place
 title: Aguilafuente
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

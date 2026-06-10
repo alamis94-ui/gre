@@ -1,6 +1,5 @@
 ---
-gre_id: "c808d6a60a"
-aliases: [/id/c808d6a60a]
+slug: "c808d6a60a"
 type: garden
 title: House H (Maison H)
 latlon: [ 37.055611, 10.061305 ]

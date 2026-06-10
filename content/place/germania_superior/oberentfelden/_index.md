@@ -1,13 +1,12 @@
 ---
-gre_id: "66fba15673"
-aliases: [/id/66fba15673]
+slug: "66fba15673"
 type: place
 title: Oberentfelden
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

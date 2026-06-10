@@ -1,6 +1,5 @@
 ---
-gre_id: "51a55be95c"
-aliases: [/id/51a55be95c]
+slug: "51a55be95c"
 type: garden
 title: Villa Of The Pianelle Dei Signori Reali
 latlon: [ 0, 0 ]

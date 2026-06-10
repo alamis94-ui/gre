@@ -1,13 +1,12 @@
 ---
-gre_id: "4f0fd315ca"
-aliases: [/id/4f0fd315ca]
+slug: "4f0fd315ca"
 type: place
 title: Forum Julii
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

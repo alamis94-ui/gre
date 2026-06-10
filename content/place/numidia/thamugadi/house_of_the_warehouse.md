@@ -1,6 +1,5 @@
 ---
-gre_id: "6d5915655f"
-aliases: [/id/6d5915655f]
+slug: "6d5915655f"
 type: garden
 title: House of the Warehouse (Maison de l'entrepôt)
 latlon: [ 35.485216, 6.468222 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "227ddb6b89"
-aliases: [/id/227ddb6b89]
+slug: "227ddb6b89"
 type: garden
 title: The so-called Throne Hall garden (Fig. 1, n. 17)
 latlon: [ 41.942231, 12.777560 ]

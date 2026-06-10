@@ -1,6 +1,5 @@
 ---
-gre_id: "70c1807d8f"
-aliases: [/id/70c1807d8f]
+slug: "70c1807d8f"
 type: garden
 title: Guest House 2
 latlon: [ 37.637590, 21.628024 ]

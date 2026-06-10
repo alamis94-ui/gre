@@ -1,13 +1,12 @@
 ---
-gre_id: "26731e8311"
-aliases: [/id/26731e8311]
+slug: "26731e8311"
 type: place
 title: Karthago
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 modified: 2025-09-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

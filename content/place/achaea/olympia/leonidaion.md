@@ -1,6 +1,5 @@
 ---
-gre_id: "465f868852"
-aliases: [/id/465f868852]
+slug: "465f868852"
 type: garden
 title: Leonidaion
 latlon: [ 37.637701, 21.628797 ]

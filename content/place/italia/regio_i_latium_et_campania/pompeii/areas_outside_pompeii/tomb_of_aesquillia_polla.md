@@ -1,6 +1,5 @@
 ---
-gre_id: "31c7f7abdb"
-aliases: [/id/31c7f7abdb]
+slug: "31c7f7abdb"
 type: garden
 title: Tomb Of Aesquillia Polla
 latlon: [ 0, 0 ]

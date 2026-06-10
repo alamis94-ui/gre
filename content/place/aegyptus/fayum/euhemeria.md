@@ -1,6 +1,5 @@
 ---
-gre_id: "0ea548bb0d"
-aliases: [/id/0ea548bb0d]
+slug: "0ea548bb0d"
 type: garden
 title: Euhemeria
 latlon: [ 0, 0 ]

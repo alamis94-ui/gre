@@ -1,6 +1,5 @@
 ---
-gre_id: "ed51f138e3"
-aliases: [/id/ed51f138e3]
+slug: "ed51f138e3"
 type: garden
 title: I.ix.12
 latlon: [ 40.74941, 14.485429 ]

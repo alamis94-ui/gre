@@ -1,6 +1,5 @@
 ---
-gre_id: "de367d9aab"
-aliases: [/id/de367d9aab]
+slug: "de367d9aab"
 type: garden
 title: Tomb Garden of Athenaios and Neikomedes
 latlon: [ 37.450686, 33.600575 ]

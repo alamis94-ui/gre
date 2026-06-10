@@ -1,6 +1,5 @@
 ---
-gre_id: "9bd8e07069"
-aliases: [/id/9bd8e07069]
+slug: "9bd8e07069"
 type: place
 title: Thugga
 author: Wilhelmina Jashemski, Amina-Aïcha Malek

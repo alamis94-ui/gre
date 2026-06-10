@@ -1,13 +1,12 @@
 ---
-gre_id: "6b10eaa618"
-aliases: [/id/6b10eaa618]
+slug: "6b10eaa618"
 type: place
 title: Insula III
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

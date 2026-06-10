@@ -1,6 +1,5 @@
 ---
-gre_id: "0a8e065ef3"
-aliases: [/id/0a8e065ef3]
+slug: "0a8e065ef3"
 type: garden
 title: House of two peristyles (Maison aux deux péristyles)
 latlon: [ 36.023752, 10.517062 ]

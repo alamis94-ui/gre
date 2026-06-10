@@ -1,13 +1,12 @@
 ---
-gre_id: "db37d750ff"
-aliases: [/id/db37d750ff]
+slug: "db37d750ff"
 type: place
 title: Titane
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

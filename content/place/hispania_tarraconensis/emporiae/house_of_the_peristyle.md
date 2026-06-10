@@ -1,6 +1,5 @@
 ---
-gre_id: "af4bdb0410"
-aliases: [/id/af4bdb0410]
+slug: "af4bdb0410"
 type: garden
 title: House of the Peristyle
 latlon: [ 42.13342, 3.1145495 ]

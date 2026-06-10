@@ -1,6 +1,5 @@
 ---
-gre_id: "20b65d1c15"
-aliases: [/id/20b65d1c15]
+slug: "20b65d1c15"
 type: garden
 title: Tomb garden and baths of P. Caecil(ius) Rufus and Valeria
 latlon: [ 39.678125, -0.277247 ]

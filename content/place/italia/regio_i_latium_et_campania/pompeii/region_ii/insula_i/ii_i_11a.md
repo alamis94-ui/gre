@@ -1,6 +1,5 @@
 ---
-gre_id: "dcfe69bf59"
-aliases: [/id/dcfe69bf59]
+slug: "dcfe69bf59"
 type: garden
 title: II.i.11a
 latlon: [ 0, 0 ]

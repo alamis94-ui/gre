@@ -1,6 +1,5 @@
 ---
-gre_id: "b72e648637"
-aliases: [/id/b72e648637]
+slug: "b72e648637"
 type: garden
 title: The villa of Saint Martin
 latlon: [ 43.454598, 6.437904 ]

@@ -1,5 +1,5 @@
 ---
-gre_id: "0c51c2cecb"
+slug: "0c51c2cecb"
 aliases: /id/0c51c2cecb
 type: garden
 title: Garden beneath the House of the Fishes (Domus dei Pesci)

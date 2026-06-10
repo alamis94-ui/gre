@@ -1,13 +1,12 @@
 ---
-gre_id: "2574a2bc99"
-aliases: [/id/2574a2bc99]
+slug: "2574a2bc99"
 type: place
 title: Wiesbaden Biebrich
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "296bb7c93b"
-aliases: [/id/296bb7c93b]
+slug: "296bb7c93b"
 type: garden
 title: Twin Palaces of Alexandra Salome and Late Hasmonean Gardens
 latlon: [ 31.853780, 35.433952 ]

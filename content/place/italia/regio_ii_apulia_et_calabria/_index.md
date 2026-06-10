@@ -1,13 +1,12 @@
 ---
-gre_id: "c337b5100c"
-aliases: [/id/c337b5100c]
+slug: "c337b5100c"
 type: place
-title: Regio II
+title: "Regio II: Apulia et Calabria"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

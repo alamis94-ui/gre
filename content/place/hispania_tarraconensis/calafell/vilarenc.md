@@ -1,6 +1,5 @@
 ---
-gre_id: "5f859cad1a"
-aliases: [/id/5f859cad1a]
+slug: "5f859cad1a"
 type: garden
 title: Vilarenc
 latlon: [ 0, 0 ]

@@ -1,59 +1,57 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Site.Language.Lang }}">
 <head>
-  {{- if in .Site.BaseURL "test" }}
-	<meta name="robots" content="noindex, nofollow">
-  {{- end }}
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>
-		{{- if not (eq .Path "/home") -}}
-			{{- $mytitle := .Title -}}
-			{{- if not .Title -}}
-				{{- $mytitle = (replaceRE "/place/" " " .Path | title) -}}
-			{{- end -}}
-			{{- $mytitle }} -
-		{{ end -}}
-		{{- .Site.Title -}}
-	</title>
-	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
-	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
 
-	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
-	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
-	{{ range .Site.Params.customCSS -}}
-	<link rel="stylesheet" href="{{ . | relURL }}">
-	{{- end }}
+    {{- if in .Site.BaseURL "test" }}
+        <meta name="robots" content="noindex, nofollow">
+    {{- end }}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+        {{- if not (eq .Path "/home") -}}
+            {{- $mytitle := .Title -}}
+            {{- if not .Title -}}
+                {{- $mytitle = (replaceRE "/place/" " " .Path | title) -}}
+            {{- end -}}
+            {{- $mytitle }} -
+        {{ end -}}
+        {{- .Site.Title -}}
+    </title>
+    <script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+    <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
 
-	{{- with .OutputFormats.Get "rss" }}
-	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
-	{{- end }}
+    {{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ range .Site.Params.customCSS -}}
+    <link rel="stylesheet" href="{{ . | relURL }}">
+    {{- end }}
 
-	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+    {{- with .OutputFormats.Get "rss" }}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+    {{- end }}
+
+    <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
 </head>
-<body class='body{{ if (in .Site.BaseURL "localhost") }} localhost{{ end }}'>
-	{{ if (in .Site.BaseURL "localhost") }}
-	<div class="test-header">{{ .Site.BaseURL }}</div>
-	{{ end }}
-	<div class="container container--outer">
-		{{ partial "header.html" . }}
-		<div class="wrapper flex">
-			<div class="primary">
-			{{ block "main" . }}
-				{{ with .Content }}
-				<div class="content main__content clearfix">
-					{{ . }}
-				</div>
-				{{ end }}
-			{{ end }}
-			</div>
-			{{ if ne .Path "/meta"}}
-				{{ partial "sidebar.html" . }}
-			{{ end }}
-		</div>
-		{{ partial "footer.html" . }}
-	</div>
+<body class='body'>
+    <div class="container container--outer">
+        {{ partial "header.html" . }}
+        <div class="wrapper flex">
+            <div class="primary">
+            {{ block "main" . }}
+                {{ with .Content }}
+                <div class="content main__content clearfix">
+                    {{ . }}
+                </div>
+                {{ end }}
+            {{ end }}
+            </div>
+            {{ if ne .Path "/meta"}}
+                {{ partial "sidebar.html" . }}
+            {{ end }}
+        </div>
+        {{ partial "footer.html" . }}
+    </div>
 <script async defer src="{{ "js/menu.js" | relURL }}"></script>
 {{ range .Site.Params.customJS -}}
 <script src="{{ . | relURL }}"></script>

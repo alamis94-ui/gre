@@ -1,13 +1,12 @@
 ---
-gre_id: "4591e6e884"
-aliases: [/id/4591e6e884]
+slug: "4591e6e884"
 type: place
 title: Leptis Magna
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

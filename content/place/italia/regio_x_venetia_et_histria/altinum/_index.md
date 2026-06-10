@@ -1,13 +1,12 @@
 ---
-gre_id: "fb14a64020"
-aliases: [/id/fb14a64020]
+slug: "fb14a64020"
 type: place
 title: Altinum
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

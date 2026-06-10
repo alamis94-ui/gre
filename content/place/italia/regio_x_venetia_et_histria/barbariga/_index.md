@@ -1,13 +1,12 @@
 ---
-gre_id: "6ea3d66d15"
-aliases: [/id/6ea3d66d15]
+slug: "6ea3d66d15"
 type: place
 title: Barbariga
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

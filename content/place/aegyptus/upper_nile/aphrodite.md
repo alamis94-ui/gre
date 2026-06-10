@@ -1,6 +1,5 @@
 ---
-gre_id: "eb6cba0868"
-aliases: [/id/eb6cba0868]
+slug: "eb6cba0868"
 type: garden
 title: Aphrodite
 latlon: [ 0, 0 ]

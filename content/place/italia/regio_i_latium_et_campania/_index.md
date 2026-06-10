@@ -1,13 +1,12 @@
 ---
-gre_id: "d2e9307e07"
-aliases: [/id/d2e9307e07]
+slug: "d2e9307e07"
 type: place
-title: Regio I Latium Et Campania
+title: "Regio I: Latium et Campania"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,13 +1,12 @@
 ---
-gre_id: "2eb72c4902"
-aliases: [/id/2eb72c4902]
+slug: "2eb72c4902"
 type: place
 title: Via Aurelia
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-01
 modified: 2026-06-01
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

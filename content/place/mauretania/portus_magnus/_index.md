@@ -1,13 +1,12 @@
 ---
-gre_id: "985110d649"
-aliases: [/id/985110d649]
+slug: "985110d649"
 type: place
 title: Portus Magnus
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-05-22
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

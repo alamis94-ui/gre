@@ -1,13 +1,12 @@
 ---
-gre_id: "d8df2ab372"
-aliases: [/id/d8df2ab372]
+slug: "d8df2ab372"
 type: place
 title: Augustoritum
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

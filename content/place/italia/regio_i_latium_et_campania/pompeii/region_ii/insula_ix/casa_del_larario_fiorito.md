@@ -1,6 +1,5 @@
 ---
-gre_id: "33272c1a3c"
-aliases: [/id/33272c1a3c]
+slug: "33272c1a3c"
 type: garden
 title: II.ix.4 Casa del Larario Fiorito
 latlon: [ 40.750870, 14.493866 ]

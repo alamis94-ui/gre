@@ -1,6 +1,5 @@
 ---
-gre_id: "902575a3a3"
-aliases: [/id/902575a3a3]
+slug: "902575a3a3"
 type: garden
 title: Casa del Mobilio Carbonizzato
 latlon: [ 40.805843, 14.348058 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "b7b0104435"
-aliases: [/id/b7b0104435]
+slug: "b7b0104435"
 type: place
 title: Messina
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

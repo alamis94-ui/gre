@@ -1,6 +1,5 @@
 ---
-gre_id: "67c1d91fc2"
-aliases: [/id/67c1d91fc2]
+slug: "67c1d91fc2"
 type: garden
 title: Gymnasia and Groves
 latlon: [ 37.974031, 23.743349 ]

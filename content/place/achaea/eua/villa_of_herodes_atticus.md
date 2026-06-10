@@ -1,6 +1,5 @@
 ---
-gre_id: "6a6ac9d69b"
-aliases: [/id/6a6ac9d69b]
+slug: "6a6ac9d69b"
 type: garden
 title: Villa of Herodes Atticus
 latlon: [ 37.377923, 22.656854 ]

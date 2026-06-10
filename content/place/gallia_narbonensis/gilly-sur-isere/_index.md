@@ -1,13 +1,12 @@
 ---
-gre_id: "c14dba5591"
-aliases: [/id/c14dba5591]
+slug: "c14dba5591"
 type: place
 title: Gilly Sur Isere
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-03
 modified: 2026-06-03
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

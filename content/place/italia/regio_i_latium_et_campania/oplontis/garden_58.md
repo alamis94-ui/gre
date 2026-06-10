@@ -1,6 +1,5 @@
 ---
-gre_id: "48afdf0fdd"
-aliases: [/id/48afdf0fdd]
+slug: "48afdf0fdd"
 type: garden
 title: Garden 58
 latlon: [ 0, 0 ]

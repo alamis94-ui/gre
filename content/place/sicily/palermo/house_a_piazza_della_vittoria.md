@@ -1,6 +1,5 @@
 ---
-gre_id: "7b685f973b"
-aliases: [/id/7b685f973b]
+slug: "7b685f973b"
 type: garden
 title: House A, Piazza della Vittoria
 latlon: [ 38.11127, 13.353442 ]

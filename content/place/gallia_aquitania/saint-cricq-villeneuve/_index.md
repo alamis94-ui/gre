@@ -1,13 +1,12 @@
 ---
-gre_id: "6866787894"
-aliases: [/id/6866787894]
+slug: "6866787894"
 type: place
 title: Saint Cricq Villeneuve
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

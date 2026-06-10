@@ -1,6 +1,5 @@
 ---
-gre_id: "dd43da939d"
-aliases: [/id/dd43da939d]
+slug: "dd43da939d"
 type: garden
 title: Garden of the Flavian Imperial Palace
 latlon: [ 41.889306, 12.487109 ]

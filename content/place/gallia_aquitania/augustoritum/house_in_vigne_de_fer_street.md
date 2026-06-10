@@ -1,6 +1,5 @@
 ---
-gre_id: "8ae807e106"
-aliases: [/id/8ae807e106]
+slug: "8ae807e106"
 type: garden
 title: House In Vigne De Fer Street
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "cd75bd9c0e"
-aliases: [/id/cd75bd9c0e]
+slug: "cd75bd9c0e"
 type: garden
 title: House No. 1 or West House
 latlon: [ 0, 0 ]

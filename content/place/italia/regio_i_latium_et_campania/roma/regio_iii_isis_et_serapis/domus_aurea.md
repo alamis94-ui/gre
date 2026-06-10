@@ -1,6 +1,5 @@
 ---
-gre_id: "88f1bb6a78"
-aliases: [/id/88f1bb6a78]
+slug: "88f1bb6a78"
 type: garden
 title: Domus Aurea
 latlon: [ 41.891244, 12.495403 ]

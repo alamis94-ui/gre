@@ -1,6 +1,5 @@
 ---
-gre_id: "7d53cfd3b0"
-aliases: [/id/7d53cfd3b0]
+slug: "7d53cfd3b0"
 type: garden
 title: II.i.8-9 B
 latlon: [ 0, 0 ]

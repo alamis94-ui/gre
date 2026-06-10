@@ -1,6 +1,5 @@
 ---
-gre_id: "c6200cef9d"
-aliases: [/id/c6200cef9d]
+slug: "c6200cef9d"
 type: garden
 title: House of Nero
 latlon: [ 37.637820, 21.631715 ]

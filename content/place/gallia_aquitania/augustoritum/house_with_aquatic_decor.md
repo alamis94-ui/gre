@@ -1,6 +1,5 @@
 ---
-gre_id: "66fe42b1ca"
-aliases: [/id/66fe42b1ca]
+slug: "66fe42b1ca"
 type: garden
 title: House With Aquatic Decor
 latlon: [ 0, 0 ]

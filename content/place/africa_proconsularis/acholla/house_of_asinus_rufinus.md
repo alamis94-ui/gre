@@ -1,6 +1,5 @@
 ---
-gre_id: "e8b3c44463"
-aliases: [/id/e8b3c44463]
+slug: "e8b3c44463"
 type: garden
 title: House of Asinius Rufinus (Maison d'Asinius Rufinus)
 latlon: [ 35.079643, 11.020606 ]

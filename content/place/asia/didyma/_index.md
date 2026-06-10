@@ -1,13 +1,12 @@
 ---
-gre_id: "2dee49a9d2"
-aliases: [/id/2dee49a9d2]
+slug: "2dee49a9d2"
 type: place
 title: Didyma
 author: Author Name
 contributor: Contributor Name
 date: 2025-09-21
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

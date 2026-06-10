@@ -1,6 +1,5 @@
 ---
-gre_id: "44f99e8d05"
-aliases: [/id/44f99e8d05]
+slug: "44f99e8d05"
 type: garden
 title: Sculpture Garden
 latlon: [ 0, 0 ]

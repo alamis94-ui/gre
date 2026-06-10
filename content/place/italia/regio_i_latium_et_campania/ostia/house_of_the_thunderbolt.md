@@ -1,6 +1,5 @@
 ---
-gre_id: "ba47943440"
-aliases: [/id/ba47943440]
+slug: "ba47943440"
 type: garden
 title: House of the Thunderbolt (Domus Fulminata)
 latlon: [ 41.750688, 12.284984 ]

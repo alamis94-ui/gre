@@ -1,6 +1,5 @@
 ---
-gre_id: "7fedd7d7ff"
-aliases: [/id/7fedd7d7ff]
+slug: "7fedd7d7ff"
 type: garden
 title: Rural Villa
 latlon: [ 0, 0 ]

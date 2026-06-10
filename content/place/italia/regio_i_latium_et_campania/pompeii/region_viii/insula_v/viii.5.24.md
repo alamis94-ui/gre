@@ -1,6 +1,5 @@
 ---
-gre_id: "1703b3de2d"
-aliases: [/id/1703b3de2d]
+slug: "1703b3de2d"
 type: garden
 title: VIII.5.24. Casa del Medico
 latlon: [ 0, 0 ]

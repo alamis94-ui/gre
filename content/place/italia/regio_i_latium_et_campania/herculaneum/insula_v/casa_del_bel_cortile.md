@@ -1,6 +1,5 @@
 ---
-gre_id: "fed58129af"
-aliases: [/id/fed58129af]
+slug: "fed58129af"
 type: garden
 title: Casa del bel Cortile
 latlon: [ 40.805843, 14.348058 ]

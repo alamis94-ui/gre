@@ -1,13 +1,12 @@
 ---
-gre_id: "4ee0ff62f4"
-aliases: [/id/4ee0ff62f4]
+slug: "4ee0ff62f4"
 type: place
 title: Dalmatia
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

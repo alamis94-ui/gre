@@ -1,6 +1,5 @@
 ---
-gre_id: "7d82f5d668"
-aliases: [/id/7d82f5d668]
+slug: "7d82f5d668"
 type: garden
 title: Garden in the courtyard of the buildings to the East of the Inferi Nymphaeum (Fig. 1, n. 22)
 latlon: [ 41.938192, 12.780881 ]

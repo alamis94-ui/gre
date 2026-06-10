@@ -1,13 +1,12 @@
 ---
-gre_id: "c0a6b63adb"
-aliases: [/id/c0a6b63adb]
+slug: "c0a6b63adb"
 type: place
 title: Enna
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

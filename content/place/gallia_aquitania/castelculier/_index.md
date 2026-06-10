@@ -1,13 +1,12 @@
 ---
-gre_id: "7db6982424"
-aliases: [/id/7db6982424]
+slug: "7db6982424"
 type: place
 title: Castelculier
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
 modified: 2026-05-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

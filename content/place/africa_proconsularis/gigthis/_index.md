@@ -1,13 +1,12 @@
 ---
-gre_id: "aeadc52078"
-aliases: [/id/aeadc52078]
+slug: "aeadc52078"
 type: place
 title: Gigthis
 author: Amina-Aïcha Malek
 contributor: Maureen Carroll, Yuming Huang, Keith Jenkins
 date: 2025-09-16
 modified: 2025-09-20
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

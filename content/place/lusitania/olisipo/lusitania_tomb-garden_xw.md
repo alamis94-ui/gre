@@ -1,6 +1,5 @@
 ---
-gre_id: "f92895fc7d"
-aliases: [/id/f92895fc7d]
+slug: "f92895fc7d"
 type: garden
 title: Tomb Garden of Flavius M. f. Quadratus
 latlon: [ 38.707166, -9.135507 ]

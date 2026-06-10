@@ -1,6 +1,5 @@
 ---
-gre_id: "8abb33d60a"
-aliases: [/id/8abb33d60a]
+slug: "8abb33d60a"
 type: place
 title: Achaea
 author: David Gilman Romano?, Maureen Carroll?

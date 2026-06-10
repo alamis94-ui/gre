@@ -1,13 +1,12 @@
 ---
-gre_id: "5210ef5c38"
-aliases: [/id/5210ef5c38]
+slug: "5210ef5c38"
 type: place
 title: Villa El Soldan
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 modified: 2026-05-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

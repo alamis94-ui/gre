@@ -1,13 +1,12 @@
 ---
-gre_id: "195089bb5a"
-aliases: [/id/195089bb5a]
+slug: "195089bb5a"
 type: place
 title: Kyrtones
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
 modified: 2026-05-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -1,6 +1,5 @@
 ---
-gre_id: "8661630841"
-aliases: [/id/8661630841]
+slug: "8661630841"
 type: garden
 title: Casa D'Argo (II.2)
 latlon: [ 40.806247, 14.346239 ]

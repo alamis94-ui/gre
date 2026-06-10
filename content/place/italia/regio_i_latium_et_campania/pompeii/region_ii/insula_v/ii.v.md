@@ -1,6 +1,5 @@
 ---
-gre_id: "0f38629b65"
-aliases: [/id/0f38629b65]
+slug: "0f38629b65"
 type: garden
 title: II.v Large Vineyard
 latlon: [ 40.752264, 14.494333 ]

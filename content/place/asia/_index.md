@@ -1,13 +1,12 @@
 ---
-gre_id: "3e7f969b71"
-aliases: [/id/3e7f969b71]
+slug: "3e7f969b71"
 type: place
 title: Asia
 author: Kathryn Gleason, Maureen Carroll
 contributor: Keith Jenkins
 date: 2025-07-01
 modified: 2025-09-21
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

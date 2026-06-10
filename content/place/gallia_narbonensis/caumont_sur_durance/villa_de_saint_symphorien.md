@@ -1,6 +1,5 @@
 ---
-gre_id: "069554cb8e"
-aliases: [/id/069554cb8e]
+slug: "069554cb8e"
 type: garden
 title: Villa de Saint-Symphorien
 latlon: [ 42.439512, 3.176623 ]

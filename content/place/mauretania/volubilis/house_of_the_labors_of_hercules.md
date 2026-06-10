@@ -1,6 +1,5 @@
 ---
-gre_id: "64430de73d"
-aliases: [/id/64430de73d]
+slug: "64430de73d"
 type: garden
 title: House of the Labors of Hercules (La maison des travaux d'Hercules)
 latlon: [ 34.0748792, -5.5545008 ]

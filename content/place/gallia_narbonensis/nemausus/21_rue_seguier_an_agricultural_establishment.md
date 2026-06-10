@@ -1,6 +1,5 @@
 ---
-gre_id: "fbdca9a4f2"
-aliases: [/id/fbdca9a4f2]
+slug: "fbdca9a4f2"
 type: garden
 title: 21, rue Séguier, An Agricultural Establishment
 latlon: [ 42.439512, 3.176623 ]

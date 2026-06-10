@@ -1,6 +1,5 @@
 ---
-gre_id: "2602fe8dc1"
-aliases: [/id/2602fe8dc1]
+slug: "2602fe8dc1"
 type: garden
 title: Fontao Villa
 latlon: [ 0, 0 ]

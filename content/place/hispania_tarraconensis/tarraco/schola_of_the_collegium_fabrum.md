@@ -1,6 +1,5 @@
 ---
-gre_id: "89b7a7e741"
-aliases: [/id/89b7a7e741]
+slug: "89b7a7e741"
 type: garden
 title: Schola of the Collegium Fabrum
 latlon: [ 41.116892, 1.258337 ]

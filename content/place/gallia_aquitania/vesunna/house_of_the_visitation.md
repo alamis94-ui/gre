@@ -1,6 +1,5 @@
 ---
-gre_id: "b90729e0a1"
-aliases: [/id/b90729e0a1]
+slug: "b90729e0a1"
 type: garden
 title: House Of The Visitation
 latlon: [ 0, 0 ]

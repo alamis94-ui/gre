@@ -1,6 +1,5 @@
 ---
-gre_id: "f1ec9d3af7"
-aliases: [/id/f1ec9d3af7]
+slug: "f1ec9d3af7"
 type: garden
 title: Casa dello Scheletro
 latlon: [ 40.805843, 14.348058 ]

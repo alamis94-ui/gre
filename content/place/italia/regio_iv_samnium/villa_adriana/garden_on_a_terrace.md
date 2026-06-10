@@ -1,6 +1,5 @@
 ---
-gre_id: "5f8c69dd54"
-aliases: [/id/5f8c69dd54]
+slug: "5f8c69dd54"
 type: garden
 title: Garden on a terrace (Fig. 1, n. 15)
 latlon: [ 41.942634, 12.771788 ]

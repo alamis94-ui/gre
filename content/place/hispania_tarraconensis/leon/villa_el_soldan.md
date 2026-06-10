@@ -1,6 +1,5 @@
 ---
-gre_id: "15b1cb6052"
-aliases: [/id/15b1cb6052]
+slug: "15b1cb6052"
 type: garden
 title: Villa El Soldán (The Sultan)
 latlon: [ 42.453889, -6.240556 ]

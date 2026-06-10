@@ -1,6 +1,5 @@
 ---
-gre_id: "b11957d451"
-aliases: [/id/b11957d451]
+slug: "b11957d451"
 type: garden
 title: Peristyle of the Theater
 latlon: [ 38.917216, -6.341213 ]

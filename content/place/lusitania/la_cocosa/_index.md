@@ -1,13 +1,12 @@
 ---
-gre_id: "e5e8c6759d"
-aliases: [/id/e5e8c6759d]
+slug: "e5e8c6759d"
 type: place
 title: La Cocosa
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-13
 modified: 2026-05-13
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

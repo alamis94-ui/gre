@@ -1,13 +1,12 @@
 ---
-gre_id: "ebb899d747"
-aliases: [/id/ebb899d747]
+slug: "ebb899d747"
 type: place
 title: Die
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-30
 modified: 2025-07-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

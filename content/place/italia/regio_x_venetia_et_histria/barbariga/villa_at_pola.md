@@ -1,6 +1,5 @@
 ---
-gre_id: "db76049640"
-aliases: [/id/db76049640]
+slug: "db76049640"
 type: garden
 title: Villa at Pola
 latlon: [ 45.500780, 10.605182 ]

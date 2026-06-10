@@ -1,6 +1,5 @@
 ---
-gre_id: "9d418398f6"
-aliases: [/id/9d418398f6]
+slug: "9d418398f6"
 type: garden
 title: Colle Vitriano
 latlon: [ 0, 0 ]

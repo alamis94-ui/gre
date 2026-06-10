@@ -1,6 +1,5 @@
 ---
-gre_id: "c508ff1711"
-aliases: [/id/c508ff1711]
+slug: "c508ff1711"
 type: garden
 title: Houses N5 and N7
 latlon: [ 42.13342, 3.1145495 ]

@@ -1,13 +1,12 @@
 ---
-gre_id: "2fbce03b6e"
-aliases: [/id/2fbce03b6e]
+slug: "2fbce03b6e"
 type: place
 title: Uthina
 author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 modified: 2025-09-16
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

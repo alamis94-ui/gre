@@ -1,6 +1,5 @@
 ---
-gre_id: "3a5fde991b"
-aliases: [/id/3a5fde991b]
+slug: "3a5fde991b"
 type: garden
 title: Nympheas House Of The Atrium Phase 2
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "82cc724d9d"
-aliases: [/id/82cc724d9d]
+slug: "82cc724d9d"
 type: garden
 title: Promontory Palace of Herod the Great
 latlon: [ 32.49715, 34.8891]

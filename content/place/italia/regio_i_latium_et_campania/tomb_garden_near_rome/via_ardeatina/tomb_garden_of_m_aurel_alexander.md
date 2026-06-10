@@ -1,6 +1,5 @@
 ---
-gre_id: "da50529abc"
-aliases: [/id/da50529abc]
+slug: "da50529abc"
 type: garden
 title: Tomb Garden of M. Aurel(ius) Alexander
 latlon: [ 0, 0 ]

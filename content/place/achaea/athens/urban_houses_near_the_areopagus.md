@@ -1,6 +1,5 @@
 ---
-gre_id: "f95133e363"
-aliases: [/id/f95133e363]
+slug: "f95133e363"
 type: garden
 title: Urban Houses near the Areopagus
 latlon: [ 37.972372, 23.723371 ]

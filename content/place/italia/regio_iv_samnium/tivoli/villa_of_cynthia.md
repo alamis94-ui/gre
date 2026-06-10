@@ -1,6 +1,5 @@
 ---
-gre_id: "f406f8e232"
-aliases: [/id/f406f8e232]
+slug: "f406f8e232"
 type: garden
 title: Villa Of Cynthia
 latlon: [ 0, 0 ]

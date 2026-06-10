@@ -1,13 +1,12 @@
 ---
-gre_id: "1e9c7e4efa"
-aliases: [/id/1e9c7e4efa]
+slug: "1e9c7e4efa"
 type: place
 title: Cologne
 author: Maureen Carroll
 contributor: Keith Jenkins
 date: 2026-05-16
 modified: 2026-05-31
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

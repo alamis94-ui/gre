@@ -1,6 +1,5 @@
 ---
-gre_id: "bce2704a1e"
-aliases: [/id/bce2704a1e]
+slug: "bce2704a1e"
 type: garden
 title: The Houses of Insula 7
 latlon: [ 51.667934, 6.448177 ]

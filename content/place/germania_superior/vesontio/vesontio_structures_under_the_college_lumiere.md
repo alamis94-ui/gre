@@ -1,6 +1,5 @@
 ---
-gre_id: "603e2168c2"
-aliases: [/id/603e2168c2]
+slug: "603e2168c2"
 type: garden
 title: Structures under the Collège Lumière in Vesontio
 latlon: [ 47.23369, 6.03039 ]

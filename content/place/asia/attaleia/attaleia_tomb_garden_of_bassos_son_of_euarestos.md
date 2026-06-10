@@ -1,6 +1,5 @@
 ---
-gre_id: "823f7f9201"
-aliases: [/id/823f7f9201]
+slug: "823f7f9201"
 type: garden
 title: Tomb Garden of Bassos son of Euarestos
 latlon: [ 39.071402, 27.891043 ]

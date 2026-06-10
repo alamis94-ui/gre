@@ -1,6 +1,5 @@
 ---
-gre_id: "6d6895c85e"
-aliases: [/id/6d6895c85e]
+slug: "6d6895c85e"
 type: garden
 title: Oxyrhynchos
 latlon: [ 0, 0 ]

@@ -1,6 +1,5 @@
 ---
-gre_id: "66f25084eb"
-aliases: [/id/66f25084eb]
+slug: "66f25084eb"
 type: garden
 title: Villa in the Casale district near Piazza Armerina
 latlon: [ 0, 0 ]

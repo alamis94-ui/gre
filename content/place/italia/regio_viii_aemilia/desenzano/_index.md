@@ -1,13 +1,12 @@
 ---
-gre_id: "c631b3fa4f"
-aliases: [/id/c631b3fa4f]
+slug: "c631b3fa4f"
 type: place
 title: Desenzano
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
 modified: 2026-05-30
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

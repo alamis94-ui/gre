@@ -1,6 +1,5 @@
 ---
-gre_id: "81c91fefc2"
-aliases: [/id/81c91fefc2]
+slug: "81c91fefc2"
 type: garden
 title: Tomb Garden Valeria Athenais
 latlon: [ 0, 0 ]

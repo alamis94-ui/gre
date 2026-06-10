@@ -1,6 +1,5 @@
 ---
-gre_id: "9a54de29f0"
-aliases: [/id/9a54de29f0]
+slug: "9a54de29f0"
 type: garden
 title: Tomb Garden Of Apollonios
 latlon: [ 0, 0 ]

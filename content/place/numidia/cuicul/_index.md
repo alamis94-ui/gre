@@ -1,13 +1,12 @@
 ---
-gre_id: "16c4a9f181"
-aliases: [/id/16c4a9f181]
+slug: "16c4a9f181"
 type: place
 title: Cuicul
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-07
 modified: 2026-06-05
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

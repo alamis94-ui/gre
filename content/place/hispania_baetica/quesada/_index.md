@@ -1,13 +1,12 @@
 ---
-gre_id: "30ca15b5ed"
-aliases: [/id/30ca15b5ed]
+slug: "30ca15b5ed"
 type: place
 title: Quesada
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-15
 modified: 2025-07-15
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->

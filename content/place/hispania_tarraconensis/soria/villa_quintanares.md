@@ -1,6 +1,5 @@
 ---
-gre_id: "3fc5921f62"
-aliases: [/id/3fc5921f62]
+slug: "3fc5921f62"
 type: garden
 title: Villa los Quintanares
 latlon: [ 0, 0 ]

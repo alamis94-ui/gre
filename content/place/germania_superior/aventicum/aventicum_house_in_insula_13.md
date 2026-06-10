@@ -1,6 +1,5 @@
 ---
-gre_id: "a4897ab5a7"
-aliases: [/id/a4897ab5a7]
+slug: "a4897ab5a7"
 type: garden
 title: House in Insula 13 in Aventicum
 latlon: [ 46.88008, 7.040710 ]

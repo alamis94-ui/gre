@@ -1,6 +1,5 @@
 ---
-gre_id: "54b4ba2511"
-aliases: [/id/54b4ba2511]
+slug: "54b4ba2511"
 type: garden
 title: Peristyle Garden
 latlon: [ 0, 0 ]

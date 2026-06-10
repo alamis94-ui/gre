@@ -1,6 +1,5 @@
 ---
-gre_id: "3001682999"
-aliases: [/id/3001682999]
+slug: "3001682999"
 type: garden
 title: House of Sertius (Maison de Sertius)
 latlon: [ 35.485216, 6.468222 ]

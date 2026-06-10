@@ -1,6 +1,5 @@
 ---
-gre_id: "f700fd21e7"
-aliases: [/id/f700fd21e7]
+slug: "f700fd21e7"
 type: garden
 title: Villa De Taron
 latlon: [ 0, 0 ]

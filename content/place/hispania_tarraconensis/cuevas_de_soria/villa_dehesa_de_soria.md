@@ -1,6 +1,5 @@
 ---
-gre_id: "65ffcfe9e6"
-aliases: [/id/65ffcfe9e6]
+slug: "65ffcfe9e6"
 type: garden
 title: Villa Dehesa de Soria
 latlon: [ 41.669224, -2.620865 ]
