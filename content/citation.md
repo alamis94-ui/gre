@@ -7,18 +7,18 @@ modified: 2025-07-05
 draft: false
 ---
 
-### Cite the whole website
+### Cite the website
 
 > Gardens of the Roman Empire, accessed March 31, 2025, https://roman-gardens.github.io/
 
-### Cite a specific garden or place
+### Cite a garden
 
-To cite a specific garden or place, use the permalink found at the top of the page.
+Cite a specific garden using the URL of the garden webpage.  This URL is a stable permalink.
 
-Example garden citation:
+> Carroll, M. (2021). "Garden of Epicurus." Gardens of the Roman Empire, accessed June 10, 2026, https://roman-gardens.github.io/id/603e67549e/
 
-> Patrich, J. (2021). "Byzantine Law Court and Roof Garden." Gardens of the Roman Empire, accessed June 5, 2026, https://roman-gardens.github.io/id/5c1a7e251d/
+### Cite a place
 
-Example place citation:
+Cite a province or place description using the URL of the place webpage.  This URL is a stable permalink.
 
-> Bedal, L-A. (2025). "Arabia Petraea." Gardens of the Roman Empire, accessed June 5, 2026, [https://roman-gardens.github.io/id/2b610bcfd6/](https://roman-gardens.github.io/id/2b610bcfd6/)
+> Trümper, M. (2021). "Delos." Gardens of the Roman Empire, accessed June 10, 2026, https://roman-gardens.github.io/id/fbded729df/
