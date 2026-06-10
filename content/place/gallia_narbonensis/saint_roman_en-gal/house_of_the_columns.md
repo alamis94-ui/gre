@@ -67,7 +67,7 @@ The final phase lasted about fifty years, beginning in the first half of the thi
 
 2. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 36-39.[worldcat](https://search.worldcat.org/title/43416334)
 
-3. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189.[worldcat](https://search.worldcat.org/title/1169743067)
+3. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189.[worldcat](https://search.worldcat.org/title/1169743067)
 
 4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
 

@@ -62,7 +62,7 @@ In the northern wing of the house, a square reception room [53], 5.8 meters on a
 1. *Maison 1996*, t. II,, p. 358-361
 
 
-2. Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: Iii*. Paris: CNRS, 1981, P. 302-307.[worldcat](https://search.worldcat.org/title/492310522)
+2. Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: III*. Paris: CNRS, 1981, P. 302-307.[worldcat](https://search.worldcat.org/title/492310522)
 
 
 3.  M. Leglay, Informations archéologiques, in Gallia, 29, 2, 1971, P. 57-58.[worldcat](#)

@@ -59,13 +59,13 @@ CE 185-CE 247
 
 2. Maison 1996, t.II, p. 364-383
 
-3. Delaval, Eric, and Hugues Savay-Guerraz. La Maison Des Dieux Océan: (ier Siècle Avant J.-C. _ Iie Siècle Après J.-C.). Saint-Romain-en-Gal: AGLAS, 1996.[worldcat](https://search.worldcat.org/title/491540345)
+3. Delaval, Eric, and Hugues Savay-Guerraz. La Maison Des Dieux Océan: (ier Siècle Avant J.-C. _ IIe Siècle Après J.-C.). Saint-Romain-en-Gal: AGLAS, 1996.[worldcat](https://search.worldcat.org/title/491540345)
 
 4. Desbat, Armand. La Maison Des Dieux Océan À Saint-Romain-En-Gal (rhône). Paris: CNRS éditions, 1994, P. 86-132[worldcat](https://search.worldcat.org/title/45622989)
 
 5. Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](https://search.worldcat.org/title/491540838)
 
-6. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
+6. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
 
 7. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
 

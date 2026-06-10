@@ -56,7 +56,7 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 ## Bibliography
 
-1. Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: Iii*. Paris: CNRS, 1981, P. 259-286.[worldcat](https://search.worldcat.org/title/234328026)
+1. Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: III*. Paris: CNRS, 1981, P. 259-286.[worldcat](https://search.worldcat.org/title/234328026)
 
 
 2. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 57-58[worldcat](https://search.worldcat.org/title/234328026)
@@ -71,7 +71,7 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 7. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 64-69.[worldcat](https://search.worldcat.org/title/43416334)
 
-8. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 161-162.[worldcat](https://search.worldcat.org/title/1169743067)
+8. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 161-162.[worldcat](https://search.worldcat.org/title/1169743067)
 
 9. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271.[worldcat](https://search.worldcat.org/title/43416334)
 

@@ -55,7 +55,7 @@ In the course of the second century, some two meters of fill was added to the ga
 
 1. *Maison 1996*, t. II,, p. 406-411
 
-2. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189-190.[worldcat](https://search.worldcat.org/title/1169743067)
+2. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189-190.[worldcat](https://search.worldcat.org/title/1169743067)
 
 3. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 30,33.[worldcat](https://search.worldcat.org/title/43416334)
 

@@ -55,7 +55,7 @@ It was completely uncovered in 1987 so that its lines might be respected in the 
 
 ## Bibliography
 
-1. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189-190.[worldcat](https://search.worldcat.org/title/1169743067)
+1. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189-190.[worldcat](https://search.worldcat.org/title/1169743067)
 
 2. *Recherches Archéologiques À Saint-Romain-En-Gal, 1988-1990*. Vienne: Société des amis de Vienne, 1992, P.78,81.[worldcat](https://search.worldcat.org/title/1068996218)
 
