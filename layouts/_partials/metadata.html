@@ -21,13 +21,13 @@
                 Author{{ if gt (len $vals) 1 }}s{{ end }}:
                 {{/* List each name separated by commas, and link the name if it has a people page */}}
                 {{ range $i, $v := $vals }}
-                    {{ if ne $i 0 }}, {{ end }}
+                    {{- if ne $i 0 }}, {{ end }}
                     {{ $link := index $people $v }}
                     {{ if $link }}
                         <a href="{{ $link }}">{{ $v }}</a>
-                    {{ else }}
-                        {{ $v }}
-                    {{ end }}
+                    {{- else -}}
+                        {{- $v -}}
+                    {{- end -}}
                 {{ end }}
             </div>
         {{ end }}
@@ -40,13 +40,13 @@
                 Contributor{{ if gt (len $vals) 1 }}s{{ end }}:
                 {{/* List each name separated by commas, and link the name if it has a people page */}}
                 {{ range $i, $v := $vals }}
-                    {{ if ne $i 0 }}, {{ end }}
+                    {{- if ne $i 0 }}, {{ end }}
                     {{ $link := index $people $v }}
                     {{ if $link }}
                         <a href="{{ $link }}">{{ $v }}</a>
-                    {{ else }}
-                        {{ $v }}
-                    {{ end }}
+                    {{- else -}}
+                        {{- $v -}}
+                    {{- end -}}
                 {{ end }}
             </div>
         {{ end }}
