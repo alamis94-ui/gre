@@ -1,8 +1,8 @@
 ---
-slug: "300246c9de"
+slug: "41a9c5c4df"
 type: garden
-title: Rural Villa
-latlon: [ 49.852977, 6.568709 ]
+title: Rural Villa near Welschbillig
+latlon: [ 0, 0 ]
 author: Maureen Carroll
 contributor: Yvette Pollack
 date: 2021-04-21
@@ -12,8 +12,8 @@ draft: true
 
 ## Location
 
-- [WELSCHBILLIG (Germany)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="109456" name="Roman Villa at Welschbillig" >}}
+[WEITERSBACH (Germany)]({{<relref ".">}}) \
+[WEITERSBACH (Pleiades)](<!-- none available -->)
 
 
 <!-- ## Sublocation -->
@@ -31,15 +31,13 @@ Rural Villa
 
 ## Keywords
 
-- {{< keyword "palaces" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "herms" >}}
+- {{< keyword "vegetable gardens" >}}
 
 ## Garden Description
 
-This palatial villa, which has been interpreted as an imperial summer *palace*, lay within the confines of an imperial domain about 12 km. northwest of Colonia Augusta Treverorum. It was built during the reign of the emperor Valentinian I (364-375) or Gratian (367-383) who resided in the capital. Very little remains of the actual villa, although foundation walls of other buildings and a possible *portico* have been found.
+The enclosed farm compound measured 79 x 125/132 meters (less than one hectare). In the middle of the yard stood a house (A on plan) of the winged corridor type dating to the period between the end of the 1st and the later fourth century. (Fig. 1)
 
-The grounds of the villa were almost certainly landscaped in some form, as is suggested by a large decorative pool that may have been a decorative focus in a garden. It measured 18 x 60 meters and had three symmetrically arranged apses on the long sides. (Fig. 1) The walls of the pool were constructed of cut stone blocks and the bottom was paved with stone slabs. On top of the edges of the pool was an open-worked stone balustrade pierced at regular intervals by 112 limestone *herms*. The *herms* represent gods, Greeks, Romans, philosophers, generals and idealized figures such as putti, as well as Phrygians, Nubians and Germans. These were thrown into the pool in the 5th century, landing perhaps on layers of sediment at the bottom. As a result, the *herms*, of which 71 were retrieved in excavations, are in excellent condition. At the northern end of the pool was a rectangular building through which ran a drain from the pool. (Fig. 2, View of Model)
+Southeast of the house was an open area of 900 square meters. enclosed by a wall. There were no traces of any building activity within this enclosure, leading the excavators to interpret the area as a utilitarian *(vegetable) garden* (G on plan).
 
 
 <!-- Text comes from draft file -->
@@ -60,12 +58,12 @@ Unspecified
 
 ## Bibliography
 
-- H. Wrede, *Die spätantike Hermengalerie von Welschbillig*. Römisch-Germanische Forschungen 32, Berlin, 1972 [(worldcat)](https://search.worldcat.org/title/223360098)
-- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 665-667, figs. 607-609. [(worldcat)](https://search.worldcat.org/title/924024101)
-- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 277-278, fig. 90.  [(worldcat)](https://search.worldcat.org/title/445007864)
+- E. Gose, "Jahresbericht", Trierer Zeitschrift 24/26,1956-58: 511-525, figs. 106, 113. [(worldcat)](https://search.worldcat.org/title/223360098)
+- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 663-665, fig. 606. [(worldcat)](https://search.worldcat.org/title/924024101)
+- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 273-276, fig. 82.  [(worldcat)](https://search.worldcat.org/title/445007864)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109456" name="Roman Villa at Welschbillig" >}}
+[Roman Villa at Welschbillig](<-- none available -->)
 - {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 

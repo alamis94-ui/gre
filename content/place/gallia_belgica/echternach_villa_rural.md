@@ -1,7 +1,7 @@
 ---
 slug: "1ab1ef96b6"
 type: garden
-title: Rural Villa
+title: Rural Villa near Echternach
 latlon: [ 49.804053, 6.411923 ]
 author: Maureen Carroll
 contributor: Yvette Pollack

@@ -91,9 +91,3 @@
 
 User forks of the old GRE repo that have updates that might not be in main GRE repo, as of 2025-03-26:
 - [amartyashri](https://github.com/roman-gardens/gre-archive-2025-06-04/compare/main...amartyashri:gre-archive-2025-06-04:master) (Amartya Shri) - 28 files in Achaea, Pleaides links, removed empty sections
-
-
-# wishlist
-
-- Show progress in number of gardens in each place  ("23 out of 35 known gardens have been published")
-- better province boundaries
