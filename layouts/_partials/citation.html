@@ -1,13 +1,22 @@
-{{/* Generate a citation for the given page */}}
+{{/* Generate a citation for the given page,
+    inverting the name of the first author,
+    and abbreviating first and middle initials,
+    but watching out for compound surnames 
+*/}}
 {{- if and (ne .Slug "all") (.Params.Author) (ne .Params.Author "Author Name" )}}
     {{- $authors := split .Params.author "," -}}
     {{- $citeauthor := "" -}}
     {{- range $i, $a := $authors -}}
+    {{/* Handle compound surnames by replacing the space with "=" */}}
+        {{- $a = replaceRE `Alvarez Martinez` "Alvarez=Martinez" $a }}
+        {{- $a = replaceRE `Nogales Basarrate` "Nogales=Basarrate" $a }}
         {{- $thisauthor := "" -}}
         {{- $names := split (strings.TrimSpace $a) " " -}}
         {{- if eq $i 0 -}}
             {{- $thisauthor = print (index $names (sub ($names | len) 1)) ", " -}}
             {{- range $j, $n := $names -}}
+                {{/* Convert the "=" back to a space */}}
+                {{ $n = replace $n "=" " " }}
                 {{- if ne $j (sub ($names | len ) 1) -}}
                     {{- $thisauthor = print $thisauthor (substr $n 0 1) "." -}}
                 {{- end -}}
@@ -18,6 +27,8 @@
                 {{- $thisauthor = print $thisauthor "and " -}}
             {{- end -}}
             {{- range $j, $n := $names -}}
+                {{/* Convert the "=" back to a space */}}
+                {{ $n = replace $n "=" " " }}
                 {{- if ne $j (sub ($names | len ) 1) -}}
                     {{- $thisauthor = print $thisauthor (substr $n 0 1) ". " -}}
                 {{- else -}}
