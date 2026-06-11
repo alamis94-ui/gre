@@ -1,7 +1,7 @@
 ---
 slug: "2679e95d53"
 type: place
-title: "Regio VIII: Aemilia"
+title: "Aemilia"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30

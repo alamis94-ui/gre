@@ -1,7 +1,7 @@
 ---
 slug: "d2e9307e07"
 type: place
-title: "Regio I: Latium et Campania"
+title: "Latium et Campania"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30

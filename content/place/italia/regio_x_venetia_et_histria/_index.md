@@ -1,7 +1,7 @@
 ---
 slug: "55021f24a1"
 type: place
-title: "Regio X: Venetia et Histria"
+title: "Venetia et Histria"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30

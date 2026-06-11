@@ -1,7 +1,7 @@
 ---
 slug: "c337b5100c"
 type: place
-title: "Regio II: Apulia et Calabria"
+title: "Apulia et Calabria"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30

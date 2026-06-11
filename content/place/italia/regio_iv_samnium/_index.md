@@ -1,7 +1,7 @@
 ---
 slug: "c9ce7f7648"
 type: place
-title: "Regio IV: Samnium"
+title: "Samnium"
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-30
