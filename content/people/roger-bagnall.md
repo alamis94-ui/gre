@@ -3,7 +3,7 @@ type: people
 title: Roger Bagnall
 date: 2026-06-05
 modified: 2026-06-05
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->

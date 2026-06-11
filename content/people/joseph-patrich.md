@@ -2,7 +2,7 @@
 type: people
 title: Joseph Patrich
 date: 2025-06-26
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->

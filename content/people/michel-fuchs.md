@@ -3,7 +3,7 @@ type: people
 title: Michel Fuchs
 date: 2025-07-01
 modified: 2025-07-01
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->

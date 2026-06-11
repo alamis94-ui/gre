@@ -1,7 +1,7 @@
 ---
 title: Pier Giorgio Monti
 date: 2025-06-26
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->

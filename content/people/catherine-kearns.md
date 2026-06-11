@@ -8,8 +8,10 @@ draft: false
 <!-- position title, institution -->
 Assistant Professor in the Department of Classics, University of Chicago
 
+<!-->
 ## E-mail
 cmkearns@uchicago.edu
+-->
 
 ## Website
 https://classics.uchicago.edu/people/catherine-kearns

@@ -2,7 +2,7 @@
 type: people
 title: Christian Casey
 date: 2025-06-18
-draft: true
+draft: false
 ---
 
 ISAW Library (Institute for the Study of the Ancient World)

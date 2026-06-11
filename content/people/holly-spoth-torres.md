@@ -2,7 +2,7 @@
 type: people
 title: Holly Spoth-Torres
 date: 2025-06-18
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->

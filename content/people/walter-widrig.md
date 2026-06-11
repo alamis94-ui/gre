@@ -2,7 +2,7 @@
 type: people
 title: Walter Widrig
 date: 2025-06-27
-draft: true
+draft: false
 ---
 
 Professor of Art History Emeritus, Rice University

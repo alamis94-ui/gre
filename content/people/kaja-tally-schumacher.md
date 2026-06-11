@@ -8,8 +8,10 @@ draft: false
 <!-- position title, institution -->
 Assistant Professor of Landscape Architecture, Harvard University Graduate School of Design
 
+<!--
 ## E-mail
 kaja_tallyschumacher@gsd.harvard.edu
+-->
 
 ## Website
 https://www.gsd.harvard.edu/person/kaja-tally-schumacher/

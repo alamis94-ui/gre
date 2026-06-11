@@ -2,7 +2,7 @@
 type: people
 title: Véronique Blanc-Bijon
 date: 2025-06-27
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->

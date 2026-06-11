@@ -2,7 +2,7 @@
 type: people
 title: Yuyao Liu
 date: 2025-06-18
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->

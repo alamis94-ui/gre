@@ -8,8 +8,10 @@ draft: false
 <!-- position title, institution -->
 Brown University
 
+<!--
 ## E-mail
 john_bodel@brown.edu
+-->
 
 ## Website
 https://www.brown.edu/academics/history/people/john-bodel

@@ -3,7 +3,7 @@ type: people
 title: Clopper Almon
 date: 2025-06-30
 modified: 2025-06-30
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->

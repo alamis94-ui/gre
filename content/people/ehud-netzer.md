@@ -2,7 +2,7 @@
 type: people
 title: Ehud Netzer
 date: 2025-07-01
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->

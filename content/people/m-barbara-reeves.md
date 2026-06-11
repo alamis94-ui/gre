@@ -2,7 +2,7 @@
 type: people
 title: M. Barbara Reeves
 date: 2025-06-18
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->
