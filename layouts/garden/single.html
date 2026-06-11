@@ -6,7 +6,7 @@
         {{ end }}
         <header class="post__header">
             {{- partial "breadcrumbs.html" . -}}
-
+            {{ partial "citation.html" . }}
             <h1 class="post__title">{{ .Title }}</h1>
             {{- partial "metadata.html" . -}}
         </header>

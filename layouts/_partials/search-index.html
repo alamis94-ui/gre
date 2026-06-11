@@ -1,3 +1,5 @@
+<!-- This file builds the search index
+     This actual search is done in search.js -->
 <script>
 function smallcrumbs(dir) {
     dir = dir.toLowerCase()
@@ -23,9 +25,16 @@ window.pageData = {
         {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
         {{- $place := title (replaceRE "[\\W_]+" " " .Path) -}}
         {{- $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
+        {{ $smallcrumbs := "" }}
+        {{ range $i, $p := .Ancestors.Reverse }}
+            {{ if gt $i 1 }}
+                {{ if ne $i 2 }}{{ $smallcrumbs = print $smallcrumbs " / " }}{{ end }} 
+                {{ $smallcrumbs = print $smallcrumbs .Title }}
+            {{ end }}
+        {{ end }}
 "{{ $ri }}": {
     "title": "{{ .Title }}",
-    "smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),
+    "smallcrumbs": {{ $smallcrumbs }},
     "content": {{ $content }},
     "url": {{ .Permalink }},
     "draft": {{ .Draft }},

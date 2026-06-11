@@ -1,0 +1,37 @@
+{{/* Generate a citation for the given page */}}
+{{- if and (ne .Slug "all") (.Params.Author) (ne .Params.Author "Author Name" )}}
+    {{- $authors := split .Params.author "," -}}
+    {{- $citeauthor := "" -}}
+    {{- range $i, $a := $authors -}}
+        {{- $thisauthor := "" -}}
+        {{- $names := split (strings.TrimSpace $a) " " -}}
+        {{- if eq $i 0 -}}
+            {{- $thisauthor = print (index $names (sub ($names | len) 1)) ", " -}}
+            {{- range $j, $n := $names -}}
+                {{- if ne $j (sub ($names | len ) 1) -}}
+                    {{- $thisauthor = print $thisauthor (substr $n 0 1) "." -}}
+                {{- end -}}
+            {{- end -}}
+        {{- else -}}
+            {{- $thisauthor = print $thisauthor ", " -}}
+            {{- if eq $i (sub ($authors | len) 1) -}}
+                {{- $thisauthor = print $thisauthor "and " -}}
+            {{- end -}}
+            {{- range $j, $n := $names -}}
+                {{- if ne $j (sub ($names | len ) 1) -}}
+                    {{- $thisauthor = print $thisauthor (substr $n 0 1) ". " -}}
+                {{- else -}}
+                    {{- $thisauthor = print $thisauthor $n -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+        {{- $citeauthor = print $citeauthor $thisauthor -}}
+    {{- end -}}
+    {{- $title := .Params.title -}}
+    {{- $year := .Params.date.Year -}}
+    {{- $access := time.Now | time.Format "January 2, 2006" -}}
+    <a class="cite" onclick="citeThis(event)">Cite this place</a>
+    <cite>
+        {{- $citeauthor }} ({{ $year }}). "{{ $title }}." Gardens of the Roman Empire, accessed {{ $access }}. {{ .Permalink -}}
+    </cite>
+{{- end -}}

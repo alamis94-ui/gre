@@ -1,12 +1,11 @@
-<!-- Display the navigational breadcrumbs at the top of each place or garden page -->
-{{ if or (eq .Type "place") (eq .Type "garden") }}
-    <!-- display path hierarchy, with each level linked -->
-    <nav class="breadcrumbs">
-        {{ range $i, $p := .Ancestors.Reverse }}
-            {{ if gt $i 0 }}
-                {{ if ne $i 1 }} / {{ end }} 
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-            {{ end }}
+{{/* Display the navigational breadcrumbs for the given page,
+     linking each level
+*/}}
+<nav class="breadcrumbs">
+    {{ range $i, $p := .Ancestors.Reverse }}
+        {{ if gt $i 0 }}
+            {{ if ne $i 1 }} / {{ end }}
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
         {{ end }}
-    </nav>
-{{ end }}
+    {{ end }}
+</nav>

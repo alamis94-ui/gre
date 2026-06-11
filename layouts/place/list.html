@@ -6,16 +6,14 @@
 
 {{- define "main" -}}
 <main class="main list" role="main">
-    {{- if gt (len .Ancestors) 1 -}}
-        {{- partial "breadcrumbs.html" . -}}
-    {{- end -}}
-    {{- $thisplace := partial "this-place.html" .Path -}}
+    {{- partial "breadcrumbs.html" . -}}
+    {{- partial "citation.html" . -}}
 
     <div class='place{{ if .Params.draft }} draft{{ end }}'>
         {{ if .Params.draft }}
             <div class="draft">DRAFT</div>
         {{ end }}
-        <h1 class="post__title">{{ default $thisplace .Title }}</h1>
+        <h1 class="post__title">{{ .Title }}</h1>
         {{- partial "metadata.html" . -}}    
         {{- partial "sublocations.html" . -}}
         <div class="content post__content clearfix">
@@ -31,11 +29,9 @@
     {{- $count := len $pages -}}
     {{- $countpublished := len (where $pages "Params.draft" false ) -}}    
     <div class='summary'>
-        {{- $countpublished }}{{ if ne $count $countpublished }}/{{ $count }}{{ end }}
+        {{ $countpublished }}{{ if ne $count $countpublished }}/{{ $count }}{{ end }}
         garden article{{ if ne $countpublished 1 }}s{{ end }}
-        {{- if ne $thisplace "Place" }}
-            in {{ partial "romancase.html" $thisplace }}
-        {{ end -}}
+        {{ if ne .Slug "all" }} in {{ .Title }}{{ end -}}
         {{ if ne $countpublished 1 }} have {{ else }} has {{ end }}
         been published:
     </div>

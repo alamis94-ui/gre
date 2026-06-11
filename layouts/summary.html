@@ -2,10 +2,7 @@
     <!-- this template gets used when browsing gardens by location -->
     <article class="list__item post">
         <header class="list__header">
-            <div class='smallcrumbs'>
-                {{- $crumbs := replaceRE "/place/" "" (path.Dir .Path) -}}
-                {{- partial "romancase.html" $crumbs -}}
-            </div>
+            {{- partial "smallcrumbs.html" . }}
             <h3 class="list__title post__title">
                 <a href="{{ .Permalink }}" rel="bookmark">
                 {{ .Title }}
