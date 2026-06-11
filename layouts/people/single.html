@@ -20,7 +20,7 @@
         {{ $person := .Params.Title }}
 
         {{/* list authored garden and place pages */}}
-        {{ $pages := where (where .Site.Pages ".Params.Author" "like" $person) ".Type" "like" "garden|place" }}
+        {{ $pages := where (where .Site.RegularPages ".Params.Author" "like" $person) ".Type" "like" "garden|place" }}
         {{ $seen := slice }}
         {{ if $pages }}
             <hr>
@@ -31,7 +31,7 @@
         {{ end }}
 
         {{/* list contributions to garden and place pages */}}
-        {{ $pages := where (where .Site.Pages ".Params.Contributor" "like" $person) ".Type" "like" "garden|place" }}
+        {{ $pages := where (where .Site.RegularPages ".Params.Contributor" "like" $person) ".Type" "like" "garden|place" }}
         {{ $seen := slice }}
         {{ if $pages }}
             <hr>
