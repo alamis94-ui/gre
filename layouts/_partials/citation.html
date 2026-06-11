@@ -15,8 +15,6 @@
         {{- if eq $i 0 -}}
             {{- $thisauthor = print (index $names (sub ($names | len) 1)) ", " -}}
             {{- range $j, $n := $names -}}
-                {{/* Convert the "=" back to a space */}}
-                {{ $n = replace $n "=" " " }}
                 {{- if ne $j (sub ($names | len ) 1) -}}
                     {{- $thisauthor = print $thisauthor (substr $n 0 1) "." -}}
                 {{- end -}}
@@ -27,8 +25,6 @@
                 {{- $thisauthor = print $thisauthor "and " -}}
             {{- end -}}
             {{- range $j, $n := $names -}}
-                {{/* Convert the "=" back to a space */}}
-                {{ $n = replace $n "=" " " }}
                 {{- if ne $j (sub ($names | len ) 1) -}}
                     {{- $thisauthor = print $thisauthor (substr $n 0 1) ". " -}}
                 {{- else -}}
@@ -38,9 +34,11 @@
         {{- end -}}
         {{- $citeauthor = print $citeauthor $thisauthor -}}
     {{- end -}}
+    {{/* Convert any "=" back to a space */}}
+    {{  $citeauthor = replace $citeauthor "=" " " }}
     {{- $title := .Params.title -}}
     {{- $year := .Params.date.Year -}}
-    {{- $access := time.Now | time.Format "January 2, 2006" -}}
+    {{- $access := time.Now | time.Format "January 2, 2006" -}}    
     <a class="cite" onclick="citeThis(event)">Cite this place</a>
     <cite>
         {{- $citeauthor }} ({{ $year }}). "{{ $title }}." Gardens of the Roman Empire, accessed {{ $access }}. {{ .Permalink -}}
