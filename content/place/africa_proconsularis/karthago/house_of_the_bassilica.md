@@ -18,7 +18,7 @@ draft: true
 
 The house was located in the *insula* delimited by the Decumani North V-VI and the Kardines East VIII-IX and neighboring to the North West the Villa of the Aviary. Unfortunately, the house was badly preserved when Gauckler the excavator discovered it (Plan view, Fig. 1). The peristyle was bounded by four porticoes, which were supported by twelve columns. The courtyard had a central alley that was limited on its two sides by colonnaded low walls that formed a circular exedra on one side and a rectangular exedra on the opposite side facing each other. P. Gauckler mentions that the exedrae were paved with mosaic figures of seashore landscapes, as well as the West portico that welcomed the visitor just after the vestibule. Only small fragments of the mosaics have survived. The central alley of the courtyard was on axis with the *oecus*.
 
-The North and the East portico lead to an open area that Gauckler identifies as a garden of at least 250m². The house dates from the IVth. c.
+The North and the East portico lead to an open area that Gauckler identifies as a garden of at least 250m². The house dates from the 4th. c.
 
 <!-- ## Maps -->
 

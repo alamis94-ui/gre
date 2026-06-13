@@ -19,7 +19,7 @@ Late 1st-4th century CE
 <!-- Maison du petit péristyle -->
 
 This small house (320 m²) is located on the lower part of the hill, south of the House of *Marcus Aurelius*.  The plan is characteristic of small houses with a peristyle (Plan view, Fig. 1).  The west part of the house is occupied by a large *triclinium* E opening onto the peristyle.  Four other rooms paved with mosaics are laid on the north aisle.  Surrounding the mortared courtyard H a low wall interweaves between the columns, creating a semi-circular exedra on the eastern side H4. Tis courtyard may have been planted at an earlier phase.
-Possibly belonging to this same house, the east part of the *domus* may have been a garden with a basin b in the northern corner. The house is dated from the Ist century CE.
+Possibly belonging to this same house, the east part of the *domus* may have been a garden with a basin b in the northern corner. The house is dated from the 1st century CE.
 
 <!-- ## Maps -->
 
