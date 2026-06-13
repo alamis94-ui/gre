@@ -26,7 +26,7 @@ House of the Mithra
 
 ## Garden Description
 
-Excavations identified two building phases in the villa. The early Imperial phase of the villa contained a peristyle courtyard with a pool, central drain and possibly a garden. During the late Imperial phase (fourth century AD), the pool was converted into a double fountain with two semicircular exedras on its short sides, which housed sculptures of Mithra and Dionysus. The space which may have been a garden was transformed into a second pool around the original one by paving it and building a low wall at the base of the peristyle. The ruins show this second state.
+Excavations identified two building phases in the villa. The early Imperial phase of the villa contained a peristyle courtyard with a pool, central drain and possibly a garden. During the late Imperial phase (fourth century CE), the pool was converted into a double fountain with two semicircular exedras on its short sides, which housed sculptures of Mithra and Dionysus. The space which may have been a garden was transformed into a second pool around the original one by paving it and building a low wall at the base of the peristyle. The ruins show this second state.
 
 <!-- ## Maps -->
 

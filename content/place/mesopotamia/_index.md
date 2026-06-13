@@ -102,7 +102,7 @@ sites of the Roman period.
 
 - W. Ball, Rome in the East: The Transformation of an Empire. New York: Routledge, 2001.
 - K. Butcher, Roman Syria and the Near East. Los Angeles: Getty Publications, 2003.
-- A. Invernizzi, “Arsacid Palaces,” in ed. I. Nielsen, The Royal Palace Institution in the First Millenium BC. Monographs of the Danish Institute, Vol. IV. Athens: Danish Institute at Athens, 2001, pp. 295-310.
+- A. Invernizzi, “Arsacid Palaces,” in ed. I. Nielsen, The Royal Palace Institution in the First Millenium BCE. Monographs of the Danish Institute, Vol. IV. Athens: Danish Institute at Athens, 2001, pp. 295-310.
 - S. Dalley, “Mesopotamian Gardens.” The Oxford Companion to Gardens. Oxford Press, 1986.
 - E.J. Keall, “Qal’eh-i Yazdigird: The Question of its Date,” Iran XV (1977): 1-10.
 - C. Kearns, "Visual representations of gardens: diachronic perspectives on the art of landscape," in ed. K. Gleason, Cultural History of Gardens. Forthcoming, Berg Publishers.

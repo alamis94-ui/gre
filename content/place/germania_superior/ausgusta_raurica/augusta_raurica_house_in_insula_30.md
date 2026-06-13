@@ -28,7 +28,7 @@ House in Insula 30 in Augusta Raurica
 
 ## Garden Description
 
-Insula 30, east of the central baths, was taken up by a single house built around 200 AD. This replaced several earlier structures on the site. The insula, including the street colonnades, had an overall area of ca. 48 x 60 meters.
+Insula 30, east of the central baths, was taken up by a single house built around 200 CE. This replaced several earlier structures on the site. The insula, including the street colonnades, had an overall area of ca. 48 x 60 meters.
 
 The house had a peristyle courtyard of rectangular shape which was surrounded on three sides by a low wall supporting stone columns. The courtyard was unpaved and almost certainly planted (G in Fig. 1). Entering the house from the east, one passed through a vestibule before arriving in the peristyle corridor around the courtyard. The courtyard wall, enclosing an area 14 x 23.50 meters in size, was fronted by a water channel. There was a well in the north. From the triclinium to the west of the courtyard, one had a view directly into the courtyard.
 

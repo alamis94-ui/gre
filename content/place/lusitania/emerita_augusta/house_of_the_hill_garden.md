@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-The end of the 2nd or early 3rd century AD
+The end of the 2nd or early 3rd century CE
 
 ## Province
 

@@ -32,7 +32,7 @@ Theater
 
 ## Garden Description
 
-The Italica Theater makes use of the side of a hill to support most of its *gradería*, as do all known theaters in Spain.  It was built in the oldest sector of the city and in a location earlier occupied by a simpler structure.  The theater had a portico behind the *scaena* in which there was a chapel to Isis in the second century AD.  The portico with heavy sandstone columns covered in stucco surrounded a grand courtyard.  At some point low walls were constructed between the columns, and pedestals for honorific statues were placed on top of the low walls.  When the ground level in the courtyard was raised (possibly for the creation of a garden) a wall was built to keep earth from entering the portico.
+The Italica Theater makes use of the side of a hill to support most of its *gradería*, as do all known theaters in Spain.  It was built in the oldest sector of the city and in a location earlier occupied by a simpler structure.  The theater had a portico behind the *scaena* in which there was a chapel to Isis in the second century CE.  The portico with heavy sandstone columns covered in stucco surrounded a grand courtyard.  At some point low walls were constructed between the columns, and pedestals for honorific statues were placed on top of the low walls.  When the ground level in the courtyard was raised (possibly for the creation of a garden) a wall was built to keep earth from entering the portico.
 
 ## Maps
 

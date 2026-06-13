@@ -21,7 +21,7 @@ Complex built at the earliest during the reign of Trajan.
 
 ## Location Description
 
-This town on the Neckar river was granted municipal status around 84 AD or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
+This town on the Neckar river was granted municipal status around 84 CE or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
 ## Garden
 
 Large Building north of Forum in Arae Flaviae

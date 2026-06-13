@@ -12,7 +12,7 @@ draft: true
 
 ## Dates
 
-House: AD 150 - ca. 170
+House: CE 150 - ca. 170
 
 ## Location
 
@@ -29,7 +29,7 @@ House in Insula 1 and 2 in Augusta Raurica
 
 ## Garden Description
 
-This house, built on sloping terrain on the northern edge of the city around AD 150, was enlarged twenty years later to incorporate at least two certain gardens (Fig. 1). It bordered north and south on streets and was flanked on the east and west by other houses. In this last phase after ca. 170, the house covered an area of about 2000 square meters. In the center of the building was an irregular peristyle courtyard, at the north end of which was a private bath complex.
+This house, built on sloping terrain on the northern edge of the city around CE 150, was enlarged twenty years later to incorporate at least two certain gardens (Fig. 1). It bordered north and south on streets and was flanked on the east and west by other houses. In this last phase after ca. 170, the house covered an area of about 2000 square meters. In the center of the building was an irregular peristyle courtyard, at the north end of which was a private bath complex.
 
 East of the house was a long rectangular area open to the sky and divided into plots by a wall. In the northernmost plot a layer of humic soil 20-40 centimeters thick was excavated that the excavators interpret as evidence for a garden (G on plan).
 

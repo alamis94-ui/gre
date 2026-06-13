@@ -12,7 +12,7 @@ draft: true
 
 ## Dates
 
-100 AD - 4th century
+100 CE - 4th century
 
 ## Garden Description
 

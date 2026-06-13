@@ -21,7 +21,7 @@ Severnan Period - Middle of 3rd century
 
 ## Location Description
 
-The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
+The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in CE 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around CE 260, and it was progressively abandoned thereafter.
 ## Garden
 
 Palatial House in Insula 7 in Aventicum

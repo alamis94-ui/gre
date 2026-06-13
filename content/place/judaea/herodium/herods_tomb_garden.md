@@ -29,7 +29,7 @@ In 2005, Netzer's team found the long-sought tomb of Herod, positioned on a terr
 
 <!-- ## Images
 
-{{< image file="ASIA_JUD_HERODIUM _2.jpg" caption="Fig. 2: A reconstruction drawing of the mausoleum garden at its later period, around 20 AD (Yaniv Korman)" credit="" alt="" >}}
+{{< image file="ASIA_JUD_HERODIUM _2.jpg" caption="Fig. 2: A reconstruction drawing of the mausoleum garden at its later period, around 20 CE (Yaniv Korman)" credit="" alt="" >}}
 
 {{< image file="ASIA_JUD_HERODIUM _3.jpg" caption="Fig. 3: A reconstruction drawing of the mausoleum garden at its early period, around 15 BCE (Yaniv Korman)" credit="" alt="" >}} -->
 

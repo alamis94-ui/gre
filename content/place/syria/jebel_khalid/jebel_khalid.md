@@ -51,7 +51,7 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 - G. Clarke. "Greek Graffiti from North Syria." *Mediterranean Archaeology* 5/6 (1992/3): 117-120, plates 39-40.
 - ibid. "Jebel Khalid on the Euphrates: The Acropolis Building." Proceedings of the Second Macedonian Conference, Melbourne, in *Mediterranean Archaeology* 7 (1994): 69-75, plates 1-3.
 - ibid., ed., "Jebel Khalid on the Euphrates: Report on Excavations 1986-1996." *Meditarch Suppl.* 5 (2002): 25-48, plates IV-VIII and 10-25.
-- Inge Nielsen (ed.) *The Royal Palace Institution in the First Millennium BC.* Regional Development and Cultural Change between East and West, Monographs of the Danish Institute at Athens, vol. 4, pp. 215-247.
+- Inge Nielsen (ed.) *The Royal Palace Institution in the First Millennium BCE.* Regional Development and Cultural Change between East and West, Monographs of the Danish Institute at Athens, vol. 4, pp. 215-247.
 
 ## Keywords
 
