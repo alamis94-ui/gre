@@ -30,16 +30,6 @@ draft: true
 
 House of the Indian Statuette (I.viii.5)
 
-## Keywords
-
-- {{< keyword "chests" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "statuettes" >}}
-
 ## Garden Description
 
 A *portico* enclosed this garden (a) on the north, east and south sides, and the *portico* on the west had been closed to create rooms. These enclosed columns can be observed incorporated into the wall but only one of the other columns remains standing. The garden was surrounded by a gutter. A small Indian statuette (0.25 m. high) was found in the adjacent shop and it is believed to have been stored in a wooden chest in one of the rooms off the *portico* with other domestic items. It had tumbled into the shop when the southwest corner of the *peristyle* collapsed.
@@ -66,6 +56,16 @@ unspecified
 - Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](https://search.worldcat.org/title/921816405)
 - Maiuri, "Statuetta eburnea d'art indiana a Pompei," *LeArti* (1938), pp. 111-115.
 - Idem, "Navalia pompeiana," *RendNap*, n.s., 33 (1959): 22.
+
+## Keywords
+
+- {{< keyword "chests" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes" >}}
 
 ## Places
 

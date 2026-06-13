@@ -49,24 +49,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 House with Peristyle
 
-## Keywords
-
-- {{< keyword "courtyards" >}}
-- {{< keyword "Early Imperial" >}}
-- {{< keyword "hydraulic mortar" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "opus spicatum" >}}
-- {{< keyword "opus tessellatum" >}}
-- {{< keyword "opus testaceum" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "root cellars" >}}
-- {{< keyword "water supply systems" >}}
-- {{< keyword "water wells" >}}
-
 ## Garden Description
 
 During the winter 1938-1939 part of an earlier building was found under the occupation level of the [Schola of the Trajan]({{<relref "./schola_of_trajan.md/">}}). It was called House with peristyle, as the main preserved feature was seen to be the considerable part of a classical [peristyle](http://vocab.getty.edu/page/aat/300080971)) (Fig. 1, b). The house was erected between 20-40 CE and then destroyed between 160-200 CE. The find created great interest and massive restorations began, in order to show visitors a characteristic type of private architecture of the [early Empire](http://vocab.getty.edu/page/aat/300107346), rarely found in Ostia.
@@ -103,6 +85,24 @@ winter of 1938-1939
 <!-- Bibliography for Garden Description -->
 - Arena, *Ostia repubblicana*, p. 23. [(worldcat)](WORLDCAT_LINK_URL)
 - T. Morard and D. Wavelet, *Mélanges de l'École française de Rome: Antiquité* Tome 114, No. 2 (2002), Rome, pp. 759-815. [(worldcat)](https://search.worldcat.org/title/859589040) [hathitrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&view=2up&seq=183)
+
+## Keywords
+
+- {{< keyword "courtyards" >}}
+- {{< keyword "Early Imperial" >}}
+- {{< keyword "hydraulic mortar" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "opus spicatum" >}}
+- {{< keyword "opus tessellatum" >}}
+- {{< keyword "opus testaceum" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "root cellars" >}}
+- {{< keyword "water supply systems" >}}
+- {{< keyword "water wells" >}}
 
 ## Places
 

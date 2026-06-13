@@ -50,17 +50,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 Insula dei Dipinti \
 - {{< id vocab="Pleiades" id="841214213" name="Insula dei Dipinti" >}}
 
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "Hadrianic" >}}
-- {{< keyword "insulae" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "Severan" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "whitewash" >}}
-
 ## Garden Description
 
 The large open area in this [*insula*](http://vocab.getty.edu/page/aat/300000325), divided into two by a wall, was identified as a garden at the time of excavation (1914 to 1919), but on little evidence apart from the absence of paving over most of the area. Recent excavations have however clarified the phases of the garden and added some significant detail. The garden is now known to have been created as a single area, forming an integral part of the late [Hadrianic](http://vocab.getty.edu/page/aat/300107350) development comprising the three houses which make up the Insula of the Paintings (House of Jove and Ganymede, House of the Infant Bacchus and House of the Paintings). The excavations in the SW corner of the south garden (Fig. 1, Tr. 1) however produced no evidence of Hadrianic garden features, due to the garden being greatly disturbed by a substantial restoration of the *insula* somewhere in the period 150-180 CE. At this time the wall dividing the garden into two was built, and a humus-rich soil imported into the south garden area, its use as a garden being confirmed by fragments of five [flower pots](http://vocab.getty.edu/page/aat/300194749), recognized by the holes in their bases. In addition, the lower part of a [Dressel 20](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=83) [amphora](https://en.wikipedia.org/wiki/Amphora#cite_note-12) and a neat, sub-triangular pit roughly 50 cm across cut into the underlying rubble fill may have served as planters. In the [Severan](http://vocab.getty.edu/page/aat/300020566) period a small [aedicular](http://vocab.getty.edu/page/aat/300002574) shrine was added to the south face of the new garden wall, the niche being originally decorated with glass [mosaic](http://vocab.getty.edu/page/aat/300015342) above foliage plants against a red ground. This was later covered with [whitewash](http://vocab.getty.edu/page/aat/300015042) and replaced by a figured scene, and finally a [statue](http://vocab.getty.edu/page/aat/300047600) of [Jove](https://en.wikipedia.org/wiki/Jupiter_(mythology)) was installed in the niche. A section of black-and-white geometric mosaic, overlying the humus-rich soil in Trench 1 and possibly associated lightweight rough walls, suggests the creation of a summer pavilion or dining room during this period, which would have enjoyed a view of the garden shrine.
@@ -93,6 +82,17 @@ recent excavations
 - *Giornale degli Scavi*, 1917, pp. 58, 69-70.
 - *Giornale degli Scavi*, 1919, pp. 227-228, 251-253, 255, 263-5.
 - G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](https://search.worldcat.org/title/1067432688)
+
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "Hadrianic" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "Severan" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "whitewash" >}}
 
 ## Places
 

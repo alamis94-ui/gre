@@ -36,12 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The so-called Throne Hall garden (Fig. 1, n. 17)
 
-## Keywords
-
-- {{< keyword "flower gardens" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 The so-called "Throne Hall" (MACDONALD, PINTO 1995, pp. 78-81), was not a throne hall at all (Fig. 46). It was a garden (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 154-156, figs. 9-10; SALZA PRINA RICOTTI 1998, p. 366, fig. 2; SALZA PRINA RICOTTI 2000, pp. 325-330, figs. 111-113). A probe (Fig. 46, A), in the peristyle cleared that here there was no flooring. Another probe (Fig. 46, B), revealed instead the existence of two flowerbeds (Fig. 46, C), dug in the tufa, and enclosed by low walls of irregular blocks of stone, roughly set together by a poor mortar. Even a small flowerpot was found in the northern flowerbed (Fig. 47). By its small size and its shape, it revealed to have contained some small plant of the kind called by Pliny "viola"(Fig. 48). The garden was crossed in the middle by a central alley: a large path (Fig. 46, P) that led to a podium (Fig. 46, S) set in an ample apse. Today both these two elements are in very bad condition The remains of the apse are scarcely higher than the basis of a series of niches, which - Penna says - were decorated by chunks of pumice tinged with green and bluish hues to imitate the grottoes' rocky walls, a typical decoration for a garden *nymphaeum*. Today the podium, that was set in the middle of the apse, is quite wrecked. Once it must have been lined with marble but today only the concrete of its basement is left (Fig. 49).
@@ -96,6 +90,12 @@ unspecified
 - W. F. Jashemski, E. Salza Prina Ricotti, "I giardini di Villa Adriana: rapporto preliminare," *Atti della Pontificia Accademia romana di archeologia: Rendiconti*, Vol. 60 (1987-88), pp. 154-156, figs. 9-10. [(worldcat)](https://search.worldcat.org/title/1075183783)
 - E. Salza Prina Ricotti, "Adriano: architettura del verde e dell-acqua," in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, p. 366, fig. 2. [(worldcat)](https://search.worldcat.org/title/636808013)
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 325-330, figs. 111-113. [(worldcat)](https://search.worldcat.org/title/46784026)
+
+## Keywords
+
+- {{< keyword "flower gardens" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

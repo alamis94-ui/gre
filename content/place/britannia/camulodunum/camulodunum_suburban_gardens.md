@@ -14,11 +14,6 @@ draft: false
 
 3rd century - about 300 CE
 
-## Keywords
-
-- {{< keyword "ditches" >}}
-- {{< keyword "villae suburbanae" >}}
-
 ## Garden Description
 
 Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name Colonia Victricensis, City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
@@ -39,6 +34,11 @@ Fig. 1: Area outside the Balkerne gate before widening of the town ditch. Detail
 
 - P. Crummy, *Excavations at Lion Walk, Balkerne Lane and Middleborough, Colchester, Essex*. Colchester Archaeological Report 3, Colchester, 1984, fig. 106. [(worldcat)](https://search.worldcat.org/title/12511745)
 - P. Crummy, *City of Victory*, Colchester, 1997, pp. 114-115, figs. on pp. 100, 116-117. [(worldcat)](https://search.worldcat.org/title/1152612897)
+
+## Keywords
+
+- {{< keyword "ditches" >}}
+- {{< keyword "villae suburbanae" >}}
 
 ## Places
 

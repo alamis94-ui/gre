@@ -31,21 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Suburban Villa de la  Brunette
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "atrium houses" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "statues" >}}
-
-## House Description
-
-To the west of Orange, this residence is just south of the amphitheater – which was destroyed in the eighteenth century.  More than 2000 square meters have been unearthed.  It is bounded on the south by a fencing wall 150 meters long and on the north by road that separates the house from the amphitheater.  The east and west boundaries are not known.  Constructed in the first century CE (condition 1), the habitation was greatly remodeled and embellished towards the end of the second century (condition 2) only to be abandoned in the first half of the third century.
-
 ## Garden Description
 
 Condition 1: The central building is organized around an *atrium* which opens to the east on the garden through a 2.9-meter wide portico [3].  This portico extends all along the east side of the building and forms a transition between the rooms of the house and the garden.  On the north, it opens onto the rooms [4] to [7].  Room [7] is the most spacious of the residential part.  The garden [30] unfolds to the east of the villa. Its full surface is unknown, since its limits to the north and to the east are unknown.  The form of the plantings has not been ascertained. In the garden, 15 meters from the portico [3], was a rectangular pool [31] 13.35 meters long, more than 3.5 meters wide (to the limit of the excavation) and more than a meter deep.  It is covered with a layer of tile with waterproofing strips in the corners.  Around the pool, the ground was covered with pebbles.
@@ -69,6 +54,21 @@ CE 1-100 constructed
 ## Bibliography
 
 1.  J.-M. Mignon, I. Doray, V. Faure, A. Bouet, *La  Brunette*  à  Orange  premier  établissement  antique  périurbain  (Vaucluse), in  R.A.N., 30, 1997, P.173-202.
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "atrium houses" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "statues" >}}
+
+## House Description
+
+To the west of Orange, this residence is just south of the amphitheater – which was destroyed in the eighteenth century.  More than 2000 square meters have been unearthed.  It is bounded on the south by a fencing wall 150 meters long and on the north by road that separates the house from the amphitheater.  The east and west boundaries are not known.  Constructed in the first century CE (condition 1), the habitation was greatly remodeled and embellished towards the end of the second century (condition 2) only to be abandoned in the first half of the third century.
 
 ## Places
 

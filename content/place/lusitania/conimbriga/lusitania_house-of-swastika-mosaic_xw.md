@@ -33,10 +33,6 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
 
 House of the Swastika Mosaic
 
-## Keywords
-
-- {{< keyword "mosaics" >}}
-
 ## Garden Description
 
 Far more modest than the House of Cantaber but following the same general ideas of garden design, this house was left outside the new city wall built during the late empire.  The mosaics, now in excellent condition after modern restoration, can be dated to the mid third century CE, but the house is the result of several successive transformations.  Presumably that history explains why the main room with the mosaic with many swastikas is not aligned with the axis of the garden, though two of its three doorways offered views of it.
@@ -57,6 +53,10 @@ Far more modest than the House of Cantaber but following the same general ideas 
 <!-- ## Bibliography
 
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](https://search.worldcat.org/title/255066311) -->
+
+## Keywords
+
+- {{< keyword "mosaics" >}}
 
 ## Places
 

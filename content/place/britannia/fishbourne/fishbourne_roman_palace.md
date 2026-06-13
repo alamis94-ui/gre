@@ -19,17 +19,6 @@ draft: false
 
 Roman Palace in Fishbourne
 
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "loam" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "presence chambers" >}}
-- {{< keyword "terrace gardens" >}}
-- {{< keyword "vegetable gardens" >}}
-
 ## Garden Description
 
 Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE. Carefully excavated by Barry Cunliffe, using techniques of environmental archaeology, the garden excavations at the palace have long served as a model in the development of Roman garden archaeology, although the findings did not initially prompt the investigation of other gardens in Britain. Today the site has been developed for display and education.
@@ -74,6 +63,17 @@ late 1st century CE - unspecified
 - B. W. Cunliffe, A.G. Down, and D. Rudkin, *Excavations at Fishbourne 1969-1988*, Chichester, 1996.[(worldcat)](https://search.worldcat.org/title/228440436)
 - B. Cunliffe, *Fishbourne Roman Palace*, Tempus, 1998. [(worldcat)](https://search.worldcat.org/title/997465222)
 - Amina-Aïcha Malek, *A Sourcebook of Garden Archaeology*, Bern: Peter Lang, 2012.[(worldcat)](https://search.worldcat.org/title/865000398)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "loam" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "presence chambers" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "vegetable gardens" >}}
 
 ## Places
 

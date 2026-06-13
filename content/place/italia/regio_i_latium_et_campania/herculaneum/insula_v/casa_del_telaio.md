@@ -36,12 +36,6 @@ V
 
 Casa del Telaio
 
-## Keywords
-
-- {{< keyword "textrina" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "puteals" >}}
-
 ## Garden Description
 
 548.V.4/3.
@@ -62,6 +56,12 @@ There was a courtyard (a) in the center of this house which was apparently attac
 {{< image file="herc.iii.19-18.1-2-17.2.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "textrina" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "puteals" >}}
 
 ## Places
 

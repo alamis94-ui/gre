@@ -36,13 +36,6 @@ V
 
 Casa dell'Atrio Corontio
 
-## Keywords
-
-- {{< keyword "impluvia" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "viridarium" >}}
-
 ## Garden Description
 
 552.V.30.
@@ -51,6 +44,13 @@ A shallow cruciform-shaped *impluvium* was the central feature in the rectangula
 ## Plans
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "impluvia" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "viridarium" >}}
 
 ## Places
 

@@ -26,10 +26,6 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 House of the Triclinium
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 This house, in the area southeast of the House of Hylas, had a peristyle garden that, even in its poor state of preservation, can be theoretically reconstructed, as done by Blázquez and drawn by F. Riat.
@@ -52,6 +48,10 @@ unspecified
 - A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 - A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). [(worldcat)](https://search.worldcat.org/title/916989580)
 - J. M. Blázquez, 'Los jardines en la Hispania Romana,' *Historia de los Parques y Jardines en España*, Edita Grupo FCC, (Madrid 2001), p. 34, figure p. 32.
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
 
 ## Places
 

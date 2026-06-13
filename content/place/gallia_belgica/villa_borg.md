@@ -19,12 +19,6 @@ draft: true
 
 Villa Borg
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "basins" >}}
-- {{< keyword "courtyards" >}}
-
 ## Garden Description
 
 The *villa* of Borg is situated in a forest between the villages Borg and Oberleuken, community of Perl (Landkreis Merzig-Wadern), in the border-region Germany - Luxembourg - France. The huge villa complex is situated in a densely occupied Roman settlement region on the fertile plateaus between the river valleys of Saar and Mosel. *Pars urbana* and *pars rustica* covered an area of about 7.5 hectare. The *villa* was built in the direct vicinity of the Roman road from Metz to Trier (*Augusta Treverorum*), which was part of the far-distance connection between Marseille and Cologne.
@@ -62,6 +56,12 @@ Unspecified
 - M. Frey, Die römische villa von Borg. Ein reiches Landgut mit vorrömischer Tradition", in: A. Haffner & S. Schnurbein (eds.), Kelten, Germanen und Römer im Mittelgebirgsraum zwischen Luxemburg und Thüringen. Akten des Internationalen Kolloquiums zum DFG-Schwerpunktprogramm "Romanisierung" in Trier vom 28. bis 30. September 1998. Kolloquien zur Vor- und Frühgeschichte 5 (Bonn 2000) 41-50. [(worldcat)](https://search.worldcat.org/title/891992290)
 - J. Wiethold, "Kontinuität und Wandel in der landwirtschaftlichen Produktion und Nahrungsmittelversorgung zwischen Spätlatènezeit und gallo-römischer Epoche. Archäobotanische Analysen in der Großvillenanlage von Borg, Krs. Merzig-Wadern", in: A. Haffner & S. Schnurbein (eds.), Kelten, Germanen und Römer im Mittelgebirgsraum zwischen Luxemburg und Thüringen. Akten des Internationalen Kolloquiums zum DFG-Schwerpunktprogramm "Romanisierung" in Trier vom 28. bis 30. September 1998. Kolloquien zur Vor- und Frühgeschichte 5 (Bonn 2000) 147-159. [(worldcat)](https://search.worldcat.org/title/891994550)
 - B. Birkenhagen, Die Römische Villa Borg. Ein Begleiter durch die Anlage (Merzig 2004).[(worldcat)](https://search.worldcat.org/title/178935672)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "courtyards" >}}
 
 ## Places
 

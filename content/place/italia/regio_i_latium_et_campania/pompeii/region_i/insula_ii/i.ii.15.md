@@ -30,14 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "impluvia" >}}
-
-## Garden
-
-Small house with a planting bed around an indoor [impluvium](http://vocab.getty.edu/page/aat/300129867).
-
 ## Garden Description
 
 This humble house was excavated in 1873. It had no garden but the [impluvium](http://vocab.getty.edu/page/aat/300129867) was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
@@ -48,6 +40,14 @@ This humble house was excavated in 1873. It had no garden but the [impluvium](ht
 - Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 22 [(worldcat)](https://search.worldcat.org/title/222353569)
 - Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 12
 - Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*
+
+## Keywords
+
+- {{< keyword "impluvia" >}}
+
+## Garden
+
+Small house with a planting bed around an indoor [impluvium](http://vocab.getty.edu/page/aat/300129867).
 
 ## Places
 

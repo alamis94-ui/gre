@@ -30,13 +30,6 @@ draft: true
 
 Caupona-Hospitium dei "Pulcinella" (I.viii.10)
 
-## Keywords
-
-- {{< keyword "lararia" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 A. This house had no *atrium* and the *peristyle* was entered directly from the street. The *peristyle* garden (a) was enclosed on the east and the south by a *portico*. Two *lararium* flanked the door to a basement on the north end of the east *portico*. The one on the right was well preserved with paintings of an altar, two *Lares*, serpents, and a rectangular niche painted with what appear to be poppies. When a layer of plaster crumbled from the wall in March 1949 it revealed a painting of a pottery shop and led Maiuri to believe that there had been a pottery shop entrance to the street from the room on the left. Two other paintings on the façade depict Mercury and costumed men attired as Neapolitan Punch and Judy puppets. This gave the house the identity as a *caupona-hospitium* of the "Pulcinella."
@@ -62,6 +55,13 @@ unspecified
 - Della Corte, *Case*, p. 326, no. 675.
 - Jashemski, *Gardens*, vol.II, pp. 42-43. [(worldcat)](https://search.worldcat.org/title/921816405)
 - Maiuri, *RM* (1953-54), pp. 89-91 (the house is erroneously numbered I.v.10) on the plan, fig, 1.
+
+## Keywords
+
+- {{< keyword "lararia" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

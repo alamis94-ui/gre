@@ -30,12 +30,6 @@ draft: true
 
 House and Workshop of A. Granius Romanus (I.viii.13)
 
-## Keywords
-
-- {{< keyword "graffiti" >}}
-- {{< keyword "inscriptions" >}}
-- {{< keyword "lararia" >}}
-
 ## Garden Description
 
 The courtyard (a) at the front of this house was covered on the west and north and led to a second courtyard (b) at the rear of the house. In the northwest corner of the passageway there was a large *lararium*. Too much damage had been sustained to determine if any of the areas had been planted, and graffiti on the wall indicated to Della Corte that business had been conducted here because of all the numerical notations.
@@ -60,6 +54,12 @@ unspecified
 
 - Della Corte, *Case*, p. 327.
 - Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
+
+## Keywords
+
+- {{< keyword "graffiti" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "lararia" >}}
 
 ## Places
 

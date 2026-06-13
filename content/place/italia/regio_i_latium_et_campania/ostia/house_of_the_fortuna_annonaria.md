@@ -49,27 +49,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 House of the Fortuna Annonaria
 
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "bucrania" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "cornucopias" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "herms" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "Neo-Attic" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "oeci" >}}
-- {{< keyword "opus listatum" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "puteals" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "travertine" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "water wells" >}}
-
 ## Garden Description
 
 The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden (Fig. 1, a) has [travertine](http://vocab.getty.edu/page/aat/300011329) [columns](http://vocab.getty.edu/page/aat/300001571) on three sides. The fourth side coincides with the perimeter wall of the house, which forms part of the original plan, dating to the 2nd century CE. The last phase of the [*domus*](http://vocab.getty.edu/page/aat/300005506), lavishly decorated with precious marbles, dates to the 4th century CE. Against the rear wall of the garden is a brick [niche](http://vocab.getty.edu/page/aat/300002704) (h. 194 cm.; w. 114 cm.) containing a statue of [Juno](https://en.wikipedia.org/wiki/Juno_(mythology)) or [Demeter](https://en.wikipedia.org/wiki/Demeter) and two benches in [*opus listatum*](https://en.wikipedia.org/wiki/Opus_vittatum) (w. 41 cm.; preserved h. 28 cm.). "The area inside the peristyle must undoubtedly have been kept as a garden (Figs. 2 and 3). The remains of a rectangular basin (3.10x5.40 m.) with drainage outlet at its north-east corner were found at its center" (Becatti).
@@ -116,6 +95,27 @@ unspecified
 - John S. Boersma, *Amoenissima Civitas: Block V. ii at Ostia, Description and Analysis of its Visible Remains*, Assen: Van Gorcum, 1985, pp. 151, 156-160. [(worldcat)](https://search.worldcat.org/title/964182479)
 - Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, pp. 123-124. [(worldcat)](https://search.worldcat.org/title/797420782)
 - E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 82-84. [(worldcat)](https://search.worldcat.org/title/1130900997)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "bucrania" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "cornucopias" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "herms" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "Neo-Attic" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "opus listatum" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "puteals" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "travertine" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "water wells" >}}
 
 ## Places
 

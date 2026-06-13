@@ -34,17 +34,6 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 House of Europa, Central District (Maison d'Europe, Quartier Central)
 
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "basins" >}}
-- {{< keyword "planters" >}}
-- {{< keyword "pools" >}}
-
 ## Garden Description
 
 The block of buildings termed the House of Europa, about 1500 square meters in area, extends along the main Cardo, quite over the north gate of the town. It included large and small baths, a monumental entrance, shops and other areas for commercial use, and a peristyle house on the north side. It was excavated in 1914 and 1915.
@@ -77,6 +66,17 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 - Allais, Y., "La maison d'Europe à Djemila", in *Revue Africaine*, 83, 1939, pp. 35-44. [(worldcat)](https://search.worldcat.org/title/758942246)
 - Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151, fig.49. [(worldcat)](https://search.worldcat.org/title/461390883)
 - Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
+
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "planters" >}}
+- {{< keyword "pools" >}}
 
 ## Places
 

@@ -25,19 +25,6 @@ Archaeology in a downtown area is always a matter of seizing opportunities as th
 
 Structures under the Collège Lumière in Vesontio
 
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "kraters" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "rinceaux" >}}
-- {{< keyword "terrazzo" >}}
-
 ## Garden Description
 
 The results of the 2004 excavation at the Collège Lumière are still under study and the data are therefore still partial. This zone, close to the river and the artisinal quarter has, in the past, yielded most of the mosaics recorded for Besançon. The ancient structures discovered on 3000 square meters relate to a Gallo-Roman urbanization extending from the Augustan period to the third century and superimposed on a rather dense Gallic occupation of the first century BCE. Two phases of construction from the late Augustan period up through the end of the first century, have thus far not permitted the confirmation of the possible presence of a garden. On the other, later constructions dating from the beginning and last third of the second century are rich in peristyles with open space suitable for a garden.
@@ -71,6 +58,19 @@ Gardens: Beginning and last third of second century
 ## Bibliography
 
 - C. Gaston and C. Munier "Une luxueuse domus de la find du IIe siècle à Besançon, college Lumière (Doubs, F)"" in *Premières Journées archéologiques frontalières de l'Arc jurassien: Mandeure, sa campagne et ses relations d'Avenches à Luxeuil et d'Augst à Besançon*. Ed, Cécile Bélet-Gonda, Presses Univ. Franche-Comté (2007), 103-112.
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "kraters" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "rinceaux" >}}
+- {{< keyword "terrazzo" >}}
 
 ## Places
 

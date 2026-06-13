@@ -50,10 +50,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 Villa en Puente de la Olmilla
 
-## Keywords
-
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 This fourth-century villa was discovered in 1973.  An apse and a figured mosaic with two panthers mark the room on the north corner as probably the triclinium.  It did not, however, have a view of the garden but looked along the northeast gallery of the peristyle. That there was a garden is indicated by the presence of a pipe which crossed the northeast portico presumably to supply water for plants or a nymphaeum in the center of the peristyle.
@@ -71,6 +67,10 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 - M.R. Puig and R. Montanya Maluquer, *Mosaicos de la villa romana de Puente de la Olmilla (Albadalejo, Ciudad Real)*, Pyrenae: revista de prehistòria i antiguitat de la Mediterrània Occidental, ISSN 0079-8215, Nº. 11, 1975, pp. 133-143. [(worldcat)](https://search.worldcat.org/title/7840420644)
 
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](https://search.worldcat.org/title/7840420644)
+
+## Keywords
+
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

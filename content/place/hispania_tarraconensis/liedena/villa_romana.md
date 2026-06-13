@@ -51,12 +51,6 @@ Fraga sits astride the Cinca river about 86 kilometers northwest of Tarragona an
 
 Villa Romana
 
-## Keywords
-
-- {{< keyword "catch basins" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 This large villa, with both a pars urbana and a pars rustica is on the right (south) bank of the Irati river just below the Foz de Lumbier, a gorge cut by the river through a limestone hill.
@@ -90,6 +84,12 @@ The oecus or principal reception room is the room with an apse facing the southw
 1C CE
 
 <!-- -doesn't have ## Bibliography -->
+
+## Keywords
+
+- {{< keyword "catch basins" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

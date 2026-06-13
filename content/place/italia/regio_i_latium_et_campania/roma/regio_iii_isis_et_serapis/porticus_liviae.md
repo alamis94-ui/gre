@@ -30,23 +30,6 @@ Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755) \
 
 Garden of the Porticus Liviae <!-- There does not appear to be a Pleiades place resource for this garden -->
 
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "frescoes" >}}
-- {{< keyword "niches" >}}]
-- {{< keyword "pergolas" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "shrines" >}}
-- {{< keyword "statues" >}}
-- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
-- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
-- [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
-
 ## Garden Description
 
 Located on the [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) hill between the [*Clivus Suburanus*](https://pleiades.stoa.org/places/821658053) and the later [Baths of Trajan](https://en.wikipedia.org/wiki/Baths_of_Trajan) (*Thermae Traiani*) in the [*Subura*](https://pleiades.stoa.org/places/451696383), the [*Porticus Liviae*](https://www.digitalaugustanrome.org/records/porticus-liviae) is represented on three fragments of the [Severan Marble Plan (*FUR*)](https://formaurbis.stanford.edu/index.php?field0=all&search0=liviae&op0=and&field1=all&search1=porticus). The public [*porticus*](http://vocab.getty.edu/page/aat/300004145) was constructed on the site of the grand [*Domus*](https://en.wikipedia.org/wiki/Domus) of [Publius Vedius Pollio](https://en.wikipedia.org/wiki/Vedius_Pollio), who bequeathed his property to Augustus upon his death.
@@ -82,6 +65,23 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 - D. Favro, *The Urban Image of Augustan Rome*, pp. 132-133, 171, 174. [(worldcat)](https://search.worldcat.org/title/914906877)
 - E.M. Steinby (ed.), *Lexicon topographicum urbis Romae* IV, Roma, Edizioni Quasar, 1999, "Porticus Liviae" (C. Panella), pp. 127-129; "Subura" (K. Welch), pp. 379-383. [(worldcat)](https://search.worldcat.org/title/772398569)
 <!-- correct citation format? compare with Domus Aurea -->
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "frescoes" >}}
+- {{< keyword "niches" >}}]
+- {{< keyword "pergolas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "shrines" >}}
+- {{< keyword "statues" >}}
+- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
+- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
+- [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
 
 ## Places
 

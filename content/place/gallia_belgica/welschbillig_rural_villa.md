@@ -29,12 +29,6 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa
 
-## Keywords
-
-- {{< keyword "palaces" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "herms" >}}
-
 ## Garden Description
 
 This palatial villa, which has been interpreted as an imperial summer *palace*, lay within the confines of an imperial domain about 12 km. northwest of Colonia Augusta Treverorum. It was built during the reign of the emperor Valentinian I (364-375) or Gratian (367-383) who resided in the capital. Very little remains of the actual villa, although foundation walls of other buildings and a possible *portico* have been found.
@@ -63,6 +57,12 @@ Unspecified
 - H. Wrede, *Die spätantike Hermengalerie von Welschbillig*. Römisch-Germanische Forschungen 32, Berlin, 1972 [(worldcat)](https://search.worldcat.org/title/223360098)
 - H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 665-667, figs. 607-609. [(worldcat)](https://search.worldcat.org/title/924024101)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 277-278, fig. 90.  [(worldcat)](https://search.worldcat.org/title/445007864)
+
+## Keywords
+
+- {{< keyword "palaces" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "herms" >}}
 
 ## Places
 

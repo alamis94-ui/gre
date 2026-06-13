@@ -29,12 +29,6 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "bathhouses" >}}
-
 ## Garden Description
 
 The villa of this rural estate of the third century and its grounds are the only parts of the complex which have been investigated (Fig. 1). The farm lay about 40 km. south of Trier on a gentle slope above the Moselle river. The villa is of the winged corridor type with a facade of over 45 meters in length, taking up an area of 4200 square meters. In the villa were two *peristyle courtyards*, but both were paved with slabs of red sandstone rather than having been laid out as gardens.
@@ -61,6 +55,12 @@ Unspecified
 
 - P. Steiner, *Die römische Villa von Nennig*, Saarbrücken, 1955. [(worldcat)](https://search.worldcat.org/title/1073267042)
 - H. Mylius, "Die Rekonstruktion der römischen Villen von Nennig und Fliessem," *Bonner Jahrbuch* 129, 1924:110-120, fig. 1, pls. 4-5. [(worldcat)](https://search.worldcat.org/title/1075378207)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "bathhouses" >}}
 
 ## Places
 

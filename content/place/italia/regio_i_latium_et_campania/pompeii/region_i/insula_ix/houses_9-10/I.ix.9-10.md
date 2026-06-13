@@ -30,14 +30,6 @@ draft: true
 
 I.ix.9/10
 
-## Keywords
-
-- {{< keyword "columns" >}}
-- {{< keyword "engaged columns" >}}
-- {{< keyword "pilasters" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "stairs" >}}
-
 ## Garden Description
 
 To the rear of this house a raised garden (a), three steps up, had a *portico* on the east. The *portico* was supported by two columns on the east, an engaged column and a pilaster.
@@ -62,6 +54,14 @@ unspecified
 
 - DeVos, "Scavi nuovi sconoscuti (1.9.13)," *Meded* 38 (1976), pl. 35 (plan).
 - Jashemski, *Gardens*, vol.II, p. 44. [(worldcat)](https://search.worldcat.org/title/921816405)
+
+## Keywords
+
+- {{< keyword "columns" >}}
+- {{< keyword "engaged columns" >}}
+- {{< keyword "pilasters" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stairs" >}}
 
 ## Places
 

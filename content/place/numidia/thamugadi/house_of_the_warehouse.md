@@ -33,12 +33,6 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 
 House of the Warehouse (Maison de l'entrepôt)
 
-## Keywords
-
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "semicircular basin" >}}
-- {{< keyword "pools" >}}
 ## Garden Description
 
 This large house was laid out around two peristyles (A,B) arranged along the N S axis. The plan presents a complex layout notably in the southern part of the *domus* upon which the excavators did not comment thoroughly (Plan view, Fig. 1).
@@ -61,6 +55,13 @@ Unspecified
 - Ballu, A., *Les ruines de Timgad, Sept années de découvertes*, Paris, 1911, p. 49-53,120, plan p. 51. [(worldcat)](https://search.worldcat.org/title/802835102)
 - Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 - Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 88, fig. 12. [(worldcat)](https://search.worldcat.org/title/643640586)
+
+## Keywords
+
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "pools" >}}
 
 ## Places
 

@@ -36,13 +36,6 @@ V
 
 Casa del Bicentenario
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "dolia" >}}
-- {{< keyword "puteals" >}}
-
 ## Garden Description
 
 551.V.15-16.
@@ -51,6 +44,13 @@ Two hundred years after the first excavation efforts started at Herculaneum in 1
 ## Plans
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "puteals" >}}
 
 ## Places
 

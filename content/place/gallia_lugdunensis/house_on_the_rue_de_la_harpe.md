@@ -14,13 +14,6 @@ draft: true
 
 House on the Place des Halles (La maison des Halles)
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "courtyards" >}}
-
 ## Garden Description
 
 Excavations of a 1400 square meter site in 1989 at 45 rue de la Harpe partially uncovered five habitations of the southern quarter of the city. They were occupied between the first and third century until a final destruction around 275-280. Among them, one had a *peristyle* [1] of which three *porticos* are know; it was quite likely planted. The same house had another paved court with a *fountain* [2]. Further south, the corner of another *courtyard* with *porticos* (4 x 3 columns) was found.
@@ -43,6 +36,13 @@ Unspecified
 ## Bibliography
 
 - D. CLIQUET, L'Eure, 27, CAG p.136-137, restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "courtyards" >}}
 
 ## Places
 

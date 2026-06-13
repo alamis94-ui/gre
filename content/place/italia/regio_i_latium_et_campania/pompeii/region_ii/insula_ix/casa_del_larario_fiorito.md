@@ -31,13 +31,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula IX]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "charcoal" >}}
-- {{< keyword "pollen" >}}
-
 ## Garden Description
 
 Excavated in the later 1980s, this property features a garden, described by Ciarallo as "laid out in eight ground strips bordered by furrows." She interprets this layout as a plant nursery, also taking into account that the root cavities throughout were small, 4-8 c. in diameter, with two larger cavities of 20 and 40 cm.  The larger cavities flank the axis that divides the garden in half.
@@ -55,6 +48,13 @@ Need Fig. 76
 ## Images
 
 Need Fig. 77 -->
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "charcoal" >}}
+- {{< keyword "pollen" >}}
 
 ## Places
 

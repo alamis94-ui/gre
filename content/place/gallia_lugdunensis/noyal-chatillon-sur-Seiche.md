@@ -19,16 +19,6 @@ draft: true
 
 Villa de Châtillon-sur-Seiche
 
-## Keywords
-
-- {{< keyword "barns" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "trenches" >}}
-- {{< keyword "fanums" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "hypocausts" >}}
-- {{< keyword "forecourts" >}}
-
 ## Garden Description
 
 Six kilometers south of Rennes, this village with medieval churches and pleasant promenades along the banks of the Seiche must once have been the site of *castellum* from which the name Châtillon derives. The fort was probably on a mound a few hundred meters southwest of the ancient farm and villa described here.
@@ -76,6 +66,16 @@ Unspecified
 
 - Alain Provost, "La villa gallo-romaine de Chatillon-sur-Seiche," in the catalog of the exposition  *Nos ancêtres les Riedones*, Musée de Bretagne- Eco-musée du pays de Rennes, Rennes, 20 juin, 31 déc. 1990, p. 10-31 [(worldcat)](https://search.worldcat.org/title/715516488)
 - Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)](https://search.worldcat.org/title/463616145)
+
+## Keywords
+
+- {{< keyword "barns" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "trenches" >}}
+- {{< keyword "fanums" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "forecourts" >}}
 
 ## Places
 

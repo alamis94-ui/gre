@@ -26,13 +26,6 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 House of the Deep Trench
 
-## Keywords
-
-- {{< keyword "courtyards" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "vestibules" >}}
-
 ## Garden Description
 
 In late antiquity, a new city wall was built excluding most of the Hadrianic addition. This house, however, remained inside the new wall and was therefore occupied longer and is somewhat better preserved than most other houses of the second century expansion.  The street along its south side led to the front steps at the east end of the Trajaneum.  The entrance to the house was on the east side from the street.  From the entrance, one came into the vestibule, and then to the east portico of the peristyle, which begins at the right side of the figure.  The columns of the peristyle were of brick covered with painted stucco. In the center of the courtyard was a pool lined with *opus signinum*. In its bottom were some round planting pots in which aquatic plants had been rooted.  In the middle of this pool, there was a second, smaller pool with a lobed center. In the south gallery was a niche, presumably for a *lararium*.
@@ -54,6 +47,13 @@ unspecified
 - Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
 - A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 - A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 84 [(worldcat)](https://search.worldcat.org/title/916989580)
+
+## Keywords
+
+- {{< keyword "courtyards" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "vestibules" >}}
 
 ## Places
 

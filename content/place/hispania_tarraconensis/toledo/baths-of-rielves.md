@@ -31,12 +31,6 @@ The so-called "Baths" of Rielves
 
 <!-- Not sure why the keywords and garden description are commented out...
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "corridors" >}}
-
 ## Garden Description
 
 The major building period dated to the beginning of the 4th century, supplanting an earlier late 1st century phase.. The peristyle garden belonged to the later phase.  The house is laid out around its central garden with approximate symmetry relative its north-south axis.  The front of the house, the side from which guests entered, was clearly the south where the entry way [25] had a geometric mosaic floor whereas the north entrance way [7] had an earthen floor.  Immediately on entry, the guest would have seen the garden through an arcade on its south side.  These nine semicircular arches formed a sort of interior façade.  This arcade had fallen over – or been pushed pulled over – in the destruction of the house, so it has been possible to reconstruct it in elevation, and it has been rebuilt.  The Romans made extensive use of the round arch for practical purposes; this is an interesting example of its use for purely esthetic purposes, since a simple colonnade would have served just as well structurally.
@@ -59,6 +53,12 @@ The large number of objects of daily life found in the ruins, some under toppled
 ## Bibliography
 
 - Mª C. Fernández Castro, Las llamadas "Termas" de Rielves (Toledo), in Archivo Español de Arqueología, L-LI. CSIC, Madrid, 1978, pp. 209-251. [(worldcat)](https://search.worldcat.org/title/1122498001)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "corridors" >}}
 
 ## Places
 

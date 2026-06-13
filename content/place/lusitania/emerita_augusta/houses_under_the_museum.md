@@ -42,13 +42,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 Houses Under the Museum
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "exedrae (site elements)" >}}
-
 ## Garden Description
 
 Prior to building the present Museo Nacional de Arte Romano, excavations were undertaken at the site in 1978 and 1979. Two suburban residences were explored and preserved in the crypt of the museum. These contained at least three courtyards.  One was a colonnaded courtyard of 'marble,' and this small rectangular courtyard (at the rear of the crypt) consisted of a low wall of mortared rubble with simple marble columns of the Tuscan order. It was surrounded by incompletely excavated chambers, one of which had a program of wall paintings and stuccos which dated the complex to the period first through the fourth century A.D.
@@ -72,6 +65,13 @@ The 4th century A.D
 
 - J. Barrera Antón (De), "El trabajo estucado en «Augusta Emerita»: los grandes frisos de la casa romana del solar del Museo", in *Extremadura Arqueológica, (Homenaje a la Dra Dª Milagro Gil Mascarell Boscá)*, 5(1995): 221-223. [(worldcat)](https://search.worldcat.org/title/34430232)
 - J. Hernández Ramírez, *La pintura mural romana de Mérida. (Inserta en la estructura urbana y doméstica de la ciudad)*, UNED (unpublished doctoral disertation), 1993, pp. 1380-1506.
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "exedrae (site elements)" >}}
 
 ## Places
 

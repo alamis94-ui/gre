@@ -26,15 +26,6 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 House of the Birds
 
-## Keywords
-
-- {{< keyword "courtyards" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "vestibules" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 This large, typical 'peristyle house' had a courtyard that provided light for all the rooms of the house.  The entrance was on the southwest side of the house from the main street leading from the gate where the visitor enters.  After a small vestibule and a wide *fauces*, one came directly into the peristyle garden.  Beneath it was a cistern in which rainwater was collected; the water was accessed by means of a well and winch. Water also came from an aqueduct to a fountain on the façade of the house. The peristyle took up a quarter of the total area of the house.
@@ -68,6 +59,15 @@ unspecified
 - Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
 - A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 - A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 70-71 [(worldcat)](https://search.worldcat.org/title/916989580)
+
+## Keywords
+
+- {{< keyword "courtyards" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

@@ -19,11 +19,6 @@ draft: true
 
 Rural Villa in Friedberg Pfingstweide
 
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "villae rusticae" >}}
-
 ## Garden Description
 
 This *villa rustica* was situated on the northern slope of a valley through which a stream ran. The enclosed area of the farm occupied an area of 3.4 hectares (180 x 190 meters), and it was divided into a residential part (pars urbana) and a service area (pars rustica) by a road running east-west (Fig. 1). The front of the house (H in Fig. 1) faced north and had a view of the valley and the lower lying service area of the farm.
@@ -45,6 +40,11 @@ Early 2nd century - first half of 3rd century
 ## Bibliography
 
 - D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, pp. 307-309, fig. 246. [(worldcat)](https://search.worldcat.org/title/476625416)
+
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

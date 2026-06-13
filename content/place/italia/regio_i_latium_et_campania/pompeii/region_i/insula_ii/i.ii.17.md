@@ -30,20 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "pools" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "tablina" >}}
-
-## Garden
-
-A small garden with pools to the rear of a domestic property, in addition to one peristyle garden with decorative elements.
-
 ## Garden Description
 
 A. At the rear of the house was a very small garden entered from the [tablinum](http://vocab.getty.edu/page/aat/300004180). Excavated in 1872, much of the garden was occupied by two small raised [pools](http://vocab.getty.edu/page/aat/300008692), according to Mau. Attached to the west wall was a masonry [pool](http://vocab.getty.edu/page/aat/300008692) 0.58 m deep on the inside and 0.73 m high on the outside. The other [pool](http://vocab.getty.edu/page/aat/300008692) was to the south and there was a garden painting on the rear wall.
@@ -69,6 +55,20 @@ B. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the east
 - Sogliano, A. 1883. *Notizie degli Scavi*, p. 310
 - Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, pp. 12, 76, no.1, p. 77, nos. 5, 12, p.79, nos. 45, 46 [(worldcat)](https://search.worldcat.org/title/254502217)
 - Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, no. 32 [(worldcat)](https://search.worldcat.org/title/974375313)
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "tablina" >}}
+
+## Garden
+
+A small garden with pools to the rear of a domestic property, in addition to one peristyle garden with decorative elements.
 
 ## Places
 

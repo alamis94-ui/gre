@@ -29,11 +29,6 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa
 
-## Keywords
-
-- {{< keyword "courtyards" >}}
-- {{< keyword "paddocks" >}}
-
 ## Garden Description
 
 The house stood in the middle of a farm complex 75 meters wide and 120 meters long. It dates to the early second century.  The house (A on the plan, Fig. 1) is of the winged corridor type, measuring 19.30 x 22.40 meters.
@@ -62,6 +57,11 @@ Unspecified
 - H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, p. 653, fig. 594. [(worldcat)](https://search.worldcat.org/title/924024101)
 
 <!--
+## Keywords
+
+- {{< keyword "courtyards" >}}
+- {{< keyword "paddocks" >}}
+
 ## Places
 
 not on pleiades

@@ -36,10 +36,6 @@ IV
 
 Casa del Paprio Dipinto
 
-## Keywords
-
-- {{< keyword "impluvia" >}}
-
 ## Garden Description
 
 544.IV.8-9.
@@ -52,6 +48,10 @@ This narrow house excavated in 1929-1932 had a small paved courtyard serving as 
 
 
 <!-- ## Images -->
+
+## Keywords
+
+- {{< keyword "impluvia" >}}
 
 ## Places
 

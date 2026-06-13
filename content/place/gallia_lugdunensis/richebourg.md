@@ -18,17 +18,6 @@ draft: true
 
 Richebourg (Yvelines) villa de
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "trellises" >}}
-- {{< keyword "stylobates" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "apses" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 Though the site has an area of 12 or 13 hectares, only one hectare has been excavated, the residential and agricultural part. Two groups of buildings frame a large garden on a slightly trapezoidal, walled area. To the north was the residence; to the south, the utility buildings, including a silo; while to the east, within its own walls, was the farmyard also with several buildings.
@@ -69,6 +58,17 @@ Unspecified
 - Y. Barat, La recherche archéologique des jardins antiques in *Les nouvelles de l'archéologie*  83-84, 2001, p. 56-62, not. P. 58-59. <!-- no worldcat -->
 - G. Coulon, J.C. Golvin, *Voyage en Gaule romaine,* Actes sud Errance, Arles-Paris, 2002, p.121-3, restitution p. 122-3. [(worldcat)](https://search.worldcat.org/title/1002913551)
 - Y. Barat and D. Morize, L'archéologie des jardins antiques: le cas de la *pars urbana* de la *villa* de Richebourg (Yvelines) in *Actualité de la Recherche en Histoire et Archéologie agraires, Annales Littéraires de L'Université de Franche-Comté,* 764, Besançon, 2003.  [(worldcat)](https://search.worldcat.org/title/243748592)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "stylobates" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "apses" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

@@ -36,12 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden between the *nymphaeum* on the E side of the Academy and the *Praetorium* (Fig. 1, n. 24)
 
-## Keywords
-
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "nymphaea" >}}
-
 ## Garden Description
 
 These gardens, (Fig. 72) never completed, would probably have covered 35.000 square meters. One extended itself between the impressive Nymphaeum waterfall (Fig. 73) set at the eastern side of the Academy and the noble upper part of the so-called *Praetorium* where a beautiful *exedra* occupied the center of an elegant pavilion (SALZA PRINA RICOTTI 1998, pp. 388-390, fig. 17; SALZA PRINA RICOTTI 2000, pp. 377-381, fig. 137). The two elements faced each other at a distance of 347 m. The minimal presence of lead in the soil of this area and its position connected with the palatial Academy - which now, due to the results of the soil analyses, we know was never completed or inhabited – explain what happened. After the *nymphaeum* with its beautiful waterfalls (Fig.74) and the facing *Praetorium* pavilion had been erected, Hadrian died. Everything stopped and Villa Adriana was never completed. Thus, today we can only see the two principal features of this garden: the pavilion and the *nymphaeum*.
@@ -90,6 +84,12 @@ unspecified
 <!-- Bibliography for Garden Description -->
 - E. Salza Prina Ricotti, "Adriano: architettura del verde e dell'acqua", in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 388-390, figs. 17. [(worldcat)](https://search.worldcat.org/title/636808013)
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 377-381, fig. 137. [(worldcat)](https://search.worldcat.org/title/46784026)
+
+## Keywords
+
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Places
 

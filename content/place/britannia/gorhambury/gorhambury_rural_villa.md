@@ -19,13 +19,6 @@ draft: false
 
 Rural Villa in Gorhambury
 
-## Keywords
-
-- {{< keyword "arbors" >}}
-- {{< keyword "axial plan" >}}
-- {{< keyword "loam" >}}
-- {{< keyword "villae rusticae" >}}
-
 ## Garden Description
 
 At this site in Hertfordshire near the town of Verulamium (St. Albans) excavations have revealed a multi-phased Roman farm, characterized in late Iron Age and Roman times by an outer courtyard with various service buildings and an inner courtyard in which the farm house stood (Fig. 1).
@@ -54,6 +47,13 @@ around CE 100 - 175
 
 - A. Selkirk, "Gorhambury," *Current Archaeology* 87, 1983: 120-121, fig. on p. 116.
 - D.S. Neal, A. Wardle and J. Hunn, *Excavation of the Iron Age, Roman and Medieval Settlement at Gorhambury, St. Albans*. English Heritage Report 14, London, 1990, p. 44, fig. 56. [(worldcat)](https://search.worldcat.org/title/908621649)
+
+## Keywords
+
+- {{< keyword "arbors" >}}
+- {{< keyword "axial plan" >}}
+- {{< keyword "loam" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

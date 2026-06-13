@@ -30,20 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula I]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "cisterns" >}}
-- {{< keyword "water supply systems" >}}
-- {{< keyword "dolia" >}}
-
-## House
-
-Casa Imperiale
-
-## Garden
-
-Two gardens, one with root cavities and the remains of a new [cistern](http://vocab.getty.edu/page/aat/300052558).
-
 ## Garden Description
 
 A. (Entrance 7A) A square garden area was tucked behind two rooms. The beginnings of an arc-shaped structure in the northeast corner could have been the beginning of an additional cistern according to Dr. De Caro. The soil was badly damaged and Jashemski could not determine the planting patterns, although a few root cavities were recorded. Water was directed by way of a well-worn channel from under a door in II.i.12, across this garden and into garden II.i.10 to the east.
@@ -57,6 +43,20 @@ Armando La Porta, Laurentino García y García, Joan McConnell and Halsted B. 
 Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)
 PompeiiinPictures, 2018, *II.1.11 Pompeii. Large garden yard. Linked to II.1.12.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2011.htm)
 PompeiiinPictures, 2018, *II.1.12 Pompeii. Complesso dei Riti magici or Magic Rites Complex or Casa di Biria, Sibilla pompeiana or Officina Magica of Sextilius Pyrricus.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2012.htm)
+
+## Keywords
+
+- {{< keyword "cisterns" >}}
+- {{< keyword "water supply systems" >}}
+- {{< keyword "dolia" >}}
+
+## House
+
+Casa Imperiale
+
+## Garden
+
+Two gardens, one with root cavities and the remains of a new [cistern](http://vocab.getty.edu/page/aat/300052558).
 
 ## Places
 

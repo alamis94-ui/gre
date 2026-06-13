@@ -37,11 +37,6 @@ The realization of this magnificent residence must have been a cherished dream o
 Antinous' tomb (Fig. 1, n. 25)\
 - {{< id vocab="Pleiades" id="652231746" name="Antinoeion at Hadrian's Villa" >}}
 
-## Keywords
-
-- {{< keyword "nymphaea" >}}
-- {{< keyword "tombs" >}}
-
 ## Garden Description
 
 When, after having asked Dr. Reggiani to write about the garden emerged by her excavations, I began to study the map she kindly sent me (Fig. 75). Mari had informed me that the big structure beside the entrance gate was a Nymphaeum, but this seemed to me really improbable: It was too big and not in scale with the rest. I soon discovered that not only it was not a Nymphaeum but that it was a tomb and I easily connected it with Antinous, the same Antinous who had been deified by the Egyptians (E. SALZA PRINA RICOTTI 2002-2003). Hadrian was more than pleased to accept him as a god, thus he could  build to his memory a very important monument, something that he could never do for a simple boy. A temple more than a tomb.
@@ -142,6 +137,11 @@ unspecified
 - J. C. Grenier "L'emplacement de la tombe de Antinous d'après les textes de l'obelisque Barberini," in J.C. Grenier, F. Coarelli, "La tombe de Antinous à Rome," in *Mélanges de l'École française de Rome, Antiquité* XCVIII (1986), pp. 217-229. [(worldcat)](https://search.worldcat.org/title/220729070)<!-- link for specific issue? -->
 - Attanasius 350 CE –  From a letter of Saint Attanasius "And then this is the new god, Antinous, Hadrian's servant, a boy who was a slave of the emperor's depraved and against nature lust... This scandalous and shameless boy died in Aegypt during an imperial court's visit to this country. Immediately His Imperial Majesty issued an order and an extremely rigorous edict obliging all his subjects to recognize the deity of the dead boy..."
 <!-- PIETRANGELI 1993 reference removed -->
+
+## Keywords
+
+- {{< keyword "nymphaea" >}}
+- {{< keyword "tombs" >}}
 
 ## Places
 

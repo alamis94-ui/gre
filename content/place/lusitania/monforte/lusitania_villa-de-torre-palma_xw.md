@@ -29,13 +29,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 Villa de Torre de Palma
 
-## Keywords
-
-- {{< keyword "mosaics" >}}
-- {{< keyword "apsed triclinium" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "dolia" >}}
-
 ## Garden Description
 
 This villa was discovered by farm workers in 1947, and excavations were begun soon afterwards by the Museu Etnológico (now the Museu Arqueológico) in Lisbon.  Hundreds of rooms were unearthed, and major mosaics and many crates of materials were removed to the museum.  In 1983, American archaeologists from the University of Louisville became involved with the site through a project to re-excavate the Christian basilica in the northern end.  When the 1983 campaign found coins from the mid fourth century CE embedded in the original floor of the basilica – thereby establishing it as the earliest known double-apsed church on the Iberian Peninsula – it became clear that much might be learned from re-excavation of the whole site with modern methods.
@@ -69,6 +62,13 @@ The third phase distinguished by Maloney and Hale covered several building campa
 - M. Heleno, 'A 'villa' lusitano-romano de Torre de Palma (Monforte),' O Arqueólogo Portugés ser 2, 6 (1962) p. 313-38. [(worldcat)](https://search.worldcat.org/title/517199729)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)
 - S. J. Maloney and J. R. Hale, 'The villa of Torre de Palma (Alto Alentejo)' Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. [(worldcat)](https://search.worldcat.org/title/51847498)
+
+## Keywords
+
+- {{< keyword "mosaics" >}}
+- {{< keyword "apsed triclinium" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "dolia" >}}
 
 ## Places
 

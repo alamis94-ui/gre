@@ -37,10 +37,6 @@ The realization of this magnificent residence must have been a cherished dream o
 The garden in front of the Piazza d'Oro (Fig. 1, n. 19)\
 - {{< id vocab="Pleiades" id="379689233" name="Piazza d'Oro at Hadrian's Villa" >}}
 
-## Keywords
-
-unspecified
-
 ## Garden Description
 
 Here only the considerable presence of lead in the soil denounces the existence of an ancient garden (SALZA PRINA RICOTTI 1994-95, fig. 7). It is clear that this space, which was the point of arrival of the most important guests coming to dine with the emperor, must have been elegantly arranged. At its same level we can still admire some luxurious guestrooms with superb marble floorings. It stands to reason that the area around them must have been well planned and well kept.
@@ -74,6 +70,10 @@ unspecified
 - J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](https://search.worldcat.org/title/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
 - M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/32679652)
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
+
+## Keywords
+
+unspecified
 
 ## Places
 

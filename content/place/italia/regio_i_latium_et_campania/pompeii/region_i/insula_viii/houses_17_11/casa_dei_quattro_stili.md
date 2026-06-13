@@ -30,14 +30,6 @@ draft: true
 
 Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)
 
-## Keywords
-
-- {{< keyword "inscriptions" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "pillars" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "roofing tile" >}}
-
 ## Garden Description
 
 A *portico* supported by four pillars at the back of this house enclosed this *peristyle* garden (a) on the west. There was a passageway to the north of this garden that provided a back entrance to this house. A roof tile found in the garden in 1938 was inscribed FVLGVR (*CIL* IV.8223) and marked the spot where lightning had struck and where all affected items were buried.
@@ -62,6 +54,14 @@ unspecified
 
 - Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
 - Maiuri, "Fulgur conditum," *RendNap*, n.s., 21 (1942): 53-72 and figs. 1 (plan) and 2 on pp. 56-57.
+
+## Keywords
+
+- {{< keyword "inscriptions" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "roofing tile" >}}
 
 ## Places
 

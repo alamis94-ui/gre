@@ -25,14 +25,6 @@ The two private houses where there may have been gardens are near the port and a
 
 House No. 1 or West House
 
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "Doric order" >}}
-
 ## Garden Description
 
 The entrance [Fig. 1, 2] to this house was on the west side of the colonnaded street.  Just to the north was a shop [23] selling fish and *garum*; its tanks are still in place. The entrance hall leads into the west gallery of the peristyle courtyard [25]. There are three columns on each side of the courtyard. Each column's base featured an ornamental double *torus*.  Three capitals have been preserved; they were of the Doric order but were only rough-hewn as they, like all columns in Baelo, were covered with plaster. A garden most likely surrounded the well in the center.  Rooms [32] and [33] were probably the reception room and the triclinium respectively. The reception room had a good view of the garden though not central.  The northwest corner of the house belonged instead to the garum factory [VI].
@@ -55,6 +47,14 @@ unspecified
 
 - A. Balil Iliana, 'Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana,' *Boletín del Seminario de Estudios de Arte y Arqueología, XXXIX*, Universidad de Valladolid (Valladolid 1973), 138-140.[(worldcat)](https://search.worldcat.org/title/7243478)
 - P. Sillières, M. Fincker, J.M. Labarthe,*Baelo Claudia: une cité romaine de Bètique*, Collection de la Casa de Velázquez 51 (Madrid 1995), 165-170.[(worldcat)](https://search.worldcat.org/title/431871350)
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "Doric order" >}}
 
 ## Places
 

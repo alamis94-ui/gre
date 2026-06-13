@@ -20,18 +20,6 @@ draft: true
 
 Villa el Ruedo
 
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "orchards" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "reservoirs" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "kilns" >}}
-
 ## Garden Description
 
 The location of this villa was excavated in 1989, when, owing to a lack of coordination between the Consejeria de Cultura and the Conseqeria de Obras Publicas, a major intersection for A-339 was planned exactly over the villa.  An unusual aspect of this site is that the planting pits for trees shading the villa were found clearly defined in the hard earth and rock around it. Each is about one meter in diameter and a meter deep. They are indicated by the green symbols in Figure 1. There was also a large water reservoir that caught the water which had been used for aesthetic effect in the central part of the house and saved it to be used to irrigate the gardens and orchards which presumably extended down the hill to the northeast of the house and between the two rows of trees.  The archaeologists working on the site regretted that time and resources were lacking to explore this area with the techniques of garden archaeology.
@@ -62,6 +50,18 @@ unspecified
 
 - D. Vaquerizo Gil and J. R. Carrillo Diaz-Pines,'The Roman Villa of El Ruedo' (Almedinilla, Córdoba),*Journal of Roman Archaeology 8*, (Ann Arbor 1995), 121-154. [(worldcat)](https://search.worldcat.org/title/643576298)
 - D. Vaquerizo and J. M. Noguera,*La villa romana de El Ruedo (Almedinilla, Córdoba): Decoración escultórica e interpretación*, Diputación Provincial de Córdoba-Universidad de Córdoba-Universidad de Murcia (Murcia 1997). [(worldcat)](https://search.worldcat.org/title/1024361591)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "reservoirs" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "kilns" >}}
 
 ## Places
 

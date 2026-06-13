@@ -20,13 +20,6 @@ draft: true
 
 Villa el Santiscal
 
-## Keywords
-
-- {{< keyword "fountains" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "rills" >}}
-
 ## Garden Description
 
 This rich country villa on the left bank of the [Guadalete](https://pleiades.stoa.org/places/256248) River was begun in the first century and continued in use through the fourth century with its heyday in the third century AD.  Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.
@@ -50,6 +43,13 @@ unspecified
 - M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982), 121-154.[(worldcat)](https://search.worldcat.org/title/876519837)
 - J. M. Blázquez, 'Los jardines en la Hispania Romana,' *Historia de los Parques y Jardines en España*, Diputación Provincial de Córdoba-Edita Grupo FCC (Madrid 2001). [(worldcat)](https://search.worldcat.org/title/1090911182)
 - J.-G. Gorges, *Les villas hispano-romaines: Inventaire et Problématique Archéologiques* (Publications du Centre Pierre Paris IV). Paris: de Boccard, 1979, 241. [(worldcat)](https://search.worldcat.org/title/461777678)
+
+## Keywords
+
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "rills" >}}
 
 ## Places
 

@@ -36,11 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The so-called *Inferi Nymphaeum* (Fig. 1, n. 23)
 
-## Keywords
-
-- {{< keyword "fountains" >}}
-- {{< keyword "nymphaea" >}}
-
 ## Garden Description
 
 The so-called *Inferi* (Figg. 68 and 69) is a garden arrangement placed a little South of the tomb and closely connected with the building called the "Temple of Pluto" set just East of it. This peculiar landscaping arrangement was created excavating a narrow artificial valley in the slopes of the grounds that here are climbing up towards the Santo Stefano Hill, while the *Inferi*'s garden went down to rejoin the same level of the underground carriages' road, which, as a modern subway, connected all the buildings of Villa Adriana (MACDONALD, PINTO 1995, pp. 143-145; SALZA PRINA RICOTTI 1998, pp. 390-395, figs. 18-19; SALZA PRINA RICOTTI 2000, pp. 303-305, figs. 25, 138). The small vale, 128 m long and 17 m wide, terminated, at its southern extremity, in a dark grotto 5.10 m wide and 7.20 m deep (Fig. 68, P). At the end of the small cave a narrow cleaving (Fig. 68, A) not even 40-30 cm large and diminishing all the time, is all that is left of an ancient fountain (Fig.70). At Contini's time the grotto must have been nearly filled by soil and so it still was in the XIX century as we can see in a Penna drawing (Fig. 71), However Contini could have seen only the top of the Inferi. This can explain why the Roman 17nth century architect traced an inexistent gallery connecting the small *nymphaeum* with the trapezoidal system of large galleries which served as parking place and stables to the Great Underground Carriage Road. Contini, impressed by Aelius Spartianus' assertion "*etiam Inferos finxit*" (*Hist. Aug., Hadr.* 26.5), believed that all the gigantic underground parts of this area were a representation of the afterlife. Thus he supposed that a gallery must have connected with this *antrum* - which he thought to be the entrance of the reign of Pluto - with the Great Trapeze.
@@ -102,6 +97,11 @@ unspecified
 - W. L. Macdonald, J. A. Pinto, *Hadrian's Villa and Its Legacy*, Yale University 1995, pp. 143-145. [(worldcat)](https://search.worldcat.org/title/779115882)
 - E. Salza Prina Ricotti, "Adriano: architettura del verde e dell'acqua", in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 390-395, figs. 18-19. [(worldcat)](https://search.worldcat.org/title/636808013)
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 303-305, figs. 25, 138. [(worldcat)](https://search.worldcat.org/title/46784026)
+
+## Keywords
+
+- {{< keyword "fountains" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Places
 

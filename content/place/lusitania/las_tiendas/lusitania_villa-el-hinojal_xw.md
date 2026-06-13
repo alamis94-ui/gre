@@ -28,11 +28,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 Villa el Hinojal
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "hypocausts" >}}
-
 ## Garden Description
 
 In the early 1970's, J. M. Álvarez Martinez began excavations at this site, whose report appeared in 1976.  The villa was built around a central open space (11.7 x 6.3 m), which the archaeologists initially assumed was a peristyle.  There was indeed a wall (0.70 meters high and 0.55 meters thick) around the central area, which was judged to a garden.  But there was no trace of columns or bases or capitals of even imprints of where they had been.  The passageways around the courtyard on the north, west, and south were definitely covered; and on the east, where the entrances to the walled area were, there was probably also a portico, for that wall had painted decoration which would hardly have been left exposed to the weather.  The garden gave light to the rooms around it.
@@ -58,6 +53,11 @@ The house appears to have been built at the end of the third or beginning of the
 - J. de C. Serra Rafols, La villa romana de la Dehesa de 'La Cocosa'. Badajoz, 1952. [(worldcat)](https://search.worldcat.org/title/17319391)
 - J. de C. Serra Rafols, 'A propósito de la villa de La Cocosa. Rectificación.' In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. [(worldcat)](https://search.worldcat.org/title/1122498001)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143) -->
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "hypocausts" >}}
 
 ## Places
 

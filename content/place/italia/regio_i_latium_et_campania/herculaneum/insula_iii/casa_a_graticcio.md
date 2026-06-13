@@ -36,10 +36,6 @@ III
 
 Casa A Graticcio
 
-## Keywords
-
-N/A
-
 ## Garden Description
 
 538.III.13-15.
@@ -51,6 +47,10 @@ This multi-family dwelling was excavated in 1927-1929. There was a small paved c
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
 <!-- ## Images -->
+
+## Keywords
+
+N/A
 
 ## Places
 

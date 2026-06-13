@@ -31,12 +31,6 @@ Suburban Villa
 
 <!-- ## Keywords -->
 
-## Keywords
-
-- {{< keyword "villae suburbanae" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "courtyards" >}}
-
 ## Garden Description
 
 This *villa suburbana* in the modern Parc de la Grange lay outside the town on the southern shore of Lake Geneva. The villa, built originally in the mid 1st c. CE, was extended in the 2nd and 3rd c., and was inhabited until the 4th c. (Fig. 8.2). It measured 40 x 30.50 m., and it had a separate bath complex on the northwest.  The entire estate was 450 m. long and approximately 180 m. in width.
@@ -65,6 +59,12 @@ None Available
 - W. Drack, "Die Gutshöfe," in Ur- und frühgeschichtliche Archäologie der Schweiz 5, Basel, 1975, p. 58, fig. 21. [(worldcat)](https://search.worldcat.org/title/995475924)
 
 - M.-A. Haldimann, P. André, E. Broillet-Ramjoué, Matthieu Poux, "Entre résidence indigène et domus gallo-romaine: le domaine antique du Parc de La Grange (GE)," Archéologie Suisse 24.2, 2001: 2-15, figs. 4, 13-14, 17. [(worldcat)](https://search.worldcat.org/title/718064040)
+
+## Keywords
+
+- {{< keyword "villae suburbanae" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "courtyards" >}}
 
 ## Places
 

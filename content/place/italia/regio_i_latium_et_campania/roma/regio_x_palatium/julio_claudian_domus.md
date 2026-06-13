@@ -29,22 +29,6 @@ draft: false
 
 Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 
-## Keywords
-
-- {{< keyword "brick" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "flower gardens" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "frescoes" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-- [princeps](https://www.britannica.com/topic/princeps)
-- {{< keyword "architectural terracotta" >}}
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-
 ## Garden Description
 
 At the end of the Republican era and the beginning of the Empire, residential dwellings occupied, at least in part, the northeastern corner of the Palatine.  Two distinct excavation areas have revealed the partial remains of one or more [*domus*](https://en.wikipedia.org/wiki/Domus) in the southern part of the [terrace](http://vocab.getty.edu/page/aat/300004182), some 6.5 meters below the present ground level. The two excavated sections have not been joined because of a wide road of Severan date that divides them.  It is not possible, therefore, to ascertain whether the pre-Domitianic remains, on either side of this road, belong to a single *domus*.  It is clear, however, the remains all share several features: obliqueness with respect to the later platform, building materials and techniques, and a luxurious quality.
@@ -77,6 +61,22 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 - J.-P Morel and F. Villedieu, "Le site de la Vigna Barberini à l'époque néronienne", *Actes du VIe congrès international Neronia VI, Rome à l'époque néronienne* (Roma 19-23 Mai 1999). [(worldcat)](https://search.worldcat.org/title/51441167)
 - J.-P Morel, "Una ricca domus con giardino in età giulio-claudia" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 33-43. [(worldcat)](https://search.worldcat.org/title/5894435382)
+
+## Keywords
+
+- {{< keyword "brick" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "frescoes" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
+- [princeps](https://www.britannica.com/topic/princeps)
+- {{< keyword "architectural terracotta" >}}
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
 ## Places
 

@@ -31,21 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 House with the Arbor, Puymin Quarter, Formerly called the Praetorium
 
-## Keywords
-
-- {{< keyword "praetoriums" >}}
-- {{< keyword "stairs" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "water wells" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "balnea" >}}
-- {{< keyword "colonnades" >}}
-
-## House Description
-
-This house stood southwest of the theater, on the Puymin hill, in the residential northeast quarter of the city.  Unearthed between 1927 and 1929, it covered a surface of about 3000 square meters.  A first stage was built around 40-30 BCE, followed by a considerable extension to the northeast in the first century A.D.. First interpreted as an official residence, a *praetorium*, by J. Sautel, it takes its present name from an arbor found in the garden.  The house, organized on at least three levels, was considerably worn down so that interpreting the different phases is not easy.
-
 ## Garden Description
 
 The residential part best known was organized around a garden 17 by 20 meters, framed by three wings in a U.  At the center of the east wing, the bottom of the U, a grand stairway with two {curving?) symmetric ramps framing a niche (possibly for a statue) rose to the second storey where a portico overlooked the garden from three sides.  To the west, the fourth side of the garden was closed against the outside by a straight wall.  On it was supported a wall accented by a central apse (with a opening of 5.8 meters) centered on the axis of the garden.  Along this wall, but separated from it by a space, lie three related pools which are below the garden.  Built of masonry, one is semi-circular (3.85 meters in diameter) with a lateral set of stone steps for access, while the other two are symmetrically placed rectangles (2.4 by .85 meters).  No water jet was noted.  There was also a well with masonry rim in the southeastern part of the garden.
@@ -68,6 +53,21 @@ CE 1-100 Considerable extension to the northeast
 2. Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
 
 3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.267-274. [(worldcat)](https://search.worldcat.org/title/905795401)
+
+## Keywords
+
+- {{< keyword "praetoriums" >}}
+- {{< keyword "stairs" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "colonnades" >}}
+
+## House Description
+
+This house stood southwest of the theater, on the Puymin hill, in the residential northeast quarter of the city.  Unearthed between 1927 and 1929, it covered a surface of about 3000 square meters.  A first stage was built around 40-30 BCE, followed by a considerable extension to the northeast in the first century A.D.. First interpreted as an official residence, a *praetorium*, by J. Sautel, it takes its present name from an arbor found in the garden.  The house, organized on at least three levels, was considerably worn down so that interpreting the different phases is not easy.
 
 ## Places
 

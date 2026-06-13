@@ -36,12 +36,6 @@ IV
 
 Casa dell'Atrio a Mosaico
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "exedrae (interior spaces)" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 541.IV.1-2
@@ -54,6 +48,12 @@ A windowed *portico* surrounded this garden (a) on the north, south and west. Th
 
 
 <!-- ## Images -->
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "exedrae (interior spaces)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

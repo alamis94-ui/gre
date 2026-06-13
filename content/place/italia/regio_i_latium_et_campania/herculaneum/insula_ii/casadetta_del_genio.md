@@ -36,10 +36,6 @@ II; III
 
 Casadetta del Genio
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 This house was partially excavated in 1829-1830 and again in 1850. The *portico* had a floor on the east slightly lower than the sections on the north and south. A pool (a) was located in the center of the garden with a semi-circular extension on the east end and two small marble posts which probably held herms. The pool measured 2.35 m. wide, 0.87 m. deep and was only excavated to a length of 6.50 m.
@@ -53,6 +49,10 @@ This house was partially excavated in 1829-1830 and again in 1850. The *portico*
 ## Images
 
 {{< image file="herc.ii.3-68.6.57.jpg" caption="Illustration of Casadetta del Genio" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
 
 ## Places
 

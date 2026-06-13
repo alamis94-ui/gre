@@ -26,12 +26,6 @@ An ancient Roman road connecting Rome and Labicum.
 
 Tomb Garden of a Funerary Collegium
 
-## Keywords
-
-- {{< keyword "crematories" >}}
-- {{< keyword "funerary buildings" >}}
-- {{< keyword "tombs" >}}
-
 ## Garden Description
 
 A marble slab found at the cemetery of Centocelle and now preserved in the National Museum in Stockholm records the establishment in 16 CE of a funerary garden and various appurtenances by two senior officials of a funerary collegium and the clearing of an area beyond a perimeter wall for the construction of new crematories (ustrinae). The long  commemorative text, our most detailed verbal record of the appointments of a Roman funerary garden, is worth quoting in full:
@@ -53,6 +47,12 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
 
 - L. Chioffi, *Epigrafia e insediamenti: Il caso del suburbio di Roma,* in  La forma della città e del territorio (Atlante Tematico di Topografia Antica V Supplemento), edited by S. Quilici Gigli (Rome, 1999) 53 n. 9.[worldcat](https://search.worldcat.org/title/43384208)
+
+## Keywords
+
+- {{< keyword "crematories" >}}
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "tombs" >}}
 
 ## Places
 

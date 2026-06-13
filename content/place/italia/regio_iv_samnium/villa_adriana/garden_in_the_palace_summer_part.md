@@ -36,10 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden in the Palace Summer part (Fig. 1, n. 14)
 
-## Keywords
-
-unspecified
-
 ## Garden Description
 
 Quite certainly there was a garden here, but we don't have any elements to help us to reconstruct its appearance (Fig. 36). Only a trench was by me excavated in the western part of the courtyard, just in front of the Hadrianic *stibadium* used in summer for open-air dining (Fig.37). I wanted to ascertain if here, as in the Canopus' *coenatio*, there had also been an *euripus*, but the probe gave no result, and anyway the digging was too limited to help our understanding of the place.
@@ -79,6 +75,10 @@ unspecified
 - J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](https://search.worldcat.org/title/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
 - M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/32679652)
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
+
+## Keywords
+
+unspecified
 
 ## Places
 

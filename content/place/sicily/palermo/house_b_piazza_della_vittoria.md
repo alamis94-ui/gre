@@ -26,10 +26,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 House B, Piazza della Vittoria
 
-## Keywords
-
-<!-- {{< keyword "villae urbanae" >}} -->
-
 ## Garden Description
 
 A pool, still frescoed in blue, has recently been uncovered at the south end of the peristyle, no doubt opposite the principal room of the south range (which remains to be excavated) of this house, which lies adjacent to houses A and C. The excavation is not yet published and does not appear on Fig. 5.
@@ -47,6 +43,10 @@ A pool, still frescoed in blue, has recently been uncovered at the south end of 
 <!-- ## Dates -->
 
 <!-- ## Bibliography -->
+
+## Keywords
+
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Places
 

@@ -19,19 +19,6 @@ draft: true
 
 Rural Villa in Bad Kreuznach
 
-## Keywords
-
-- {{< keyword "apsed triclinia" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "cryptoportici" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "villae rusticae" >}}
-
 ## Garden Description
 
 This villa, almost 6000 square meters in size, gives eloquent testimony to the wealth and status of the owner of the rural estate. The estate was built in the second half of the 2nd century and occupied until its destruction around 275.
@@ -57,6 +44,19 @@ Second half of 2nd century - around 275
 - G. Rupprecht, "Die Kreuznacher Mosaikbodenvilla. Kurzbericht (Stand: April 1977)," *Saalburg Jahrbuch* 34, 1977:78-87.
 - G. Rupprecht, "Leben auf dem Land," *Archäologie in Deutschland* 4, 1986: 36-39. [(worldcat)](https://search.worldcat.org/title/7788112662)
 - Heinz Cüppers, *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp.321-323, fig. 204. [(worldcat)](https://search.worldcat.org/title/1040869002)
+
+## Keywords
+
+- {{< keyword "apsed triclinia" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

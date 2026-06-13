@@ -36,19 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The garden between the Small Baths and the Three Exedras Hall (Fig. 1, n. 5)
 
-## Keywords
-
-- {{< keyword "flower gardens" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "garden pavilions" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piazzas" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "stadiums" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "tufa" >}}
-
 ## Garden Description
 
 It has already been cited in the precedent Jashemski-Ricotti article but only very sketchily (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 149-150, fig. 3). Today the finding of the enormous amount of lead in its soil (1234 mg/kg) (Fig. 17) has created a new interest in it (FOSS 1989-90; FOSS 1992; FOSS, SALZA PRINA RICOTTI 1996; SALZA PRINA RICOTTI 1998, pp. 368-370, fig. 3; SALZA PRINA RICOTTI 2000, pp. 331-334, figs. 114-115). It proves that this plot of land was exploited for a very long time starting from the earlier republican era. Probably at those times a huge reservoir existed there and the land was kept as an orchard. Later on, just before the end of the I cent. BCE, it must have been transformed in a garden (SALZA PRINA RICOTTI 1994-95, p. 78, fig. 5) and the front of this cistern was decorated by an elegant nymphaeum (Figg. 18 and 19). In Hadrianic times the baths displaced the water reserve, but the nymphaeum was preserved. It must have been a particularly fine and elegant monument if Hadrian decided to save it and made it an important part of his new garden arrangement. The Augustan water-theater consisted of a 19.50 m long façade, adorned by two low basins, which stretched out from semielliptical niches (PENNA 1831, p. 59, fig. 59). We still see in them two low pedestals, evidently built to sustain some fountain statues. Other statues must have occupied the three square niches framed by small columns, which, set at a level of 1.84 m from the soil, flanked the basins' ones. The big piscina limaria, that supplied the two thermae, replaced the ancient reservoir and furnished large quantities of water. It soaked the ground and allowed the cultivation of plants that had to be frequently and abundantly watered. It is evident that only an uninterrupted irrigation delivered for at least eight centuries through leaden pipes could deposit in the soil such a high concentration of this metal.
@@ -97,6 +84,19 @@ unspecified
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 331-334, fig. 114-115. [(worldcat)](https://search.worldcat.org/title/46784026)
 - E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), p. 78, fig. 5. [(worldcat)](https://search.worldcat.org/title/1006002216) <!-- link to specific issue needed -->
 - A. Penna, *Viaggio pittorico della Villa Adriana di Tivoli*, Roma 1831, p. 59, fig. 59. [(worldcat)](https://search.worldcat.org/title/937430829)
+
+## Keywords
+
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piazzas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stadiums" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "tufa" >}}
 
 ## Places
 

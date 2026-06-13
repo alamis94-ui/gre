@@ -34,14 +34,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 Casa della Gemma (A)
 
-## Keywords
-
-- {{< keyword "fauces" >}}
-- {{< keyword "tondi" >}}
-- {{< keyword "peltae" >}}
-- {{< keyword "pinakes" >}}
-- {{< keyword "impluvia" >}}
-
 ## Garden Description
 
 A. The excavation of this house in 1934-1936 revealed an unusual atrium arrangement, which Maiuri states is the first time the architectural scheme that is used in a peristyle was stylishly applied to the atrium. The atrium had no fauces, there were three columns on both the north and south sides, and on the west side there were two engaged columns with two freestanding columns between them forming the entrance and supporting the room above. A collection of marble oscilla was uncovered here, second only to the collection found in the House of the Golden Cupids in Pompeii. The tondi, peltae, and pinakes were hung between the columns against the background of glossy red walls. Various Dionysiac and theater themes, satyrs, maenads, Pan, theater masks, an amorino, a sea horse and a sea panther were the subjects featured on the oscilla. The impluvium was enclosed by a low wall with a planting space on the top providing a garden atmosphere to the atrium. A marble puteal was located on the west side of the impluvium.
@@ -55,6 +47,14 @@ A. The excavation of this house in 1934-1936 revealed an unusual atrium arrangem
 ## Images
 
 {{< image file="herc.i.2-3_42.17.64.jpg" caption="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "fauces" >}}
+- {{< keyword "tondi" >}}
+- {{< keyword "peltae" >}}
+- {{< keyword "pinakes" >}}
+- {{< keyword "impluvia" >}}
 
 ## Places
 

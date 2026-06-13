@@ -50,13 +50,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 Garden Houses (Case a Giardino) \
 - {{< id vocab="Pleiades" id="223974298" name="Garden Houses" >}}
 
-## Keywords
-
-- {{< keyword "fountains" >}}
-- {{< keyword "jeux d'eau" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "statues" >}}
-
 ## Garden Description
 
 The area in which these houses are situated was laid out as a residential area in *c*. 128 CE as part of the [Hadrianic](https://en.wikipedia.org/wiki/Hadrian) remodeling of Ostia (Fig. 1). It is delimited by buildings of various depths, due to the irregularity of the available space. The central area is occupied by two blocks each comprising four houses, surrounded, according to the excavators, by a garden furnished with six [fountains](http://vocab.getty.edu/page/aat/300006179) (a) (three on the west and three on the east side; they each measure 2.93x3.55 m. and have a maximum preserved height of 75 cm.) (Figs. 2, 3). The fountains had more than a purely decorative function. They seem rather to be the classic type of canopied fountain. Each was equipped with a water spout and probably with an opening for drawing water. The fountains were surrounded on three sides by a travertine border, in which a little channel for the discharge of excess water was hewn. Two rounded grooves in the channel, in front of each spout, have been interpreted as supports for vessels to rest in as they were filled with water. On the fourth side, which has no border, is an outlet for the discharge of water, which flowed into the main drain leading outside the complex.
@@ -100,6 +93,13 @@ unspecified
 - *Giornale degli Scavi*, 1941, pp. 34-38.
 - Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, pp. 121-123. [(worldcat)](https://search.worldcat.org/title/797420782)
 - M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell'acqua in Ostia Antica* 2, Rome, 1996, pp. 114-117. [(worldcat)](https://search.worldcat.org/title/801186023)
+
+## Keywords
+
+- {{< keyword "fountains" >}}
+- {{< keyword "jeux d'eau" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "statues" >}}
 
 ## Places
 

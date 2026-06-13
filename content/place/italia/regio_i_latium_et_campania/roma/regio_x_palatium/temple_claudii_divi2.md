@@ -34,15 +34,6 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province -->
 <!-- May be left blank for now -->
 
-## Keywords
-
-- {{< keyword "temples" >}}
-- {{< keyword "nemus (grove)" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "aqueducts" >}}
-- {{< keyword "stagnum (man-made lake)" >}}
-
 ## Garden Description
 
 The Temple of the Divine Claudius, located on the northern slope of the Caelian Hill, was constructed in multiple phases. The temple is known from the Severan marble plan (Fig. 1) and from archaeological remains.  Agrippina initiated the building of the temple but was murdered before its completion. After the fire of CE 64, Nero altered the temple to include it in the [Domus Aurea](https://en.wikipedia.org/wiki/Domus_Aurea) ([Seutonius Vesp. 9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0061%3Alife%3Dves.%3Achapter%3D9%3Asection%3D1);  [Frontinus Aq. 2.76](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Frontinus/De_Aquis/text*.html)). Vespasian completed the temple in CE 69.
@@ -68,6 +59,15 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
+
+## Keywords
+
+- {{< keyword "temples" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "aqueducts" >}}
+- {{< keyword "stagnum (man-made lake)" >}}
 
 ## Places
 

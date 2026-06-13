@@ -32,15 +32,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 Small domestic property with a garden to the rear.
 
-## Keywords
-
-- {{< keyword "cauponae" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "sacella" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "tufa" >}}
-
 ## Garden Description
 
 A. A small garden at the rear of this connected house and [caupona](http://vocab.getty.edu/page/aat/300005208) may have originally contained the two small statuettes found at this site in 1953. The two pieces were a headless ithyphallic tufa statuette (0.33 m. high with base; Pompeii inv. no. 10017) and a marble statuette of Venus (0.51 m. high without base; Pompeii inv. no. 9926) with much of the red color preserved in the drapery. The inventory books list this house as II.vi.4.
@@ -55,6 +46,15 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 
 - Jashemski, Wilhelmina F, and Stanley A. Jashemski, *The Gardens of Pompeii: Herculaneum and the Villas Destroyed by Vesuvius.* New Rochelle, NY: Caratzas, 1993, pp. 84.
 [worldcat](https://search.worldcat.org/title/769881162)
+
+## Keywords
+
+- {{< keyword "cauponae" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "sacella" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "tufa" >}}
 
 ## Places
 

@@ -31,20 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Quarter of Saint-Florent, House A – House of the Mosaic with Meanders
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "opus signinum" >}}
-
-## House Description
-
-Some years after the destruction by flood of the house of Clodius (NAR15.10), and its neighbor (House A2), their ruins were leveled and this house built upon them. Some authorities place the construction in the last third of the first century, around the year 70; others, sometime in the second century. The dwelling seems to have lasted until about 260-280.
-
 ## Garden Description
 
 The garden was in the square peristyle (9.7 m on a side) with six Corinthian columns on a side. (The east corner has not be found, but can be confidently conjectured, along with the fourth gallery.) The reception room [a] (of nearly 50 sq. m.) was ornamented with a black and white mosaics with meanders of alternating swastikas and squares, filled in with floral motifs, chalices and *hederae* (ivy). Slightly off-center relative to the garden, it opens through a large bay onto the north gallery of the peristyle, which also has a mosaic. This northern gallery was of the Rhodian type to open a larger view from the main room onto the garden. Just inside the peristyle, a gutter of cut stone caught rainwater from the roofs of the porticoes.
@@ -66,6 +52,20 @@ CE 20-30 Destroyed
 1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 69 [(worldcat)](https://search.worldcat.org/title/24832885)
 
 2. Maison 1996, t. II, P. 229-237 and  P. 240-242.
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "opus signinum" >}}
+
+## House Description
+
+Some years after the destruction by flood of the house of Clodius (NAR15.10), and its neighbor (House A2), their ruins were leveled and this house built upon them. Some authorities place the construction in the last third of the first century, around the year 70; others, sometime in the second century. The dwelling seems to have lasted until about 260-280.
 
 ## Places
 

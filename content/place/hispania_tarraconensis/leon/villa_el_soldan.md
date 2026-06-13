@@ -50,14 +50,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 Villa El Soldán  (The Sultan)
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "hypocausts" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 N 42° 27'  14"  W  6° 14' 26"
@@ -83,6 +75,14 @@ Tiberius times(CE 14-37)
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. Gorges, p. 276-7 [(worldcat)](https://search.worldcat.org/title/876519837)
 - P. R. Lewis, G. D. B. Jones, Roman Gold-Mining in North-West Spain, *The Journal of Roman Studies*, Vol. 60, 1970 (1970), pp. 169-185 [(worldcat)](https://search.worldcat.org/title/960771440)
 - R. F. J. Jones, D. G. Bird, Roman Gold-Mining in North-West Spain, II: Workings on the Rio Duerna, *The Journal of Roman Studies*, Vol. 62, 1972 (1972), pp. 59 [(worldcat)](https://search.worldcat.org/title/960771440)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

@@ -30,16 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula IV]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "cisterns" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "tablina" >}}
-
-## Garden
-
-Viridarium garden in a domestic property.
-
 ## Garden Description
 
 This garden contains a [cistern](http://vocab.getty.edu/page/aat/300052558) opening and form the entrance a viridarium at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) and a niche [lararium](http://vocab.getty.edu/page/aat/300400600) are clearly visible.
@@ -51,6 +41,16 @@ This garden contains a [cistern](http://vocab.getty.edu/page/aat/300052558) open
 - Fiorelli, G. 1875. *Descrizione di Pompei*, p. 66 [(worldcat)](https://search.worldcat.org/title/9528380)
 - Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 34 [(worldcat)](https://search.worldcat.org/title/222353569)
 - Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 79
+
+## Keywords
+
+- {{< keyword "cisterns" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "tablina" >}}
+
+## Garden
+
+Viridarium garden in a domestic property.
 
 ## Places
 

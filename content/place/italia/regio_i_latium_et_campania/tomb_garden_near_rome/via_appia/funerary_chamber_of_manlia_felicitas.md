@@ -27,12 +27,6 @@ An early Roman road (via publica) originating at Rome and terminating at Brundis
 
 Funerary Chamber of Manlia Felicitas
 
-## Keywords
-
-- {{< keyword "insulae" >}}
-- {{< keyword "tombs" >}}
-- {{< keyword "funerary buildings" >}}
-
 ## Garden Description
 
 In 1937 a French student, Louis Vignon, searching for new catacombs around the third mile of the Via Appia near the tomb of Caecilia Metella, discovered a subterranean funerary chamber accessible via a descending stair that ended at a landing which opened perpendicularly into the middle of one of its walls. Each of the other three walls contained an arcosolium decorated with frescoes depicting animal and vegetal life against a background of herbs and flowers beneath hanging garlands punctuated by aquatic fowl, doves, and the heads of youths; beneath the frescoes the lower walls were paneled in polychrome marble. The figured scenes—at the back, opposite the entrance, a pair of peacocks flanking a niche; to the left a pair of Cupids draping a gazelle in a long ribbon; to the right a pair of gazelles on either side of a twisted tree—belong to a stock of Hellenistic motifs evocative of the gardens of the blessed popular at Rome during the Julio-Claudian period and, especially, the reign of Augustus, to which Wuillemier thought the monument belonged.
@@ -50,6 +44,12 @@ When Vignon returned to the site thirteen years later, the underground chamber c
 - P. Wuilleumier , *Sur la Voie Appienne: Les horti Manliani*, Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres,1951, 34-41; Archaiologike Ephemeris, 1952, 35; Quilici 1977: 39 (horti Manliani) [worldcat](https://search.worldcat.org/title/754279146)
 
 - G.-L. Gregori , *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma BCom 92 (1987-88) [1989]: 180 n. 35, 185. [worldcat](https://search.worldcat.org/title/886794800)
+
+## Keywords
+
+- {{< keyword "insulae" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "funerary buildings" >}}
 
 ## Places
 

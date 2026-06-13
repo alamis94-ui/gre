@@ -36,10 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The area under the Temple of the Venus of Cnidus (Fig. 1, n. 12)
 
-## Keywords
-
-- {{< keyword "nymphaea" >}}
-
 ## Garden Description
 
 Here also the presence of a garden is only denounced by the high content of lead in the soil (SALZA PRINA RICOTTI 1994-95, fig. 7) and by the decorative setting, which is offered by the towering arches of the Venus of Cnidus' sustaining wall (Fig. 34). Then there is a large *nymphaeum* with a swimming pool set at the extreme northern side of this embankment (Fig. 31, A).
@@ -81,6 +77,10 @@ unspecified
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 <!-- Bibliography for Garden Description -->
 - E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](https://search.worldcat.org/title/1006002216) <!-- link to specific issue needed -->
+
+## Keywords
+
+- {{< keyword "nymphaea" >}}
 
 ## Places
 

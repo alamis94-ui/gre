@@ -32,13 +32,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula VII]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "angiportus" >}}
-
 ## Garden Description
 
 Beyond shop 26 and the living quarters behind it there was a very large garden (a) that was entered directly from the atrium through the portico that stood at the north side of the garden. The garden could also be reached by the long, narrow angiportus located at the rear of the east portico of the Temple of Isis. The garden could be viewed from the triclinium to the north.
@@ -51,6 +44,13 @@ Beyond shop 26 and the living quarters behind it there was a very large garden (
 
 {{< image file="fig.29.viii.vii.27_9.21.59.jpg" caption="Fig.29, 9.21.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="fig.30.viii.vii.27_9.27.59.jpg" caption="Fig.30, 9.27.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "angiportus" >}}
 
 ## Places
 

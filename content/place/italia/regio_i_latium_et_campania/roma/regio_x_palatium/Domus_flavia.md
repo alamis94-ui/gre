@@ -29,26 +29,6 @@ draft: false
 
 Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
 
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "flower gardens" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "labyrinths" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "villae urbanae" >}}
-- [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
-- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
-- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
-- [Statius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1323)
-
 ## Garden Description
 
 UPPER PERISTYLE AND NYMPHAEA
@@ -84,6 +64,26 @@ RELATED PHASES ON THE PALATINE:
 <!-- ## Excavation Dates
 
 ## Bibliography -->
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "labyrinths" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "villae urbanae" >}}
+- [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
+- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
+- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
+- [Statius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1323)
 
 ## Places
 

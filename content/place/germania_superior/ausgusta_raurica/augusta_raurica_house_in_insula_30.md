@@ -22,16 +22,6 @@ The town on the Rhine River possessed colonial status since the late 1st century
 
 House in Insula 30 in Augusta Raurica
 
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "insulae" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "vestibules" >}}
-- {{< keyword "water wells" >}}
-
 ## Garden Description
 
 Insula 30, east of the central baths, was taken up by a single house built around 200 AD. This replaced several earlier structures on the site. The insula, including the street colonnades, had an overall area of ca. 48 x 60 meters.
@@ -54,6 +44,16 @@ Insula: 200 A.D.
 
 - R. Laur-Belart, *Führer durch Augusta Raurica*, 5th Ed., Basel, 1988, pp. 134-136, fig. 126. [(worldcat)](https://search.worldcat.org/title/1069020725)
 - M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](https://search.worldcat.org/title/1120840822)
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "water wells" >}}
 
 ## Places
 

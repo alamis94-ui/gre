@@ -26,15 +26,6 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Chedworth
 
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "bone" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "sherds" >}}
-- {{< keyword "villae rusticae" >}}
-
 ## Garden Description
 
 This Roman villa in Gloucestershire was partially excavated in the late 19th century, but only the built features and their mosaic floors appear to have been of interest to the Victorian diggers. Excavations in the courtyard conducted between 2000 and 2002 revealed that earlier excavators had not disturbed the courtyard.
@@ -64,6 +55,15 @@ Late 19th century, 2000-2002
 - M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 460-463, fig. p. 461
 - M. Carroll, Excavations at Chedworth Roman Villa by the University of Sheffield 2000-2002, in S. Esmonde Cleary, J. Wood and E. Durham (eds.), *Chedworth Roman Villa: Excavations and Re-Imaginings from the Nineteenth to the Twenty-First Centuries* Britannia Monograph Series 34. London: Society for the Promotion of Roman Studies (forthcoming).
 - R. Goodburn, *Chedworth Roman Villa*, London, 1996. [(worldcat)](https://search.worldcat.org/title/862309842)
+
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "bone" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "sherds" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

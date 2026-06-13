@@ -22,12 +22,6 @@ The town was established in the Augustan period as the civitas capital of the He
 
 House in Insula 16 in Aventicum
 
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "insulae" >}}
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 In Insula 16 East, northeast of the forum, were small shops and houses belonging to three different owners. These were demolished when the town was promoted to the status of *colonia* by Vespasian. The new house occupied the whole insula and was entered on the northeast.
@@ -50,6 +44,12 @@ AD 71
 
 - H. Bögli and D. Weidmann, "Nouvelles recherches à Aventicum," *Archäologie der Schweiz* 2, 1978:71-72, fig. 2.[(worldcat)](https://search.worldcat.org/title/891764106)
 - A. G. McKay, *Houses, Villas and Palaces in the Roman World*, London, 1975, pp. 202-203, fig. 186. [(worldcat)](https://search.worldcat.org/title/901557900)
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

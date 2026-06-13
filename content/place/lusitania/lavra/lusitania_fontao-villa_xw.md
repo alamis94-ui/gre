@@ -28,11 +28,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 Fontao Villa
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "hypocausts" >}}
-
 ## Garden Description
 
 The remains of a large villa were discovered in 1900 under an abandoned Benedictine monastery. Among the structures identified are several basins that are usually found in gardens. The villa dates to the late empire.
@@ -51,6 +46,11 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 - J. de C. Serra Rafols, La villa romana de la Dehesa de 'La Cocosa'. Badajoz, 1952. [(worldcat)](https://search.worldcat.org/title/17319391)
 - J. de C. Serra Rafols, 'A propósito de la villa de La Cocosa. Rectificación.' In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. [(worldcat)](https://search.worldcat.org/title/1122498001)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143) -->
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "hypocausts" >}}
 
 ## Places
 

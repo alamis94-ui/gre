@@ -29,12 +29,6 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa
 
-## Keywords
-
-- {{< keyword "mosaics" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 This villa of a farm near Echternach was of the winged corridor type with sumptuous interior marble paneling, *mosaics* and wall paintings (Fig. 1). Originally constructed in the 60s of the first century AD, the villa was enlarged until it covered an area of 8928 square meters in the third century.
@@ -57,6 +51,12 @@ Unspecified
 ## Bibliography
 
 - J. Metzler, J. Zimmer and L. Bakker, *Ausgrabungen in Echternach*, Luxembourg, 1981; P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 350-353, figs. 145-146. (worldcat)](https://search.worldcat.org/title/905778589)
+
+## Keywords
+
+- {{< keyword "mosaics" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

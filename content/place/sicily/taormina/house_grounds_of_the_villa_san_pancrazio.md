@@ -26,10 +26,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 Villa at Patti Marina
 
-## Keywords
-
-<!-- {{< keyword "villae urbanae" >}} -->
-
 ## Garden Description
 
 In private housing at this site on the east coast no excavation has so far been attempted to reveal the presence of gardens, and little is known of the arrangements for running water in houses to irrigate such gardens or to supply ornamental pools and fountains.  This town house has a small rectangular pool with a small semicircular recess (Farrar Type B) at the south end of the garden peristyle, facing what was presumably the principal dining room at the south end of the house. The precise date is uncertain.
@@ -49,6 +45,10 @@ In private housing at this site on the east coast no excavation has so far been 
 G. M. Bacci, Attivita della soprintendenza: Taormina, Kokalos 39-40 (1993-94): 945-7. [(worldcat)](https://search.worldcat.org/title/186378054)
 
 Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71-84.[(worldcat)](https://search.worldcat.org/title/1169942407)
+
+## Keywords
+
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Places
 

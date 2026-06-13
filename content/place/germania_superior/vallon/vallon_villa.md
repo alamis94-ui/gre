@@ -19,28 +19,6 @@ draft: true
 
 Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 
-## Keywords
-
-- {{< keyword "arbors" >}}
-- {{< keyword "barns" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "ceramic tile" >}}
-- {{< keyword "ditches" >}}
-- {{< keyword "fences" >}}
-- {{< keyword "hearths" >}}
-- {{< keyword "horrea" >}}
-- {{< keyword "kitchen gardens" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "orchards" >}}
-- {{< keyword "pedestals" >}}
-- {{< keyword "pillars" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "sherds" >}}
-- {{< keyword "tesserae" >}}
-- {{< keyword "villae rusticae" >}}
-- {{< keyword "water supply systems" >}}
-
 ## Garden Description
 
 Located 6km south-east of Avenches/ Aventicum, the capital of the Helvetian tribe, this site is situated on a small alluvial terrace at the bottom of a hillside. The area is bordered by a stream, the Laret, characterized by a flow, sometimes torrential, that has fluctuated during the past centuries. To the west, on the right bank, stands the rocky spur of Carignan (Fig. 1). Due to the relatively restrictive topography, human settlements favoured the left bank until the Middle Ages.
@@ -91,6 +69,28 @@ Beginning of the 1st c. CE - beginning of the Vth century
 ## Bibliography
 No bibliography listed
 -->
+
+## Keywords
+
+- {{< keyword "arbors" >}}
+- {{< keyword "barns" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "ceramic tile" >}}
+- {{< keyword "ditches" >}}
+- {{< keyword "fences" >}}
+- {{< keyword "hearths" >}}
+- {{< keyword "horrea" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "pedestals" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "sherds" >}}
+- {{< keyword "tesserae" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "water supply systems" >}}
 
 ## Places
 

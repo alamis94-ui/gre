@@ -36,10 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The terrace on the valley of Tempe (Fig. 1, n. 10)
 
-## Keywords
-
-- {{< keyword "terrace gardens" >}}
-
 ## Garden Description
 
 This terrace offers a splendid view of Tivoli and its mountains (Fig. 30). The concentration of lead in its soil shows that it was kept as a cultivated area (SALZA PRINA RICOTTI 1994-95, fig. 7). Today we don't have enough elements to understand its landscaping, but we must consider that the terrace is set between two very important garden features of Villa Adriana. On the northern side it is flanked by the enchanting, open air pavilion now called the "Belvedere of the Venus of Cnidus" (Fig. 1, 11) while, on the opposite side of the plateau, another imposing *nymphaeum*, the so-called "Stallone", concludes the esplanade overlooking the Valley of Tempe. At the back of this terrace a big sustaining wall reinforced by impressive arches ran along the West side, and this embankment was concluded by another more modest *nymphaeum*, set in front of the Venus of Cnidus' Belvedere. It was decorated by a series of niches which, before the ruin of Villa Adriana, might have contained some decorative elements, giving this garden its final touch. Today the niches have been disfigured opening , in each of them, windows of different shapes the ones from the others.
@@ -77,6 +73,10 @@ unspecified
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 <!-- Bibliography for Garden Description -->
 - E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](https://search.worldcat.org/title/1006002216) <!-- link to specific issue needed -->
+
+## Keywords
+
+- {{< keyword "terrace gardens" >}}
 
 ## Places
 

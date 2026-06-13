@@ -30,15 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula VI]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "atrium houses" >}}
-- {{< keyword "tablina" >}}
-
-## Garden
-
-House of the Lararium; Casa del Larario; Sabello Iliaco.
-
 ## Garden Description
 
 A small garden was located at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) accessed by a passageway from the [atrium](http://vocab.getty.edu/page/aat/300005451). A small pool (0.70 m. deep) was centered in the garden enclosed by a crudely built double wall with a space in between for flowers. At the time of the eruption the house was undergoing extensive repairs.
@@ -61,6 +52,15 @@ Excavated 1873-1874.
 - Della Corte, M. 1913. *NSc*, pp. 356-357 and fig. 1 on p.356. [(worldcat)](https://search.worldcat.org/title/859831184)
 - Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](https://search.worldcat.org/title/921816405).
 - Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 446 and fig. 493 (plan) on p. 433.
+
+## Keywords
+
+- {{< keyword "atrium houses" >}}
+- {{< keyword "tablina" >}}
+
+## Garden
+
+House of the Lararium; Casa del Larario; Sabello Iliaco.
 
 ## Places
 

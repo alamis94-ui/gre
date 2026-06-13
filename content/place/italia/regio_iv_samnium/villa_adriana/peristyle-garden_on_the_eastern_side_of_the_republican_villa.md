@@ -36,13 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Peristyle-garden on the eastern side of the Republican villa (Fig. 1, n. 18)
 
-## Keywords
-
-- {{< keyword "flower gardens" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 This garden was set in the middle of a luxurious peristyle (SALZA PRINA RICOTTI 2000, pp. 335-337, fig. 116). Unluckily only its western part has been preserved. From what we find now on this side of the area, and from the ancient surveys showing the entire garden still existing in the XVIII cent., we can imagine how it must have looked. It was the kind which we call "*hortus conclusus*", and it was enclosed by high walls decorated by a series of niches with semicircular ones alternating with square ones (Figg. 51; 52 and 53). Columns stood between them, and were set in the walls in such a way that only half of them emerged, looking as a sequence of half columns. Today only the groove left by them in the masonry, and the remains of the fine *opus sectile* which, once, covered the portico's soil, allow us to imagine how it was decorated. At the two extremities of the western wall two very small *nymphaea* set in two narrow niches refreshed the air with their fountains (Fig. 51, a and b ). Apart from this today we can only see three large rooms, opening on the garden, which occupied the northern side of the peristyle. All the rest has been devastated by the agricultural exploitation of the land. Savage plowing and the destruction of both the portico and the enclosure to create ampler space for planting more olive trees and other crops, has caused landslides which have engulfed all the eastern part of this garden. Unluckily here there was no tufa platform to save the garden structure, and this is a pity, because this garden, connected with the Palace, must have been very interesting and the quantity of lead present in its soil shows that it was much cared for (SALZA PRINA RICOTTI 1994-95, fig. 7).
@@ -87,6 +80,13 @@ unspecified
 <!-- Bibliography for Garden Description -->
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 335-337, fig. 116. [(worldcat)](https://search.worldcat.org/title/46784026)
 - E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67, 1994-95, fig. 7. [(worldcat)](https://search.worldcat.org/title/1006002216)<!-- link to specific issue needed -->
+
+## Keywords
+
+- {{< keyword "flower gardens" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

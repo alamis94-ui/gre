@@ -33,14 +33,6 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 
 House of the Planters (Maison aux jardinières)
 
-## Keywords
-
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "water wells" >}}
-- {{< keyword "planters" >}}
-- {{< keyword "herms" >}}
-
 ## Garden Description
 
 Located SW of the Decumanus and NE of the forum, the house of the "Jardinières" almost square shaped, was laid out around a peristyle of 10 columns. Along the three porticoes and the angles of the fourth were arranged planters (10,50 x10,50 m) whose contours are curved. Double herm-heads or two sided-plaque with masks were found, they may have surmounted the corner pilasters of the courtyard. In the middle was a well. Facing the entrance and opening towards the courtyard, a large reception room was surrounded on its two sides by a vestibule leading to a room. (Plan view Fig.1; Fig.2)
@@ -68,6 +60,14 @@ Located SW of the Decumanus and NE of the forum, the house of the "Jardinières"
 - Boeswillwald, E., Cagnat, R., Ballu, A., *Timgad: une cité africaine sous l'Empire romain*, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.[(worldcat)](https://search.worldcat.org/title/156040038)
 - Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 - Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](https://search.worldcat.org/title/643640586)
+
+## Keywords
+
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "planters" >}}
+- {{< keyword "herms" >}}
 
 ## Places
 

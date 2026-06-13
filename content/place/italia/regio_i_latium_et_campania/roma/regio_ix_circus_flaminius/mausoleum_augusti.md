@@ -30,31 +30,6 @@ draft: false
 Garden of the Mausoleum of Augustus \
 - {{< id vocab="Pleiades" id="281368358" name="Mausoleum Augusti" >}}
 
-## Keywords
-
-- {{< keyword "altars" >}}
-- {{< keyword "ambulatio" >}}
-- {{< keyword "bronze" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "granite" >}}
-- {{< keyword "solaria" >}}
-- {{< keyword "inscriptions" >}}
-- {{< keyword "iron" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "nemus (grove)" >}}
-- {{< keyword "obelisks" >}}
-- {{< keyword "orthostats" >}}
-- {{< keyword "cippi" >}}
-- {{< keyword "reliefs" >}}
-- {{< keyword "sculpture" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "travertine" >}}
-- {{< keyword "ustrina" >}}
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-- [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
-
 ## Garden Description
 
 The [Mausoleum of Augustus](https://www.digitalaugustanrome.org/records/mausoleum-augustus) was located in the northern [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius) between the [*Via Flaminia*](https://en.wikipedia.org/wiki/Via_Flaminia) and the [Tiber](https://en.wikipedia.org/wiki/Tiber). The exact bounds of the park are unknown, but they stretched from north of the Mausoleum of Augustus to south of the [*Horologium*](http://vocab.getty.edu/page/aat/300404895) and the [Ara Pacis](https://en.wikipedia.org/wiki/Ara_Pacis), which was located along the *Via Flaminia*.
@@ -103,6 +78,31 @@ between 28 and 23 BCE
 - V. Jolivet, "Les Cendres D' Auguste: note sure la topographie monumentale du Champ de Mars septentrional," *Archeologia Laziale* 9 (1988), pp. 90-6. [(worldcat)](https://search.worldcat.org/title/489812568)
 - E. La Rocco, *Ara Pacis Augustae: in occasione del restauro della fronte orientale*, Rome, 1983. [(worldcat)](https://search.worldcat.org/title/60060689)
 - B. Frischer et al. "New Light on the Relationship between the Montecitorio Obelisk and the Ara Pacis of Augustus," *Studies in Digital Heritage* (1:1), 2017, pp. 1-105. [(worldcat)](https://search.worldcat.org/title/1224085907)
+
+## Keywords
+
+- {{< keyword "altars" >}}
+- {{< keyword "ambulatio" >}}
+- {{< keyword "bronze" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "granite" >}}
+- {{< keyword "solaria" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "iron" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "obelisks" >}}
+- {{< keyword "orthostats" >}}
+- {{< keyword "cippi" >}}
+- {{< keyword "reliefs" >}}
+- {{< keyword "sculpture" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "travertine" >}}
+- {{< keyword "ustrina" >}}
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+- [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 ## Places
 

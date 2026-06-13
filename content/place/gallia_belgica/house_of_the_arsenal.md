@@ -31,12 +31,6 @@ In the valley of the Moselle, Divodurum Mediomatricorum, a former Gallic oppidum
 
 HHouse of the Arsenal (Maison de l'Arsenal)
 
-## Keywords
-
-- {{< keyword "courtyards" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "hypocausts" >}}
-
 ## Garden Description
 
 <!-- TODO Question about translation in notes -->
@@ -61,6 +55,12 @@ Unspecified
 ## Bibliography
 
 - Ph. Brunella, D. Meckenbenner, Cl. Lefebvre, P. Thion, *Metz, cinq années de recherches archéologiques 1982-1987,* Dalph, Gumra, 1990, p.33-36, fig.36. [(worldcat)](https://search.worldcat.org/title/20955708)
+
+## Keywords
+
+- {{< keyword "courtyards" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "hypocausts" >}}
 
 ## Places
 

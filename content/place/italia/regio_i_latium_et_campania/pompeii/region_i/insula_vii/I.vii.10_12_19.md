@@ -30,40 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula VII]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "basins" >}}
-- {{< keyword "busts" >}}
-- {{< keyword "candelabras (candleholders)" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "dolia" >}}
-- {{< keyword "engaged columns" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "fences" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "impluvia" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "pillars" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "tables" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "trellises" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "vegetable gardens" >}}
-- {{< keyword "vestibules" >}}
-
-## Garden
-
-House of the Ephebe; Casa Dell'Efebo; House of P. Cornelius Teges (or Tages).
-
 ## Garden Description
 
 A. This house was made by combining several small houses. The upper garden had an unusual [portico](http://vocab.getty.edu/page/aat/300004145) on the north with various diameter [columns](http://vocab.getty.edu/page/aat/300001571), plastered and painted red, and two [pillars](http://vocab.getty.edu/page/aat/300264605). A third [column](http://vocab.getty.edu/page/aat/300001571) on a square base supported an extension of the [portico](http://vocab.getty.edu/page/aat/300004145), which was a step lower and formed by an extension of the [vestibule](http://vocab.getty.edu/page/aat/300083076) at entrance 12. The [triclinium](http://vocab.getty.edu/page/aat/300004359), [tablinum](http://vocab.getty.edu/page/aat/300004180), and [exedra](http://vocab.getty.edu/page/aat/300081589) on the upper level of the [portico](http://vocab.getty.edu/page/aat/300004145) were protected from cold and rain by some sort of screen installed between the columns and the west [pillar](http://vocab.getty.edu/page/aat/300264605). Most scholars surmise these were wooden but Maiuri proposed that they were glass, although he did not find any glass fragments during excavation (window panes surviving from this period from other sites are on display at the *Museo Archaeologico* in Naples and in the *deposito* at Pompeii).
@@ -123,6 +89,40 @@ Excavated 1912 and 1925.
 - Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 34.
 - Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 295, no. 5 and fig. 31 on p. 296.
 - Zanker, P. 1998. *Pompeii: Public and Private Life*, pp. 500-501.
+
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "busts" >}}
+- {{< keyword "candelabras (candleholders)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "engaged columns" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fences" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "impluvia" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "tables" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "vegetable gardens" >}}
+- {{< keyword "vestibules" >}}
+
+## Garden
+
+House of the Ephebe; Casa Dell'Efebo; House of P. Cornelius Teges (or Tages).
 
 ## Places
 

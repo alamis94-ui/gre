@@ -26,10 +26,6 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 Public Square
 
-## Keywords
-
-<!-- [no keyword] -->
-
 ## Garden Description
 
 This triangular area, number 19 on the map and on the visitor's left immediately after entering the walled area, is the only public garden space thus far identified in Roman Spain. Its triangular in form is determined by the angle between the city wall and the grid of the streets.
@@ -53,6 +49,10 @@ unspecified
 - A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). [(worldcat)](https://search.worldcat.org/title/916989580)
 - J. M. Blázquez, 'Los jardines en la Hispania Romana,' *Historia de los Parques y Jardines en España*, Edita Grupo FCC, (Madrid 2001), 35.
 [(worldcat)](https://search.worldcat.org/title/1090911182)
+
+## Keywords
+
+<!-- [no keyword] -->
 
 ## Places
 

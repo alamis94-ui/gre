@@ -37,19 +37,6 @@ The realization of this magnificent residence must have been a cherished dream o
 The Stadium-garden (Fig. 1, n. 4)
 - {{< id vocab="Pleiades" id="190433997" name="Stadium-garden at Hadrian's Villa" >}}
 
-## Keywords
-
-- {{< keyword "flower gardens" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "garden pavilions" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piazzas" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "stadiums" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "tufa" >}}
-
 ## Garden Description
 
 Already widely documented, published and discussed, it was surveyed, excavated and reconstructed by A. Hoffman (HOFFMAN 1980). His book is an outstanding and very important work but we can't accept all of his hypotheses, and namely we can't believe the existence of an impossible central basin (HOFFMAN 1980, p. 67, plt. 50. 1). The place, picked for it by Hoffman, is a square area where tufa is surfacing (Fig. 12, d). All the excavations put in evidence that only a thin layer of soil (10 to 5 cm high) covered the rock (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 151-154, fig. 4; SALZA PRINA RICOTTI 1998, pp. 383-385, fig. 14). Now it stands to reason that, if there had been a basin, it must have had a decorative coating of marble or mosaic. In this case the tufa would have been first smoothed and after that leveled with a thick layer of mortar. But there is no trace of leveling or of mortar here. The surface of the rock is irregular and left as it was in nature. It is difficult to understand how, with this kind of rocks nearly surfacing, anybody could have imagined to find the depth necessary to create a basin. How didn't he calculate the thickness of the layer of concrete necessary to create a horizontal smooth plane, which, as the higher peaks of the rock were at 5 cm from the soil's surface, had to be 6 cm thick at least? How didn't he realize that, to keep the water in, he had to spread over the concrete a layer of at least 2 cm of impervious *opus signinum*? Then he had to cover it with another layer of mortar necessary for fixing the chosen flooring, and at last, add from 1 to 3 cm of mosaic or marble. There would never have been any place left, not even for enough water to moisten the surface.
@@ -110,6 +97,19 @@ unspecified
 - E. Salza Prina Ricotti, "Adriano: architettura del verde e dell'acqua," in  *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 383-385, fig. 14. [(worldcat)](https://search.worldcat.org/title/636808013)
 - E. Salza Prina Ricotti, "The Importance of Water in Roman Garden Triclinia," in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 178-180, fig. 21-28, 35-37. [(worldcat)](https://search.worldcat.org/title/887179596)
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 225-231. [(worldcat)](https://search.worldcat.org/title/46784026)
+
+## Keywords
+
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piazzas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stadiums" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "tufa" >}}
 
 ## Places
 

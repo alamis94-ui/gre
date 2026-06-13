@@ -19,14 +19,6 @@ draft: true
 
 Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa
 
-## Keywords
-
-- {{< keyword "mosaics" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "hypocausts" >}}
-- {{< keyword "exedrae (interior spaces)" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 Following the fortuitous discovery of *mosaics* in 1820, the site of a large Roman villa was excavated from 1821 to 1830 by M. Solicoffre, then from 1840 to 1848 by P. J. Féret, and again in 1876 by Abbé Loth. The ruins were then abandoned, and our knowledge of them comes entirely from the very uneven documentation of these early explorations. From our perspective, however, what is noteworthy about this literature is not its inadequacy by modern standards but the considerable interest it shows in plants and gardens.
@@ -60,6 +52,14 @@ Unspecified
 - Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l'emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)](https://search.worldcat.org/title/1026569500)
 - abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)](https://search.worldcat.org/title/812701053)
 - <! -- In the process of being finalized: J.P. Darmon, Recueil "Erin Mckay" <emckay2@towson.edu>ise II, 5???, 1994 (ou 5 ???), n°:894-902, p.111-114; ???, in CAG Seine-maritime; 76, 20???, p. 497-500 (with detailed bibliography). -->
+
+## Keywords
+
+- {{< keyword "mosaics" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "exedrae (interior spaces)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

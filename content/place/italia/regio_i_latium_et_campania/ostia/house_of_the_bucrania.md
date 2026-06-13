@@ -49,28 +49,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 House of the Bucrania
 
-## Keywords
-
-- {{< keyword "architectural terracotta" >}}
-- {{< keyword "architraves" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "botanical gardens" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "Doric order" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "fluting" >}}
-- {{< keyword "friezes" >}}
-- {{< keyword "Late Republican" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "orthostats" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "Second Style" >}}
-- {{< keyword "socles" >}}
-- {{< keyword "tesserae" >}}
-- {{< keyword "tuff" >}}
-- {{< keyword "waterspouts" >}}
-
 ## Garden Description
 
 In the summer of 2002 part of the [*hortus*](http://vocab.getty.edu/page/aat/300008107) of the [Domus with peristyle]({{<relref "./house_with_peristyle.md/">}}) was excavated (in the west corner) (Fig. 1, d). At 80 cm under the present sea level, part of the garden of a [Late Republican](http://vocab.getty.edu/page/aat/300020540) [*domus*](http://vocab.getty.edu/page/aat/300005506) (called *Domus* with Bucrania) was revealed. The *domus* was built about 80-60 BCE and destroyed about 20-40 CE. A dark organic soil layer was found, at the same level as the floors of the building. A [flower pot](http://vocab.getty.edu/page/aat/300194749) with four holes was found in this layer. The foundation of a low wall and several structures composed of splinters of [tuff](http://vocab.getty.edu/page/aat/300011264) bound by bad quality mortar were probably part of the internal arrangement of the garden. Future excavation will certainly help to understand better these structures; the study of pollens and seeds is also in progress.
@@ -105,6 +83,28 @@ summer 2002
 <!-- Bibliography for Garden Description -->
 - T. Morard, *Mélanges de l'École française de Rome: Antiquité* Tome 115, No. 1 (2003), in press. [(worldcat)](https://search.worldcat.org/title/859589040)
 - T. Morard, D. Wavelet, "Prolégomènes à l'étude du site de la Schola du Trajan à Ostie," in *Mélanges de l'École française de Rome: Antiquité*, Tome 115, No. 2 (2002), pp. 759-815. [(worldcat)](https://search.worldcat.org/title/859589040) [(persée)](https://www.persee.fr/issue/mefr_0223-5102_2002_num_114_2)
+
+## Keywords
+
+- {{< keyword "architectural terracotta" >}}
+- {{< keyword "architraves" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "botanical gardens" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "Doric order" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fluting" >}}
+- {{< keyword "friezes" >}}
+- {{< keyword "Late Republican" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "orthostats" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "Second Style" >}}
+- {{< keyword "socles" >}}
+- {{< keyword "tesserae" >}}
+- {{< keyword "tuff" >}}
+- {{< keyword "waterspouts" >}}
 
 ## Places
 

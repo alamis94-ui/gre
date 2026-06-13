@@ -42,13 +42,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 Peristyle of the Theater
 
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "water supply systems" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "fountains" >}}
-
 ## Garden Description
 
 The space behind the theater screen comprises one of the best preserved gardens of Augusta Emerita. It consisted of a rectangular enclosure surrounded on the north, east, and west sides by ambulatories formed by double colonnades of granite with Corinthian capitals and red-stuccoed bases. The wall within these walkways had niches with paintings, of which few traces remain. In addition to entering through the screen, access was also possible via a small flight of granite steps in the southeast corner from the street, which separated this monument from the Amphitheater.
@@ -87,6 +80,13 @@ Water, indispensable for irrigation and the fountains, was in ample supply, prob
 - J.R. Mélida, "El teatro romano de Mérida," *R.A.B.M.*, 32, (1915): 1-38 [(worldcat)](https://search.worldcat.org/title/252779984)
 - P. Mateos Cruz and J. Marquez Pérez, 'Neuvas structuras urbanas relacionadas con el Teatro Romano de Mérida: El pórtico de acceso,' *Mérida, excavaciones arqueológicas, 1997*, pp.301-20 [(worldcat)](https://search.worldcat.org/title/48947141)
 - W. Trillmich, *Die Prásenz des Kaiserhauses im Theater der Colonia Augusta Emerita* , (unpublished disertation), University of München (1995)
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "water supply systems" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "fountains" >}}
 
 ## Places
 

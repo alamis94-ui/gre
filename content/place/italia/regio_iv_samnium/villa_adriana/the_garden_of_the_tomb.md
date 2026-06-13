@@ -37,10 +37,6 @@ The realization of this magnificent residence must have been a cherished dream o
 The garden of the tomb (Fig. 1, n. 21)\
 - {{< id vocab="Pleiades" id="379689233" name="Piazza d'Oro at Hadrian's Villa" >}}
 
-## Keywords
-
-- {{< keyword "tombs" >}}
-
 ## Garden Description
 
 We always find open spaces around the more important tombs and we know that they were kept as gardens. Just last summer Prof. Foss analyzed the samples drawn from the enclosure of the tomb of Romulus, Massenzio's son, on the Appian way, and found a large quantity of lead in it, lead that was not found in other parts of this emperor's villa, as in its famed Circus (Fig. 64). It is evident that the area around this tomb was kept as a garden and that it was watered for quite a long period. Of the garden around the tomb found on the back of the Piazza d'Oro we can only say that, as the Romulus tomb, it was set in a very large enclosure. Lead was present but not in very large quantity (SALZA PRINA RICOTTI 1994-95, fig. 7), thus it must have been set with big trees and bushes that didn't need much irrigation If tufa is present here as in the nearby garden, and if ever the Tomb's area will be excavated, we probably might find the same kind of arrangements for planting trees as in the Piazza d'Oro.
@@ -78,6 +74,10 @@ unspecified
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 <!-- Bibliography for Garden Description -->
 - E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67, 1994-95, fig. 7. [(worldcat)](https://search.worldcat.org/title/1006002216)<!-- link to specific issue needed -->
+
+## Keywords
+
+- {{< keyword "tombs" >}}
 
 ## Places
 

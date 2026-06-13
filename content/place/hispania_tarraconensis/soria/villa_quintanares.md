@@ -28,11 +28,6 @@ This villa is about 600 meters southwest of the town Rioseco di Soria on the rig
 
 Villa los Quintanares
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "mosaics" >}}
-
 ## Garden Description
 
 Built in the second half of the 2nd century CE, it was destroyed during the invasions of the Franks after 256.  Following the recovery of the Empire under Claudius II and Aurelian (268 -275), it was rebuilt and enlarged, surviving into the 5th century. Water was brought to the villa  by a conduit from 1.5 km further up the Sequillo.
@@ -52,6 +47,11 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 - Teógenes Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco de Soria, in IX Congreso Nacional de Arqueología. Valladolid. Valladolid, 1965, pp. 341-347. [(worldcat)](https://search.worldcat.org/title/892240885)
 - T. Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco (Soria), in  Segovia , Symposium de arqueología romana,. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 285-292. [(worldcat)](https://search.worldcat.org/title/802753312)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics" >}}
 
 ## Places
 

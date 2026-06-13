@@ -36,10 +36,6 @@ V
 
 Casa con Giardino
 
-## Keywords
-
-- {{< keyword "fauces" >}}
-
 ## Garden Description
 
 553.V.33
@@ -48,6 +44,10 @@ This humble house had a huge garden (a) which was entered from the long fauceson
 ## Plans
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "fauces" >}}
 
 ## Places
 

@@ -36,14 +36,6 @@ IV
 
 Casa dei Cervi
 
-## Keywords
-
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "oeci" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "puteals" >}}
-- {{< keyword "pergolas" >}}
-
 ## Garden Description
 
 545.IV.21
@@ -55,6 +47,14 @@ B. and C. On either side of the *pergola* was a small garden (d)and (e) with an 
 ## Plans
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "puteals" >}}
+- {{< keyword "pergolas" >}}
 
 ## Places
 

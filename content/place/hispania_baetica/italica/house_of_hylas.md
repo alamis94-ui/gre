@@ -26,16 +26,6 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 House of Hylas
 
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "nymphs" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 This house, with three garden areas, is just east of the Santiponce cemetery.  The principal garden, to the south, had a fountain with a rectangular basin in the center. The walls of the basin were covered with mosaics representing fish and molluscs. To the east opened a triclinium, identifiable by the U-shaped design of the floor mosaic. To the north of the principal garden was a large room with a double opening onto the garden.  It could well have been either a reception room or a second triclinium.
@@ -63,6 +53,16 @@ unspecified
 - Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
 - A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 - A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 82-83 [(worldcat)](https://search.worldcat.org/title/916989580)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "nymphs" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

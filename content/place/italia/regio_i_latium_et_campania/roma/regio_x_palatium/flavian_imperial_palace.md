@@ -29,26 +29,6 @@ draft: false
 
 Garden of the Flavian Imperial Palace, Palatine
 
-## Keywords
-
-- {{< keyword "allées" >}}
-- {{< keyword "altars" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "canals" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "lead" >}}
-- {{< keyword "pipes" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "plinths" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "sewers" >}}
-- {{< keyword "statues" >}}
-
 ## Garden Description
 
 During the period of [Domitian](https://en.wikipedia.org/wiki/Domitian) (81-96 CE), a large artificial platform with massive substructures at the north, east and west was completed at the site of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini). On this platform stood a large structure with a curvilinear plan at the south, and with [colonnaded](http://vocab.getty.edu/page/aat/300002613) aisles on the east and west (the north is not excavated) that enclosed a vast garden (Figs. 1-2).  Over one-third of this garden area has been partly explored, another third was irrevocably destroyed when the later [Temple of Elagabalus (*Elagabalium*)](https://en.wikipedia.org/wiki/Elagabalium) was built, and the final third, at the north, remains to be excavated.
@@ -102,6 +82,26 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 - J.-P Morel, "Il giardino adrianeo" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 73-75. [(worldcat)](https://search.worldcat.org/title/5894435382)
 - S. Leo, "Vasi da fiori" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 75-76. [(worldcat)](https://search.worldcat.org/title/5894435382)
 - F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](https://search.worldcat.org/title/643147049)
+
+## Keywords
+
+- {{< keyword "allées" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "canals" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "lead" >}}
+- {{< keyword "pipes" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "plinths" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "sewers" >}}
+- {{< keyword "statues" >}}
 
 ## Places
 

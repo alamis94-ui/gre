@@ -32,13 +32,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 Casa di Galba
 
-## Keywords
-
-- {{< keyword "stuccoing" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "exedrae (site elements)" >}}
-
 ## Garden Description
 
 The excavation of this site was begun in 1873-1874 and is still incomplete. A silver bust, supposedly of the emperor Galba, found in the street in front of this house gave the site its name. Twelve stuccoed tufa columns support a portico which encloses this peristyle garden. A marble faced cruciform basin in the center contained a small column with a fountain. The columns were connected by a low wall with an entrance on the east opposite the exedra providing a view of the garden and fountain.
@@ -46,6 +39,13 @@ The excavation of this site was begun in 1873-1874 and is still incomplete. A si
 ## Plans
 
 {{< image file="herculaneum_casa_di_galba.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "stuccoing" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "exedrae (site elements)" >}}
 
 ## Places
 

@@ -36,11 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden in the courtyard of the buildings to the East of the *Inferi Nymphaeum* (Fig. 1, n. 22)
 
-## Keywords
-
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "nymphaea" >}}
-
 ## Garden Description
 
 The presence of a garden on the eastern side of this luxurious pavilion with its monumental *exedra* is denounced by the high presence of lead in its soil (SALZA PRINA RICOTTI 1994-95, fig. 7). Although peripheral to the Hadrianic residence, this place must have been of great importance. There was a very large building that at this moment is still a bit of mystery (Figg. 65 and 66). It is quite far away, it has a monumental terrace on which Piranesi imagined a little round temple; during my survey I found fragments of fine marbles all around it and the floors of the rooms around the terrace are paved with mosaic. Apart of all this it must have had some special meaning also for the successors of Hadrian as it was tended with particular care up to the end of the Empire. That is very strange. This garden is set in an area where some very important buildings, as the Academy, the Odeon and other luxurious pavilions existed but, at Hadrian's death, were abandoned and never watered, while the so called "Temple of Pluto" was tended up till the end of the Roman Empire.  We can't avoid asking ourselves: "Why?"
@@ -84,6 +79,11 @@ unspecified
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 <!-- Bibliography for Garden Description -->
 - E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67, 1994-95, fig. 7. [(worldcat)](https://search.worldcat.org/title/1006002216)<!-- link to specific issue needed -->
+
+## Keywords
+
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Places
 

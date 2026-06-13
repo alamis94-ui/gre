@@ -36,31 +36,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "impluvia" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "biclinia" >}}
-- {{< keyword "aedicules" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "insulae" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "arbors" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "water supply systems" >}}
-- {{< keyword "fountains" >}}
-
-## House
-
-House of M. Loreius Tiburtinus [Della Corte]; of D. Octavius Quartio [Spinazzola]
-
-## Garden
-
-Large garden planted with trees and decorated with a water channel (euripus), garden paintings, garden statues, and a [biclinium](http://vocab.getty.edu/page/aat/300170371) and triclinium](http://vocab.getty.edu/page/aat/300004359). Inside, a spacious [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) with [fountains](http://vocab.getty.edu/page/aat/300006179) was decorated with flowers in planting boxes and ornamentals.
-
 ## Garden Description
 
 A. The spacious Tuscan [atrium](http://vocab.getty.edu/page/aat/300004097) of this luxurious house excavated in 1918-1921 was a lavish garden. A low, double masonry wall, faced with marble on the outside, bordered the [impluvium](http://vocab.getty.edu/page/aat/300129867) and according to Spinazzola, the space between the walls had been lined with wood to form a planting box for flowers and ornamentals. The pool had a [fountain](http://vocab.getty.edu/page/aat/300006179) base, which may have held a statuette, and bases in the center of each side may have held additional statuary. On the north side of the [impluvium](http://vocab.getty.edu/page/aat/300129867) pipe remains, as well as the cavity where the pipe emerged from under the south base, were excavated. Bombing during WWII extensively damaged the other two sides but these have since been restored.
@@ -88,6 +63,31 @@ P. Soprano, 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di 
 Vittorio Spinazzola, 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza, pp.407-418 and figs. 467-478, 481 on pp.409-416, 418.*
 Thomas D. Price and A. W. Van Buren, 1935, *'The House of Marcus Loreius Tiburtinus at Pompei', In MAAR 12, pp.151-153 and pls. 11-13.*
 Paul Zanker, 1998, *Pompeii: Public and Private Life, pp.477-480.*
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "impluvia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "biclinia" >}}
+- {{< keyword "aedicules" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "arbors" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "water supply systems" >}}
+- {{< keyword "fountains" >}}
+
+## House
+
+House of M. Loreius Tiburtinus [Della Corte]; of D. Octavius Quartio [Spinazzola]
+
+## Garden
+
+Large garden planted with trees and decorated with a water channel (euripus), garden paintings, garden statues, and a [biclinium](http://vocab.getty.edu/page/aat/300170371) and triclinium](http://vocab.getty.edu/page/aat/300004359). Inside, a spacious [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) with [fountains](http://vocab.getty.edu/page/aat/300006179) was decorated with flowers in planting boxes and ornamentals.
 
 ## Places
 

@@ -28,12 +28,6 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
 
 House of the Skeletons
 
-## Keywords
-
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "axial plan" >}}
-
 ## Garden Description
 
 The peristyle garden of the fourth domus follows a different pattern.  In contrast to the House of the Swastika Mosaic, this house is very squarely centered on the garden. The axis of the entrance bisects the garden and the triclinium on the other side.  A shallow rill with a small exedra on this axis winds around the peristyle, leaving a cultivated rectangle in the center.  In front of the triclinium there is a square pool, also shallow, lined with slabs of limestone and set into the cultivated area but not joined to the rill.
@@ -60,6 +54,12 @@ The houses were excavated around 1940, at a time when there was no thought of re
 
 - J. Alarcão and R. Etienne, "Les jardins a Conimbriga (Portugal)" in Ancient Roman Gardens, Dumbarton Oaks Colloquium on the History of Landscape Architecture,no. 7. 1979, E. B. MacDougall and W. F. Jashemski eds.  Washington, D. C., 1981, pp. 67-80. [(worldcat)](https://search.worldcat.org/title/495350071)
 - V. Hipólito Carreia, Conimbriga, Guide to the Ruins, Instituto Portugués de Museus, 2006. [(worldcat)](https://search.worldcat.org/title/927151602)
+
+## Keywords
+
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "axial plan" >}}
 
 ## Places
 

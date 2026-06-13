@@ -30,14 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "columns" >}}
-
-## Garden
-
-Small viridarium to the rear of a house.
-
 ## Garden Description
 
 The small viridarium at the rear of the house had narrow, slightly raised beds along the walls on the north and east side. These beds were for the cultivation of flowers, according to Fiorelli. A small vestibule on the north side of the garden was decorated with remnants of tufa [columns](http://vocab.getty.edu/page/aat/300001571) brought from another site.
@@ -49,6 +41,14 @@ The small viridarium at the rear of the house had narrow, slightly raised beds a
 - Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 76
 - Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 10
 - Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, plate no.12.
+
+## Keywords
+
+- {{< keyword "columns" >}}
+
+## Garden
+
+Small viridarium to the rear of a house.
 
 ## Places
 

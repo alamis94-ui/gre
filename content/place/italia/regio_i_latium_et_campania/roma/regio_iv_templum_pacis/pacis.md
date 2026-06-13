@@ -28,41 +28,6 @@ draft: true
 
 Garden of the Templum Pacis
 
-## Keywords
-
-- {{< keyword "altars" >}}
-- {{< keyword "column bases" >}}
-- {{< keyword "basins" >}}
-- {{< keyword "brick" >}}
-- {{< keyword "canals" >}}
-- {{< keyword "concrete" >}}
-- {{< keyword "cornices" >}}
-- {{< keyword "capitals" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "engaged columns" >}}
-- {{< keyword "entablatures" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "flower gardens" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "hedges" >}}
-- {{< keyword "libraries" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "pipes" >}}
-- {{< keyword "planting beds" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- [Aulus Gellius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.659)
-- [Aurelius Victor](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1469)
-- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
-- [Josephus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.793)
-- [Juvenal](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.800)
-- [Pausanias](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054)
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-- [Procopius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1697)
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-
 ## Garden Description
 
 [Vespasian](https://en.wikipedia.org/wiki/Vespasian) vowed the [*Templum Pacis*](https://en.wikipedia.org/wiki/Temple_of_Peace,_Rome), also known as the *Forum Vespasiani*, in 71 CE (Josephus *BJ* [7.158](http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.158); Seut. *Vesp.* [9.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo020.perseus-lat1:9)) as a victory monument celebrating his military achievements in [Judaea](https://en.wikipedia.org/wiki/Judea) and dedicated it four years later (Dio Cassius [65.15.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:65.15.1) | [Trans](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/65*.html); Aurelius Victor *Caes.* [9.7](https://www.forumromanum.org/literature/victor_ep.html); *Epit. De Caes.* [9.8](https://www.forumromanum.org/literature/victor_ep.html)). Vespasian constructed the *Templum Pacis* to the northeast of the [*Forum Romanum*](https://en.wikipedia.org/wiki/Roman_Forum) and adjacent to the [*Forum Transitorium*](https://en.wikipedia.org/wiki/Forum_of_Nerva), also known as the Forum of Nerva. The ancient sources refer to the complex as the *Templum Pacis*; only in the fourth century CE and later is it referred to as the *Forum Pacis*. [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) considered it the most beautiful building in Rome (*NH* 36.102). It is known from the [*Forma Urbis Romae*](https://en.wikipedia.org/wiki/Forma_Urbis_Romae) (*FUR*), ancient sources, and archaeological excavations (Fig. 1).
@@ -100,6 +65,41 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 - P. L. Tucci, *The Temple of Peace in Rome*, Cambridge: Cambridge University Press, 2017. [(worldcat)](https://search.worldcat.org/title/1025338560)
 
 <!--
+## Keywords
+
+- {{< keyword "altars" >}}
+- {{< keyword "column bases" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "brick" >}}
+- {{< keyword "canals" >}}
+- {{< keyword "concrete" >}}
+- {{< keyword "cornices" >}}
+- {{< keyword "capitals" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "engaged columns" >}}
+- {{< keyword "entablatures" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "hedges" >}}
+- {{< keyword "libraries" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "pipes" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- [Aulus Gellius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.659)
+- [Aurelius Victor](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1469)
+- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
+- [Josephus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.793)
+- [Juvenal](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.800)
+- [Pausanias](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054)
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+- [Procopius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1697)
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+
 ## Places
 
 - {{< id vocab="Pleiades" id="" name="" >}}

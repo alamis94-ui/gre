@@ -46,10 +46,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 Villa of Santa Lucia
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 Excavation in 1968-1972 at this site, which has been reburied, revealed over half the area of a large, fourth century villa, laid out around a central *peristyle* garden (31.2 x 28.8 m). The excavations exposed the western half of the site while samples and trenches established the broad outlines of the eastern half. The oecus on the north side had a good view of the garden. Directly across from it were double-horseshoe-shaped baths on the south.  Though mosaics are few, other finds indicate that the villa saw an intense and brilliant use during the fourth century and into the fifth, when there are signs of remodelling.  The villa was briefly abandoned in Visigoth times, the in the mid-3rd century used as a necropolis.
@@ -63,6 +59,10 @@ Excavation in 1968-1972 at this site, which has been reburied, revealed over hal
 - M.ª Lucas and V. Viñas, *La villa romana de Aguilafuente (Segovia) in Symposium de arqueología romana*, Segovia y la arqueología romana. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 239-255.[(worldcat)](https://search.worldcat.org/title/7180188573)
 
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986;  J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. [(worldcat)](https://search.worldcat.org/title/758189394)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
 
 ## Places
 

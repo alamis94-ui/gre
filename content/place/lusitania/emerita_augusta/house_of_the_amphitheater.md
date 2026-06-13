@@ -42,15 +42,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 House of the Amphitheater
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "water wells" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 Next to the Amphitheater, on the east side of Augusta Emerita, are the remains of two extramural residences. The archaeological excavations of these domestic structures were begun in 1947 by José de Calasanz Serra Ráfols, who was succeeded by M. Pous, Álvarez Sáenz de Buruaga, and E. García Sandoval. Although chronologically distinct, the two houses are known together as the "House of the Amphitheater" due to their proximity to that monument.
@@ -86,6 +77,15 @@ from 1947
 - A. Balil Illana, A. 1976: "Sobre la arquitectura doméstica en Augusta Emerita", *Augusta Emerita Actas del Bimilenario de Mérida, Mérida*, 75-91. [(worldcat)](https://search.worldcat.org/title/256553527)
 - E. García Sandoval, Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8 (i964): 469-477 [(worldcat)](https://search.worldcat.org/title/43198027)
 - E. García Sandoval, Informe sobre las casa romanas de Mérida y excavaciones en la «Casa del Anfiteatro»," in *Excavaciones Arqueológicas en España*  nº. 49, Madrid, 1964. [(worldcat)](https://search.worldcat.org/title/681090209)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

@@ -29,25 +29,6 @@ draft: false
 
 Garden of the Hercules Musarum
 
-## Keywords
-
-- {{< keyword "temples" >}}
-- {{< keyword "auditoriums" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "lucus (grove)" >}}
-- {{< keyword "groves" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "podiums (building divisions)" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- [Eumenius Panegyricus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.592)
-- [Macrobius](https://catalog.perseus.org/catalog/urn:cite:perseus:author.872)
-- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-- [Valerius Maximus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1448)
-
 ## Garden Description
 
 The [*Aedes Hercules Musarum*](http://archive1.village.virginia.edu/spw4s/RomanForum/GoogleEarth/AK_GE/AK_HTML/TS-031.html) was located in the southern [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius). It was enclosed by the [*Porticus Philippi*](https://www.digitalaugustanrome.org/records/porticus-phillippi) (61 x 92 m.) in the late Republican period. Known from several fragments of the [Severan Marble Plan (*Forma Urbis Romae*)](https://en.wikipedia.org/wiki/Forma_Urbis_Romae), it was also adjacent (to the northwest) to the [*Porticus Octaviae*](https://www.digitalaugustanrome.org/records/porticus-octaviae) (Figs. 1-2). [M. Fulvius Nobilior](https://en.wikipedia.org/wiki/Marcus_Fulvius_Nobilior_(consul_189_BC)), consul in 189 BCE (and censor with [M. Aemilius Lepidus](https://www.britannica.com/biography/Marcus-Aemilius-Lepidus-Roman-statesman-died-152-BC) in 179 BCE), may have built the temple between 187 and 179 BCE (Eumen. Pan. 5.7.3) after his triumph. [Ovid](https://en.wikipedia.org/wiki/Ovid) ([*Fast.* 6.801-2](http://data.perseus.org/citations/urn:cts:latinLit:phi0959.phi007.perseus-lat1:6)) and [Suetonius](https://en.wikipedia.org/wiki/Suetonius) ([Aug. 29.5](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo012.perseus-lat1:29.5)) state that [L. Marcius Philippus](https://en.wikipedia.org/wiki/Lucius_Marcius_Philippus_(consul_38_BC)) (who had a [triumph](https://en.wikipedia.org/wiki/Roman_triumph) in 34 or 33 BCE) restored the temple and built the [portico](http://vocab.getty.edu/page/aat/300004145) around it.
@@ -82,6 +63,25 @@ Built between 187 and 179 BCE; restoration and portico constructed in Late Repub
 - F. Castagnoli, "Porticus Philippi," *Analecta Romana Instituti Danici* suppl. 10 (1983), pp. 93-104. [(worldcat)](https://search.worldcat.org/title/1708903)
 - F. Coarelli, *Il Campo Marzio*, 1997, pp. 452-84. [(worldcat)](https://search.worldcat.org/title/906743621)
 - A. Viscogliosi, s.v. "Porticus Philippi," *Lexicon topographicum urbis Romae* IV, pp. 146-48. [(worldcat)](https://search.worldcat.org/title/772398569)
+
+## Keywords
+
+- {{< keyword "temples" >}}
+- {{< keyword "auditoriums" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "lucus (grove)" >}}
+- {{< keyword "groves" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "podiums (building divisions)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- [Eumenius Panegyricus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.592)
+- [Macrobius](https://catalog.perseus.org/catalog/urn:cite:perseus:author.872)
+- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+- [Valerius Maximus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1448)
 
 ## Places
 

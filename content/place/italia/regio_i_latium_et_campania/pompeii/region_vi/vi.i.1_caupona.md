@@ -49,13 +49,6 @@ VI.I.1
 <!-- List of gardens in province -->
 <!-- May be left blank for now -->
 
-## Keywords
-
-- {{< keyword "triclinia" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "gutters" >}}
-
 ## Garden Description
 
 Just inside the *Porta di Ercolano* was a small inn pressed against the city wall that had a garden with a masonry *triclinium* (l. *medius*, 3.95 m.; *l. imus* 4.00; *l. summus* 3.75 m.). A vine covered pergola had provided shade to the *triclinium* and the sockets in the back wall where the pergola roof supports fitted were visible when this area was excavated in 1787. Rooms upstairs provided overnight accommodations for guests. A cistern opening in the southwest corner of the garden received water from a gutter that ran along the south edge.
@@ -78,6 +71,13 @@ Soprano, p. 300, no. 13.
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
+
+## Keywords
+
+- {{< keyword "triclinia" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "gutters" >}}
 
 ## Places
 

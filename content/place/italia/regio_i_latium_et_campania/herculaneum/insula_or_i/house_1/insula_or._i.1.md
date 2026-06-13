@@ -34,11 +34,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 B
 
-## Keywords
-
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "loggias" >}}
-
 ## Garden Description
 
 B. The front of this house has an L-shaped terrace (b) which provided a passageway between the kitchen and the triclinium that opened onto the long loggia (c) with a spectacular view of the Bay. The terrace could have been decorated with potted plants. A gutter on the edges of the terrace, excepting the southeast corner, collected rain water.
@@ -51,6 +46,11 @@ B. The front of this house has an L-shaped terrace (b) which provided a passagew
 ## Images
 
 {{< image file="herc.i.1_17.11.78.jpg" caption="Herculaneum - insula orientalis I. 1-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "loggias" >}}
 
 ## Places
 

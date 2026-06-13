@@ -19,13 +19,6 @@ draft: false
 
 Rural Villa in Darenth
 
-## Keywords
-
-- {{< keyword "kitchen gardens" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "villae rusticae" >}}
-- {{< keyword "waterspouts" >}}
-
 ## Garden Description
 
 Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after CE 100 and continued until the closing decades of the 4th century.
@@ -52,6 +45,13 @@ ca. 100 CE - late 4th century CE
 
 - A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](https://search.worldcat.org/title/247009310)
 - B. Philp, *Excavations in the Darent Valley*, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. [(worldcat)](https://search.worldcat.org/title/896055765)
+
+## Keywords
+
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "waterspouts" >}}
 
 ## Places
 

@@ -28,10 +28,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 Villa de Milreu
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 The ruins of this villa are 0.9 km west of the center of Estoi.  Strabo (3.2.5) mentions Ossonoba as a town on an estuary in this part of Lusitania.  The Roman temple at the Milreu site, still standing to the springline of its vaults, always marked this spot as a Roman settlement, and many concluded that it must be Ossonoba.  Among those of this opinion was Sebastião Philippes Martins Estácio da Veiga, who first excavated the site in 1877.  He wrote that he had "brought to light the famous cathedral of Ossonoba." Controversy swirled over the identification of the ruins as it became increasingly clear that they were those of an affluent villa.  The dispute was not resolved until 1952 when Abel Viana produced irrefutable evidence that the ruins of Ossonoba lie under modern Faro.
@@ -62,6 +58,10 @@ The archaeologists working on the site have not produced a detailed sequence of 
 <!-- ## Bibliography
 
 - T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](https://search.worldcat.org/title/927151602) -->
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
 
 ## Places
 

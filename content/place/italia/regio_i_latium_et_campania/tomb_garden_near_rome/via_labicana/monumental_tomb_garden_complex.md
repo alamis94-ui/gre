@@ -27,15 +27,6 @@ An ancient Roman road connecting Rome and Labicum.
 
 Monumental Tomb Garden Complex
 
-## Keywords
-
-- {{< keyword "courtyards" >}}
-- {{< keyword "ditches" >}}
-- {{< keyword "epitaphs" >}}
-- {{< keyword "funerary buildings" >}}
-- {{< keyword "sepulchral monuments" >}}
-- {{< keyword "tombs" >}}
-
 ## Garden Description
 
 Two conjoining fragments of a cut marble slab found in the cemetery of Centocelle at the third mile of the Via Labicana, now in the Palazzo Ducale in Urbino, show part of a plan (not drawn to scale) of a large rectangular funerary garden (546 x 524.5  Roman feet, almost exactly 10 iugera, about 5.8 acres, in area) bounded on at least two sides by a private road that branched off near the end of a longer side to intersect a public thoroughfare 1,783 Roman feet (about 1/3rd of a Roman mile) long, beside which several rectangular tomb plots, some marked with border cippi at the (rear?) corners, are marked off in a reed bed. To judge from the stippling on the stone (incompletely marked on the most frequently reproduced drawing of the plan), a second reed bed occupying a triangular plot  between the shorter length of private road and a ditch on the opposite side (a subsecivum) extended perpendicularly from the short side of the triangle at the hypotenuse in a narrow band equal in width to that of the reed bed beside the public road and the private road around the perimeter of the enclosure (see the photograph in Luni, fig. 6). De Rossi believed, on no firm evidence, that the property bounded by the public road and reed bed extending off the top of the plan was productive agricultural land attached to the tomb; if so, the territory was perhaps circumscribed by a band of reedbeds and private roads of uniform width bordering the property. But since we know neither the purpose nor the original extent of the plan, the significance of the undifferentiated area outside the enclosed tomb garden remains a matter of speculation: the only features labeled on the plan are the public road, the ditch, and the stippled reedbeds.
@@ -62,6 +53,15 @@ The plan was dated as early as the Augustan age, the scale and design seem more 
 
 - R. Volpe,*Cento anni a Centocelle: dal volo di Wilbur Wright ai recenti scavi,*  in Atti del Convegno Nazionale di Archeologia Aerea "100 anni di Archeologia Aerea in Italia" (Roma 15-17 aprile 2009), Archeologia Aerea 4-5, 2010-2011, pp.41-46.  Fig. 3
 [worldcat](https://search.worldcat.org/title/819281762)
+
+## Keywords
+
+- {{< keyword "courtyards" >}}
+- {{< keyword "ditches" >}}
+- {{< keyword "epitaphs" >}}
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "sepulchral monuments" >}}
+- {{< keyword "tombs" >}}
 
 ## Places
 

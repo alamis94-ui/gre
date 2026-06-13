@@ -29,11 +29,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 Villa Sao Cucufate
 
-## Keywords
-
-- {{< keyword "tablina" >}}
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 This villa, which lies southeast of Lisbon, had multiple construction phases, investigated by J. Alarcão, R. Etienne, and F. Mayet.  The key to distinguishing the first villa from the second turned out to be that the first was made of granite without mortar, while the second was built of schist.  It was a modest structure with a patio [Fig. 1, 7], quite possibly an informal garden, surrounded on two sides by galleries [6]. Rooms [3], [4], and [5] were the family's living quarters. Half-buried jars made clear that room [10] was a storeroom, presumably for grain, oil, and wine.  Dating this phase is uncertain; some terra sigillata suggests a date in the mid 1st century.
@@ -61,6 +56,11 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 ## Bibliography
 
 - J. G. Gorges, pp. 124 and 477; J. de Alarcão, S. Cucufate. Roteiros da Arqueologia Portuguesa 5. Instituto Portugues do Patrimonio Arquitectónico, 1988. [(worldcat)](https://search.worldcat.org/title/54521562)
+
+## Keywords
+
+- {{< keyword "tablina" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

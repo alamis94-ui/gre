@@ -32,11 +32,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula IV]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "atriums" >}}
-
 ## Garden Description
 
 This tiny house with the small atrium and adjacent rooms had formerly been a porticoed garden, part of house 15 according to Fiorelli.
@@ -44,6 +39,11 @@ This tiny house with the small atrium and adjacent rooms had formerly been a por
 ## Plans
 
 {{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "atriums" >}}
 
 ## Places
 

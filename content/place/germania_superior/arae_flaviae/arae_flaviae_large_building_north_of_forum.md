@@ -22,13 +22,6 @@ This town on the Neckar river was granted municipal status around 84 AD or sligh
 
 Large Building north of Forum in Arae Flaviae
 
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "vestibules" >}}
-
 ## Garden Description
 
 This building ca. 95 meters in width consisted of several units built at different times. These may represent more than one house, or they may be parts of one large house. The southern part of the complex, entered from the colonnaded street on the west, had a vestibule or corridor leading into a peristyle courtyard. This may have been planted, although the excavators could find no clear evidence of this. Beyond the peristyle to the east was a series of rooms, including one large room presumably with representative character, and an open area interpreted as a courtyard or garden (G in Fig. 1). The complex was built at the earliest during the reign of Trajan, but additions and alterations followed throughout the 2nd and perhaps the 3rd century.
@@ -48,6 +41,13 @@ Complex built at the earliest during the reign of Trajan.
 ## Bibliography
 
 - C. S. Sommer, "Municipium Arae Flaviae. Militärisches und ziviles Zentrum im rechtsrheinischen Obergermanien," *Bericht der Römisch-Germanischen Kommission 73*, 1992: 301-302, Beilage 1.2.
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "vestibules" >}}
 
 ## Places
 

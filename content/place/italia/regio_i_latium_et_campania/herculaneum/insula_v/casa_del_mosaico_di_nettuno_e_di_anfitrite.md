@@ -36,12 +36,6 @@ V
 
 Casa del Mosaico di Nettuno e di Anfitrite
 
-## Keywords
-
-- {{< keyword "sacella" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "amphorae" >}}
-
 ## Garden Description
 
 550.V.6/7
@@ -62,6 +56,12 @@ To the very back of this house, excavated in 1932-1936, there was a small courty
 {{< image file="herc.iii.19-18.1-2-17.2.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "sacella" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "amphorae" >}}
 
 ## Places
 

@@ -42,11 +42,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 House of the Hill Garden
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "mosaics" >}}
-
 ## Garden Description
 
 Very little is known about the characteristics of this intramurally situated domus, whose remains were discovered in 1976 during explorations in the grounds of the 'Hill Garden.'  In the emergency excavations carried out by José Álvarez Sáenz de Buruaga, the remains of two peristyles were discovered with mural paintings and mosaic pavements dated to the end of the second or early third century CE. The structures of this house, only partially excavated, have been buried again for the sake of preservation and are no longer visible.
@@ -58,6 +53,11 @@ The end of the 2nd or early 3rd century AD
 ## Bibliography
 
 - A. Blanco Freijeiro, *Corpus de mosaicos romanos de España*, 1(1978):  48-49. [(worldcat)](https://search.worldcat.org/title/801845218)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics" >}}
 
 ## Places
 

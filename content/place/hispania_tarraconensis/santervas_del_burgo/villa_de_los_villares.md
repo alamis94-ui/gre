@@ -50,13 +50,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 Villa de Los Villares
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "mosaics" >}}
-
 ## Garden Description
 
 The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos.  The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.
@@ -74,6 +67,13 @@ The first third of the 2nd century
 
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1982 [(worldcat)](https://search.worldcat.org/title/876519837)
 - J. M. Blázquez, Los jardines en la Hispania Romana, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 33 [(worldcat)](https://search.worldcat.org/title/1090911182)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "mosaics" >}}
 
 ## Places
 

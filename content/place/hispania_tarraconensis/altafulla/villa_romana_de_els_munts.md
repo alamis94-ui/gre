@@ -50,10 +50,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 Villa Romana de els Munts
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 This richly adorned pleasure villa by the sea was built early in the first century AD and continued in use into the fifth century.  Its period of greatest splendor was between about 100 and 250 AD.  It was pillaged and burned shortly after 268, dated by a hoard of coins found in the underground prison. The prison was equipped with stocks, presumably for punishment of slaves. The mansion was rebuilt and enlarged during the fourth century AD.
@@ -75,6 +71,10 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 - F. Tarrats, E. Ramón Seriñena and J. M. Macías I Solé, *Noves intervencions a la vil.la romana dels Munts*, in Tribuna d'Arqueologia 1996-1997. Generalitat de Catalunya, Barcelona, 1997, pp. 35-56. [(worldcat)](https://search.worldcat.org/title/47686221)
 
 - J.G. Gorges, *Les villes hispano-romaines*. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, p. 407-8. [(worldcat)](https://search.worldcat.org/title/803415143)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
 
 ## Places
 

@@ -33,11 +33,6 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 
 House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 
-## Keywords
-
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "domus" >}}
-
 ## Garden Description
 
 This large house (2500m2) was laid out around two peristyles. The E peristyle had 12 columns onto which at least three rooms opened. The large peristyle on the W, was bordered by three porticos, its large courtyard may have been planted. Between the peristyles was placed a reception room that opened into each of them.
@@ -60,6 +55,11 @@ This large house (2500m2) was laid out around two peristyles. The E peristyle ha
 - Ballu A., *Rapport* 1923, p. 45-47: plan dépliant. [(worldcat)](https://search.worldcat.org/title/494571409)
 - Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 - Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](https://search.worldcat.org/title/643640586)
+
+## Keywords
+
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "domus" >}}
 
 ## Places
 

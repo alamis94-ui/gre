@@ -27,18 +27,6 @@ Caelian Hill \
 
 Garden of the Temple of Divine Claudius, Palatine
 
-## Keywords
-
-- {{< keyword "aqueducts" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "nemus (grove)" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "planting beds" >}}
-- {{< keyword "stagnum (man-made lake)" >}}
-- {{< keyword "temples" >}}
-
 ## Garden Description
 
 The [Temple of the Divine Claudius](https://en.wikipedia.org/wiki/Temple_of_Claudius), located on the northern slope of the [Caelian Hill](https://en.wikipedia.org/wiki/Caelian_Hill), was constructed in multiple phases. The [temple](http://vocab.getty.edu/page/aat/300007595) is known from the [Severan Marble Plan (*FUR*)]((https://formaurbis.stanford.edu/index.php?field0=all&search0=CLAUDIUS&op0=and&field1=all&search1=)) (Fig. 1) and from archaeological remains.  [Agrippina](https://www.britannica.com/biography/Julia-Agrippina) initiated the building of the temple but was murdered before its completion. After the fire of 64 CE, [Nero](https://www.britannica.com/biography/Nero-Roman-emperor) altered the temple to include it in the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea) ([Seutonius *Vesp*. 9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0061%3Alife%3Dves.%3Achapter%3D9%3Asection%3D1);  [Frontinus *Aq*. 2.76](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Frontinus/De_Aquis/text*.html)). [Vespasian](https://www.britannica.com/biography/Vespasian) completed the temple in 69 CE.
@@ -65,6 +53,18 @@ unspecified
 - R.H. Darwall-Smith, *Emperors and Architecture: A Study of Flavian Rome.* Bruxelles, 1996, pp. 48-55, pl. 4-5. [(worldcat)](https://search.worldcat.org/title/1000784723)
 - R. Lloyd, "Three Monumental Gardens on the Marble Plan" *American Journal of Archaeology* (1986): 91-100. [(worldcat)](https://search.worldcat.org/title/1076135742)
 - K. Gleason and L. Cockerham, "Rus in Urbe: Two Parks of Ancient Rome" *CELA Proceedings*, 1992, pp. 103-12.[(worldcat)](https://search.worldcat.org/title/741989882)
+
+## Keywords
+
+- {{< keyword "aqueducts" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "stagnum (man-made lake)" >}}
+- {{< keyword "temples" >}}
 
 ## Places
 

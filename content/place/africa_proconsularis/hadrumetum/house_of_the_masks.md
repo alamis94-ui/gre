@@ -24,13 +24,6 @@ Hadrumetum is located on the bay of Hammamet at the edge of the fertile region o
 
 House of the Masks (Maison des Masques)
 
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "oecus cyzicenus" >}}
-<!-- {{< keyword "villae urbanae" >}} -->
-
 ## Garden Description
 
 Known for its mosaic pavements, the *domus* of the Masks was laid out around a large peristyle that may have had a garden.
@@ -54,6 +47,13 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 - Foucher, L., *La Maison des Masques à Sousse, Fouilles 1962-1963*, Notes et documents, VI, Tunis, 1965. [(worldcat)](https://search.worldcat.org/title/318017455)
 - Ghaddhab, R., "Y avait-il un port à Hadrumetum dans l'antiquité tardive?", in *Revue des etudes anciennes*, 2016, Bordeaux, France: Feret & Fils, pp. 175-199. https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf
 - Guizani, S., "L'œcus « cyzicenus » de la maison des Masques à Sousse", in *Revue Tunisienne d'archéologie*, 2013, p. 77-91.[(worldcat)](https://search.worldcat.org/title/949200707)
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "oecus cyzicenus" >}}
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Places
 

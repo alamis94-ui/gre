@@ -36,12 +36,6 @@ IV
 
 Casa dell'Alcova
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "procoeton" >}}
-
 ## Garden Description
 
 542.IV.3-4.
@@ -57,6 +51,12 @@ B. The more elegant dwelling to the south had a long corridor on one side of the
 
 
 <!-- ## Images -->
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "procoeton" >}}
 
 ## Places
 

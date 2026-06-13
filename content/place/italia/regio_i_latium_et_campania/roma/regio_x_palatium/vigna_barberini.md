@@ -29,13 +29,6 @@ draft: false
 
 Vigna Barberini Site Overview, Palatine
 
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "temples" >}}
-
 ## Garden Description
 
 The artificial [terrace](http://vocab.getty.edu/page/aat/300004182) that now carries the [Barberini family](https://en.wikipedia.org/wiki/Barberini_family) name is located on the northeastern corner of the Palatine, beyond the visible remains of the [Flavian Imperial palace](https://en.wikipedia.org/wiki/Flavian_Palace) (Fig. 1). Excavations carried out during the 1930s by A. Bartoli, and in the 1950s by G.F. Carettoni concentrated primarily on the central area of this site.  These campaigns revealed the foundations of a large temple, which Bartoli identified, consistent with the earlier ideas of P. Bigot, as the remains of the late second-century [Temple of Elagabalus](https://en.wikipedia.org/wiki/Elagabalium).
@@ -78,6 +71,13 @@ PHASES OF THE VIGNA BARBERINI SITE:
 - J.-P. Morel, "Stratigraphie et histoire sur le Palatin : la zone centrale de la Vigna Barberini," *Comptes Rendus de l'Académie des Inscriptions & Belles-Lettres*, 1996, pp. 173-205. [(worldcat)](https://search.worldcat.org/title/643571704)
 - F. Villedieu, P. Veltri, "Les soutènements nord-ouest et nord de la terrasse de la Vigna Barberini (Rome, Palatin): constructions et remaniements de l'époque flavienne à l'époque sévérienne," *Mélanges de l'École Française de Rome*, 111 (1999), pp. 749-778. [(worldcat)](https://search.worldcat.org/title/220729070)
 - F. Villedieu , et alii, *Il giardino dei Cesari.* Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001. [(worldcat)](https://search.worldcat.org/title/5894435382)
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "temples" >}}
 
 ## Places
 

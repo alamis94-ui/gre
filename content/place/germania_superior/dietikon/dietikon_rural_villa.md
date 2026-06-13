@@ -19,15 +19,6 @@ draft: true
 
 Rural Villa in Dietikon
 
-## Keywords
-
-- {{< keyword "axial plan" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "villae rusticae" >}}
-
 ## Garden Description
 
 This villa rustica complex was built on a site at the bottom of a valley near and parallel to the river Limmat. Dietikon was situated on an important land and water traffic route from the Bündner Alps to Vindonissa and further north to the Rhine. Recent excavations supply valuable evidence for a garden in front of the entrance to a rural residence, giving insight into the appearance of other similar villas at which, for one reason or another, no physical remains of gardens have been retrieved. The excavations revealed a first villa with timber buildings dating to the Tiberian period, or early 1st century AD. Around the middle of the 1st century AD these first buildings were replaced by an axially-constructed stone-built villa complex with an enclosure, covering a total surface of 13 hectares (Fig. 1 and 4).
@@ -65,6 +56,15 @@ Stone-built villa: Middle of the 1st century CE
 - C. Ebnöther, "Die Gartenanlage in der pars urbana des Gutshofes von Dietikon ZH," *Archäologie der Schweiz* 14, 1991:250-256. [(worldcat)](https://search.worldcat.org/title/891753339)
 - C. Ebnöther, *Der römische Gutshof in Dietikon*. Monographien der Kantonsarchäologie Zürich 25, Zürich, 1995, pp. 36-45, 49-50, figs. 21, 36-37,41-42. [(worldcat)](https://search.worldcat.org/title/891774240)
 - L. Flutsch, U. Niffeler, F. Rossi, eds., *La Suisse du Paléolithique à l'aube du Moyen-Age (SPM) V. Epoque romaine/Età Romana*, Basel, 2002, p. 143, fig. 140. [(worldcat)](https://search.worldcat.org/title/492139765)
+
+## Keywords
+
+- {{< keyword "axial plan" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

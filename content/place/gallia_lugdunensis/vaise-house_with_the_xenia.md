@@ -18,13 +18,6 @@ draft: true
 
 House with Pilasters (Clos du Verbe Incarné)
 
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "drains" >}}
-
 ## Garden Description
 
 *Xenia* were gifts of game, fish, poultry, fruits or vegetables given by a host to a guest to be cooked to the guest's liking. Here, the name comes from the discovery of a *pinax* (a painted ceramic tablet) showing *xenia.* This house was discovered during excavation of the southern sector of the Saint-Pierre land management zone (ZAC) in a suburban quarter of Lyon. The building –one hesitates whether to call it a suburban *villa* or a *domus*–extends over 630 square meters. There are traces of occupation of the site in Augustan times, but the house (29 x 24 m) was built in the reign of Tiberius. It is organized in two perpendicular wings around a courtyard with *porticos* in a U. The galleries are 3.5 meters wide. In this first phase, nine rooms were placed around the court.
@@ -52,6 +45,13 @@ Unspecified
 ## Bibliography
 
 - E. Delaval, C. Bellon, J. Chastel, E. Plassot, L. Tranoy, *Vaise, un quartier de Lyon antique,* Document d'archéologie en Rhône-Alpes n° 5, Lyon, 1995. E. Plassot, Le quartier Saint-Pierre, la maison aux *xenia*, p. 71-129.  [(worldcat)](https://search.worldcat.org/title/1031979297)
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "drains" >}}
 
 ## Places
 

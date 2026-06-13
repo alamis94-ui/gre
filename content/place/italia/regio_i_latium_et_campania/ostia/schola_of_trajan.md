@@ -49,17 +49,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 Schola of Trajan
 
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "Ionic" >}}
-- {{< keyword "jeux d'eau" >}}
-- {{< keyword "parapets" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "water supply systems" >}}
-
 ## Garden Description
 
 The monumental complex of the Schola of the Trajan, presumed headquarters of the corporation of the marine carpenters, was built *c*.160-200 and abandoned after the 4th century CE. It was excavated and restored during the winter of 1938-1939. It includes a vast internal [courtyard](http://vocab.getty.edu/page/aat/300004095), which is oblong and marked with an obtuse angle in its median part (Fig. 1, a). Unfortunately, ancient damage and early, inaccurate excavations make it impossible to know if this space was paved or a garden.
@@ -93,6 +82,17 @@ winter of 1938-1939
 <!-- Bibliography for Garden Description -->
 - *Giornale degli Scavi*, 1938, pp. 65-69, 75-81.
 - T. Morard and D. Wavelet, *Mélanges de l'École française de Rome: Antiquité* Tome 114, No. 2 (2002), Rome, pp. 759-815. [(worldcat)](https://search.worldcat.org/title/859589040) [hathitrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&view=2up&seq=183)
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "Ionic" >}}
+- {{< keyword "jeux d'eau" >}}
+- {{< keyword "parapets" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "water supply systems" >}}
 
 ## Places
 

@@ -37,12 +37,6 @@ The realization of this magnificent residence must have been a cherished dream o
 The Garden of the Piazza d'Oro (Fig. 1, n. 20)\
 - {{< id vocab="Pleiades" id="379689233" name="Piazza d'Oro at Hadrian's Villa" >}}
 
-## Keywords
-
-- {{< keyword "flower gardens" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 The garden of the Piazza d'Oro is one of the most prestigious and interesting of Villa Adriana. It consists of a peristyle garden set amid a double portico and surrounded by some of the most elegant buildings of this imperial residence (Figg. 54 and 55). The garden, which occupies the central part of the peristyle, was probed in 1987. Afterwards, in 1988, with the sponsorship of Dumbarton Oaks and the help of the Latium Superintendence, it was partially excavated (SALZA PRINA RICOTTI 1987, pp. 180-181, figs. 29-34; JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 162-169, figs. 16-22; JASHEMSKI, SALZA PRINA RICOTTI 1992, pp. 585-595, figs. 8-17; SALZA PRINA RICOTTI 1998, pp. 370-374, figs. 4-8; SALZA PRINA RICOTTI 2000, pp. 339-354, figs. 117-126). Here the nearly surfacing platform of tufa was a great help to find where the flowerbeds were and how the garden was arranged (Fig. 56). The first thing that was discovered was a double line of deep holes, m 1.80 long, 0.90 wide and 1.20 deep which circled all the area (Fig. 56, f). Their size proved that they were meant for trees, but which ones? As we didn't find any seeds, pollens or roots to help us in identifying them, we must rely on what was written in ancient texts. From Pliny we know that in their gardens Romans used cypresses (PLIN. *nat.* 16.60.139-141; PLIN. *epist.* 5.6.16-17), plane trees (PLIN. *nat.* 12.3-5), pine trees, pomegranates, oleanders, laurels (PLIN. *nat.* 15.49.197) and, at the end of the Republic, even lemon trees (PLIN. *nat.* 1.15-16; see JASHEMSKI 1979, pp. 77-79).
@@ -122,6 +116,12 @@ unspecified
 - PLIN. *nat.* 16.28.70
 - PLIN. *nat.* 21.14 and 47
 - E. Salza Prina Ricotti, "Il sistema di irrigazione della Piazza d'Oro", *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 121-150. [(worldcat)](https://search.worldcat.org/title/1074521932)
+
+## Keywords
+
+- {{< keyword "flower gardens" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

@@ -26,8 +26,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 Villa at Castroreale San Biagio
 
-## Keywords
-
 ## Garden Description
 
 There is a rectangular fountain basin set at the south end of the peristyle facing the triclinium, probably of the second century CE. (Figs 8 and 9).
@@ -47,6 +45,8 @@ There is a rectangular fountain basin set at the south end of the peristyle faci
 ## Bibliography
 
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199-203, with figs 165.3 and 166 (202 for the garden).[(worldcat)](https://search.worldcat.org/title/608028740)
+
+## Keywords
 
 ## Places
 

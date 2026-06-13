@@ -56,11 +56,6 @@ The site has been developed as an archaeological park; the monuments are in rema
 
 Bath Complex
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "balnea" >}}
-
 ## Garden Description
 
 N 39 53' 10"  W 2° 48' 45"
@@ -81,6 +76,11 @@ Flavian times（CE 69-96）
 ## Bibliography
 
 - J. M. Blázquez, "Los jardines en la Hispania Romana", in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 26. [(worldcat)](https://search.worldcat.org/title/1090911182)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "balnea" >}}
 
 ## Places
 

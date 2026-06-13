@@ -37,16 +37,6 @@ draft: true
 
 House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "biclinia" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 The garden at the rear of the house, excavated in 1873, is almost totally destroyed. According to Mau, most of the garden was occupied by a large pool (5.40 X 2.90 m.) which was sloped toward the west from where it drained into the street through a pipe. The pool was surrounded by a low wall about 0.55 m. high leaving only a narrow space between the pool and the walls. In the northwest corner were the two beds of a masonry *biclinium* which sloped toward the wall, as was customary. Rainwater falling on them was carried away by a terra-cotta drain which emptied into the pool. A square niche under the north couch provided a storage space. On the wall above this couch was a rectangular niche *lararium* with a roughly made *aedicula* facade (Fig. 3, 2.19.72). At the east end of this couch was a masonry table. Fiorelli reports a planting bed attached to the rear (east) wall. There was a view from the *triclinium* through the large window in the east wall, across the pool to the garden painting on the rear wall.
@@ -89,6 +79,16 @@ unspecified
 - Sogliano, "Pitture," p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580)
 - Soprano, p.305, no. 23.
 - Viola, "*Scavi*" p. 11. [(worldcat)](https://search.worldcat.org/title/715087975)
+
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "biclinia" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

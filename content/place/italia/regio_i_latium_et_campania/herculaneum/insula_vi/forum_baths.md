@@ -36,11 +36,6 @@ VI
 
 Forum Baths
 
-## Keywords
-
-- {{< keyword "palaestrae" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 555.VI.1/7/8/10.
@@ -49,6 +44,11 @@ During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section o
 ## Plans
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "palaestrae" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

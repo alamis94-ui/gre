@@ -22,13 +22,6 @@ Biebrich, now part of Wiesbaden, is directly on the right bank of the Rhein sout
 
 Rural Villa in Wiesbaden-Biebrich
 
-## Keywords
-
-<!-- archaeological garden -->
-
-- {{< keyword "kitchen gardens" >}}
-- {{< keyword "villae rusticae" >}}
-
 ## Garden Description
 
 Only the residential part of this farm has been excavated. The house with a width of 22 meters had two protruding wings at the south. To the west of the house was an area of irregular proportions enclosed by a wall, and this has been interpreted as a kitchen garden (G in Fig. 1).
@@ -49,6 +42,13 @@ unspecified
 ## Bibliography
 
 - D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, p. 495, fig. 471.
+
+## Keywords
+
+<!-- archaeological garden -->
+
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

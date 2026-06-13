@@ -35,19 +35,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "biclinia" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "pools" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
-## Garden
-
-Garden at the rear of the House of L. Vousius Faustus and M. Volusius Faustus.
-
 ## Garden Description
 
 The garden at the rear of the house, excavated in 1873, is almost totally destroyed. According to Mau, most of the garden was occupied by a large [pool](http://vocab.getty.edu/page/aat/300008692) (5m X 2.90m) which was sloped toward the west from where it drained into the street through a pipe. The [pool](http://vocab.getty.edu/page/aat/300008692) was surrounded by a low wall about 0.55m high leaving only a narrow space between the [pool](http://vocab.getty.edu/page/aat/300008692) and the walls. In the northwest corner were the two beds of a masonry [biclinium](http://vocab.getty.edu/page/aat/300170371) which sloped toward the wall, as was customary. Rainwater falling on them was carried away by a terracotta [drain](http://vocab.getty.edu/page/aat/300052564) which emptied into the [pool](http://vocab.getty.edu/page/aat/300008692). A square niche under the north couch provided a storage space. On the wall above this couch was a rectangular niche [lararium](http://vocab.getty.edu/page/aat/300400600) with a roughly made [aedicules](http://vocab.getty.edu/page/aat/300002574) facade. At the east end of this couch was a masonry [table](http://vocab.getty.edu/page/aat/300039548). Fiorelli reports a planting bed attached to the rear (east) wall. There was a view from the [triclinium](http://vocab.getty.edu/page/aat/300004359) through the large window in the east wall, across the pool to the garden painting on the rear wall.
@@ -64,6 +51,19 @@ When this garden was excavated in 1873, the excavators reported three panels on 
 - Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and a nymphaeum)
 - Sogliano, A. 1879. *Le pitture murali campane scoverte negli anni 1867-79*, p. 224, no.694
 Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 11
+
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "biclinia" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "triclinia (rooms)" >}}
+
+## Garden
+
+Garden at the rear of the House of L. Vousius Faustus and M. Volusius Faustus.
 
 ## Places
 

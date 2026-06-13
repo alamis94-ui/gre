@@ -19,15 +19,6 @@ draft: false
 
 Rural Villa in Frocester Court
 
-## Keywords
-
-- {{< keyword "ditches" >}}
-- {{< keyword "fences" >}}
-- {{< keyword "kitchen gardens" >}}
-- {{< keyword "orchards" >}}
-- {{< keyword "paddocks" >}}
-- {{< keyword "villae rusticae" >}}
-
 ## Garden Description
 
 This Roman villa in Gloucestershire is situated about 14 miles west of the civitas capital Corinium Dobunnorum (Cirencester). The main residence is of the winged corridor type, fronted by a large courtyard which was bounded by the house on one side, by a wall on the two sides perpendicular to the house and by a fence on the fourth side opposite the house (Fig. 1). The yard measured 56 x 53 meters.
@@ -54,6 +45,15 @@ early 4th - 5th century CE
 - M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 463, fig. p. 461
 - E. Price, Frocester. *A Romano-British Settlement, its Antecedents and Successors*, Gloucester, 2000.
 - R.J. Zeepvat, "Roman Gardens in Britain," in: A.E. Brown, ed., *Garden Archaeology*. Council for British Archaaeology Research Report 78, London, 1991, pp. 53-56, fig. 5.2. [(worldcat)](https://search.worldcat.org/title/246578144)
+
+## Keywords
+
+- {{< keyword "ditches" >}}
+- {{< keyword "fences" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "paddocks" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

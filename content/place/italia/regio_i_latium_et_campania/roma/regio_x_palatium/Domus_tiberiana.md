@@ -29,30 +29,6 @@ draft: false
 
 Garden of the Domus Tiberiana, Palatine
 
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "cryptoportici" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "garden pavilions" >}}
-- {{< keyword "herms" >}}
-- {{< keyword "lead" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "pipes" >}}
-- {{< keyword "pools" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "solariums" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "terraces" >}}
-- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
-- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
-- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
-
 ## Garden Description
 
 The remains of this [*domus*](https://en.wikipedia.org/wiki/Domus), on the western part of the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill), are now under the Renaissance [Farnese gardens](https://en.wikipedia.org/wiki/Farnese_Gardens). The [*Domus Tiberiana*](https://en.wikipedia.org/wiki/Domus_Tiberiana) is first mentioned after the death of [Nero](https://en.wikipedia.org/wiki/Nero): [Plutarch](https://en.wikipedia.org/wiki/Plutarch) and [Tacitus](https://en.wikipedia.org/wiki/Tacitus) refer to it in the context of the turbulent events of 69 CE ([ Plut. *Galba*, 24.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0007.tlg065.perseus-grc1:24.4); [Tac. *Hist*. 1.27](http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi004.perseus-lat1:1.27); [Suet. *Vit*. 15.3](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo019.perseus-lat1:15.3) | [Trans.](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo019.perseus-eng1:15); [Suet. *Otho* 6.2](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo018.perseus-lat1:6)). It was an imperial residence for later emperors, including [Antoninus Pius](https://en.wikipedia.org/wiki/Antoninus_Pius), [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius), and [Lucius Verus](https://en.wikipedia.org/wiki/Lucius_Verus) ([*Hist. Aug. Pius* 10.4](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Antoninus_Pius*.html) | [Trans.](https://penelope.uchicago.edu/Thayer/e/roman/texts/historia_augusta/antoninus_pius*.html); [*Hist. Aug. Marc*. 6.3](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Marcus_Aurelius/1*.html) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Marcus_Aurelius/1*.html); [*Hist. Aug. Ver*.2.4, 6.3-4](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Lucius_Verus*.html) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Lucius_Verus*.html); [*Cass. Dio* 72.35.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:72.35.4) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/72*.html)), although Nero and [Domitian](https://en.wikipedia.org/wiki/Domitian) appear to have made the most changes to the original design.
@@ -112,6 +88,30 @@ RELATED PHASES ON THE PALATINE:
 - A. Platner-Ashby, *A Topographical Dictionary of Ancient Rome*, London: Oxford University Press, 1929: 191-194.[(worldcat)](https://search.worldcat.org/title/910092330)
 - L. Richardson, "Domus Tiberiana," *A New Topographical Dictionary of Rome*. Baltimore: Johns Hopkins University Press, 1992, 136-137. [(worldcat)](https://search.worldcat.org/title/256637651)
 - M.A. Tomei, M.G. Filetici (eds.), *Domus Tiberiana: Scavi e Restauri 1990-2011*. Milano: Electa, 2011, partic. pp. 59-70; 222-229; 303-305. [(worldcat)](https://search.worldcat.org/title/819286517)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "herms" >}}
+- {{< keyword "lead" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pipes" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "solariums" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "terraces" >}}
+- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
+- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
+- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 ## Places
 

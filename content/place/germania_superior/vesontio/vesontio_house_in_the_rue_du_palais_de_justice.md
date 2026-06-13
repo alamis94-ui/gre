@@ -25,23 +25,6 @@ Archaeology in a downtown area is always a matter of seizing opportunities as th
 
 House in the Rue du Palais de Justice in Vesontio
 
-## Keywords
-
-<!-- archaeological garden -->
-
-- {{< keyword "domus" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "hypocausts" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "opus sectile" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "oeci" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "terrazzo" >}}
-- {{< keyword "water wells" >}}
-
 ## Garden Description
 
 In 2000-2001, at the time of construction a new judiciary facility, an area of 2000 square meters was excavated at the center of this loop. The results are in large part unpublished. On land that had been occupied since the end of the second century BCE, two houses of perishable materials were built in the eastern part of the site in the beginning of the first century AD. They were abandoned at the beginning of the Flavian epoch, and replaced by two imposing *domus* that lasted up to the middle of the third century. They stood on opposite sides of a property line wall (tinted in purple in Fig. 1) that was parallel to a *cardo* running in a northwest-to-southeast direction some hundred meters away. The two houses had slightly different orientations. The eastern house doubtless opened onto a southwest-northeast street passing 50 meters beyond the eastern limit of the excavation but partially brought to light in 1989-90 during excavations when a new parking facility was being built for the city hall. In this house, two independent structures (*oecus*) (tinted pink in the figure) with floors once decorated with mosaics since disappeared are wrapped about and connected by a portico (yellow tint) of complex plan with galleries 3 meters wide and opening onto an open space (green tint) covering 110 square meters. The counterpart of this portico is in part visible on the other side of the larger room. An incompletely known peristyle borders this *oecus* to the east (on the lower right edge of the plan). Its gallery was decorated with a terrazzo floor of *opus signinum* with accents of *crustae*, thin stone slices of which an *opus sectile* is made. In this phase, the north *domus* had a peristyle of 75 square meters with galleries on three sides. To the west (lower left corner of the plan), there was a large open space of nearly 500 square meters, which may have been a garden. At its west end, the wall of an incomplete building ran by a well and a masonry square 2.16 meters on a side which may have been the base of a shrine or monument. These structures were aligned with the property line wall. There was as yet no pool.
@@ -76,6 +59,23 @@ Beginning of the Flavian epoch - middle of the third century
 - C. Gaston, "Un bassin monumental et une fontaine dans les fouille du Palais de Justice de Besancon," *Revue Archéologique de l'Est*, t. 52, 2003, p.417-428.
 - Christophe Gaston: "Données récentes sur l'achitecture antique à Besançon," Archéopages/Inrap. No. 8, Nov. 2002, p. 28-35.
 - Laurent Vaxelaire, Philippe Barral, "Besançon: de l'oppidum à la ville romaine" in *La naissance de la ville dans l'Antiquité*, M. Reddé et al. ed., Paris, 2003, p. 254-256.
+
+## Keywords
+
+<!-- archaeological garden -->
+
+- {{< keyword "domus" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "opus sectile" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "terrazzo" >}}
+- {{< keyword "water wells" >}}
 
 ## Places
 

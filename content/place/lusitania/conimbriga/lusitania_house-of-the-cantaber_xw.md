@@ -33,11 +33,6 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
 
 House of the Cantaber
 
-## Keywords
-
-- {{< keyword "statuettes" >}}
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 Hidacio, bishop of Chaves and a chronicler of his age, records that the Suevi sacked Conimbriga in 465 and 468 CE and that in the second year "the most noble Cantaber" was killed and his family sold into slavery. This house is by far the finest inside the city walls, so it is reasonably guessed to be that of Cantaber.  It is larger than the House of the Fountains with an area of more than 3,300 square meters.  The garden is similar, although it is less elaborate, has slightly different proportions, and has no fountains.  Although the house underwent structural alterations, the peristyle is part of the original plan, which does not appear to date from much later than the Flavian era.
@@ -66,6 +61,11 @@ The other garden area was slightly farther south and against the east wall of th
 <!-- ## Bibliography
 
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](https://search.worldcat.org/title/255066311) -->
+
+## Keywords
+
+- {{< keyword "statuettes" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

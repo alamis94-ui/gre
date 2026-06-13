@@ -31,11 +31,6 @@ Urban House
 
 <!-- ## Keywords -->
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "terrace gardens" >}}
-
 ## Garden Description
 
 This badly preserved building situated on the Plateau des Tranchées was on a terraced slope overlooking Lake Geneva (Lacus Lemanus). Originally built between 20 and 40 CE, and occupied until 180, the house had a central *peristyle courtyard* measuring 7.80 x 22 m. in size.
@@ -56,6 +51,11 @@ None Available
 ## Bibliography
 
 - M.-A. Haldimann, E. Ramjoué, and C. Simon, "Les fouilles de la cour de l'ancienne prison de Saint-Antoine," Archäologie der Schweiz 14, 1991:194-204. [(worldcat)](https://search.worldcat.org/title/891753412)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "terrace gardens" >}}
 
 ## Places
 

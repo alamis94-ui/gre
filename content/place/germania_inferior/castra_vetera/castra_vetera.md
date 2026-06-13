@@ -19,16 +19,6 @@ draft: true
 
 Legionary houses at Castra Vetera (Germania inferior)
 
-## Keywords
-
-- {{< keyword "castra" >}}
-- {{< keyword "praetoriums" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "pedestals" >}}
-- [Pliny the Younger](https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318)
-
 ## Garden Description
 
 In the Neronian fort of the 5th and 15th legions near the civilian settlement of [Colonia Ulpia Traiana](https://pleiades.stoa.org/places/108896) were two vast buildings on either side of the headquarters building (*principia*). These were the residences, or *praetoria*, of the two legionary commanders. The western palatial complex was 76-77 m. in width and 97 m. in length (over 7400 sq. m.) (Plan 1). It was entered from the east through a vestibule and an *atrium*. The villa had several peristyle courtyards, including one long peristyle courtyard with apsidal ends which has been interpreted as a garden (G on plan). Between the atrium and the apsidal courtyard was a large room, possibly a *tablinum* or a dining room. This courtyard measured 18.80 x 83 m. and had an open area 10.80 m. wide, surrounded on all sides by a covered columned walkway, 3.50 m. in width.
@@ -50,6 +40,16 @@ Unspecified
 ## Bibliography
 
 - H. Lehner, *Vetera. Die Ergebnisse der Ausgrabungen des Bonner Provinzialmuseums bis 1929.* Römisch-Germanische Forschungen 4, Berlin, 1930, pp. 52-60, figs. 38-41. [worldcat](https://search.worldcat.org/title/884633203)
+
+## Keywords
+
+- {{< keyword "castra" >}}
+- {{< keyword "praetoriums" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "pedestals" >}}
+- [Pliny the Younger](https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318)
 
 ## Places
 

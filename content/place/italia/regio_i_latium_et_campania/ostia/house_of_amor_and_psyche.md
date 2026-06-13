@@ -50,20 +50,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 House of Amor and Psyche \
 - {{< id vocab="Pleiades" id="868515126" name="House of Amor and Psyche" >}}
 
-## Keywords
-
-- {{< keyword "balustrades" >}}
-- {{< keyword "basins" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "Corinthian order" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "plinths" >}}
-- {{< keyword "polychrome" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "terracotta" >}}
-- {{< keyword "viridarium" >}}
-
 ## Garden Description
 
 The entrance of this house (Fig. 1) (which takes its name from the statuary group found in room b) provides access to a large [portico](http://vocab.getty.edu/page/aat/300004145) (a) with four columns on marble bases, resting on a continuous marble-paneled [balustrade](http://vocab.getty.edu/page/aat/300001989) 50 cm high. To the right of the portico was an area believed to be a garden ([*viridarium*](https://en.wiktionary.org/wiki/viridarium)) (c) terminating in a [nymphaeum](http://vocab.getty.edu/page/aat/300006809). This consisted of a podium 1.10 m. high, paneled in white marble. Hewn into its front side are five deep circular niches. Four are paneled in white marble; only the central niche is panelled in green [cipollino marble](https://en.wikipedia.org/wiki/Cipollino_marble). The architectural elevation of the nymphaeum rises from this podium (Fig. 2). Over four meters high, it consists of two rectangular alternating with three semicircular niches, framed by six marble columns with [Corinthian](https://en.wikipedia.org/wiki/Corinthian_order) capitals and rectangular travertine [plinths](http://vocab.getty.edu/page/aat/300001749), from which little brick arches project. Five marble stepped gradients were placed between the bases of the columns. They formed miniature cascades: the water piped in by the lead conduit that ran along the bases of the niches flowed down over them. The water filled small rectangular basins and, flowing through [terracotta](http://vocab.getty.edu/page/aat/300010669) channels inside the podium, spouted from four outlets placed between the niches. The whole of the podium together with the stepped cascades was paneled in white marble and green *cipollino*; the upper part, by contrast, was stuccoed and adorned with a [polychrome](http://vocab.getty.edu/page/aat/300252261) [wall mosaic](http://vocab.getty.edu/page/aat/300015342). A tile-covered drain ran through the entire length of the podium.
@@ -104,6 +90,20 @@ unspecified
 - Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, p. 123. [(worldcat)](https://search.worldcat.org/title/797420782)
 - Giovanni Becatti, *Mosaici e pavimenti marmorei*, Scavi di Ostia IV, Rome, 1961. [(worldcat)](https://search.worldcat.org/title/630825752)
 - E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 93-97. [(worldcat)](https://search.worldcat.org/title/1130900997)
+
+## Keywords
+
+- {{< keyword "balustrades" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "Corinthian order" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "plinths" >}}
+- {{< keyword "polychrome" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "terracotta" >}}
+- {{< keyword "viridarium" >}}
 
 ## Places
 

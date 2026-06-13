@@ -36,12 +36,6 @@ III
 
 Casa dell'Ara Laterizia
 
-## Keywords
-
-- {{< keyword "sacella" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "opus reticulatum" >}}
-
 ## Garden Description
 
 539.III.17.
@@ -65,6 +59,12 @@ Image not yet in gre-images
 {{< image file="herc.iii.19-18.1-2-17.2.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "sacella" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "opus reticulatum" >}}
 
 ## Places
 

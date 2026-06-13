@@ -22,20 +22,6 @@ Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into a
 
 Temple Grove of Nikephorion
 
-## Keywords
-
-- {{< keyword "groves" >}}
-- {{< keyword "sanctuary centers" >}}
-- {{< keyword "inscriptions" >}}
-- [Athenaeus](https://catalog.perseus.org/catalog/urn:cite:perseus:author.228)
-- [Pliny the Elder](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1141)
-- [Cicero](https://catalog.perseus.org/catalog/urn:cite:perseus:author.365)
-- [Aristotle](https://catalog.perseus.org/catalog/urn:cite:perseus:author.204)
-- [Plutarch](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1144)
-- {{< keyword "quadriportici" >}}
-- {{< keyword "palaestrae" >}}
-- {{< keyword "gymnasiums" >}}
-
 ## Garden Description
 
 King Eumenes II of Pergamum employed a gardener to plant new trees and nurse damaged ones back to health in the grove of the Nikephorion, following an attack on the city by Philip V of Macedon in 201 BCE, during which Philip V ordered his troops to cut down trees in the sanctuary (Polybios 16.1.6).
@@ -56,6 +42,20 @@ Unspecified
 - A. Kuttner, "Republican Rome looks at Pergamon," *Harvard Studies in Classical Philology* vol. 97, *Greece in Rome: Influence, Interaction, Resistance*, ed. C. P. Jones, R. Thomas, 1997, pp. 157-178. [(worldcat)](https://search.worldcat.org/title/67030024)
 - C. Ratte, "Pergamon," *Oxford Encyclopedia of Near Eastern Archaeology*, 1997, 261-262. [(worldcat)](https://search.worldcat.org/title/607143997)
 - I. Nielsen, *Hellenistic Palaces*. Aarhus, 1994, p. 107, catalog no. 15. [(worldcat)](https://search.worldcat.org/title/468433476)
+
+## Keywords
+
+- {{< keyword "groves" >}}
+- {{< keyword "sanctuary centers" >}}
+- {{< keyword "inscriptions" >}}
+- [Athenaeus](https://catalog.perseus.org/catalog/urn:cite:perseus:author.228)
+- [Pliny the Elder](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1141)
+- [Cicero](https://catalog.perseus.org/catalog/urn:cite:perseus:author.365)
+- [Aristotle](https://catalog.perseus.org/catalog/urn:cite:perseus:author.204)
+- [Plutarch](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1144)
+- {{< keyword "quadriportici" >}}
+- {{< keyword "palaestrae" >}}
+- {{< keyword "gymnasiums" >}}
 
 ## Places
 

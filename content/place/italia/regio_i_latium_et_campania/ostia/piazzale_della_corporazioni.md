@@ -50,24 +50,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 Piazzale della Corporazioni \
 - {{< id vocab="Pleiades" id="489630692" name="The Forum of Corporations" >}}
 
-## Keywords
-
-- {{< keyword "allées" >}}
-- {{< keyword "beds" >}}
-- {{< keyword "Augustan" >}}
-- {{< keyword "Domitian, Emperor of Rome" >}}
-- {{< keyword "Hadrianic" >}}
-- {{< keyword "Julio-Claudian" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "parterres" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "scaenae" >}}
-- {{< keyword "sewers" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "theaters" >}}
-- [Vitruvius](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476.1)
-
 ## Garden Description
 
 In the original plan of the [Augustan](http://vocab.getty.edu/page/aat/300020543) period the garden area to the back of the [theater](http://vocab.getty.edu/page/aat/300007117) was surrounded on three sides by a roofed corridor opening onto the [Tiber](https://en.wikipedia.org/wiki/Tiber) on the northern side with a monumental entrance. In the [Claudian](http://vocab.getty.edu/page/aat/300020545) period the whole level of the area was raised and a [portico](http://vocab.getty.edu/page/aat/300004145) consisting of a single row of brick [columns](http://vocab.getty.edu/page/aat/300001571) added. A temple was built at the center of the garden area in the [Domitianic](http://vocab.getty.edu/page/ulan/500083758) period; traditionally identified since its discovery (1881) with the temple of [Ceres](https://en.wikipedia.org/wiki/Ceres_(mythology)), it has more recently been attributed to [Vulcan](https://en.wikipedia.org/wiki/Vulcan_(mythology)) or to the [imperial cult](https://en.wikipedia.org/wiki/Imperial_cult_of_ancient_Rome). During the [Hadrianic](http://vocab.getty.edu/page/aat/300107350) period the portico was doubled with a second row of columns; the entrances on the northern side were blocked, and buildings erected against them, making access to the garden possible only from the theater (Fig. 1).
@@ -118,6 +100,24 @@ Domitianic period
 - R. Lanciani, *Notes from Rome*, (A.L. Cubberley ed.), London, 1988, pp. 434-435. [(worldcat)](https://search.worldcat.org/title/905765241)
 - M. De Vico Fallani, "I giardini ostiensi di Dante Vaglieri. Brevi osservazioni a margine," *Bollettino di Archeologia on line* V, 2014/2, pp. 55-64. [(worldcat)](https://search.worldcat.org/title/842430597) [(Bollettino di Archeologia online)](https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2018/12/8.-V_2014_2-De-Vico-Fallani-18.02.2015.pdf)
 - E.J. Shepherd, "Prima di Busiri Vici: storia di tre giardini ostiensi e di un parco mai realizzato," in M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d'Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
+
+## Keywords
+
+- {{< keyword "allées" >}}
+- {{< keyword "beds" >}}
+- {{< keyword "Augustan" >}}
+- {{< keyword "Domitian, Emperor of Rome" >}}
+- {{< keyword "Hadrianic" >}}
+- {{< keyword "Julio-Claudian" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "parterres" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "scaenae" >}}
+- {{< keyword "sewers" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "theaters" >}}
+- [Vitruvius](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476.1)
 
 ## Places
 

@@ -20,11 +20,6 @@ draft: true
 
 Tomb Garden of C. Hostius Pamphilus
 
-## Keywords
-
-- {{< keyword "tombs" >}}
-- {{< keyword "epitaphs" >}}
-
 ## Garden Description
 
 A travertine slab of unknown urban provenance, now in the Mus-ei Capitolini, records an epitaph of the mid first century BCE of a freedman doctor, C. Hostius C.l. Pamphilus, who bought a tomb (thirteen by twenty-four feet in area) for himself and his wife Nelpia M. l. Hymnis, and for their freedmen and their descendants. A crude verse (almost a septenarius) following the dedication declares "this is our eternal home, this our farm, these our gardens (horti), this our monument". It is unclear whether horti here refers to a tomb garden or, perhaps more probably, to a suburban estate, as normally in contemporary fashionable usage. The ambivalence of the term in any case draws a link, conceptual as well as topographical, between productive rural property (fundus) and a burial monument conceived of as a home for the deceased. If horti refers to a tomb garden proper, it would be among the earliest attested in the environs of Rome.
@@ -44,6 +39,11 @@ Unspecified
 - M. Mattei, *Testimonianze epigrafiche e attestazioni letterarie relative all'area degli Horti Lamiani*, in Le tranquille dimore degli dei, edited by M. Cima and E. La Rocca (Venice 1986) 153-54 fig. 103. [worldcat](https://search.worldcat.org/title/488260676)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 178 n. 21, 179 fig. 2; J. [worldcat](https://search.worldcat.org/title/886794800)
 - Bodel, *Monumental Villas and Villa Monuments*, JRA 10 (1997) 26. [worldcat](https://search.worldcat.org/title/18871033)
+
+## Keywords
+
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
 
 ## Places
 

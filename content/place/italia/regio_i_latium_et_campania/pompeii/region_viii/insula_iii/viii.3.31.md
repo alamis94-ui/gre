@@ -32,10 +32,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula III]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 This house, excavated in 1829-1830, had a peristyle garden (a) on the south side of the property, to the right of the atrium. A portico on the north and part of the south sides had seven columns, one of which was engaged.
@@ -43,6 +39,10 @@ This house, excavated in 1829-1830, had a peristyle garden (a) on the south side
 ## Plans
 
 {{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

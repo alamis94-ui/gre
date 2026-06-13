@@ -29,22 +29,6 @@ draft: false
 
 Garden of the Temple of Elagabalus, Palatine
 
-## Keywords
-
-- {{< keyword "allées" >}}
-- {{< keyword "altars" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "brick" >}}
-- {{< keyword "canals" >}}
-- {{< keyword "flower gardens" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "religious standards" >}}
-- {{< keyword "temples" >}}
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-
 ## Garden Description
 
 The building of a religious complex, identified by scholars as the [*Elagabalium*](https://en.wikipedia.org/wiki/Elagabalium) (*Heliogablium*), later dedicated to [Jupiter](https://en.wikipedia.org/wiki/Jupiter_(mythology)) (*Iupiter Ultor*), was the final transformation in antiquity of the northwestern terrace (Fig. 1). This enormous west-facing [peripteral temple](http://vocab.getty.edu/page/aat/300135991) was enclosed by three [porticoes](http://vocab.getty.edu/page/aat/300004145) on the west (with a monumental entrance), north and south, and by a closed gallery at the east. Its plan, proportions, and part of the ornament have been reconstructed based on field observations and on the study of the remains of the architectural decoration. Construction may have started as early as the great fire of 191/192 CE, but the buildings took shape only later in two successive periods; the first ending around 210/218 CE, the second at least by the years 218/220 CE. By the end of the construction works, the terrace had been adjusted to the north and east, while, on the southern side, a wall was constructed to separate it from the Imperial Palace (Figs. 2-3). However, a door was placed in this wall, providing a direct link between the monument and the [*Domus Augustana*](https://en.wikipedia.org/wiki/Domus_Augustana).
@@ -103,6 +87,22 @@ ca. 190- 240 CE
 - Y. Thébert, "Il santuario di Elagabalus: un giardino sacro" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 83-94. [(worldcat)](https://search.worldcat.org/title/5894435382)
 - G. Rizzo, "Le anfore utilizzate come vasi da fiori nei giardini del tempio" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, p. 98. [(worldcat)](https://search.worldcat.org/title/5894435382)
 - F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](https://search.worldcat.org/title/643147049)
+
+## Keywords
+
+- {{< keyword "allées" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "brick" >}}
+- {{< keyword "canals" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "religious standards" >}}
+- {{< keyword "temples" >}}
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 
 ## Places
 

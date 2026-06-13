@@ -28,28 +28,6 @@ Esquiline Hill, [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 Garden of the Domus Aurea \
 - {{< id vocab="Pleiades" id="410440793" name="Domus Aurea" >}}
 
-## Keywords
-
-- {{< keyword "brick" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "cryptoportici" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "hanging gardens" >}}
-- {{< keyword "nemus (grove)" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "retaining walls" >}}
-- {{< keyword "stagnum (man-made lake)" >}}
-- {{< keyword "terrace gardens" >}}
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
-
 ## Garden Description
 
 Famous for its innovative architecture, the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea) contained equally impressive gardens. After the fire of 64 CE, [Nero](https://en.wikipedia.org/wiki/Nero) erected this monumental residence, replacing the damaged [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria). While the exact boundaries of the property are unknown, it is generally thought to have extended from the palaces of the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill), across the [Velian](https://en.wikipedia.org/wiki/Velian_Hill) and [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) Hills to the [*Horti Maecenatis*](https://en.wikipedia.org/wiki/Gardens_of_Maecenas) and the [*Horti Lamiani*](https://en.wikipedia.org/wiki/Horti_Lamiani) on the [Esquiline](https://en.wikipedia.org/wiki/Esquiline_Hill), down into the valley and up to the [Temple to the Divine Claudius](https://en.wikipedia.org/wiki/Temple_of_Claudius) on the [Caelian](https://en.wikipedia.org/wiki/Caelian_Hill) Hill (Fig. 1). Gardens and an artificial lake ([*stagnum*](http://vocab.getty.edu/page/aat/300263360)) were constructed in this valley, where the [Colosseum](https://en.wikipedia.org/wiki/Colosseum) now stands. Based on the ancient sources, scholars interpreted these gardens as naturalistic, but recent excavations have challenged this view ([Suet. *Ner.* 31.1-2](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo016.perseus-lat1:31); [Tacitus *Ann.* 15.42.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi005.perseus-lat1:15.42)).
@@ -86,6 +64,28 @@ unspecified
 - E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Domus Aurea" (various authors), Rome, 1993. [(worldcat)](https://search.worldcat.org/title/1114759113)
 - E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Domus Tiberiana" (C. Krause), Rome, 1993, pp. 189-197. [(worldcat)](https://search.worldcat.org/title/1114759113)
 - J.B. Ward Perkins, *Roman Imperial Architecture*, Penguin books, 1981, pp. 59-60. [(worldcat)](https://search.worldcat.org/title/1091918996)
+
+## Keywords
+
+- {{< keyword "brick" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "hanging gardens" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "retaining walls" >}}
+- {{< keyword "stagnum (man-made lake)" >}}
+- {{< keyword "terrace gardens" >}}
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 ## Places
 

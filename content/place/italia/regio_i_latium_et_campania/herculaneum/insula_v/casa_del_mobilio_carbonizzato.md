@@ -36,13 +36,6 @@ V
 
 Casa del Mobilio Carbonizzato
 
-## Keywords
-
-- {{< keyword "fauces" >}}
-- {{< keyword "aedicules" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "lararia" >}}
-
 ## Garden Description
 
 549.V.5.
@@ -63,6 +56,13 @@ Visible from the *fauces*, this little courtyard (a) had an elaborate *aedicula*
 {{< image file="herc.iii.19-18.1-2-17.2.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "fauces" >}}
+- {{< keyword "aedicules" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "lararia" >}}
 
 ## Places
 

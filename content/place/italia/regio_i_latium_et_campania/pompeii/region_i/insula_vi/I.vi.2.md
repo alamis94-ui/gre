@@ -30,25 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula VI]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "busts" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "cryptoportici" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "loggias" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "pillars" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "stairs" >}}
-- {{< keyword "vegetable gardens" >}}
-
-## Garden
-
-House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus.
-
 ## Garden Description
 
 A. A passageway from the [atrium](http://vocab.getty.edu/page/aat/300004097) led to a modest [peristyle](http://vocab.getty.edu/page/aat/300004029) garden visible through a window in the rear wall. A low wall enclosed the garden on the north and east sides along with five brick columns covered with white stucco and a [pillar](http://vocab.getty.edu/page/aat/300264605) supporting the roof of the [portico](http://vocab.getty.edu/page/aat/300004145). A large, well preserved wall [painting](http://vocab.getty.edu/page/aat/300033644) survived on the west wall of the north [portico](http://vocab.getty.edu/page/aat/300004145) as well as a niche [lararium](http://vocab.getty.edu/page/aat/300400600) decorated with a painted [bust](http://vocab.getty.edu/page/aat/300417950) of Mercury. From the garden a flight of stairs led down to an elegant [cryptoporticus](http://vocab.getty.edu/page/aat/300004295) (underground [portico](http://vocab.getty.edu/page/aat/300004145)) illuminated by light from the adjacent garden through high windows. A solarium terrace, or [loggia](http://vocab.getty.edu/page/aat/300004137), overlooking the large garden could be reached by another flight of [stairs](http://vocab.getty.edu/page/aat/300003228) form the east [portico](http://vocab.getty.edu/page/aat/300004145).
@@ -81,6 +62,25 @@ Excavated 1911-1929.
 - Spinazzola, V. 1914. *NSc*, pp. 256, 259-262, 287, 365-368.
 - Spinazzola, V. 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 121-122, 442, 444-445, 451, 453. [(worldcat)](https://search.worldcat.org/title/883858580)
 - Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 16.
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "busts" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "loggias" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stairs" >}}
+- {{< keyword "vegetable gardens" >}}
+
+## Garden
+
+House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus.
 
 ## Places
 

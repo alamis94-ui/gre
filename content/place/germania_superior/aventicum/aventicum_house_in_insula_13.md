@@ -22,18 +22,6 @@ The town was established in the Augustan period as the civitas capital of the He
 
 House in Insula 13 in Aventicum
 
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "garden pavilions" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "insulae" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "reception rooms" >}}
-
 ## Garden Description
 
 Recent excavations in Insula 13 on the northwestern edge of the town have uncovered the remains of two large and luxurious houses separated from each other by a narrow corridor. They date to the late 1st century and were occupied until the middle of the 3rd century. Both buildings had a length of 60 meters, spanning the length of the insula. The eastern house included a private bath suite and an apsed reception room on the southwest.
@@ -57,6 +45,18 @@ Houses: Late 1st century - Middle of 3rd century
 - J. Morel, "Chronique archéologique 1993," Bull. de l'Association Pro Aventico 35, 1993: 19-21, figs. 8, 11.
 - J. Morel, "L'habitat," in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, Archéologie Suisse 24.1, 2001: 45-46, figs. 58, 60. [(worldcat)](https://search.worldcat.org/title/718693183)
 - M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](https://search.worldcat.org/title/1120840822)
+
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "reception rooms" >}}
 
 ## Places
 

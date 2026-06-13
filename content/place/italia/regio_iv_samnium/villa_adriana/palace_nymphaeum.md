@@ -36,10 +36,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Palace *nymphaeum* (Fig. 1, n. 16)
 
-## Keywords
-
-- {{< keyword "nymphaea" >}}
-
 ## Garden Description
 
 The Palace *nymphaeum* (LUGLI 1927) has already been published quite extensively in the proceedings of the last symposium on ancient Roman Gardens held in Rome in 1995 (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 151-154, figs. 6-8; SALZA PRINA RICOTTI 1998, pp. 385-388, figs. 15-16; SALZA PRINA RICOTTI 2000, pp. 361-367, figs. 129-133). This water theater was shaped like an *auditorium*. A monumental entry (Fig. 38, H) led the way to a large paved area where low walls contained either two oval flowerbeds or two small basins (Fig. 38 A). An emicycle concluded the arrangement and sustained the pressure of the higher grounds that rose at the back  of the garden.
@@ -99,6 +95,10 @@ unspecified
 - W. F. Jashemski, E. Salza Prina Ricotti, "I giardini di Villa Adriana: rapporto preliminare" *Atti della Pontificia Accademia romana di archeologia: Rendiconti*, Vol. 60 (1987-88), pp. 145-169. [(worldcat)](https://search.worldcat.org/title/1075183783)
 - E. Salza Prina Ricotti, "Adriano: architettura del verde e dell-acqua," in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 385-388, figs. 15-16. [(worldcat)](https://search.worldcat.org/title/636808013)
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 361-367, figs. 129-133. [(worldcat)](https://search.worldcat.org/title/46784026)
+
+## Keywords
+
+- {{< keyword "nymphaea" >}}
 
 ## Places
 

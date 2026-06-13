@@ -39,12 +39,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 Villa Dehesa de Soria
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 The villa was first excavated in 1928-9.(Ampu  More than 22 rooms were paved with mosaics for a total area of 1,400 square meters of mosaic. Made of local stones, they date from the second century AD. Among them is a rare picture of a crown of shafts a grain, a symbol of agricultural fertility.
@@ -62,6 +56,12 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 ## Bibliography
 
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](https://search.worldcat.org/title/7840420644)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

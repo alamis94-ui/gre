@@ -36,10 +36,6 @@ V
 
 Casa del bel Cortile
 
-## Keywords
-
-None
-
 ## Garden Description
 
 Appendix II. 110.V.8.
@@ -60,6 +56,10 @@ The illusion of a gardentrellis was created in this house withno garden by paint
 {{< image file="herc.iii.19-18.1-2-17.2.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
+
+## Keywords
+
+None
 
 ## Places
 

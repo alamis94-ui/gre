@@ -19,15 +19,6 @@ draft: true
 
 Rural Villa in Winkel-Seeb
 
-## Keywords
-
-- {{< keyword "corridors" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "terrace gardens" >}}
-- {{< keyword "villae rusticae" >}}
-- {{< keyword "well houses" >}}
-
 ## Garden Description
 
 The residential and service parts of this *villa rustica* occupied an area of ca. 7 hectares. The lateral walls of the complex could be followed over a length of 395 meters, but it is assumed that they once extended up to the lake southeast of the farm. The house, measuring 56.70 x 82.40 meters, was of the winged corridor type (Fig. 12.1). The *villa rustica* was built in the first half of the 1st century CE. and inhabited until its destruction in 250. The two protruding wings on either side of the entrance on the north extended to the dividing wall between the pars urbana and the pars rustica. These may have been built as covered porticoes or pergolas. The large terraced courtyard between them was possibly laid out as a garden or park (G in Fig. 1). Immediately north of the dividing wall was a well-house.
@@ -50,6 +41,15 @@ First half of 1st century CE - 250
 - Ch. Jacquat, *Der römische Garten in Seeb*, Zürich, 1988. [(worldcat)](https://search.worldcat.org/title/883206952)
 - W. Drack, *Der römische Gutshof bei Seeb, Gem. Winkel. Berichte der Zürcher Denkmalpflege. Archäologische Monographien 8*, Zürich, 1990. [(worldcat)](https://search.worldcat.org/title/468251890)
 - M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 75, fig. 29. [(worldcat)](https://search.worldcat.org/title/1120840822)
+
+## Keywords
+
+- {{< keyword "corridors" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "well houses" >}}
 
 ## Places
 

@@ -19,10 +19,6 @@ draft: false
 
 Rural Estate in Gatcombe
 
-## Keywords
-
-- {{< keyword "villae rusticae" >}}
-
 ## Garden Description
 
 This site of a large rural estate about 9 hectares in size in Somerset is enclosed within a massive wall (Fig.1). Although the site was not completely excavated, there is evidence to suggest that the main residence (A in Fig. 1) was located at the southern end of the complex, separated from various workshops and subsidiary buildings in the northern half by an area of cultivated soil. This area has been interpreted as a garden, based on the absence of buildings and the presence of 10-15 centimeters thick layer of rich humus (G in Fig. 1). The complex was built between CE 280 and 300, with occupation ending around 380.
@@ -49,6 +45,10 @@ ca. 280-380 CE
 
 - K. Branigan, *The Roman Villa in South-West England*, Bradford-on-Avon, 1976, pp. 55, 77, fig. 34. [(worldcat)](https://search.worldcat.org/title/928084211)
 - K. Branigan, Gatcombe. *The Excavation and Study of a Romano-British Villa Estate*, 1967-1976. British Archeological Reports, Brit. Ser. 44, Oxford, 1977, pp. 50, 141, 181-182, figs. 2, 33. [(worldcat)](https://search.worldcat.org/title/823036601)
+
+## Keywords
+
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

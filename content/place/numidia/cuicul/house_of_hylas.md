@@ -34,13 +34,6 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 House of Hylas, Central District (Maison de Castorius, Quartier central)
 
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "semicircular basin" >}}
-
 ## Garden Description
 
 This small, irregular house, resting against the west wall of the judicial basilica, was found in a ruined state in 1938.
@@ -68,6 +61,13 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 - Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151. [(worldcat)](https://search.worldcat.org/title/461390883)
 - Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
 - Février, P.-A., "Note sur le développement urbain en Afrique du Nord, les exemples comparés de Djemila et de Sétif", in  *C.Arch.* , XIV, 1964, pp. 21-22, plan p. 14. [(worldcat)](https://search.worldcat.org/title/758540114)
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
 
 ## Places
 

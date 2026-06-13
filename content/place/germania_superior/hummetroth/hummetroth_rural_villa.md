@@ -19,17 +19,6 @@ draft: true
 
 Rural Villa in Hummetroth
 
-## Keywords
-
-- {{< keyword "apsed triclinia" >}}
-- {{< keyword "balnea" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "hypocausts" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "terrace gardens" >}}
-- {{< keyword "villae rusticae" >}}
-
 ## Garden Description
 
 The enclosed farmyard, including the residential area (pars urbana) and the service zone with outbuildings and working areas (pars rustica), covered an area of 3.5 hectares. The house of this *villa rustica* of the 2nd century is of the winged corridor type with two protruding wings framing a large courtyard in front of the house at the south (Fig. 1).
@@ -52,6 +41,17 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 - D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart,1989, pp. 360-361, fig. 303a-b. [(worldcat)](https://search.worldcat.org/title/476625416)
 - M. Carroll, *Romans,Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 74, fig. 29. [(worldcat)](https://search.worldcat.org/title/1120840822)
+
+## Keywords
+
+- {{< keyword "apsed triclinia" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

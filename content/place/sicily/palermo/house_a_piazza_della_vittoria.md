@@ -26,10 +26,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 House A, Piazza della Vittoria
 
-## Keywords
-
-<!-- {{< keyword "villae urbanae" >}} -->
-
 ## Garden Description
 
 There is a circular pool in the center of the peristyle in this grand house (Fig. 5). The date  of this pool may belong to the substantial refashioning of the dwelling in the third century CE.
@@ -49,6 +45,10 @@ There is a circular pool in the center of the peristyle in this grand house (Fig
 ## Bibliography
 
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, p. 127 with references, and p. 121, fig. 109.8. [(worldcat)](https://search.worldcat.org/title/608028740)
+
+## Keywords
+
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Places
 
