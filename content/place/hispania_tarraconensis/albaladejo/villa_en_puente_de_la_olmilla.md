@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-4C
+4th century
 
 ## Province
 
