@@ -53,7 +53,7 @@ At the heart of the garden, the rectangular pool [47] of the first condition was
 
 ## Bibliography
 
-1.  J.-M. Mignon, I. Doray, V. Faure, A. Bouet, *La  Brunette*  à  Orange  premier  établissement  antique  périurbain  (Vaucluse), in  R.A.N., 30, 1997, P.173-202.
+-  J.-M. Mignon, I. Doray, V. Faure, A. Bouet, *La  Brunette*  à  Orange  premier  établissement  antique  périurbain  (Vaucluse), in  R.A.N., 30, 1997, P.173-202.
 
 ## Keywords
 

@@ -49,7 +49,7 @@ The archeologists of Nîmes have been particularly sensitive to the presence of 
 
 ## Bibliography
 
-1. S. Barberan, Un aménagement horticole dans la cour d'un établissement pré-urbain à Nîmes (Gard) in *Bulletin de l'Ecole antique de Nîmes*, P. 71, n.8.[(worldcat)](https://search.worldcat.org/title/835159144)
+- S. Barberan, Un aménagement horticole dans la cour d'un établissement pré-urbain à Nîmes (Gard) in *Bulletin de l'Ecole antique de Nîmes*, P. 71, n.8.[(worldcat)](https://search.worldcat.org/title/835159144)
 
 ## Places
 

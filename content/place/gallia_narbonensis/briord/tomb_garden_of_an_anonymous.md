@@ -43,7 +43,7 @@ None Available
 
 ## Bibliography
 
-1. CIL 13.2465. <!-- Need more info about book -->
+- CIL 13.2465. <!-- Need more info about book -->
 
 ## Keywords
 

@@ -44,13 +44,9 @@ The Centocelle plan provides uniquely valuable, if ambiguous, evidence for the a
 ## Bibliography
 
 - J. Bodel, *Roman Tomb Gardens*, Cambridge University Press, 2018, pp. 222-224.  [link](https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986)
-
 - Ch. Hülsen, *Piante iconografiche incise in marmo,* BMDAI(R) 5 (1890): 46-63 [worldcat](https://search.worldcat.org/title/901880248)
-
 - H. von Hesberg, *Römische Grundrissplane auf Marmor,* in Bauplanung und Bautheorie der Antike (Berlin 1984) 121-24;[worldcat](https://search.worldcat.org/title/801974522)
-
 - M. Luni, *Iscrizioni pubbliche ed iscrizioni relative ad edifici,* in 1756-1986. Il Museo Archeologico di Urbino I (Urbino 1986) 167 figs. 6-7. [worldcat](https://search.worldcat.org/title/878639163)
-
 - R. Volpe,*Cento anni a Centocelle: dal volo di Wilbur Wright ai recenti scavi,*  in Atti del Convegno Nazionale di Archeologia Aerea "100 anni di Archeologia Aerea in Italia" (Roma 15-17 aprile 2009), Archeologia Aerea 4-5, 2010-2011, pp.41-46.  Fig. 3
 [worldcat](https://search.worldcat.org/title/819281762)
 

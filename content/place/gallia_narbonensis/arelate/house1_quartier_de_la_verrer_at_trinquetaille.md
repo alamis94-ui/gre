@@ -56,9 +56,8 @@ The free space north of rooms [1], [2] and [9] was probably a garden without por
 
 ## Bibliography
 
-1. Cl. Sintès, *Les fouilles de la verrerie de Trinquetaille*, in Cl. SINTES, dir., Du nouveau sur Arles antique, Arles, 1987, p. 81-4. 
-
-2. Rouquette, Jean-Maurice, and Claude Sintès. *Arles Antique: Monuments Et Sites* Paris: Impr. nationale, p. 90-1.[(worldcat)](https://search.worldcat.org/title/22813475)
+- Cl. Sintès, *Les fouilles de la verrerie de Trinquetaille*, in Cl. SINTES, dir., Du nouveau sur Arles antique, Arles, 1987, p. 81-4. 
+- Rouquette, Jean-Maurice, and Claude Sintès. *Arles Antique: Monuments Et Sites* Paris: Impr. nationale, p. 90-1.[(worldcat)](https://search.worldcat.org/title/22813475)
 
 ## Places
 

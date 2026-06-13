@@ -38,7 +38,6 @@ An inscription found beside the Via Appia near the tomb of Cecelia Metella in 18
 ## Bibliography
 
 - J. Bodel, *Roman Tomb Gardens*, Cambridge University Press, 2018, p. 236. [link](https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986)
-
 - G.-L. Gregori , *SHorti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma" [worldcat](https://search.worldcat.org/title/886794800)
 
 ## Keywords

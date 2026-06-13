@@ -49,9 +49,8 @@ A rather large sewer collector (30 x 40 cm in section) took the rainwater of the
 
 ## Bibliography
 
-1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 69 [(worldcat)](https://search.worldcat.org/title/24832885)
-
-2. Maison 1996, t. II, P. 229-237 and  P. 240-242.
+- Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 69 [(worldcat)](https://search.worldcat.org/title/24832885)
+- Maison 1996, t. II, P. 229-237 and  P. 240-242.
 
 ## Keywords
 

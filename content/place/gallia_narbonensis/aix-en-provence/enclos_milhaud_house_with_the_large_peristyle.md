@@ -50,10 +50,10 @@ fiche not translated
 
 ## Bibliography
 
-1. *Maison 1996*, t. II,, P. 32-33
+- *Maison 1996*, t. II,, P. 32-33
 
 
-2.  "Aix-en-Provence,"*Atlas*, P. 62-4, 71.
+-  "Aix-en-Provence,"*Atlas*, P. 62-4, 71.
 
 ## Places
 

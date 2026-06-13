@@ -48,11 +48,9 @@ To the northeast of the house are remains in which it has been proposed to see a
 
 ## Bibliography
 
-1. *La Maison Urbaine D'époque Romaine*. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 80-81. [(worldcat)](https://search.worldcat.org/title/717347715)
-
-2. Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
-
-3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.267-274. [(worldcat)](https://search.worldcat.org/title/905795401)
+- *La Maison Urbaine D'époque Romaine*. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 80-81. [(worldcat)](https://search.worldcat.org/title/717347715)
+- Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
+- Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.267-274. [(worldcat)](https://search.worldcat.org/title/905795401)
 
 ## Keywords
 

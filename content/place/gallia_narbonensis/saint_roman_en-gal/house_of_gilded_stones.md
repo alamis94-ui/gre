@@ -63,19 +63,13 @@ Further to the north, at the back of the lot, the house had a large garden [25] 
 
 ## Bibliography
 
-1. Laroche, H. Savay-Guerraz, E. Chantriaux et al. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 46-57[worldcat](https://search.worldcat.org/title/234328026)
-
-2. Maison 1996, t.II, p. 364-383
-
-3. Delaval, Eric, and Hugues Savay-Guerraz. La Maison Des Dieux Océan: (Ier Siècle Avant J.-C. _ IIe Siècle Après J.-C.). Saint-Romain-en-Gal: AGLAS, 1996.[worldcat](https://search.worldcat.org/title/491540345)
-
-4. Desbat, Armand. La Maison Des Dieux Océan À Saint-Romain-En-Gal (rhône). Paris: CNRS éditions, 1994, P. 86-132[worldcat](https://search.worldcat.org/title/45622989)
-
-5. Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](https://search.worldcat.org/title/491540838)
-
-6. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
-
-7. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
+- Laroche, H. Savay-Guerraz, E. Chantriaux et al. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 46-57[worldcat](https://search.worldcat.org/title/234328026)
+- Maison 1996, t.II, p. 364-383
+- Delaval, Eric, and Hugues Savay-Guerraz. La Maison Des Dieux Océan: (Ier Siècle Avant J.-C. _ IIe Siècle Après J.-C.). Saint-Romain-en-Gal: AGLAS, 1996.[worldcat](https://search.worldcat.org/title/491540345)
+- Desbat, Armand. La Maison Des Dieux Océan À Saint-Romain-En-Gal (rhône). Paris: CNRS éditions, 1994, P. 86-132[worldcat](https://search.worldcat.org/title/45622989)
+- Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](https://search.worldcat.org/title/491540838)
+- Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
+- Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
 
 ## Places
 

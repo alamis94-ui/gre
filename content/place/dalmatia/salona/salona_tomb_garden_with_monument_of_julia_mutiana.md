@@ -26,7 +26,7 @@ An inscription reported among those of Salona records an epitaph set up by Iulia
 
 ## Bibliography
 
-1. *CIL* 3.2397.
+- *CIL* 3.2397.
 
 ## Keywords
 

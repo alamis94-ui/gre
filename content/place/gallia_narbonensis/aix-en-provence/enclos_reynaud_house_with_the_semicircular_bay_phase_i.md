@@ -48,10 +48,10 @@ On the north side, two rooms [1] and [2] are symmetrically placed on either side
 
 ## Bibliography
 
-1. *Maison 1996*, t. II,, p. 30-31, 38-39.
+- *Maison 1996*, t. II,, p. 30-31, 38-39.
 
 
-2. J, Guyon, Nin N, Rivet L, and Saulnier S. Aix-En-Provence (Bouches-Du-Rhône), 1996, P. 50.
+- J, Guyon, Nin N, Rivet L, and Saulnier S. Aix-En-Provence (Bouches-Du-Rhône), 1996, P. 50.
 
 ## Keywords
 

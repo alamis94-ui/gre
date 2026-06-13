@@ -200,25 +200,15 @@ tbody tr:last-child {
 ## Bibliography
 
 - Alcock, S.E., M.L. Berenfeld, I.B. Straughn, C.A. Tuttle, and (with a ceramic report by Tali Erickson-Gini). 2010. "The Brown University Petra Archaeological Project: Report on the 2009 Exploration Season in the 'Upper Market.'" *Annual of the Department of Antiquities of Jordan* 54: 153-166. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/91)
-
 - Bedal, L.-A. 1999. "A Paradeisos in Petra: new light on the 'Lower Market.'" *Annual of  the Department of  Antiquities of Jordan* 43: 227-239. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/759)
-
 - ibid. 2000. "Paradise Found: Petra's urban oasis." *Expedition* 42 2: 23-36. (https://www.penn.museum/sites/expedition/paradise-found/)
-
 - ibid. 2001. "A Pool Complex in Petra's City Center." *Bulletin of the American Schools of Oriental Research* 324: 23-41.(https://www.journals.uchicago.edu/doi/10.2307/1357630)
-
 - ibid. 2002. "The Petra Garden Feasibility Study." *American Journal of Archaeology* 106 3: 448-450.
-
 - ibid. 2002. "Desert Oasis: Water Consumption in the Nabataean Capital." *Near Eastern Archaeology* 65 4: 225-234.(https://www.journals.uchicago.edu/doi/10.2307/3210851)
-
 - Bedal, L.-A., K.L. Gleason, J.G. Schryver, and (with reports by J. H. Ramsay and J.Bowsher). 2007. "The Petra Garden and Pool Complex, 2003-2005." *Annual of the Department of Antiquities of Jordan* 51: 151-176.(http://publication.doa.gov.jo/Publications/ViewChapterPublic/1664)
-
 - Bedal, L.-A., L.B. Conyers, J.E. Foss, and K.L. Gleason. 2013. "The Petra Garden and Pool Complex, Ma'an Jordan." In *Sourcebook for Garden Archaeology: Methods, Techniques, Interpretations and Field Examples*, edited by, A-A. Malek, 625-641. Berne: Peter Lang/Fondations des parcs et jardins de France.
-
 - Kanellopoulos, C. 2003. "The Layout of the Garden and Pool Complex in Petra. A Metrological Analysis." *Annual of  the Department of  Antiquities of Jordan* 47: 149-158. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/723)
-
 - Macaulay-Lewis, E. 2006. "Planting pots at Petra: a preliminary study of ollae perforatae at the Petra Garden Pool Complex and at the 'Great Temple.'" *Levant* 38: 159-170. (https://www.tandfonline.com/doi/abs/10.1179/lev.2006.38.1.159)
-
 - Ramsay, J.H., and L.-A. Bedal. 2015. "Garden Variety Seeds? Botanical Remains from the Petra Garden and Pool Complex." *Vegetation History and Archaeobotany* 24/5: 621-634. doi:10.1007/s00334-015-0520-4. (https://link.springer.com/article/10.1007/s00334-015-0520-4)
 
 ## Keywords

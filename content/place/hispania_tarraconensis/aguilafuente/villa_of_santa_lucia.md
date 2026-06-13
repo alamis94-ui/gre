@@ -57,7 +57,6 @@ Excavation in 1968-1972 at this site, which has been reburied, revealed over hal
 ## Bibliography
 
 - M.ª Lucas and V. Viñas, *La villa romana de Aguilafuente (Segovia) in Symposium de arqueología romana*, Segovia y la arqueología romana. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 239-255.[(worldcat)](https://search.worldcat.org/title/7180188573)
-
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986;  J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. [(worldcat)](https://search.worldcat.org/title/758189394)
 
 ## Keywords

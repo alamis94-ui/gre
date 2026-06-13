@@ -30,7 +30,6 @@ The [portico](http://vocab.getty.edu/page/aat/300004145) which bordered the peri
 ## Bibliography
 
 - Della, Corte M, *Case Ed Abitanti Di Pompei*, Pompei-scavi: M. Della Corte, 1954. Print. [worldcat](https://search.worldcat.org/title/878618392)
-
 - Jashemski, Wilhelmina F, *'The Garden of Hercules at Pompeii' (II.viii.6): The Discovery of a Commercial Flower Garden.*,American Journal of Archaeology, vol. 83, no. 4, 1979, pp. 403-411. [link](https://www.jstor.org/stable/504139. Accessed 2 Dec. 2020.)
 
 ## Keywords

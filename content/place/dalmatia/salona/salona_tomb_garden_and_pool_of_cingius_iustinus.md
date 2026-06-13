@@ -26,7 +26,7 @@ A rock cut inscription at Salonae marks the spot where some time in the late sec
 
 ## Bibliography
 
-1. *CIL* 3.2279
+- *CIL* 3.2279
 
 ## Keywords
 

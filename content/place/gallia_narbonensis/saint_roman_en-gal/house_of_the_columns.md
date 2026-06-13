@@ -63,15 +63,11 @@ The final phase lasted about fifty years, beginning in the first half of the thi
 
 ## Bibliography
 
-1. *Maison 1996*, t. II,, p. 309-401
-
-2. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 36-39.[worldcat](https://search.worldcat.org/title/43416334)
-
-3. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189.[worldcat](https://search.worldcat.org/title/1169743067)
-
-4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
-
-5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig. 194.[worldcat](hhttps://search.worldcat.org/title/43416334)
+- *Maison 1996*, t. II,, p. 309-401
+- *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 36-39.[worldcat](https://search.worldcat.org/title/43416334)
+- Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189.[worldcat](https://search.worldcat.org/title/1169743067)
+- *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
+- Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig. 194.[worldcat](hhttps://search.worldcat.org/title/43416334)
 
 ## Places
 

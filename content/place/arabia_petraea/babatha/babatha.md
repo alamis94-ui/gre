@@ -35,7 +35,6 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 ## Bibliography
 
 - Esler, P. F. 2017. *Babatha's Orchard: The Yadin Papyri and an Ancient Jewish Family Tale Retold,* Oxford. [(worldcat)](https://search.worldcat.org/title/994287444)
-
 - Lewis, N., *et al.* 1989. *The Documents from the Bar Kokhba Period in the Cave of the Letters,* Jerusalem: Israel Exploration Society. Pp. 65-68, Plate 13. [(worldcat)](https://search.worldcat.org/title/21262733)
 
 ## Keywords

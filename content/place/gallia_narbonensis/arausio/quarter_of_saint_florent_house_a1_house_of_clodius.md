@@ -60,7 +60,7 @@ The presumed *triclinium* opened through a wide entrance, flanked on either side
 
 ## Bibliography
 
-1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 229-239 [(worldcat)](https://search.worldcat.org/title/24832885)
+- Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 229-239 [(worldcat)](https://search.worldcat.org/title/24832885)
 
 ## Places
 

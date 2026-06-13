@@ -49,10 +49,10 @@ The known part is organized in three distinct, successive spaces on the same axi
 
 ## Bibliography
 
-1. *Maison 1996*, t. II,, p. 30-31, 38-39.
+- *Maison 1996*, t. II,, p. 30-31, 38-39.
 
 
-2. J, Guyon, Nin N, Rivet L, and Saulnier S. Aix-En-Provence (Bouches-Du-Rhône), 1996, P. 50.
+- J, Guyon, Nin N, Rivet L, and Saulnier S. Aix-En-Provence (Bouches-Du-Rhône), 1996, P. 50.
 
 ## Keywords
 

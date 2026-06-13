@@ -67,12 +67,11 @@ Four groups of structures lay in a somewhat staggered pattern. All opened onto g
 
 ## Bibliography
 
-1. R. Boiron, C. Landure, N. Nin, Les fouilles de l'Aire du Chapitre, actuel parking Pasteur, Documents d'Archéologie aixoise, 2, 1986, P. 13-36[(worldcat)](https://search.worldcat.org/title/20998985)
+- R. Boiron, C. Landure, N. Nin, Les fouilles de l'Aire du Chapitre, actuel parking Pasteur, Documents d'Archéologie aixoise, 2, 1986, P. 13-36[(worldcat)](https://search.worldcat.org/title/20998985)
+- *Maison 1996*, t. II,, P. 12-15 and fiche n°4, P. 22-23 ; fiche n°5, P. 24-25
 
-2. *Maison 1996*, t. II,, P. 12-15 and fiche n°4, P. 22-23 ; fiche n°5, P. 24-25
 
-
-3. J. Guyon, N. Nin, L. Rivet, S. Saulnier, *Aix-en-Provence,Atlas*, P. 65-68 et P.261-277.
+- J. Guyon, N. Nin, L. Rivet, S. Saulnier, *Aix-en-Provence,Atlas*, P. 65-68 et P.261-277.
 
 ## Places
 

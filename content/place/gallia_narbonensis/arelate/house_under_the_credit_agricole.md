@@ -57,7 +57,7 @@ This house at [14] on the map, was discovered in 1977 in an emergency salvage ex
 
 ## Bibliography
 
-1. J.M. Rouquette, "Les découvertes du Crédit Agricole" in Claude Sintès, dir., *Du nouveau sur Arles antique*, Arles, 1987, p. 71-7;  Maison 1996 t. II, p. 88-89.
+- J.M. Rouquette, "Les découvertes du Crédit Agricole" in Claude Sintès, dir., *Du nouveau sur Arles antique*, Arles, 1987, p. 71-7;  Maison 1996 t. II, p. 88-89.
 
 ## Places
 

@@ -37,9 +37,7 @@ An epitaph the late first or second century found near the intersection of the V
 ## Bibliography
 
 - CIL 6.23090 (pp. 3529, 3917); ILS 8345; J. Bodel, *Roman Tomb Gardens*, Cambridge University Press, 2018, pp. 225, 236.  [link](https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986)
-
 - A. Carandini , *SHortensia: orti e frutteti intorno a Roma*, in Misurare la terra: centuriazione e coloni nel mondo romano. città, agricoltura, commercio: materiali da Roma e suburbia (Rome, 1985) 69; L. Avetta, in S. Panciera, ed., La collezione epigrafica dei Musei Capitolini (Tituli 6) (Rome 1987), 281 (Tav. XLIV, fig. 4), cf. 334 no. 334 [worldcat](https://search.worldcat.org/title/496098496)
-
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
 
 

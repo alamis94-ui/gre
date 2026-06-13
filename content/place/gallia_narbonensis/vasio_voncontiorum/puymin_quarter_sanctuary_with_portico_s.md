@@ -49,9 +49,8 @@ In the center of the court was a monumental pool 9.5 meters wide and 1.6 meters 
 
 ## Bibliography
 
-1. Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
-
-2. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.251-254. [(worldcat)](https://search.worldcat.org/title/905795401)
+- Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
+- Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.251-254. [(worldcat)](https://search.worldcat.org/title/905795401)
 
 ## Keywords
 

@@ -59,17 +59,15 @@ In the northern wing of the house, a square reception room [53], 5.8 meters on a
 
 ## Bibliography
 
-1. *Maison 1996*, t. II,, p. 358-361
+- *Maison 1996*, t. II,, p. 358-361
 
 
-2. Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: III*. Paris: CNRS, 1981, P. 302-307.[worldcat](https://search.worldcat.org/title/492310522)
+- Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: III*. Paris: CNRS, 1981, P. 302-307.[worldcat](https://search.worldcat.org/title/492310522)
 
 
-3.  M. Leglay, Informations archéologiques, in Gallia, 29, 2, 1971, P. 57-58.[worldcat](#)
-
-4. M. Leglay, "Les jardins à Vienne," in *Seventh Dumbarton Oaks Colloquium on the History of Landscape Architecture, Ancient Roman Gardens*, Washington, 1981, P. 57-58.[worldcat](#)
-
-5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 275-277, Fig. 195.[worldcat](https://search.worldcat.org/title/43416334)
+-  M. Leglay, Informations archéologiques, in Gallia, 29, 2, 1971, P. 57-58.[worldcat](#)
+- M. Leglay, "Les jardins à Vienne," in *Seventh Dumbarton Oaks Colloquium on the History of Landscape Architecture, Ancient Roman Gardens*, Washington, 1981, P. 57-58.[worldcat](#)
+- Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 275-277, Fig. 195.[worldcat](https://search.worldcat.org/title/43416334)
 
 ## Places
 
