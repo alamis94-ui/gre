@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Munigua]({{<relref ".">}})
@@ -31,10 +35,6 @@ The sanctuary occupies various terraces and dominates the city below. The plan o
 ## Images
 
 {{< image file="HIS_BAE_Munigua_Sanctuary axon_CA.jpg" caption="Fig. 1: Perspective drawing of the Sanctuary at Munigua." credit="Hauschild, p.136." alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

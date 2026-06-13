@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+House: mid-1st century CE - 4th century
+
 ## Location
 
 - [Orbe]({{<relref ".">}})
@@ -30,10 +34,6 @@ This large palatial house belonged to a villa rustica revealed by excavation and
 {{< image file="EUR_GS_Orb_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography." credit="Adapted from Drack and Fellmann 1988, fig. 423." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-House: mid-1st century CE - 4th century
 
 ## Bibliography
 

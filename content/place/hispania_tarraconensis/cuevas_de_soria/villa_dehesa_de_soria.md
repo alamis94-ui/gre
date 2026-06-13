@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+2nd century CE
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -48,10 +52,6 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 ## Plans
 
 {{< image file="his_tar_cue_soria_fig1.jpg" caption="Villa of Cuevas de Soria." credit="Gorges, Planche XLIV." alt="" >}}
-
-## Dates
-
-2C AD
 
 ## Bibliography
 

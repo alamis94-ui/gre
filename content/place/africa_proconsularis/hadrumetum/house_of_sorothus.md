@@ -10,6 +10,10 @@ modified: 2025-09-16
 draft: true
 ---
 
+## Dates
+
+end 2nd century CE
+
 ## Location
 
 - [Hadrumetum (Sousse)]({{<relref ".">}})
@@ -39,9 +43,6 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 
 <!-- ## Images -->
 
-## Dates
-
-end 2nd century CE
 ## Bibliography
 
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 100-101. [(worldcat)](https://search.worldcat.org/title/989088620)

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
+## Excavation Dates
+
+1900 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -57,14 +65,6 @@ This house was excavated in 1900 and a small garden (a) was found to the east of
 
 ## Images
 -->
-
-## Dates
-
-Unspecified
-
-## Excavation Dates
-
-1900CE
 
 ## Bibliography
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 70-100
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -53,10 +57,6 @@ The façade of the back of the building opened to north by a portico [4], 3.45 m
 ## Images
 
 {{< image file="thes_estate_villa_of_the_peacock_axon.png" caption="Axon of Villa of The Peacock" credit="" alt="" >}}
-
-## Dates
-
-CE 70-100
 
 ## Bibliography
 

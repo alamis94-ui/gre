@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -64,14 +72,6 @@ On the opposite side (Figg. 12, H; 16), another garden - an emicycle - imitated 
 {{< image file="14_northern_garden.jpg" caption="Fig. 14: Northern Garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Northern Garden in the Stadium-garden at Hadrian's Villa" >}}
 
 {{< image file="15_southern_garden.jpg" caption="Fig. 15: Southern Garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Southern Garden in the Stadium-garden at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

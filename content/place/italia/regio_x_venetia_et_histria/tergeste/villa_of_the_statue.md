@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+100 BCE
+
+## Excavation Date
+
+19th century
+
 ## Location
 
 - [Tergeste]({{<relref ".">}})
@@ -32,14 +40,6 @@ North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is n
 
 
 <!-- ## Maps -->
-
-## Dates
-
-100 BCE
-
-## Excavation Date
-
-19th century
 
 ## Bibliography
 

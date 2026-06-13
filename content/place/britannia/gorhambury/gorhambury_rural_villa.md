@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+around CE 100 - 175
+
 ## Location
 
 - [Gorhambury]({{<relref ".">}})
@@ -38,10 +42,6 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 ## Images
 
 -->
-
-## Dates
-
-around CE 100 - 175
 
 ## Bibliography
 

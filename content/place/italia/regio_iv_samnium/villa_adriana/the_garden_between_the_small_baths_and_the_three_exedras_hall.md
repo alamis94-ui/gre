@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -51,14 +59,6 @@ It has already been cited in the precedent Jashemski-Ricotti article but only ve
 ## Images
 
 {{< image file="19_augusteum.jpg" caption="Fig. 19: The Augustan nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -46,14 +54,6 @@ This garden belongs to the republican period and it is one of the most ancient o
 {{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
 {{< image file="35_library_courtyard.jpg" caption="Fig. 35: Plan of the Libraries' Courtyard, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Libraries' Courtyard at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

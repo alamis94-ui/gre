@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+2nd-5th century CE
+
+## Excavation Dates
+
+1914-1915
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
@@ -53,14 +61,6 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 {{< image file="house_of_europa_plant1.jpg" caption="Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)" credit="" alt="" >}}
 
 {{< image file="house_of_europa_plant.jpg" caption="Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)" credit="" alt="" >}}
-## Dates
-
-2nd-5th century CE
-
-## Excavation Dates
-
-1914-1915
-
 ## Bibliography
 
 - Allais, Y., "La maison d'Europe à Djemila", in *Revue Africaine*, 83, 1939, pp. 35-44. [(worldcat)](https://search.worldcat.org/title/758942246)

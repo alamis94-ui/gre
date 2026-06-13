@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [Nakrason]({{<relref ".">}})
@@ -28,10 +32,6 @@ A large stele of light grey marble inscribed on both sides and found in 1965 lyi
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

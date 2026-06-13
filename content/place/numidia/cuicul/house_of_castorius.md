@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+5th century
+
+## Excavation Dates
+
+1911
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
@@ -50,14 +58,6 @@ The  L shaped space between the fish pool and the columns was probably planted.
 {{< image file="house_of_castorius_photo1.jpg" caption="Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)" credit="" alt="" >}}
 
 {{< image file="house_of_castorius_photo2.jpg" caption="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)" credit="" alt="" >}}
-
-## Dates
-
-5th century
-
-## Excavation Dates
-
-1911
 
 ## Bibliography
 

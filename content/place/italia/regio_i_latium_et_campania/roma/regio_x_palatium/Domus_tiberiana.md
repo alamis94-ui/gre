@@ -10,6 +10,18 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century- 3rd century CE
+
+## Excavation Date
+
+1720-1729: F. Bianchini\
+1860s: P. Rosa\
+1900-1901: G. Boni\
+1983-1988: C. Krause under the Swiss Institute of Rome
+1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -66,18 +78,6 @@ RELATED PHASES ON THE PALATINE:
 {{< image file="domus_tiberiana_fig3.jpg" caption="Fig. 3: Herms from the Palatine. Palatine Museum (Photo SAR)." credit="" alt="" >}}
 
 {{< image file="domus_tiberiana_fig4.jpg" caption="Fig. 4: Oval pool in the southeast corner of the gardens (Photo Moscioni 246A)." credit="" alt="" >}}
-
-## Dates
-
-1st century- 3rd century CE
-
-## Excavation Date
-
-1720-1729: F. Bianchini\
-1860s: P. Rosa\
-1900-1901: G. Boni\
-1983-1988: C. Krause under the Swiss Institute of Rome
-1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
 
 ## Bibliography
 

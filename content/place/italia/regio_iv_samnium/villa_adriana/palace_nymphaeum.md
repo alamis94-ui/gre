@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -65,14 +73,6 @@ We can have an idea how it looked at the beginning of the XIX century in a drawi
 {{< image file="44_the_probe.jpg" caption="Fig. 44: The probe along the emicycle of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the probe along the emicycle of the Palace Nymphaeum at Hadrian's Villa" >}}
 
 {{< image file="45_the_immission_canal.jpg" caption="Fig. 45: The imission canal of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of a canal unearthed by the probe at the Palace Nymphaeum at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

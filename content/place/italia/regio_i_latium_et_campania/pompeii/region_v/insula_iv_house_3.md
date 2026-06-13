@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
+## Excavation Dates
+
+1899
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -57,14 +65,6 @@ At the rear of this house excavated in 1899 was a courtyard garden (a) with a *p
 
 ## Images
  -->
-
-## Dates
-
-Unspecified
-
-## Excavation Dates
-
-1899
 
 ## Bibliography
 

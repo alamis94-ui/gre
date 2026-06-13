@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -55,10 +59,6 @@ The domus must have continued to exist beyond the first century, but no precise 
 ## Plans
 
 {{< image file="domus_under_the_hotel_d_assezat.png" caption="Plan of Domus under the Hôtel d'Assézat" credit="" alt="" >}}
-
-## Dates
-
-After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.
 
 ## Bibliography
 

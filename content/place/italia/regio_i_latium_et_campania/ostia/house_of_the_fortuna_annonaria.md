@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+2nd century CE to 4th century CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -70,14 +78,6 @@ The garden also forms the backdrop to the rooms in the east part of the house, a
 {{< image file="ostia_fig22.jpg" caption="Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive)." credit="" alt="The garden seen from the oecus" >}}
 
 {{< image file="ostia_fig23.jpg" caption="Figure 4: Well head with bucrania (PA-OAnt, Photo Archive)." credit="" alt="Well head with bucrania" >}}
-
-## Dates
-
-2nd century CE to 4th century CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

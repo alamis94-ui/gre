@@ -10,10 +10,18 @@ modified: 2025-06-29
 draft: true
 ---
 
-## DUPLICATE!
-
+<!--
 This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 -KGJ
+-->
+
+## Dates
+
+unspecified
+
+## Excavation Dates
+
+1873
 
 ## Location
 
@@ -48,14 +56,6 @@ This humble house was excavated in 1873. It had no garden but the *impluvium* wa
 {{< image file="fig-2-region-i-insula-ii.png" caption="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, \"Topo grafia,\" pl. 9" credit="" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
-
-## Excavation Dates
-
-1873
 
 ## Bibliography
 

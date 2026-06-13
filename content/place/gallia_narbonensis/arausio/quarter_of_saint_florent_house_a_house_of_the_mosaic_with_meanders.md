@@ -10,6 +10,11 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+BCE 10-CE 10 Built
+CE 20-30 Destroyed
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -41,11 +46,6 @@ A rather large sewer collector (30 x 40 cm in section) took the rainwater of the
 ## Plans
 
 {{< image file="quarter_of_saint_florent_house_a_house_of_the_mosaic_with_meanders.png" caption="Plan of Quarter of Saint-Florent, House A – House of the Mosaic with Meanders" credit="" alt="" >}}
-
-## Dates
-
-BCE 10-CE 10 Built
-CE 20-30 Destroyed
 
 ## Bibliography
 

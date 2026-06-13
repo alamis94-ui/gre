@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -57,14 +65,6 @@ c – The third garden of the Great Entrance Hall occupies its extreme western p
 ## Images
 
 {{< image file="11_east_garden.jpg" caption="Fig. 11: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Garden in the East sector of the Great Hall at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

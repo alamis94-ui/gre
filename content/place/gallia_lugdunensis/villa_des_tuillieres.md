@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [SELONGEY (Côte d'Or, France)]({{<relref ".">}})
@@ -39,13 +43,10 @@ None Available
 ## Plans
 
 None Available
+
 ## Images
 
 None Available
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

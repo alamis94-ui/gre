@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 [Chester]({{<relref ".">}})
@@ -27,10 +31,6 @@ Toynbee's suggestion that a military tombstone from Chester depicting a row of t
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

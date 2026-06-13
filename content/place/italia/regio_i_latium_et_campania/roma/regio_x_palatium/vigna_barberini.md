@@ -10,6 +10,16 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century BCE- 2nd century CE
+
+## Excavation Dates
+
+1930s: A. Bartoli\
+1950s: G.F. Carretoni\
+1985-: Soprintendenza Archeologica in collaboration with École française de Rome
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -48,16 +58,6 @@ PHASES OF THE VIGNA BARBERINI SITE:
 {{< image file="vigna_barberini_fig1.jpg" caption="Fig. 1: Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." credit="" alt="" >}}
 
 {{< image file="vigna_barberini_fig2.jpg" caption="Fig. 2: Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." credit="" alt="" >}}
-
-## Dates
-
-1st century BCE- 2nd century CE
-
-## Excavation Dates
-
-1930s: A. Bartoli\
-1950s: G.F. Carretoni\
-1985-: Soprintendenza Archeologica in collaboration with École française de Rome
 
 ## Bibliography
 

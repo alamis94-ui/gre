@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1929-1932
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -22,7 +30,7 @@ draft: true
 
 ## Location Description
 
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
@@ -57,14 +65,6 @@ This narrow house excavated in 1929-1932 had a small paved courtyard serving as 
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1929-1932
 
 ## Bibliography
 

@@ -13,7 +13,7 @@ draft: false
 
 <!-- ## Place Description-->
 
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
 
 <!--
 ## Maps

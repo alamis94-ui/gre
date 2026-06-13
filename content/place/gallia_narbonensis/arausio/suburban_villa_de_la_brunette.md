@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 1-100 constructed
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -46,10 +50,6 @@ At the heart of the garden, the rectangular pool [47] of the first condition was
 {{< image file="suburban_villa_de_la_brunette_1.png" caption="Fig. 1 Plan of Suburban Villa de la Brunette" credit="" alt="" >}}
 
 {{< image file="suburban_villa_de_la_brunette_2.png" caption="Fig. 2 Plan of Suburban Villa de la Brunette" credit="" alt="" >}}
-
-## Dates
-
-CE 1-100 constructed
 
 ## Bibliography
 

@@ -10,6 +10,16 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+3nd-5th century CE
+
+<!--
+## Excavation Dates
+
+1929, 1931, 1937, 1944
+-->
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
@@ -54,16 +64,6 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 {{< image file="pool_and_fish_pool.jpg" caption="Fig. 3: The pool and fish pool" credit="(Février, P.-A.– CCJ 62945)" alt="" >}}
 
 {{< image file="fish_pool.jpg" caption="Fig. 4: The fish pool" credit="(Février, P.-A.– CCJ 62886)" alt="" >}}
-
-## Dates
-
-3nd-5th century CE
-
-<!--
-## Excavation Dates
-
-1929, 1931, 1937, 1944
--->
 
 ## Bibliography
 

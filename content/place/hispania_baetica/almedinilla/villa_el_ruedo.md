@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Almedinilla]({{<relref ".">}})
@@ -41,10 +45,6 @@ The chronology of the house is quite tentative.  A first phase, probably to be p
 {{< image file="HIS_BAE_Almedinilla_El_Ruedo_Fig2_CA.jpg" caption="Fig. 2  Plan detail of stibadium and pools." credit="" alt="" >}}
 
 {{< image file="HIS_BAE_Almedinilla_El_Ruedo_Fig3_CA.jpg" caption="Fig. 3  Photograph looking south over stibadium and pools (Clopper Almon)." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

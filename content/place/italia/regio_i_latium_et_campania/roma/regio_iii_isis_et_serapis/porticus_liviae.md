@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+7 CE
+
+## Excavation Date
+
+1984- C. Panella
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -49,14 +57,6 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 {{< image file="porticusliviae_fig2.jpg" caption="Fig. 2: Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres." credit="" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" >}}
 
 <!-- {{< image file=".jpg" caption="Fig. 3: Entrance to the Porticus Liviae. © Holly Spoth-Torres." credit="" alt="Entrance to the Porticus Liviae" >}} -->
-
-## Dates
-
-7 CE
-
-## Excavation Date
-
-1984- C. Panella
 
 ## Bibliography
 

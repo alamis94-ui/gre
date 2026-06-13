@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+early 4th century CE - unspecified
+
 ## Location
 
 - [Latimer]({{<relref ".">}})
@@ -35,10 +39,6 @@ Excavations at this country house in Buckinghamshire have produced evidence for 
 ## Images
 
 {{< image file="Latimer_fig_15_or_10.1b.jpg" caption="Fig. 2: Reconstruction of the house and garden." credit="Courtesy of K. Branigan." alt="" >}}
-
-## Dates
-
-early 4th century CE - unspecified
 
 ## Bibliography
 

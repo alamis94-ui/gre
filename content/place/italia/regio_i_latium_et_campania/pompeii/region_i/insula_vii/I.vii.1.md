@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1912, 1915, 1926 and 1936.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -43,10 +47,6 @@ This elegant house was excavated in 1923. To the rear was a large and sunny [per
 {{< image file="../region-i-insula-8.jpg" caption="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach" credit="" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-Excavated 1912, 1915, 1926 and 1936.
 
 ## Bibliography
 

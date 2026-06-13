@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
@@ -29,10 +33,6 @@ Tomb Garden of Anonymous
 ## Garden Description
 
 A fragmentary marble slab found beside the Via Labicana near the cemetery of Centocelle and recording the end of an epitaph addressed in part to an Aurelius identifies a cepotaphium in the formulaic clause prohibiting misuse or alienation of the tomb property.
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -10,6 +10,15 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+128 CE \
+3rd century CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -69,15 +78,6 @@ A sculptural group with a fishing scene, which could be interpreted as a fountai
 {{< image file="ostia_fig13.jpg" caption="Figure 4: Fountain b: mosaic with nilotic scene (PA-OAnt, Photo Archive)." credit="" alt="Photo of mosaic with nilotic scene from Fountain b" >}}
 
 {{< image file="ostia_fig14.jpg" caption="Figure 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive)." credit="" alt="Photo of the sculpture of a Fisherman on a rock" >}}
-
-## Dates
-
-128 CE \
-3rd century CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

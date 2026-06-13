@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1912 and 1925.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -65,10 +69,6 @@ C. Behind the [tablinum](http://vocab.getty.edu/page/aat/300004180), and seen fr
 
 {{< image file="Fig_44_I.vii.11_12_11.33.59.jpg" caption="Fig. 6: I.vii. 11.33.59, S.A. Jashemski" credit="" alt="" >}}
 -->
-
-## Dates
-
-Excavated 1912 and 1925.
 
 ## Bibliography
 

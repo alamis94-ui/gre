@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [AUTRICUM (Chartres, France)]({{<relref ".">}})
@@ -46,10 +50,6 @@ None Available
 ## Images
 
 {{< image file="yvelines2.jpg" caption="Plan 1:  Bird's Eye Perspective of the Garden" credit="" alt="A colorful bird's eye perspective of the garden between the buildings." >}}
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

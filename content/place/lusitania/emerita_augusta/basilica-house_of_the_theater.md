@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+2nd and 4th centuries CE
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
@@ -49,10 +53,6 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 ## Plans
 
 {{< image file="his_lus_col_aug_basilica_fig1.jpg" caption="Fig. 1: Plan of the Basilica - House of the Theater." credit="Adapted from Cassilla Moreno, p.315." alt="" >}}
-
-## Dates
-
-2nd and 4th centuries CE
 
 ## Bibliography
 

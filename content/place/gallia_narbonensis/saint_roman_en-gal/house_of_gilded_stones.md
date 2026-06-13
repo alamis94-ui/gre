@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 20 - CE 60
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -56,10 +60,6 @@ Further to the north, at the back of the lot, the house had a large garden [25] 
 ## Plans
 
 {{< image file="house_of_the_gilded_stones.png" caption="Plan of House of the Gilded Stones" credit="" alt="" >}}
-
-## Dates
-
-CE 20 - CE 60
 
 ## Bibliography
 

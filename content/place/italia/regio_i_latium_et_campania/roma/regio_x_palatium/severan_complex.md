@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century CE to 4th century CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -46,10 +50,6 @@ RELATED PHASES ON THE PALATINE:
 ## Figures
 
 {{< image file="severan_complex_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="" >}}
-
-## Dates
-
-1st century CE to 4th century CE
 
 ## Bibliography
 

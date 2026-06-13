@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1926 and 1927. Restoration 2017.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -45,10 +49,6 @@ Two [paintings](http://vocab.getty.edu/page/aat/300033644) were found on the wes
 -->
 
 <!-- ## Images -->
-
-## Dates
-
-Excavated 1926 and 1927. Restoration 2017.
 
 ## Bibliography
 

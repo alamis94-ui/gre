@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 ## Sublocation
@@ -29,10 +33,6 @@ The lower right portion of a marble slab found in the vicinity of the Via del Ma
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

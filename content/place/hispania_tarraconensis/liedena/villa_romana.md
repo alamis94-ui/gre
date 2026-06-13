@@ -11,7 +11,9 @@ modified: 2025-06-29
 draft: true
 ---
 
-- {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
+## Dates
+
+1st century CE
 
 ## Province Description
 
@@ -78,10 +80,6 @@ The oecus or principal reception room is the room with an apse facing the southw
 ## Plans
 
 {{< image file="lei_v_romana_fig1.jpg" caption="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls.  In some cases these walls were used in the second villa." credit="Clopper Almon, adapted from Taracena." alt="" >}}
-
-## Dates
-
-1C CE
 
 <!-- -doesn't have ## Bibliography -->
 

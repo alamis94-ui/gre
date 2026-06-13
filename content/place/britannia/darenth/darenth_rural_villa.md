@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+ca. 100 CE - late 4th century CE
+
 ## Location
 
 - [Darenth]({{<relref ".">}})
@@ -36,10 +40,6 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 {{< image file="darenth.png" caption="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P)." credit="Adapted from Detsicas 1983, fig. 20." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-ca. 100 CE - late 4th century CE
 
 ## Bibliography
 

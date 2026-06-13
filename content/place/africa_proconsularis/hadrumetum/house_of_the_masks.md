@@ -10,6 +10,9 @@ modified: 2025-09-16
 draft: true
 ---
 
+## Dates
+2nd century CE
+
 ## Location
 
 - [Hadrumetum (Sousse)]({{<relref ".">}})
@@ -37,9 +40,6 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 {{< image file="House_of_the_Masks_Sousse1.jpg" caption="Fig. 1: Plan of the House of the Masks" credit="(Foucher, L., 1965)" alt="">}}
 
 <!-- ## Images -->
-
-## Dates
-2nd century CE
 
 ## Bibliography
 

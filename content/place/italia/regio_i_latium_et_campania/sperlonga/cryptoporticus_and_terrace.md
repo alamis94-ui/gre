@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 [Italia]({{<relref "../../../..">}})
@@ -48,10 +52,6 @@ These parts of the villa have been relatively spared and they are among the best
 
 
 {{< image file="97-terrace-parapet.jpg" caption="Terrace's parapet." credit="" alt="" >}}
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

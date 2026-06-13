@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+unspecified
+
 ## Location
 
 [Aquileia]({{<relref ".">}}) \
@@ -29,14 +37,6 @@ A small inscribed altar of (probably) the Julio-Claudian era found by Mommsen am
 <!-- ## Maps -->
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

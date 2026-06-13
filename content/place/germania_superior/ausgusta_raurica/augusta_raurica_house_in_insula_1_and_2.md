@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+House: AD 150 - ca. 170
+
 ## Location
 
 - [Augusta Raurica]({{<relref ".">}})
@@ -38,10 +42,6 @@ The northern part of the house facing the street included an open terrace which 
 {{< image file="EUR_GS_AUG_RAU_Hi1_2_carroll.jpg" caption="Fig. 1: Augusta Raurica., House in insula 1 and 2." credit="Adapted from Hufschidt." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-House: AD 150 - ca. 170
 
 ## Bibliography
 

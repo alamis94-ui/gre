@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+4C
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -57,10 +61,6 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 ## Plans
 
 {{< image file="his_tar_albadalejo_olmilla_fig1.jpg" caption="Plan drawing of the Villa en Puente de la Olmilla." credit="" alt="" >}}
-
-## Dates
-
-4C
 
 ## Bibliography
 

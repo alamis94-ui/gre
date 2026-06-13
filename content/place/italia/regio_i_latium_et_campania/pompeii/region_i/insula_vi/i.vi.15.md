@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1913.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -55,10 +59,6 @@ This small garden was located at the rear of the house and featured a [portico](
 {{< image file="Fig_28_I.vi.15_16.24.68.jpg" caption="Fig. 7: I.vi. 16.24.68, S.A. Jashemski" credit="" alt="" >}}
 
 {{< image file="Fig_29_I.vi.15_45.18.64.jpg" caption="Fig. 8: I. vi. 45.18.64, S.A. Jashemski" credit="" alt="" >}} -->
-
-## Dates
-
-Excavated 1913.
 
 ## Bibliography
 

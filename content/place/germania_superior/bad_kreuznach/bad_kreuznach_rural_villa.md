@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Second half of 2nd century - around 275
+
 ## Location
 
 - [Bad Kreuznach]({{<relref ".">}})
@@ -34,10 +38,6 @@ At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the
 {{< image file="EUR_GS_BadKre_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house." credit="Plan adapted from Cüppers 1990, fig. 204." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-Second half of 2nd century - around 275
 
 ## Bibliography
 

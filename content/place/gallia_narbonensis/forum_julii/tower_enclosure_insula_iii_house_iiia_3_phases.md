@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 20-15 First Phase
+CE 70 Second Phase
+CE 200 Final Phase
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -55,12 +61,6 @@ In a third and final phase, dated from around the end of the second century, the
 ## Plans
 
 {{< image file="tower_enclosure_insula_III_house_IIIA_3_phases.png" caption="Plan of Tower Enclosure, Insula III, House IIIA" credit="" alt="" >}}
-
-## Dates
-
-CE 20-15 First Phase
-CE 70 Second Phase
-CE 200 Final Phase
 
 ## Bibliography
 

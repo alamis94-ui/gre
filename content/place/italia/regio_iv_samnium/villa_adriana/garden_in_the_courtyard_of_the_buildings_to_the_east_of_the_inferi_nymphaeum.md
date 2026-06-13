@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -51,14 +59,6 @@ The only explanation seems to be the fact that Hadrian, who not only was introdu
 {{< image file="66_perspective_pluto_temple.jpg" caption="Fig. 66: Perspective plan of the Pluto Temple, Eugenia Salza Prina Ricotti." credit="" alt="Perspective plan of the Pluto Temple at Hadrian's Villa" >}}
 
 {{< image file="67_inferi_plutonium.jpg" caption="Fig. 67: Comparison between Eleusis and Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan showing the comparison between the small Plutinium grotto at Eleusis and the small inferi grotto at Villa Adriana" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

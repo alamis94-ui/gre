@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -49,14 +57,6 @@ Here also the presence of a garden is only denounced by the high content of lead
 ## Images
 
 {{< image file="34_sustaining_wall.jpg" caption="Fig. 34: The sustaining wall of the Venus of Cnidus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the sustaining wall of the Venus of Cnidus at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

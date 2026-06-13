@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -62,14 +70,6 @@ Then excavations in the valley showed the existence of two long flower beds that
 {{< image file="7_lateral_pavilion.jpg" caption="Fig. 7: The lateral pavilion at the Canopus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the lateral pavilion at the Canopus at Hadrian's Villa" >}}
 
 {{< image file="8_the_excavation.jpg" caption="Fig. 8: The excavation at the Canopus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the excavation at the Canopus at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

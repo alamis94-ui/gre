@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 185-CE 247
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -44,10 +48,6 @@ The rest of the north end of the house remained unchanged. It should be added th
 ## Plans
 
 <!-- ## Images -->
-
-## Dates
-
-CE 185-CE 247
 
 ## Bibliography
 

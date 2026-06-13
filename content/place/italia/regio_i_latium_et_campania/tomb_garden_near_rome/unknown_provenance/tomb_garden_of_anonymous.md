@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 ## Sublocation
@@ -29,10 +33,6 @@ A fragmentary opisthographic slab of unknown urban provenance, now in the Lapida
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Houses: Late 1st century - Middle of 3rd century
+
 ## Location
 
 - [Aventicum]({{<relref ".">}})
@@ -35,10 +39,6 @@ The most remarkable feature of the building was a T-shaped garden courtyard (G i
 {{< image file="EUR_GS_AugRau_Hi13_carroll.jpg" caption="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey)." credit="Plan adapted from Carroll 2001, fig. 20." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-Houses: Late 1st century - Middle of 3rd century
 
 ## Bibliography
 

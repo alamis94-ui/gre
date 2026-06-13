@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 20-CE 60
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -47,10 +51,6 @@ Only its eastern end has been uncovered, and of the rooms for living -- presumab
 
 
 <!-- ## Images -->
-
-## Dates
-
-CE 20-CE 60
 
 ## Bibliography
 

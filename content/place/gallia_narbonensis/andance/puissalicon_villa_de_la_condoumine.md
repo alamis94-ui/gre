@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 75-100 built
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -53,10 +57,6 @@ The gallery led to baths [19-26]. In a second phase, they were dismantled and th
 ## Plans
 
 {{< image file="puissalicon_villa_de_la_condoumine.png" caption="Plan of Puissalicon, villa de la Condoumine" credit="" alt="" >}}
-
-## Dates
-
-CE 75-100 built
 
 ## Bibliography
 

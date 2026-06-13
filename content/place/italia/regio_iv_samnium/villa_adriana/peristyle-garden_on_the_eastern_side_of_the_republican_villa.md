@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -51,14 +59,6 @@ This garden was set in the middle of a luxurious peristyle (SALZA PRINA RICOTTI 
 {{< image file="52_peristilio_a_est_di_palazzo.jpg" caption="Fig. 52: A view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian's Villa" >}}
 
 {{< image file="53_peristilio_ad_est_di_palazzo_2.jpg" caption="Fig. 53: A second view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti." credit="" alt="Second photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 101-200
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -46,10 +50,6 @@ On entering from the east-west street, after passing through two incidental room
 ## Plans
 
 {{< image file="le_pinard_house_B.png" caption="Plan of Le Pinard, House B" credit="" alt="" >}}
-
-## Dates
-
-CE 101-200
 
 ## Bibliography
 

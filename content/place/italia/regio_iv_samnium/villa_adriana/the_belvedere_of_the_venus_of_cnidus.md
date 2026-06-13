@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -53,14 +61,6 @@ The Belvedere was created in those areas bought by Hadrian to have enough space 
 ## Images
 
 {{< image file="32_tempietto.jpg" caption="Fig. 32: The temple sheltering a copy of the Venus of Cnidus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the round temple sheltering a copy of the Venus of Cnidus at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

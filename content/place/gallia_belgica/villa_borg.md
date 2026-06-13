@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [BORG (Germany)]({{<relref ".">}})
@@ -23,7 +27,7 @@ Villa Borg
 
 The *villa* of Borg is situated in a forest between the villages Borg and Oberleuken, community of Perl (Landkreis Merzig-Wadern), in the border-region Germany - Luxembourg - France. The huge villa complex is situated in a densely occupied Roman settlement region on the fertile plateaus between the river valleys of Saar and Mosel. *Pars urbana* and *pars rustica* covered an area of about 7.5 hectare. The *villa* was built in the direct vicinity of the Roman road from Metz to Trier (*Augusta Treverorum*), which was part of the far-distance connection between Marseille and Cologne.
 
-Recent archaeological excavations have shown traces of an earlier rural settlement below the foundations of the *villa*. This first occupation can be dated to late Celtic times or directly to the beginning of Roman occupation. In the second quarter of the 1st century CE it was followed by a possibly two-angled timber-framed building of 17.80 x 10.40 m, which is interpreted as *proto-villa*. The construction of the later stone-buildings took place around 50 CE. The main period of the *villa* lasted from the end of the 1st to the late 3rd century CE. From the middle of the 4th century CE (Plan, Fig 1)onwards only some parts of the villa were still occupied. It was completely abandoned by the end of the 4th century A.D.
+Recent archaeological excavations have shown traces of an earlier rural settlement below the foundations of the *villa*. This first occupation can be dated to late Celtic times or directly to the beginning of Roman occupation. In the second quarter of the 1st century CE it was followed by a possibly two-angled timber-framed building of 17.80 x 10.40 m, which is interpreted as *proto-villa*. The construction of the later stone-buildings took place around 50 CE. The main period of the *villa* lasted from the end of the 1st to the late 3rd century CE. From the middle of the 4th century CE (Plan, Fig 1)onwards only some parts of the villa were still occupied. It was completely abandoned by the end of the 4th century CE.
 
 Since 1987, the eastern part of the site, the *pars urbana*, was completely excavated. The main building, a *porticus villa*, type Bollendorf, was completely reconstructed, exactly on top of the Roman foundations. The *pars rustica* in the western part, covering an area of 400 x 150 m, is not yet excavated. Geophysical measurements gave evidence of two parallel rows of at least 14 small buildings; possible used for storage and handicraft activities.
 
@@ -40,12 +44,10 @@ None Available
 ## Plans
 
 None Available
+
 ## Images
 
 None Available
-## Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [LUGDUNUM (Lyon, France)]({{<relref ".">}})
@@ -33,10 +37,6 @@ Not Available
 ## Images
 
 {{< image file="mask_house.jpg" caption="perspective drawing of porticoes" credit="" alt="Drawing of the courtyard in perspective. Some of the key features include a view of the porticoes with smiling masks hanging between the columns. There is a fountain bassin in the center." >}}
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

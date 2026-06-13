@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [ECHTERNACH (Luxembourg)]({{<relref ".">}})
@@ -43,10 +47,6 @@ There was a garden from the very beginning in the western *peristyle courtyard*,
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

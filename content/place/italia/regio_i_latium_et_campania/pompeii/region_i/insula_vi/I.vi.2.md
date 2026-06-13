@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1911-1929.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -46,10 +50,6 @@ B. At the rear of the house, a large enclosed garden had been increased in size 
 {{< image file="../region-i-insula-v.png" caption="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, \"*Topografia*,\" pl. 10" credit="" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-Excavated 1911-1929.
 
 ## Bibliography
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century - 2nd century CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -68,10 +72,6 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 {{< image file="flavianpalace_fig6.jpg" caption="Fig. 6: Flowerpots found in the gardens of the first and second century (© Ch. Durand, AMU-CNRS, CCJ)." credit="" alt="Flowerpots of the Flavian Palace" >}}
 
 {{< image file="flavianpalace_fig7.jpg" caption="Fig. 7: Detail of the marble canal along the outer edge of the portico." credit="" alt="Detail Marble Canal of the Flavian Palace" >}}
-
-## Dates
-
-1st century - 2nd century CE
 
 ## Bibliography
 

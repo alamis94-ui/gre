@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [via tiburtina]({{<relref ".">}})
@@ -32,10 +36,6 @@ An opisthographic marble slab found reused for a Christian tomb (ICUR 8842) in t
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

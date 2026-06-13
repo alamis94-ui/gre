@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+2nd-3rd century CE
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
@@ -44,10 +48,6 @@ The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of t
 {{< image file="water_sanctuary _aqua_eptimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="">}}
 
 <!-- ## Images -->
-
-## Dates
-
-2nd-3rd century CE
 
 ## Bibliography
 

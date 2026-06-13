@@ -12,7 +12,7 @@ draft: true
 
 ## Dates
 
-unknown
+unspecified
 
 ## Garden Description
 

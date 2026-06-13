@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}})
@@ -61,10 +65,6 @@ None Available
 ## Images
 
 None Available
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1911 and 1923.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -53,10 +57,6 @@ A very small garden was located in the light well at the rear of the [atrium](ht
 
 {{< image file="Fig_37_I.vii.2_12.36.72.jpg" caption="Fig. 6: I.vii. 12.36.72, S.A. Jashemski" credit="" alt="" >}}
 -->
-
-## Dates
-
-Excavated 1911 and 1923.
 
 ## Bibliography
 

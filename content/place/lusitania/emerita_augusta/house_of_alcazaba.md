@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+4th century CE
+
+## Excavation Dates
+
+1970s
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
@@ -44,19 +52,11 @@ House of Alcazaba
 
 ## Garden Description
 
-Within the enclosure of the Islamic Alcazaba, west of the city, are the remains of this great late-Imperial domus, excavated in the 1970's by D. José Álvarez Sáenz de Buruaga. It remains unpublished. The principal element of its peristyle is a deep rectangular pool with a semicircular extension from the middle of one long side.  The room opposite this pool, the largest of the house, was paved in opus sectile; several other rooms surrounding the peristyle had mosaic floors.  The presence of a peristyle and pool strongly suggests a garden.
+Within the enclosure of the Islamic Alcazaba, west of the city, are the remains of this great late-Imperial domus, excavated in the 1970s by D. José Álvarez Sáenz de Buruaga. It remains unpublished. The principal element of its peristyle is a deep rectangular pool with a semicircular extension from the middle of one long side.  The room opposite this pool, the largest of the house, was paved in opus sectile; several other rooms surrounding the peristyle had mosaic floors.  The presence of a peristyle and pool strongly suggests a garden.
 
 ## Plans
 
 {{< image file="his_lus_col_augusta_alcazbar_domus_fig1.jpg" caption="Fig. 1: Plan of the House of Alcazaba." credit="Adapted from Palma Garcia, p. 350." alt="" >}}
-
-## Dates
-
-4th century CE
-
-## Excavation Dates
-
-1970's
 
 ## Bibliography
 

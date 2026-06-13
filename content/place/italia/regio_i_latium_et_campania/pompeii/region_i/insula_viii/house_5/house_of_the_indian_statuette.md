@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -43,12 +49,6 @@ A *portico* enclosed this garden (a) on the north, east and south sides, and the
 {{< image file="../region-i-insula-8.jpg" caption="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach" credit="" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
-
-## Excavation Date
 
 ## Bibliography
 

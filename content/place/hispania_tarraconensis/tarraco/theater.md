@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+1st century CE
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -62,10 +66,6 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 ## Plans
 
 {{< image file="his_tar_tar_theater_fig1.jpg" caption="Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)" credit="" alt="" >}}
-
-## Dates
-
-1st century CE
 
 ## Bibliography
 

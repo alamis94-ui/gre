@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+between 28 and 23 BCE
+
+## Excavation Dates
+
+1869, 1871-1872, 1907-1908, 1916-1930, 1934-1938
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -61,14 +69,6 @@ The [Ara Pacis](https://www.digitalaugustanrome.org/records/pax-augusta-ara) is 
 Six large travertine slabs with inscriptions that refer to different members of the imperial household were discovered in 1777 in the area of Piazza S. Carlo al Corso, near the Mausoleum of Augustus ([CIL VI 888-93](https://cil.bbaw.de/hauptnavigation/das-cil/baende)). Three of these stones— interpreted either as *[orthostat](http://vocab.getty.edu/page/aat/300002712) [cippi](http://vocab.getty.edu/page/aat/300006963)* or as paving stones— are inscribed with the phrase HIC CREMATVS EST. Based on these inscriptions, scholars assumed that this was the *ustrinum* described by Strabo where Augustus's body was cremated in 14 CE. V. Jolivet has since demonstrated otherwise. In 1937, remains from the 2nd C CE were unearthed, demonstrating that the circular structure described by Strabo is, in fact, too far north to be in the middle of the plain as he described it. The cremations of other important Julio-Claudians, including the three children of [Germanicus](https://en.wikipedia.org/wiki/Germanicus) who died as infants during the reign of Augustus, and the elder brother of the future emperor [Gaius](https://en.wikipedia.org/wiki/Caligula) ([Suet., *Calig.* 7.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo014.perseus-lat1:7.1),[8.2](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo014.perseus-lat1:8.2)), were commemorated here. While these remains are post-Augustan in date, they are associated with the cremation of members of the imperial household- which underscores the imperial overtones of this part of the *Campus Martius*. The location of Augustus's funeral [pyre](https://en.wikipedia.org/wiki/Pyre) remains unknown.
 
 The park in which the Mausoleum of Augustus, the Ara Pacis, the Horologium, and several other altars were located, transformed the entire northern *Campus Martius* into a celebration of Augustus's life, achievements, and death.
-
-## Dates
-
-between 28 and 23 BCE
-
-## Excavation Dates
-
-1869, 1871-1872, 1907-1908, 1916-1930, 1934-1938
 
 ## Bibliography
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}})
@@ -41,10 +45,6 @@ The entrance to the house on the west was flanked by two protruding pavilions fr
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

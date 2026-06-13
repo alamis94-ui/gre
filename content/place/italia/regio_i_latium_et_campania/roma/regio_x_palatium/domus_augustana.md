@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+92 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -62,14 +70,6 @@ RELATED PHASES ON THE PALATINE:
 {{< image file="domus_augustana_fig4.jpg" caption="Fig. 10: Domus Augustana. Upper peristyle. (Photo SAR)." credit="" alt="" >}}
 
 {{< image file="domus_augustana_fig5.jpg" caption="Fig. 11 Upper peristyle of the Domus Augustana: Hypothetical reconstruction." credit="(G. de Angelis D'Ossat, 1932)." alt="" >}}
-
-## Dates
-
-92 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

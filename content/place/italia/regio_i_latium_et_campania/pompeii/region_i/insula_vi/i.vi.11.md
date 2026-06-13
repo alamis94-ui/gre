@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1912, 1926 to 1927.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -47,10 +51,6 @@ A partially completed wall joined the [columns](http://vocab.getty.edu/page/aat/
 
 {{< image file="Fig_19_I.vi.11_13.9.59.jpg" caption="Fig. 3: I. vi. 13.9.59, S.A. Jashemski" credit="" alt="" >}}
 -->
-
-## Dates
-
-Excavated 1912, 1926 to 1927.
 
 ## Bibliography
 

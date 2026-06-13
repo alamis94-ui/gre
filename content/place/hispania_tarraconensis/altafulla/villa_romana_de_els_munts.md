@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+1st century CE
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -59,10 +63,6 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 ## Plans
 
 {{< image file="his_tar_alt_vr_munts_fig1.jpg" caption="Villa Romana de Els Munts, Altafulla." credit="Gorges, Planche LVI." alt="" >}}
-
-## Dates
-
-1C AD
 
 ## Bibliography
 

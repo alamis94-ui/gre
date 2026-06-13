@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Tiberius times(CE 14-37)
+
+## Excavation Dates
+
+1930s
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -55,20 +63,12 @@ Villa El Soldán  (The Sultan)
 N 42° 27'  14"  W  6° 14' 26"
 The villa is 300 meters eastnortheast of the eastern tip of Laguna Cernea, north of the modern village Santa Colomba de Somoza. The Laguna Cernea is an artificial pond created by the Romans for washing gold, now frequently dry.
 It was presumably the residence of the offical in charge of the gold extraction.  Its early, first century date underlines the importance of gold as a reason for determination of Augustus to subdue the region at great cost.
-Built under Tiberius, this site is a rare if not unique example of a first century Iberian villa for which we have a complete plan.  Excavation began in the 1930's. Of modest dimensions and without mosaics, it followed an Italian plan with a central (slightly trapezoidal) peristyle with little adaptation to the much cooler climate at this elevation.  It did, however, have several rooms heated by hypocausts and many rooms paved in opus signinum.  There were found many fragments of wall painting (of deer, birds, and humans)  and of ceramic and glass.
+Built under Tiberius, this site is a rare if not unique example of a first century Iberian villa for which we have a complete plan.  Excavation began in the 1930s. Of modest dimensions and without mosaics, it followed an Italian plan with a central (slightly trapezoidal) peristyle with little adaptation to the much cooler climate at this elevation.  It did, however, have several rooms heated by hypocausts and many rooms paved in opus signinum.  There were found many fragments of wall painting (of deer, birds, and humans)  and of ceramic and glass.
 In the center of the peristyle was a rectangular pool with protruding semi-circular niches at each corner; it was lined with painted stucco. The garden around the pool was open on the north side in front of the reception room [1].  In a later modification, the west portico was divided into four small rooms beside the garden.
 
 ## Plans
 
 {{< image file="his_tar_san_soldan_sultan_fig1.jpg" caption="Fig. 1:  Plan of Villa El Soldán." credit="Gorges, Planche XXXVI" alt="" >}}
-
-## Dates
-
-Tiberius times(CE 14-37)
-
-## Excavation Dates
-
-1930's
 
 ## Bibliography
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+4-5th century CE
+
+## Excavation Dates
+
+1938
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
@@ -47,14 +55,6 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 ## Images
 
 {{< image file="house_of_hylas_photo.jpg" caption="Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M., AOrOc)" credit="" alt="View of the corridor and the basin. On the background, the courtyard garden." >}}
-
-## Dates
-
-4-5th century CE
-
-## Excavation Dates
-
-1938
 
 ## Bibliography
 

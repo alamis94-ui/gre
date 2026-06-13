@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+2nd- 1st century BCE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -42,10 +46,6 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Domus Augustana (F,G)]({{<relref"domus_augustana">}})\
 [Garden of the Palatine Stadium (H)]({{<relref"palatine_stadium">}})\
 [Garden of the Severan Complex (I)]({{<relref"severan_complex">}})
-
-## Dates
-
-2nd- 1st century BCE
 
 ## Bibliography
 

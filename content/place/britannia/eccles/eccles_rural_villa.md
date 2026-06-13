@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+mid-1st to 4th century CE
+
 ## Location
 
 - [Eccles]({{<relref ".">}})
@@ -32,10 +36,6 @@ This country estate in modern Kent possessed a large ornamental pool (P in Fig. 
 ## Images
 
 {{< image file="Eccles_Fig_2.jpg" caption="Fig. 2: Clay planting pot with cut-out holes." credit="Adapted from Detsicas 1981, fig. 26.2." alt="" >}}
-
-## Dates
-
-mid-1st to 4th century CE
 
 ## Bibliography
 

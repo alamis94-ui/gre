@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Egabrum]({{<relref ".">}})
@@ -35,10 +39,6 @@ Excavations identified two building phases in the villa. The early Imperial phas
 {{< image file="HIS_BAE_Ega_Hm_photo_CA2.jpg" caption="Fig. 2: Photo of the peristyle looking northwest." credit="" alt="" >}}
 
 {{< image file="HIS_BAE_Ega_Hm_Mosaic_CA3.jpg" caption="Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

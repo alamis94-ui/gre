@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1814 to 1816, 1933, and 1935 to 1939.
+
 ## Province
 
 - [Italia]({{<relref "../../..">}})
@@ -48,10 +52,6 @@ Colonnaded [porticoes](http://vocab.getty.edu/page/aat/300004145) encircled the 
 
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-## Dates
-
-Excavated 1814 to 1816, 1933, and 1935 to 1939.
 
 ## Bibliography
 

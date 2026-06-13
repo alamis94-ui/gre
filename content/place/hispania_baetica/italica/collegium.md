@@ -11,6 +11,10 @@ modified: 2026-06-03
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Italica]({{<relref ".">}})
@@ -39,10 +43,6 @@ A building just south of the public park has been identified as the seat of a Co
 {{< image file="HIS-BAE-Ita-Collegium-plan1.jpg" caption="Fig. 1: Plan of the Collegium of the Excedra." credit="" alt="" >}}
 
 {{< image file="HIS-BAE-italica-collegium-photo2.jpg" caption="Fig. 2: Photo of the existing site." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

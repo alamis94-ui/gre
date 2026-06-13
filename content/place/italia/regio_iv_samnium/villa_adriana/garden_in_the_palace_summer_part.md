@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -49,14 +57,6 @@ Quite certainly there was a garden here, but we don't have any elements to help 
 ## Images
 
 {{< image file="37_stibadio_di_palazzo.jpg" caption="Fig. 37: The Stibadium used in summer for open-air dining, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Stibadium used for open-air dining in the Summer Residence at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

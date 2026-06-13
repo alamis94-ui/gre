@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [NEMETACUM (Arras, France)]({{<relref ".">}})
@@ -33,12 +37,10 @@ The house had another interior open court and possible garden [17] of about 6 x 
 ## Plans
 
 None Available
+
 ## Images
 
 None Available
-## Dates
-
-Unspecified
 
 ## Bibliography
 

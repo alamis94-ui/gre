@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -46,14 +54,6 @@ We always find open spaces around the more important tombs and we know that they
 {{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
 {{< image file="64_tomba_romolo.jpg" caption="Fig. 64: The Tomb of Romulus in Massentius' villa, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Tomb of Romulus in Massentius' villa at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

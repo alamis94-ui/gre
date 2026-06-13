@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+partially excavated between June 1972 and January 1973
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -62,14 +70,6 @@ This house was only partially excavated between June 1972 and January 1973 (Fig.
 ## Photos
 
 {{< image file="ostia_fig23b.jpg" caption="Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive)." credit="" alt="A flower pot during 1973 excavation" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-partially excavated between June 1972 and January 1973
 
 ## Bibliography
 

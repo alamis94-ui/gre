@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}})
@@ -31,10 +35,6 @@ King Eumenes II of Pergamum employed a gardener to plant new trees and nurse dam
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

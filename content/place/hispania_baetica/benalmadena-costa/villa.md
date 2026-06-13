@@ -13,6 +13,10 @@ draft: true
 
 <!-- "Iberia Clopper.doc" omits the BAE 6.1, but this appears to be an oversight -->
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Benalmadena-Costa]({{<relref ".">}})
@@ -31,10 +35,6 @@ At the rear of this villa there is a grand *euripus* running the length of the l
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

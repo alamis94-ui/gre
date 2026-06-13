@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [Sainte-Marguerite-sur-Mer (Seine-Maritime, France)]({{<relref ".">}})
@@ -41,10 +45,6 @@ None Available
 ## Images
 
 None Available
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+16-15 BCE
+
+## Excavation Dates
+
+1964
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
@@ -65,14 +73,6 @@ Water, indispensable for irrigation and the fountains, was in ample supply, prob
 {{< image file="his_lus_peristyle_theatre_fig4.jpg" caption="Fig. 4: Photo of the theater peristyle garden." credit="" alt="" >}}
 
 {{< image file="his_lus_peristyle_theatre_fig5.jpg" caption="Fig. 5: Photo of the theater peristyle garden from the north side." credit="" alt="" >}}
-
-## Dates
-
-16-15 BCE
-
-## Excavation Dates
-
-1964
 
 ## Bibliography
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Early 4th century - unspecified
+
+## Excavation Dates
+
+Late 19th century, 2000-2002
+
 ## Location
 
 - [Chedworth]({{<relref ".">}})
@@ -39,14 +47,6 @@ Parts of the villa may date to the early 3rd century CE at the latest, but exten
 <!-- ## Maps -->
 
 <!-- ## Images -->
-
-## Dates
-
-Early 4th century - unspecified
-
-## Excavation Dates
-
-Late 19th century, 2000-2002
 
 ## Bibliography
 

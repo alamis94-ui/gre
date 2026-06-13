@@ -10,6 +10,9 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+3rd-5th century CE?
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
@@ -44,9 +47,6 @@ This large *domus* the result of the combining of two houses, is located at the 
 {{< image file="house_of _sertius.jpg" caption="Fig. 1: Plan of the House of Sertius" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" alt="">}}
 
 <!-- ## Images -->
-
-## Dates
-3rd-5th century CE?
 
 ## Bibliography
 

@@ -11,6 +11,10 @@ modified: 2026-06-03
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Italica]({{<relref ".">}})
@@ -37,10 +41,6 @@ This house is on the top of a hill and has thus been exposed to more erosion and
 ## Images
 
 {{< image file="HIS_BAE_Italica_Hrp_fig1.jpg" caption="Fig. 1: Photograph." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

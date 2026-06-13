@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+1st century BCE - 3rd century CE
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -57,10 +61,6 @@ The villa dates from the first century BCE to the third century AD when it was t
 ## Plans
 
 {{< image file="his_tar_cal_vilarenc_fig1.jpg" caption="Plan of Vilarenc" credit="Gorges Planche LXX" alt="" >}}
-
-## Dates
-
-1C BCE - 3C AD
 
 ## Bibliography
 

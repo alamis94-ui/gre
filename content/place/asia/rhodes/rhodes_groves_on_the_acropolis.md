@@ -21,7 +21,7 @@ Unexcavated
 
 ## Garden Description
 <!-- This is the main text describing the garden -->
-Aelius Aristides (25.6) referred in the second century A.D. to the parks and groves in the acropolis district of the city.  According to Philostratos, writing in the late second and early third century A.D., this area in the western part of the city had many sanctuaries, groves and gymnasia (Life of Apollonius 5.22).  Archaeological exploration of the acropolis sector has confirmed the existence of temples to Zeus and to Apollo, a gymnasium with a stadium and several sacred caves of the nymphs (nymphaia) near the temple of Zeus.  These artificial caves were carved out of the rock and had water basins and niches for statues.  No trace of any gardens or groves survives, but these would not have been out of place in the context of sanctuaries and gymnasia.
+Aelius Aristides (25.6) referred in the second century CE to the parks and groves in the acropolis district of the city.  According to Philostratos, writing in the late second and early third century CE, this area in the western part of the city had many sanctuaries, groves and gymnasia (Life of Apollonius 5.22).  Archaeological exploration of the acropolis sector has confirmed the existence of temples to Zeus and to Apollo, a gymnasium with a stadium and several sacred caves of the nymphs (nymphaia) near the temple of Zeus.  These artificial caves were carved out of the rock and had water basins and niches for statues.  No trace of any gardens or groves survives, but these would not have been out of place in the context of sanctuaries and gymnasia.
 
 
 <!--

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -45,14 +53,6 @@ This terrace offers a splendid view of Tivoli and its mountains (Fig. 30). The c
 {{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
 {{< image file="30_tempe's_terrace.jpg" caption="Fig. 30: Plan of the Terrace on the valey of Tempe, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Terrace on the valley of Tempe at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

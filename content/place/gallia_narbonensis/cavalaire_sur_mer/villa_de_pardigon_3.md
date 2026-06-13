@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 1-100 principal building constructed
+CE 100-200 peristyle added
+CE 200-300 garden transformed into a court then a dump
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -48,12 +54,6 @@ In a final stage, at the beginning of the third century, the garden was transfor
 ## Plans
 
 {{< image file="villa_de_pardigon_3.png" caption="Plan of Villa de Pardigon 3" credit="" alt="" >}}
-
-## Dates
-
-CE 1-100 principal building constructed
-CE 100-200 peristyle added
-CE 200-300 garden transformed into a court then a dump
 
 ## Bibliography
 

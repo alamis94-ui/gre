@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -65,14 +73,6 @@ The [*viridarium*](https://en.wiktionary.org/wiki/viridarium) is the main source
 {{< image file="ostia_fig5_better.jpg" caption="Figure 3: Axonometry" credit="(R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." alt="" >}}
 
 {{< image file="ostia_fig4b.jpg" caption="Figure 4: Section" credit="(R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." alt="" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

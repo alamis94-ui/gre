@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1953-1954, 1973, 1984. Restored 1988.
+
 ## Province
 
 - [Italia]({{<relref "../../..">}})
@@ -47,10 +51,6 @@ Jashemski examined this sizeable garden to the rear of this property in 1957 and
 
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-## Dates
-
-Excavated 1953-1954, 1973, 1984. Restored 1988.
 
 ## Bibliography
 

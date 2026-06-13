@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -45,10 +49,6 @@ On leaving the House of the Lion from its northwest corner, following the rue du
 ## Plans
 
 {{< image file="house_of_sucellus.png" caption="Plan of House of Sucellus" credit="" alt="" >}}
-
-## Dates
-
-It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.
 
 ## Bibliography
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -51,14 +59,6 @@ This terrace, leaning to the North on a sustaining wall, is the first one of a s
 {{< image file="26_libraries_euripus.jpg" caption="Fig. 26: Euripus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Euripus in the Terraced garden of the Libraries at Hadrian's Villa" >}}
 
 {{< image file="27_fontana.jpg" caption="Fig. 27: Fountain, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of a Fountain in the Terraced garden of the Libraries at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Wiesbaden-Biebrich]({{<relref ".">}})
@@ -34,10 +38,6 @@ Only the residential part of this farm has been excavated. The house with a widt
 
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

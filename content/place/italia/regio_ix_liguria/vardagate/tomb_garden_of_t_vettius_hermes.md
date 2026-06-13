@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+unspecified
+
 ## Location
 
 - [Vardagate]({{<relref "../../..">}})
@@ -29,14 +37,6 @@ A marble stele now in a church at Grazzano records the epitaph of T. Vettius Her
 <!-- ## Maps -->
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

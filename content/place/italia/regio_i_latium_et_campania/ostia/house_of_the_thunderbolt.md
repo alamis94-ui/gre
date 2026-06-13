@@ -10,6 +10,15 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+[Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty) \
+150-200 CE
+
+## Excavation Date
+
+1941
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -67,15 +76,6 @@ The house is one of the most interesting examples of the transition from the atr
 {{< image file="ostia_fig12b.jpg" caption="Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive)." credit="" alt="Basin shaped as a well head in the garden of the Domus Fulminata" >}}
 
 {{< image file="ostia_fig13b_threshold.jpg" caption="Figure 4: Section of the basin" credit="(from Ricciardi, Scrinari 1996)." alt="" >}}
-
-## Dates
-
-[Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty) \
-150-200 CE
-
-## Excavation Date
-
-1941
 
 ## Bibliography
 

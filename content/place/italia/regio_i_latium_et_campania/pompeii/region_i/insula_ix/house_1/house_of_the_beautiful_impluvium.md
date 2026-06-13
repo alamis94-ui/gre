@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -43,12 +49,6 @@ According to Eschebach's plan, there was a *portico* at the rear of this house t
 {{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
-
-## Excavation Date
 
 ## Bibliography
 

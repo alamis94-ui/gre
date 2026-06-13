@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
+## Excavation Dates
+
+Unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -57,14 +65,6 @@ This house with an unusual design had a garden (a) in the rear southwest corner 
 
 ## Images
 -->
-
-## Dates
-
-Unspecified
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1953.
+
 ## Province
 
 - [Italia]({{<relref "../../..">}})
@@ -50,10 +54,6 @@ Customers at this thermopolium were served at a counter looking onto the street 
 
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-## Dates
-
-Excavated 1953.
 
 ## Bibliography
 

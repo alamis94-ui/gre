@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1951-52
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -49,14 +57,6 @@ The natural rising slope of the land made this long upper garden (a) at the rear
 {{< image file="Fig_55_I.ix.13_35.13.66.jpg" caption="Fig. 4: 35.13.66, S.A. Jashemski" credit="" alt="" >}}
 
 {{< image file="Fig_56_I.ix.13_39.17.68.jpg" caption="Fig. 5: 39.17.68, S.A. Jashemski" credit="" alt="" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1951-52
 
 ## Bibliography
 

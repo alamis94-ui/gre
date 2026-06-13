@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified - 70 CE
+
+## Excavation Date
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -43,12 +49,6 @@ The garden (a) and cistern that was in the southwest corner of this house had be
 {{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified - 70 CE
-
-## Excavation Date
 
 ## Bibliography
 

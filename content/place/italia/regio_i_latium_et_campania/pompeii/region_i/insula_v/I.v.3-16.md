@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1874.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -47,10 +51,6 @@ This site had been destroyed in antiquity and probably had been a *hospitium*. E
 {{< image file="../region-i-insula-v.png" caption="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, \"*Topografia*,\" pl. 10" credit="" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-Excavated 1874.
 
 ## Bibliography
 

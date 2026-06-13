@@ -11,6 +11,10 @@ modified: 2026-06-03
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Italica]({{<relref ".">}})
@@ -37,10 +41,6 @@ The Italica Theater makes use of the side of a hill to support most of its *grad
 ## Images
 
 {{< image file="HIS_BAE_Italica_theater_plan_Notebook.jpg" caption="Fig. 1: Plan of the Theater, from Italica MMCC, page 43." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+80-60 BCE to 20-40 CE
+
+## Excavation Date
+
+summer 2002
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -61,14 +69,6 @@ At present, this is the earliest *hortus* known in ancient Ostia.
 
 {{< image file="ostia_fig18.jpg" caption="Figure 1: Plan of the Schola of the Trajan" credit="(from Morard, Wavelet 2002)." alt="" >}}
 <!-- missing illustration -->
-
-## Dates
-
-80-60 BCE to 20-40 CE
-
-## Excavation Date
-
-summer 2002
 
 ## Bibliography
 

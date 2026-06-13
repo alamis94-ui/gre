@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 1
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -48,10 +52,6 @@ Only about half of the rather deep pool has survived.  The base of a fountain is
 ## Plans
 
 {{< image file="house_rue_nationale.png" caption="Plan of House, rue Nationale" credit="" alt="" >}}
-
-## Dates
-
-CE 1
 
 ## Bibliography
 

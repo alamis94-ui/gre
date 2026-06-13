@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+71 CE- 410 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -48,10 +52,6 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 {{< image file="domus_aurea_fig1.jpg" caption="Figure 1. Base plan." credit="" alt="" >}}
 
 {{< image file="domus_aurea_fig1.jpg" caption="Figure 2. Marble Plan fragments (used by permission of the Stanford FUR project and Eugenio La Rocca)." credit="" alt="" >}}
-
-## Dates
-
-71 CE- 410 CE
 
 ## Bibliography
 

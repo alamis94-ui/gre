@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -59,14 +67,6 @@ It is evident that this peristyle-garden was clearly designed to give a scenogra
 {{< image file="48_flower_pot.jpg" caption="Fig. 48: The flower pot found in the Throne Hall garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the flower pot found in the Throne Hall garden at Hadrian's Villa, in its modern state" >}}
 
 {{< image file="49_the_throne_garden.jpg" caption="Fig. 49: The concrete basement remaining from the ruined Podium in the Throne Hall garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the concrete basement remaining from the ruined Podium in the Throne Hall garden at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

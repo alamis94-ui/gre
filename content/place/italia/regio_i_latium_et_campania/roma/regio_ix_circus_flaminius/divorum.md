@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+80 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -44,10 +48,6 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 {{< image file="divorum_fig2_edited.jpg" caption="Fig. 2: Reconstructed plan of the Divorum. © Valerie Aymer." credit="" alt="" >}}
 
 {{< image file="divorum_fig3_placeholder.jpg" caption="Fig. 3: Perspective view looking north along the central axis. © Valerie Aymer." credit="" alt="" >}}
-
-## Dates
-
-80 CE
 
 ## Bibliography
 

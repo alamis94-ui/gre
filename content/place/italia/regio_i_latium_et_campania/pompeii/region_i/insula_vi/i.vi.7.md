@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1912.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -47,10 +51,6 @@ This house had been converted to a fullery and the small [peristyle](http://voca
 {{< image file="Fig_15_I. vi.7_6.29.59.jpg" caption="Fig. 3: I.iv. 6.29.59, S.A. Jashemski" credit="" alt="" >}}
 
 {{< image file="Fig_16_I.vi.7_6.36.59.jpg" caption="Fig. 4: I.iv. 6.36.59, S.A. Jashemski" credit="" alt="" >}} -->
-
-## Dates
-
-Excavated 1912.
 
 ## Bibliography
 

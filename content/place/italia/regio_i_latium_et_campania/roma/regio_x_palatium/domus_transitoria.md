@@ -10,6 +10,15 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century CE
+
+## Excavation Date
+
+1900-1901: G. Boni \
+1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -53,15 +62,6 @@ RELATED PHASES ON THE PALATINE:
 {{< image file="domus_transitoria_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="" >}}
 
 {{< image file="domus_transitoria_fig2.jpg" caption="Fig. 2: Nymphaeum of the Domus Transitoria." credit="Hypothetical reconstruction by C. Evans (1936)." alt="" >}}
-
-## Dates
-
-1st century CE
-
-## Excavation Date
-
-1900-1901: G. Boni \
-1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
 
 ## Bibliography
 

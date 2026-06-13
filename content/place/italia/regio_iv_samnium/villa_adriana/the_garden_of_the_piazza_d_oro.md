@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -76,14 +84,6 @@ Here there was a different way to water the plants. Due to their inclination the
 {{< image file="62_cut_for_the_sluice.jpg" caption="Fig. 62: The cut for the sluice of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the cut for the sluice at the Piazza d'Oro garden Hadrian's Villa" >}}
 
 {{< image file="63_pozzetti_irrigazione.jpg" caption="Fig. 63: The eastern canal of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of eastern irrigation canal of the Piazza d'Oro garden Hadrian's Villa, showing the many little pits excavated in its bottom" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

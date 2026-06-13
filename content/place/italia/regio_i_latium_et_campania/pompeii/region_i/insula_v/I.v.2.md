@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1873-1874.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -41,10 +45,6 @@ B. The south half of the insula was also excavated in 1873-74. It was accessed f
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-Excavated 1873-1874.
 
 ## Bibliography
 

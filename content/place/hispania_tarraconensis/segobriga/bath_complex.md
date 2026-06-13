@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Flavian times（CE 69-96）
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -68,10 +72,6 @@ Monumental baths about 88 meters long and 40 meters wide were built in Flavian t
 ## Images
 
 {{< image file="his_tar_seg_bath_fig2.jpg" caption="Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths." credit="Photo Juan Manuel Abascal or Rosario Cebrián. From Cervantesvirtual website." alt="" >}}
-
-## Dates
-
-Flavian times（CE 69-96）
 
 ## Bibliography
 

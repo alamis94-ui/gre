@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 40-60 Built
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -46,10 +50,6 @@ House C is 300 meters east of the source of the big spring at the foot of Mt. Ca
 {{< image file="house_c_les_villegiales_quarter_of_the_benedictines_2.png" caption="Fig. 2 Plan of House C, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
 
 {{< image file="house_c_les_villegiales_quarter_of_the_benedictines_3.jpg" caption="Fig. 3 Plan of House C, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
-
-## Dates
-
-CE 40-60 Built
 
 ## Bibliography
 

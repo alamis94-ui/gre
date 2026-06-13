@@ -11,6 +11,10 @@ modified: 2026-06-03
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Italica]({{<relref ".">}})
@@ -49,10 +53,6 @@ To the left of the entering guest was the reception room with an interesting mos
 {{< image file="HIS_BAE_Italica_Hob_Notebook fig5.jpg" caption="Fig. 5: Plan of the House of the Birds and other drawings." credit="" alt="" >}}
 
 {{< image file="HIS_BAE_Italica Hob_CA fig6.jpg" caption="Fig. 6: Plan of the House of the Birds." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

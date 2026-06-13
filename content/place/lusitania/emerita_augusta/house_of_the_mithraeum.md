@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+The end of the 1st to the 4th century AD
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
@@ -63,10 +67,6 @@ The passage formed by the north colonnade gave access to three chambers, the mid
 {{< image file="his_lus_col_augusta_house_of_mithraeum_fig2.jpg" caption="Fig. 2: Central peristyle." credit="" alt="" >}}
 
 {{< image file="his_lus_col_augusta_house_of_mithraeum_fig3.jpg" caption="Fig. 3: Southwest peristyle." credit="" alt="" >}}
-
-## Dates
-
-The end of the 1st to the 4th century AD
 
 ## Bibliography
 

@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Arcos De La Frontera]({{<relref ".">}})
@@ -33,10 +37,6 @@ This rich country villa on the left bank of the [Guadalete](https://pleiades.sto
 {{< image file="HIS_BAE_Villa_el_Santiscal_plan_CA_fig1.jpg" caption="Fig. 1: Plan of Villa el Santiscal, Gorges, Planche LXIII." credit="" alt="" >}}
 
 {{< image file="HIS_BAE_Villa_el_Santiscal_photo_CA_fig2.jpg" caption="Fig. 2: Photo of Villa el Santiscal seen from northwest." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

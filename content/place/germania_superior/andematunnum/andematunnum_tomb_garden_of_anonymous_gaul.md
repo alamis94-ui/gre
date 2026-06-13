@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Andematunnum]({{<relref ".">}})
@@ -28,10 +32,6 @@ A famous inscription from the territory of the Lingonian Gauls (Langres) known o
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

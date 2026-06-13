@@ -10,6 +10,9 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+Unspecified
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
@@ -46,9 +49,6 @@ The S part of the *domus* was probably added in a latter period. It presents a p
 {{< image file="house_of_the_warehouse.jpg" caption="Fig. 1: Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" credit="(Germain, S., 1969, fig. 12)" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-Unspecified
 
 ## Bibliography
 

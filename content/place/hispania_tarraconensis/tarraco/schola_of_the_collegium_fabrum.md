@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -58,10 +62,6 @@ Schola of the Collegium Fabrum
 ## Garden Description
 
 The Schola of the collegium fabrum had a nympheum (a) decorated by a sculptural group of two figures pouring water (a reclining nymph and a group with a drunken Dionysus supported by Silenius) and at least two other sculptures, a sleeping Eros and a herakliskos – the infant Hercules struggling with snakes. The presence of a highly decorative nymphaeum and Dionysiac sculpture group suggests the presence of a garden.
-
-## Dates
-
-UNKOWN
 
 ## Bibliography
 

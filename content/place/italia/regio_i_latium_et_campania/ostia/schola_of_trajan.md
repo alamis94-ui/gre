@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+built 160-200 CE and abandoned after the 4th century CE
+
+## Excavation Date
+
+winter of 1938-1939
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -60,14 +68,6 @@ An [Ionic](http://vocab.getty.edu/page/aat/300020112) [portico](http://vocab.get
 {{< image file="ostia_fig18.jpg" caption="Figure 1: Plan (from Morard, Wavelet)." credit="" alt="" >}}
 
 {{< image file="ostia_fig19.jpg" caption="Figure 2: The courtyard of the Schola of Trajan and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." credit="" alt="" >}}
-
-## Dates
-
-built 160-200 CE and abandoned after the 4th century CE
-
-## Excavation Date
-
-winter of 1938-1939
 
 ## Bibliography
 

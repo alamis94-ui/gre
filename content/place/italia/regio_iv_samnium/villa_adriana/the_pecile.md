@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -52,14 +60,6 @@ The Pecile (Fig. 20) was never excavated as a garden. Thus, today, we have only 
 {{< image file="21_pecile_pond.jpg" caption="Fig. 21: The pond of the Pecile Garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the pond of the Pecile Garden at Hadrian's Villa" >}}
 
 {{< image file="22_pecile_wall.jpg" caption="Fig. 22: The wall of the Pecile Garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the wall at the northern side of the Pecile Garden at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

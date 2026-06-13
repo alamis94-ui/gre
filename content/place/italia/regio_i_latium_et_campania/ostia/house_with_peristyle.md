@@ -10,6 +10,15 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+erected 20-40 CE \
+destroyed 160-200 CE
+
+## Excavation Date
+
+winter of 1938-1939
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -62,15 +71,6 @@ The portico [courtyard](http://vocab.getty.edu/page/aat/300004095) was a garden.
 {{< image file="ostia_fig18.jpg" caption="Figure 1: Plan (from Morard, Wavelet)." credit="" alt="Plan of the Schola of the Trajan" >}} <!-- missing illustration -->
 
 {{< image file="ostia_fig19.jpg" caption="Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." credit="" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" >}} <!-- missing illustration -->
-
-## Dates
-
-erected 20-40 CE \
-destroyed 160-200 CE
-
-## Excavation Date
-
-winter of 1938-1939
 
 ## Bibliography
 

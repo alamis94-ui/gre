@@ -10,6 +10,11 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 1-5 First Stage of Construction
+CE 65-70 Second Stage of Construction
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -55,11 +60,6 @@ Around CE 65-70, the house entered a second stage which lasted three and a half 
 {{< image file="house_formige_square_2phases_1.png" caption="Excavation of the House Formigé Square" credit="" alt="" >}}
 
 {{< image file="house_formige_square_2phases_3.png" caption="Axon of the House Formigé Square" credit="" alt="" >}}
-
-## Dates
-
-CE 1-5 First Stage of Construction
-CE 65-70 Second Stage of Construction
 
 ## Bibliography
 

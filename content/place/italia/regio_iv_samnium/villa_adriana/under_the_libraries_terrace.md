@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -51,14 +59,6 @@ However the garden did not occupy the entire plateau. A substantial concentratio
 ## Images
 
 {{< image file="29_nymphaeum.jpg" caption="Fig. 29: Nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Nymphaeum of the Terraced garden under the Libraries at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

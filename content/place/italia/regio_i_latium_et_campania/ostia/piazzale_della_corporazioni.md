@@ -10,6 +10,17 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Augustan period \
+Claudian period \
+Domitianic period
+
+## Excavation Dates
+
+1881 \
+1910-1913
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -71,17 +82,6 @@ In October 1912 Dante Vaglieri began the reconstruction of the garden at the cen
 {{< image file="ostia_piazzale_fig3.jpg" caption="Figure 3: Sketch of the drainage system found below the Piazzale" credit="(from Giornale degli Scavi 1912)." alt="" >}}
 
 {{< image file="ostia_piazzale_fig4.jpg" caption="Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive)." credit="" alt="" >}}
-
-## Dates
-
-Augustan period \
-Claudian period \
-Domitianic period
-
-## Excavation Dates
-
-1881 \
-1910-1913
 
 ## Bibliography
 

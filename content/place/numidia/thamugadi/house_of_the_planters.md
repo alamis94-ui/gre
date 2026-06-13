@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+2nd-3rd century CE?
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
@@ -49,10 +53,6 @@ Located SW of the Decumanus and NE of the forum, the house of the "Jardinières"
 <!--
 {{< image file="#" caption="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ)." credit="" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi">}}
 -->
-
-## Dates
-
-2nd-3rd century CE?
 
 ## Bibliography
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1912 and 1924.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -51,10 +55,6 @@ One step above the level of the [triclinium](http://vocab.getty.edu/page/aat/300
 
 {{< image file="Fig_40_I.vii.7_22.22.68.jpg" caption="Fig. 5: I.vii. 22.22.68, S.A. Jashemski" credit="" alt="" >}}
 -->
-
-## Dates
-
-Excavated 1912 and 1924.
 
 ## Bibliography
 

@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st c- 5th c CE
+
+<!-- ## Excavation Dates -->
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -57,13 +63,7 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image file="domus_flavia_fig3.jpg" caption="Fig. 3: Western nymphaeum after restoration (Photo SAR)." credit="" alt="" >}}
 
-## Dates
-
-1st c- 5th c CE
-
-<!-- ## Excavation Dates
-
-## Bibliography -->
+<!-- ## Bibliography -->
 
 ## Keywords
 

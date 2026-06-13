@@ -10,6 +10,12 @@ modified: 2026-05-13
 draft: true
 ---
 
+## Dates
+<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+## Excavation Dates
+<!-- format as YYYY, or YYYY-YYYY -->
+
 <!--## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -30,12 +36,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## House
 
 Aix, Jardins de Grassi, House with the large peristyle-->
-
-## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
-
-## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
 
 ## House Description
 

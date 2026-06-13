@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}})
@@ -57,10 +61,6 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 {{< image file="noyal_photo.jpg" caption="The Fountain Bassin." credit="" alt="A grainy photograph of an archaeological dig of the fountain bassin." >}}
 
 {{< image file="noyal_section.jpg" caption="Reconstructed cut of the Fountain Bassin." credit="" alt="A section drawing of a fountain. A female figure stands in the center with water spewing out of a column. There are two extra, unadorned pedastals in the fountain drawing before getting to the fountain's edge." >}}
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

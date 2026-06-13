@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -44,14 +52,6 @@ Here only the considerable presence of lead in the soil denounces the existence 
 ## Plans
 
 {{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

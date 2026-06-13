@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1868 and 1927.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -45,10 +49,6 @@ The shop-house was laid out in a very irregular manner and the garden took up mo
 -->
 
 <!-- ## Images -->
-
-## Dates
-
-Excavated 1868 and 1927.
 
 ## Bibliography
 

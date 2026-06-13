@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+late 1st century CE - unspecified
+
+## Excavation Dates
+
+1961-69, mid 1980s
+
 ## Location
 
 - [Fishbourne]({{<relref ".">}})
@@ -29,11 +37,11 @@ Pollen samples were taken in the garden areas in the hope that traces of pollen 
 
 On the eastern side of the formal garden, alternating tree-pits and post holes were found. The pattern suggested an original arrangement of trees or shrubs planted against a trellis. Again, Pliny the Younger mentions espaliered apples in his gardens, and these have been successfully established at Fishbourne. Less successful was the effort to establish Italian cypress in the location of a large tree-pit found towards the western side of the garden.
 
-Beneath the surface of the garden, the excavators discovered lines of ceramic pipes. They ran from the remains of the base of what is assumed to have been a water storage tank in the northwest corner of the formal garden. One line of pipes probably fed a pool in the entrance hall while others supplied small semi-circular basins set in recesses in the box hedging. Half a marble basin was found in the 1960's.
+Beneath the surface of the garden, the excavators discovered lines of ceramic pipes. They ran from the remains of the base of what is assumed to have been a water storage tank in the northwest corner of the formal garden. One line of pipes probably fed a pool in the entrance hall while others supplied small semi-circular basins set in recesses in the box hedging. Half a marble basin was found in the 1960s.
 
 There is circumstantial evidence for there having been a vegetable garden in the angle between the ends of the north and west wings of the palace where there is a dark, humus-rich soil containing heavily abraded pottery, suggesting that the soil had been intensively cultivated. It also had its own water supply, provided through wooden pipes with iron collars.
 
-Limited excavations to the south of the palace revealed an artificial terrace which bore evidence of landscaping, including a pool, a gravel path, possible bedding trenches and what may have been the base for a column or statue. Excavations to the east of the palace in the mid 1980's uncovered evidence for semi-formal gardens.
+Limited excavations to the south of the palace revealed an artificial terrace which bore evidence of landscaping, including a pool, a gravel path, possible bedding trenches and what may have been the base for a column or statue. Excavations to the east of the palace in the mid 1980s uncovered evidence for semi-formal gardens.
 
 <!-- ## Maps -->
 
@@ -46,14 +54,6 @@ Limited excavations to the south of the palace revealed an artificial terrace wh
 {{< image file="fishbourne-fig-2.jpg" caption="Fig. 2: View of formal garden excavation." credit="Photo courtesy of David Rudkin for Fishbourne Roman Palace." alt="" >}}
 
 {{< image file="fishbourne-fig-3.jpg" caption="Fig. 3: View of replanted formal garden." credit="Photo courtesy of David Rudkin for Fishbourne Roman Palace." alt="" >}}
-
-## Dates
-
-late 1st century CE - unspecified
-
-## Excavation Dates
-
-1961-69, mid 1980s
 
 ## Bibliography
 

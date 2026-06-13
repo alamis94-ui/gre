@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built before 62 BCE
+
+## Excavation Date
+
+Early 1990s
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -46,14 +54,6 @@ At the time of the eruption, trees and shrubs grew in the garden, as excavators 
 {{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-Built before 62 BCE
-
-## Excavation Date
-
-Early 1990s
 
 ## Bibliography
 

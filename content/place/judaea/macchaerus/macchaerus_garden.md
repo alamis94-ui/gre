@@ -10,6 +10,15 @@ modified: 2026-05-16
 draft: false
 ---
 
+<!--
+## Dates
+
+31 BCE - 4 BCE -->
+
+## Excavation Dates
+
+2010
+
 ## Garden Description
 
 During the architectural survey in 2010, the team excavated a 4 x 2m trench to the west of the storerooms and east of the bath quarter.  Working to a depth of 2m, the archaeologists encountered one meter of homogenous soil over the artificial stone terrace.  The only artifact found was a Herodian lamp.  The soil was sealed off from the terrace by a layer of hydraulic mortar.  After thorough examination of the stratigraphic section we were able to establish that the southern courtyard of the Herodian places was filled with soil, creating a place for a royal garden.  It is the only possible location for a garden within the walls of the citadel, and thus corresponds with description by Josephus.
@@ -31,11 +40,6 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 {{< image file="ASIA_JUD_MACCHAREUS_2.jpg" caption="Figure 2:Section drawing of the research trench in the Southern Courtyard" credit="(Vörös, 2013)." alt="" >}}
 
 {{< image file="ASIA_JUD_MACCHAREUS.jpg" caption="Figure 3:Cutaway bird's eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy." credit="" alt="" >}}
-
-<!--
-## Dates
-
-31 BCE - 4 BCE -->
 
 ## Bibliography
 

@@ -17,6 +17,14 @@ draft: true
 
 
 
+## Dates
+
+unspecified
+
+## Excavation Dates
+
+1873
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -56,14 +64,6 @@ When this garden was excavated in 1873, the excavators reported three panels on 
 ## Images
 
 {{< image file="Fig_3_I.ii.10_2.19.72.jpg" caption="Fig. 3: I.ii.10; 2.19.72, S. A. Jashemski." credit="" alt="" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Dates
-
-1873
 
 ## Bibliography
 

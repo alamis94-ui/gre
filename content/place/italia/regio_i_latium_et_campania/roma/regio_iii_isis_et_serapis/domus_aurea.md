@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+post-64 CE
+
+## Excavation Date
+
+unspecified
+
 ## Location
 
 - {{< id vocab="Pleiades" id="423025" name="Roma" >}}
@@ -47,14 +55,6 @@ The unfinished Temple to the Divine Claudius became a monumental [*nymphaeum*](h
 <!-- {{< image file=".jpg" caption="Figure 2. Gardens of the Oppian palace." credit="" alt="" >}} -->
 
 <!-- {{< image file=".jpg" caption="Figure 3. Photograph of Neronian nymphaeum on the Caelian." credit="" alt="" >}} -->
-
-## Dates
-
-post-64 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+81-92 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
@@ -61,14 +69,6 @@ RELATED PHASES ON THE PALATINE:
 {{< image file="palatine_stadium_fig3.jpg" caption="Fig. 3: The so-called Hera Borghese. (Photo SAR)." credit="" alt="Photograph of the stadium" >}}
 
 {{< image file="palatine_stadium_fig4.jpg" caption="Fig. 4: Hypothetical reconstruction of the \"Stadium\"" credit="(after C. Huelsen, Forum und Palatin, Munch 1926, plate 58)." alt="Reconstruction of the stadium" >}}
-
-## Dates
-
-81-92 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

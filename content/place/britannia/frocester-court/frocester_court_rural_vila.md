@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+early 4th - 5th century CE
+
 ## Location
 
 - [Frocester Court]({{<relref ".">}})
@@ -34,10 +38,6 @@ Excavated evidence indicates that this courtyard was designed as a formal garden
 ## Images
 
 {{< image file="Frocester_11_or_7.1b.jpg" caption="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence." credit="Drawing courtesy of E. Price." alt="" >}}
-
-## Dates
-
-early 4th - 5th century CE
 
 ## Bibliography
 

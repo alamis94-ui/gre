@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+3rd/4th century CE
+
+## Excavation Dates
+
+1882
+
 ## Location
 
 - [Sudeley/Spoonley Wood]({{<relref ".">}})
@@ -37,14 +45,6 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 ## Images
 
 -->
-
-## Dates
-
-3rd/4th century CE
-
-## Excavation Dates
-
-1882
 
 ## Bibliography
 

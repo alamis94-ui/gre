@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [LUGDUNUM (Lyon, France)]({{<relref ".">}})
@@ -32,10 +36,6 @@ LUG 1. 1. House with Pilasters. On the rectangle surrounding the word "Garden?" 
 ## Images
 
 None Available
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

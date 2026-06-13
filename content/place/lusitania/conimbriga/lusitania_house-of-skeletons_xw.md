@@ -32,7 +32,7 @@ House of the Skeletons
 
 The peristyle garden of the fourth domus follows a different pattern.  In contrast to the House of the Swastika Mosaic, this house is very squarely centered on the garden. The axis of the entrance bisects the garden and the triclinium on the other side.  A shallow rill with a small exedra on this axis winds around the peristyle, leaving a cultivated rectangle in the center.  In front of the triclinium there is a square pool, also shallow, lined with slabs of limestone and set into the cultivated area but not joined to the rill.
 
-The large mosaic of the bedroom (Fig. 1, C) was restored in the 1950's; but even originally it was in relatively good condition.  Elsewhere in the house, however, there are only a few patches of mosaic owing to the area have been used as a necropolis in the late empire, a use that gave the house the name by which it is now called.
+The large mosaic of the bedroom (Fig. 1, C) was restored in the 1950s; but even originally it was in relatively good condition.  Elsewhere in the house, however, there are only a few patches of mosaic owing to the area have been used as a necropolis in the late empire, a use that gave the house the name by which it is now called.
 
 The houses were excavated around 1940, at a time when there was no thought of recovering micro-remains from the soil of the flower-beds, which could have allowed the identification of the vegetal species present in these gardens.  There is therefore no evidence as to what was planted.  There is also no mention of sculptural elements, which may or may not have been present.
 

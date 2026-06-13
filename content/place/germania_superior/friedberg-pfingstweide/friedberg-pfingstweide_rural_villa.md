@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Early 2nd century - first half of 3rd century
+
 ## Location
 
 - [Friedberg Pfingstweide]({{<relref ".">}})
@@ -32,10 +36,6 @@ Built in the early 2nd century, the house was of the winged corridor type with a
 {{< image file="EUR_GS_FriPfi_Rv_carroll.jpg" caption="Fig. 1: Plan of the villa (H) with a bath building (B) and with two possible garden enclosures (G) joined to the house at the north." credit="Adapted from Baatz and Herrmann 1989, fig. 246." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-Early 2nd century - first half of 3rd century
 
 ## Bibliography
 

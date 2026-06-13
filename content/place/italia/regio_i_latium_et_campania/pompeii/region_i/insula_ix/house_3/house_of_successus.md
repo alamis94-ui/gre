@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1952
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -49,14 +57,6 @@ A portrait of a little boy painted on the north wall of the *cubiculum*, to the 
 {{< image file="Fig_52_I.ix.3_18.16.59.jpg" caption="Fig. 4: 18.16.59, S.A. Jashemski" credit="" alt="" >}}
 
 {{< image file="Fig_53_I.ix.3_18.22.59.jpg" caption="Fig. 5: 18.22.59, S.A. Jashemski" credit="" alt="" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1952
 
 ## Bibliography
 

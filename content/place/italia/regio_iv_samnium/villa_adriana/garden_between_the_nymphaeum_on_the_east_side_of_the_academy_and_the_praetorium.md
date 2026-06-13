@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -55,14 +63,6 @@ In a second moment, after the *nymphaeum* had been completed, the first small wa
 {{< image file="73_academy_nymph.jpg" caption="Fig. 73: The Academy's nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Plans of the Academy's nymphaeum at Villa Adriana" >}}
 
 {{< image file="74_academy_nymphaeum.jpg" caption="Fig. 74: Perspective showing the waterfalls of the Academy's nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Perspective rendering of the Academy's nymphaeum, showing waterfalls" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

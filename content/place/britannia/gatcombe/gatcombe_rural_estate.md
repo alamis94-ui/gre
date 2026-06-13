@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+ca. 280-380 CE
+
 ## Location
 
 - [Gatcombe]({{<relref ".">}})
@@ -36,10 +40,6 @@ This site of a large rural estate about 9 hectares in size in Somerset is enclos
 ## Images
 
 -->
-
-## Dates
-
-ca. 280-380 CE
 
 ## Bibliography
 

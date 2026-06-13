@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -45,12 +51,6 @@ An entrance to this small garden (a) was made through the east wall. It was loca
 ## Images
 
 {{< image file="Fig_49_I.viii.8_9_18.13.59.jpg" caption="Fig. 3: I. viii. 18.13.59, S.A. Jashemski" credit="" alt="" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Date
 
 ## Bibliography
 

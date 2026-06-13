@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Beginning of the 1st c. CE - beginning of the Vth century
+
+## Excavation Dates
+
+1985-2000, 2006/2010
+
 ## Location
 
 - [Vallon]({{<relref ".">}})
@@ -56,14 +64,6 @@ After the disappearance of the Antique site, the land continues to be occupied d
 {{< image file="EUR_GS_Val_villa5_carroll.jpg" caption="Fig. 5 : scale model of the habitation area in the second half of the IInd century. Built before the research in the gardens was resumed, it presents a considerable partitioning of the various open spaces. Photo Fribourg State Archaeological Service." credit="" alt="" >}}
 
 {{< image file="EUR_GS_Val_villa6_carroll.jpg" caption="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland)." credit="" alt="" >}}
-
-## Dates
-
-Beginning of the 1st c. CE - beginning of the Vth century
-
-## Excavation Dates
-
-1985-2000, 2006/2010
 
 <!--
 ## Bibliography

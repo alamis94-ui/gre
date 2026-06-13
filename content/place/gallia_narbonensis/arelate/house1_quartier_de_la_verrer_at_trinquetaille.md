@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Excavations in 1982-1984
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -49,10 +53,6 @@ The free space north of rooms [1], [2] and [9] was probably a garden without por
 ## Plans
 
 {{< image file="house1_quartier_de_la_verrerie_glassworks_quarter_at_trinquetaille.png" caption="Plan of House I, Quartier de la Verrerie at Trinquetaille" credit="" alt="" >}}
-
-## Dates
-
-Excavations in 1982-1984
 
 ## Bibliography
 

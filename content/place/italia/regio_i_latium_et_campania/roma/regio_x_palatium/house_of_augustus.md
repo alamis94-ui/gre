@@ -10,6 +10,16 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century BCE
+
+## Excavation Date
+
+1865-1870: P. Rosa
+1937: A. Bartoli
+1956: G. Carettoni
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -80,16 +90,6 @@ RELATED PHASES ON THE PALATINE:
 {{< image file="house_augustus_fig2.jpg" caption="Fig. 2: Nymphaeum inside the House of Augustus (Photo SAR)." credit="" alt="" >}}
 
 {{< image file="house_augustus_fig3.jpg" caption="Fig. 3: House of Livia. Right ala with detail of the \"yellow frieze\". (Photo SAR)." credit="" alt="" >}}
-
-## Dates
-
-1st century BCE
-
-## Excavation Date
-
-1865-1870: P. Rosa
-1937: A. Bartoli
-1956: G. Carettoni
 
 ## Bibliography
 

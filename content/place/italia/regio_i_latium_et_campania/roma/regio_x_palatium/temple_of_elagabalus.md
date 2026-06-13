@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+ca. 190- 240 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -74,10 +78,6 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 {{< image file="elagabalium_fig6.jpg" caption="Fig. 6: Reconstruction of part of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA & P. Veltri, EFR)." credit="" alt="" >}}
 
 {{< image file="elagabalium_fig7.jpg" caption="Fig. 7: Reconstruction of a tree and planting bed in the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA)." credit="" alt="" >}}
-
-## Dates
-
-ca. 190- 240 CE
 
 ## Bibliography
 

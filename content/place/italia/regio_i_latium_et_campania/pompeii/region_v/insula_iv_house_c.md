@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+79 CE
+
+## Excavation Dates
+
+1902 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -56,14 +64,6 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 
 
 <!-- ## Images -->
-
-## Dates
-
-79 CE
-
-## Excavation Dates
-
-1902 CE
 
 ## Bibliography
 

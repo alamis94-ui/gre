@@ -11,9 +11,9 @@ modified: 2025-06-29
 draft: true
 ---
 
-## Province
+## Dates
 
-- {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
+Unspecified
 
 ## Province Description
 
@@ -56,7 +56,7 @@ Neapolis was settled from north to south.  The oldest parts date from before 550
 
 Neapolis was abandoned in the course of the second half of the first century AD.  The Roman City seems to have ceased development at about that time but remained inhabited to nearly the end of the third century. This abandonment of a once-thriving trading town is probably connected with the silting up of the harbor.  The mouth of the Fluvià River has shifted seven kilometers to the north, while Palaiapolis, once an island, is now a hill rising out of lowland where the harbor once was.
 
-Publicly funded excavation of the northeastern part of Neapolis and the forum of the Roman City was conducted in 1846-8.  Further systematic studies were conducted from 1908 to 1936 under E. Gandía, who took a great interest in stratigraphy before it was common to do so.  The Spanish Civil War brought this work to an end, but Gandía's day books have been preserved.  Work was resumed in the 1940's and 1950's by M. Almagro, with recent work by R. Mar and J. Ruiz de Arbulo, and B. Tang.  Tang emphasizes that it is often difficult or impossible to determine whether a space in a house in Neapolis was open or covered.  The difficulty should not be so great in the case of gardens, for any sort of paving or hammered earth rules out the possibility of a garden. She identifies gardens in N5 and N7 and notes  that also N 52 near the northern end of the western edge and N 75 on the  northern edge "appear to have been provided with gardens or terraces."
+Publicly funded excavation of the northeastern part of Neapolis and the forum of the Roman City was conducted in 1846-8.  Further systematic studies were conducted from 1908 to 1936 under E. Gandía, who took a great interest in stratigraphy before it was common to do so.  The Spanish Civil War brought this work to an end, but Gandía's day books have been preserved.  Work was resumed in the 1940s and 1950s by M. Almagro, with recent work by R. Mar and J. Ruiz de Arbulo, and B. Tang.  Tang emphasizes that it is often difficult or impossible to determine whether a space in a house in Neapolis was open or covered.  The difficulty should not be so great in the case of gardens, for any sort of paving or hammered earth rules out the possibility of a garden. She identifies gardens in N5 and N7 and notes  that also N 52 near the northern end of the western edge and N 75 on the  northern edge "appear to have been provided with gardens or terraces."
 
 ## Bibliography
 
@@ -85,10 +85,6 @@ House of the L-shaped Cistern
 ## Garden Description
 
 This house, which was also set against the lower edge of the city near the port, was excavated in 1924 and 1935 .  It had been much altered by *burials* in late antiquity.  Its large cistern yielded a collection of objects from about the time of abandonment : eleven jars of common ceramic, terra sigillata from southern Gaul, *ceramics* from Africa, glass, toilet articles of bone, metals, coral, and a little domestic altar.
-
-## Dates
-
-Unspecified
 
 <!-- -doesn't have ## Bibliography -->
 

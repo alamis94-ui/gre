@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+2nd century
+
 ## Location
 
 - [Hummetroth]({{<relref ".">}})
@@ -32,10 +36,6 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 {{< image file="EUR_GS_Hum_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south." credit="Plan adapted from Baatz and Herrmann 1989, fig. 303a." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-2nd century
 
 ## Bibliography
 

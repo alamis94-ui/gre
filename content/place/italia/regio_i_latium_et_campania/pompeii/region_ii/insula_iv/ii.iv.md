@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -55,10 +59,6 @@ C. A walled rustic garden close to entrance 8 had been planted and at the time o
 {{< image file="fig-19-ii.iv.-5.32.59.jpg" caption="detail of the jet." credit="" alt="Fig. 19, II.iv.5.32.59.- detail of the jet." >}}
 
 <!-- {{< image file="fig-20-ii.iv.-5.25.59.jpg" caption="portico and garden" credit="" alt="Fig. 20, II.iv. 5.25.59.- portico and garden." >}} -->
-
-## Dates
-
-Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
 ## Bibliography
 

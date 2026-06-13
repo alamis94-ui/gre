@@ -11,6 +11,10 @@ modified: 2026-06-03
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Italica]({{<relref ".">}})
@@ -37,10 +41,6 @@ This triangular area, number 19 on the map and on the visitor's left immediately
 ## Images
 
 {{< image file="HIS_BAE_Italica_public park_CA fig1.jpg" caption="Fig. 2: Public park photographed looking west towards the gate at the far corner of the triangle." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

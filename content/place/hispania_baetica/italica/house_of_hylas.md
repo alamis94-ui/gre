@@ -11,6 +11,10 @@ modified: 2026-06-03
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Italica]({{<relref ".">}})
@@ -43,10 +47,6 @@ To the west of the central reception room or triclinium was the third garden, wh
 {{< image file="XXXX.jpg" caption="Fig. 1: Photograph looking northeast over a pool in the west garden." credit="" alt="" >}}
 
 {{< image file="XXXX.jpg" caption="Fig. 2: Plan of the House of Hylas." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

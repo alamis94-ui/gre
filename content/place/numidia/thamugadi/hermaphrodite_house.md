@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+3rd century CE?
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
@@ -44,10 +48,6 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 {{< image file="hermaphrodite_house.jpg" caption="Fig. 1: Plan of the Hermaphrodite House" credit="(Germain, S., 1969, fig. 7)" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-3rd century CE?
 
 ## Bibliography
 

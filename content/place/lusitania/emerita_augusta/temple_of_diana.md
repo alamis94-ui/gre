@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+The end of the Augustan period
+
+## Excavation Dates
+
+1972
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
@@ -50,14 +58,6 @@ Of the sculptural pieces found outside the temple, some have been situated in th
 ## Plans
 
 {{< image file="his_lus_col_augusta_temple_of_diana_fig1.jpg" caption="Fig. 1: Temple of Diana." credit="Adapted from Casillas Morena, p. 309." alt="" >}}
-
-## Dates
-
-The end of the Augustan period
-
-## Excavation Dates
-
-1972
 
 ## Bibliography
 

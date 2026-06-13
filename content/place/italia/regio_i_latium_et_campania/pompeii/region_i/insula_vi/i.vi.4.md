@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1873-1874.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -42,10 +46,6 @@ A small garden was located at the rear of the [tablinum](http://vocab.getty.edu/
 {{< image file="../region-i-insula-vi.png" caption="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027" credit="" alt="" >}}
 
 ## Images -->
-
-## Dates
-
-Excavated 1873-1874.
 
 ## Bibliography
 

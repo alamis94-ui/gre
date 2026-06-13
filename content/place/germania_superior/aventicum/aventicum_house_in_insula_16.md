@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+AD 71
+
 ## Location
 
 - [Aventicum]({{<relref ".">}})
@@ -35,10 +39,6 @@ In the middle of the insula was a large peristyle courtyard which may have been 
 {{< image file="EUR_GS_AugRau_Hi16_carroll.jpg" caption="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16." credit="Adapted from McKay 1986, fig. 186." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-AD 71
 
 ## Bibliography
 

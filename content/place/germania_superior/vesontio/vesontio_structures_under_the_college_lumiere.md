@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Gardens: Beginning and last third of second century
+
+## Excavation Dates
+
+2004
+
 ## Location
 
 - [Vesontio]({{<relref ".">}})
@@ -46,14 +54,6 @@ Images not available (?)
 -->
 
 <!-- ## Images -->
-
-## Dates
-
-Gardens: Beginning and last third of second century
-
-## Excavation Dates
-
-2004
 
 ## Bibliography
 

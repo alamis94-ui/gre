@@ -10,6 +10,11 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+BCE 40-30 First Stage
+CE 1-100 Considerable extension to the northeast
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -41,11 +46,6 @@ To the northeast of the house are remains in which it has been proposed to see a
 
 ## Plans
 
-## Dates
-
-BCE 40-30 First Stage
-CE 1-100 Considerable extension to the northeast
-
 ## Bibliography
 
 1. *La Maison Urbaine D'époque Romaine*. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 80-81. [(worldcat)](https://search.worldcat.org/title/717347715)
@@ -67,7 +67,7 @@ CE 1-100 Considerable extension to the northeast
 
 ## House Description
 
-This house stood southwest of the theater, on the Puymin hill, in the residential northeast quarter of the city.  Unearthed between 1927 and 1929, it covered a surface of about 3000 square meters.  A first stage was built around 40-30 BCE, followed by a considerable extension to the northeast in the first century A.D.. First interpreted as an official residence, a *praetorium*, by J. Sautel, it takes its present name from an arbor found in the garden.  The house, organized on at least three levels, was considerably worn down so that interpreting the different phases is not easy.
+This house stood southwest of the theater, on the Puymin hill, in the residential northeast quarter of the city.  Unearthed between 1927 and 1929, it covered a surface of about 3000 square meters.  A first stage was built around 40-30 BCE, followed by a considerable extension to the northeast in the first century CE. First interpreted as an official residence, a *praetorium*, by J. Sautel, it takes its present name from an arbor found in the garden.  The house, organized on at least three levels, was considerably worn down so that interpreting the different phases is not easy.
 
 ## Places
 

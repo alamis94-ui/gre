@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -51,14 +59,6 @@ This garden, which stood between two of the highlights of Villa Adriana - the Te
 ## Images
 
 {{< image file="23_nymphaeum_n_of_maritime_theatre.jpg" caption="Fig. 23: The Nymphaeum North of the Maritime Theatre, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Nymphaeum in the garden North of the Maritime Theatre at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

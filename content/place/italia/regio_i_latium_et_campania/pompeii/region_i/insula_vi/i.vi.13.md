@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1926 and 1927.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -53,10 +57,6 @@ At the rear of this house a masonry wall surrounded the small garden which was u
 {{< image file="Fig_23_I.vi.13_34.6.64.jpg" caption="Fig. 6: I.vi. 35.6.64, S.A.Jashemski" credit="" alt="" >}}
 
 ## Images -->
-
-## Dates
-
-Excavated 1926 and 1927.
 
 ## Bibliography
 

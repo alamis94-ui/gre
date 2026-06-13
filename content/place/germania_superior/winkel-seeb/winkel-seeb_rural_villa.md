@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+First half of 1st century CE - 250
+
 ## Location
 
 - [Winkel-Seeb]({{<relref ".">}})
@@ -30,10 +34,6 @@ The residential and service parts of this *villa rustica* occupied an area of ca
 {{< image file="EUR_GS_WinSe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house." credit="Plan adapted from Drack and Fellmann 1988, fig. 511." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-First half of 1st century CE - 250
 
 ## Bibliography
 

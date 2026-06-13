@@ -10,6 +10,11 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 1-100 Built
+CE 60-90 One of the principal phases of occupation
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -53,11 +58,6 @@ At the south of the garden there is a well which may have supplied the house bef
 {{< image file="house_b_les_villegiales_quarter_of_the_benedictines_1.png" caption="Fig. 1 Plan of House B, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
 
 {{< image file="house_b_les_villegiales_quarter_of_the_benedictines_2.png" caption="Fig. 2 Plan of House B, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
-
-## Dates
-
-CE 1-100 Built
-CE 60-90 One of the principal phases of occupation
 
 ## Bibliography
 

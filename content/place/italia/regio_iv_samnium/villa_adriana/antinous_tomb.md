@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -63,7 +71,7 @@ After the passage or this horde of locusts the only things that were left to Vil
 
 Today on this rocky plain, left naked by an exaggerate excavation, we can see all that happened here, from the big mass of marble fragments prepared for the kilns (and that was left there by the local people who, now had more than enough lime, and never burned them) to the long furrow traced in the tufa platform by the holy Fathers in such a way as to held rain water in them, keep always humid the soil and by capillarity irrigate the young vines.
 
-As we have said at the beginning the Temple-tomb was never completed. Antinous who, at the end of the works, would have been transported there, was left in Antinoopolis' temple (J. C. GRENIER 1986). Anyway he now was a god with a well asserted religion, and temples (Fig. 90) in a great part of the known world. A cult that thrived up to the middle of  the IV century (ATTANASIUS 350 A.D.). However also if Antinous was left in the desert's sands his memory is still here and visiting Villa Adriana, one can always feel his presence.
+As we have said at the beginning the Temple-tomb was never completed. Antinous who, at the end of the works, would have been transported there, was left in Antinoopolis' temple (J. C. GRENIER 1986). Anyway he now was a god with a well asserted religion, and temples (Fig. 90) in a great part of the known world. A cult that thrived up to the middle of  the IV century (ATTANASIUS 350 CE). However also if Antinous was left in the desert's sands his memory is still here and visiting Villa Adriana, one can always feel his presence.
 
 ## Plans
 
@@ -102,14 +110,6 @@ As we have said at the beginning the Temple-tomb was never completed. Antinous w
 {{< image file="87_marble_for_the_kilns.jpg" caption="Fig. 87: Marble bricks and fragments of statues and architectural moldings taken over centuries from Hadrian's Villa to be used in buildings or burned in kilns to make lime, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of marble bricks and fragments of statues and architectural moldings taken over centuries from Hadrian's Villa by the local people to be used in their buildings or burned in their kilns to make lime" >}}
 
 {{< image file="89_cuts_in_the_tufa.jpg" caption="Fig. 89: Cuts made in the tufa of the tomb's platform by the Jesuits, Eugenia Salza Prina Ricotti." credit="" alt="Photograph showing the cuts made in the tufa of the tomb's platform by the Jesuits" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 

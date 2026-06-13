@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)
+
+## Excavation Date
+
+1980s
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -48,14 +56,6 @@ The *collegium poetarum* formally gathered near the complex, and so perhaps the 
 {{< image file="hercules_musarum_fig3.jpg" caption="Fig. 3: Base plan of the Temple of Hercules Musarum" credit="(Coarelli, 1997)." alt="Base plan of the Hercules Musarum" >}}
 
 {{< image file="hercules_musarum_fig4.jpg" caption="Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" credit="(Coarelli, 1997, Figs. 113, 114)." alt="" >}}
-
-## Dates
-
-Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)
-
-## Excavation Date
-
-1980s
 
 ## Bibliography
 

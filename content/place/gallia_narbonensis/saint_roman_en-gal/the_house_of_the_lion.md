@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -48,10 +52,6 @@ This house is today, as when it was built, only a few meters back from the right
 ## Plans
 
 {{< image file="the_house_of_the_lion.png" caption="Plan of the house of the lion" credit="" alt="" >}}
-
-## Dates
-
-It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.
 
 ## Bibliography
 

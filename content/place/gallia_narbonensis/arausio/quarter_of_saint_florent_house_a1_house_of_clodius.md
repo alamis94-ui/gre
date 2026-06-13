@@ -10,6 +10,11 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+BCE 10-CE 10 Built
+CE 20-30 Destroyed
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -52,11 +57,6 @@ The presumed *triclinium* opened through a wide entrance, flanked on either side
 ## Plans
 
 {{< image file="quarter_of_saint_florent_house_a1_house_of_clodius.png" caption="Plan of Quarter of Saint-Florent – House A1, House of Clodius" credit="" alt="" >}}
-
-## Dates
-
-BCE 10-CE 10 Built
-CE 20-30 Destroyed
 
 ## Bibliography
 

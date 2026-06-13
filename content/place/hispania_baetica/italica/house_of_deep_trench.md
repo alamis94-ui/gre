@@ -11,6 +11,10 @@ modified: 2026-06-03
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Italica]({{<relref ".">}})
@@ -37,10 +41,6 @@ In late antiquity, a new city wall was built excluding most of the Hadrianic add
 ## Images
 
 {{< image file="HIS_BAE_Italica_Hdt_fig1.jpg" caption="Fig. 1:  Photo of the House of the Deep Trench." credit="" alt="" >}}
-
-## Dates
-
-unspecified
 
 ## Bibliography
 

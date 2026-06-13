@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 60 -CE 185
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -57,10 +61,6 @@ Phase III, from around the end of the first century, carried the ideas of Phase 
 ## Plans
 
 NEW WAY ↓↓{{< image file="house_of_vestibule_with_columns_phase_1.png" caption="plan of House of Vestibule with Columns" credit="" alt="" >}}
-
-## Dates
-
-CE 60 -CE 185
 
 ## Bibliography
 

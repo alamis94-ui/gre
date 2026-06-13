@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Beginning of the Flavian epoch - middle of the third century
+
+## Excavation Dates
+
+2000-2001
+
 ## Location
 
 - [Vesontio]({{<relref ".">}})
@@ -45,14 +53,6 @@ Images not available (?)
 FIGURES:
 - Fig. 1: Houses at the Palais de Justice
 - Fig. 2: Axonometric representation
-
-## Dates
-
-Beginning of the Flavian epoch - middle of the third century
-
-## Excavation Dates
-
-2000-2001
 
 ## Bibliography
 

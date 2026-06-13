@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+BCE 20 - CE 20
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -52,10 +56,6 @@ This phase, called the House with the Cistern, was constructed in the last years
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-BCE 20 - CE 20
 
 ## Bibliography
 

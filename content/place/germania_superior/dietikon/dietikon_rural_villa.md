@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Garden: Late 1st century (~70 CE) - Middle of the 2nd century
+
+First buildings: Early 1st century CE - Middle of 1st century CE
+
+Stone-built villa: Middle of the 1st century CE
+
 ## Location
 
 - [Dietikon]({{<relref ".">}})
@@ -42,14 +50,6 @@ In the late 1st century, around AD 70, the timber-lined pool in the west was rep
 {{< image file="EUR_GS_Die_Rv2_carroll.jpg" caption="Fig. 4: Reconstructed perspective drawing." credit="" alt="" >}}
 
 {{< image file="EUR_GS_Die_Rv5_carroll.jpg" caption="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained." credit="" alt="" >}}
-
-## Dates
-
-Garden: Late 1st century (~70 CE) - Middle of the 2nd century
-
-First buildings: Early 1st century CE - Middle of 1st century CE
-
-Stone-built villa: Middle of the 1st century CE
 
 ## Bibliography
 

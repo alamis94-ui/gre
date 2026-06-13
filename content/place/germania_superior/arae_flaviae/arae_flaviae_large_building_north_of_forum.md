@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Complex built at the earliest during the reign of Trajan.
+
 ## Location
 
 - [Arae Flaviae]({{<relref ".">}})
@@ -33,10 +37,6 @@ This building ca. 95 meters in width consisted of several units built at differe
 {{< image file="EUR_GS_AraFla_Bnf_carroll.jpg" caption="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G)." credit="Adapted from Sommer 1992, Beilage 1.2." alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-Complex built at the earliest during the reign of Trajan.
 
 ## Bibliography
 

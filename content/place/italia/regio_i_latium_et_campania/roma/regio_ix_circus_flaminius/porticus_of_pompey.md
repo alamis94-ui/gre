@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+55 BCE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -61,10 +65,6 @@ Augustus' remodeling of the theater and *porticus* (in 32 BCE), discussed above,
 {{< image file="porticus_of_pompey_fig3.jpg" caption="Fig. 3: Perspective along the central axis from the Curia to the Temple of Venus Victrix atop the theater in the original phase. © Lori Cockerham Catalano." credit="" alt="Perspective drawing along the central axis from the curia to the Temple of Venus Victrix atop the theater in the original phase of the Porticus of Pompey" >}}
 
 {{< image file="porticus_of_pompey_fig4.jpg" caption="Fig. 4: The view along the central axis from the Curia to the Temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of the scaenae. The temple cannot be seen at all. © Lori Cockerham Catalano." credit="" alt="Sketch of the view along the central axis from the curia to the temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of scaena; the temple cannot be seen at all" >}}
-
-## Dates
-
-55 BCE
 
 ## Bibliography
 

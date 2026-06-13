@@ -10,6 +10,13 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+BCE 1-100 Agricultural use of the soil
+CE 30 A building constructed
+CE 70-80 The building abandoned
+CE 80-100 Two burials made
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -48,13 +55,6 @@ In the central part of the courtyard were found a series of horticultural pots, 
 {{< image file="21_rue_seguier_an_agricultural_establishment_1.png" caption="Fig. 1 Plan of 21, rue Séguier, An Agricultural Establishment" credit="" alt="" >}}
 
 {{< image file="21_rue_seguier_an_agricultural_establishment_2.png" caption="Fig. 2 Detail plan of 21, rue Séguier, An Agricultural Establishment" credit="" alt="" >}}
-
-## Dates
-
-BCE 1-100 Agricultural use of the soil
-CE 30 A building constructed
-CE 70-80 The building abandoned
-CE 80-100 Two burials made
 
 ## Bibliography
 

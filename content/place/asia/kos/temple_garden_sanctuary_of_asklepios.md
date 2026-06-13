@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [Kos]({{<relref ".">}})
@@ -28,10 +32,6 @@ Inscriptions of the fifth and fourth centuries BCE record certain regulations fo
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

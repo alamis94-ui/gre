@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1952-1953
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -43,14 +51,6 @@ A low wall connected the three columns and a pillar that supported the *portico*
 {{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1952-1953
 
 ## Bibliography
 

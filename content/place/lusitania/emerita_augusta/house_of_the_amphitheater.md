@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+2nd century CE and 3rd CE
+
+## Excavation Dates
+
+from 1947
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
@@ -63,14 +71,6 @@ An equally important second nucleus of this house consisted of a complex of room
 ## Images
 
 {{< image file="his_lus_col_augusta_ha_photo_fig2.jpg" caption="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." credit="" alt="" >}}
-
-## Dates
-
-2nd century CE and 3rd CE
-
-## Excavation Dates
-
-from 1947
 
 ## Bibliography
 

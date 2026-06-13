@@ -10,6 +10,16 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+late Hadrianic period \
+150-180 CE
+
+## Excavation Date
+
+1914-1919 \
+recent excavations
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -57,16 +67,6 @@ The large open area in this [*insula*](http://vocab.getty.edu/page/aat/300000325
 ## Figures
 
 {{< image file="ostia_fig2_better_colored.jpg" caption="Figure 1: The Garden and Houses of the Insula dei Dipinti." credit="" alt="" >}}
-
-## Dates
-
-late Hadrianic period \
-150-180 CE
-
-## Excavation Date
-
-1914-1919 \
-recent excavations
 
 ## Bibliography
 

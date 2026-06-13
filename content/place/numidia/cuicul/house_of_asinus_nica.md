@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+2nd-5th century CE
+
+<!-- ## Excavation Dates -->
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
@@ -48,12 +54,6 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 ## Images
 
 {{< image file="house_of_asinus_nica_photo.jpg" caption="Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)" credit="" alt="" >}}
-
-## Dates
-
-2nd-5th century CE
-
-<!-- ## Excavation Dates -->
 
 ## Bibliography
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+79 CE
+
+## Excavation Dates
+
+1901 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -59,14 +67,6 @@ When the excavation work reached the northeast corner of this house in 1901, a s
 ## Images
 
 -->
-
-## Dates
-
-79 CE
-
-## Excavation Dates
-
-1901 CE
 
 ## Bibliography
 

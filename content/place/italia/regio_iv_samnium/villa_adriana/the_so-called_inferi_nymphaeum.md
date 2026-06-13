@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -67,14 +75,6 @@ Coming back to the small cave, this grotto is surely what Aelius Spartianus call
 {{< image file="70_small_grotto.jpg" caption="Fig. 70: The small grotto of the Inferi Nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the small grotto of the Inferi Nymphaeum at Villa Adriana" >}}
 
 {{< image file="71_inferi_by_penna.jpg" caption="Fig. 71: Early nineteenth-century drawing of the Inferi Nymphaeum, by A. Penna." credit="Courtesy of Eugenia Salza Prina Ricotti." alt="Drawing of the Inferi Nymphaeum at Villa Adriana, by A. Penna" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 
