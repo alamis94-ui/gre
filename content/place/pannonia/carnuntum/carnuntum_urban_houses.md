@@ -22,7 +22,7 @@ The regional house type found often in Pannonia, the so-called corridor house, i
 
 ## Plans
 
-{{< image file="PAN_CAR_House 1_M Carroll.jpg" caption="Fig. 1: Plan of houses (A) and (B), with possible garden courtyards (G) at the rear." credit="Adapted from Jobst 1983, fig. p. 144." alt="" >}}
+{{< image file="PAN_CAR_House_1_M_Carroll.jpg" caption="Fig. 1: Plan of houses (A) and (B), with possible garden courtyards (G) at the rear." credit="Adapted from Jobst 1983, fig. p. 144." alt="" >}}
 
 <!-- ## Images -->
 

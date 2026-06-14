@@ -44,7 +44,7 @@ This large *domus* the result of the combining of two houses, is located at the 
 
 ## Plans
 
-{{< image file="house_of _sertius.jpg" caption="Fig. 1: Plan of the House of Sertius" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" alt="">}}
+{{< image file="house_of_sertius.jpg" caption="Fig. 1: Plan of the House of Sertius" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" alt="">}}
 
 <!-- ## Images -->
 

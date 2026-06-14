@@ -45,7 +45,7 @@ The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of t
 
 ## Plans
 
-{{< image file="water_sanctuary _aqua_eptimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="">}}
+{{< image file="water_sanctuary_aqua_eptimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="">}}
 
 <!-- ## Images -->
 
