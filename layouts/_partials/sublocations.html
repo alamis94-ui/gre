@@ -15,8 +15,8 @@
         {{ $s = print (replaceRE `.*/` "" .Path) }}
     {{ end }}
     {{/* hack to propertly sort Roman numerals up to 39 */}}
-    {{ $s = replaceRE `([IVX]*X[IVX]*)` "zzz$1" $s }}
-    {{ $s = replaceRE `([ivx]*x[ivx]*)` "zzz$1" $s }}
+    {{ $s = replaceRE `\b(x*)ix` "${1}viiii" $s }}
+    {{ $s = replaceRE `\b(X*)IX` "${1}VIIII" $s }}
     {{ $sortable = $sortable | append $s }}
 {{ end }}
 
@@ -28,7 +28,8 @@
     <ul>
         {{ range sort $sortable }}
             {{/* undo the roman sorting hack */}}
-            {{ $v := replaceRE "zzz" "" . }}
+            {{ $v := replaceRE "viiii" "ix" . }}
+            {{ $v = replaceRE "VIIII" "IX" $v }}
             {{ if $v }}
                 {{ range or (where $places "Title" $v) (where $places "Path" "like" (print $v `\b`) ) }}
                     {{/* put brackets around titles inferred from path */}}
