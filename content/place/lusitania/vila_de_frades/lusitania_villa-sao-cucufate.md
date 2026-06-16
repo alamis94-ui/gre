@@ -4,30 +4,12 @@ type: garden
 title: Villa Sao Cucufate
 latlon: [ 38.223820, -7.845952 ]
 author:
-contributor: Xingjian Wang
+contributor: Xingjian Wang, Keith Jenkins
 jashemski-catalogue: LUS 7.1
 date: 2021-04-21
 modified: 2025-06-29
 draft: true
 ---
-
-## Province
-
-[Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
-
-## Province Description
-
-Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
-
-## Location
-
-- [Vila de Frades]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="256422" name="OS. Cucufate" >}}
-
-## Garden
-
-Villa Sao Cucufate
 
 ## Garden Description
 
@@ -49,7 +31,7 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 {{< image file="his_lus_villa_sao_cucufate_ph3_fig3.jpg" caption="Fig. 3: Plan of Phase 3." credit="" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." >}}
 
-## Images
+<!-- ## Images -->
 
 <!-- ## Dates -->
 
