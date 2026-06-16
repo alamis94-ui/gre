@@ -1,9 +1,9 @@
 ---
 title: People
 aliases: [/contributors]
-contributor: Christian Casey, David Ratzan, Divya Kumar-Dumas
+contributor: Christian Casey, David Ratzan, Divya Kumar-Dumas, Keith Jenkins
 date: 2021-04-20
-modified: 2025-07-05
+modified: 2026-06-16
 draft: false
 ---
 
@@ -191,7 +191,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 
 #### Italia/Vesuvian Sites (Herculaneum, Pompeii, Stabiae)
 - Riccardo Olivito, IMT School for Advanced Studies Lucca
-- Jessica Venner\*\*, University of Birmingham: <jlv871@student.bham.ac.uk>
+- Jessica Venner\*\*, University of Birmingham
 - Clare Campbell, University of Arkansas
 - Yukiko Kawamoto, Nagoya University
 - [Kaja Tally-Schumacher](kaja-tally-schumacher), Cornell University
@@ -245,7 +245,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Caroline Kneubuhl, Musée romain d'Avenches
 
 #### Syria
-- [Leigh-Ann Bedal](leigh-ann-bedal)\*\*, Pennsylvania State University/Behrend: <lxb41@psu.edu>
+- [Leigh-Ann Bedal](leigh-ann-bedal)\*\*, Pennsylvania State University/Behrend
 - [Divya Kumar-Dumas](divya-kumar-dumas), University of Pennsylvania
 - Houmam Saad, Directorate-General for Antiquities and Museums, Damascus
 - Abdallah Komait, AOROC, CNRS ENS PSL
