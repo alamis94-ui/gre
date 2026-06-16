@@ -2,7 +2,7 @@
 slug: "58e3db55d8"
 type: place
 title: Africa Proconsularis
-author: Unspecified
+author: Author Name
 contributor: Keith Jenkins
 date: 2025-07-01
 modified: 2025-07-01

@@ -2,7 +2,7 @@
 slug: "1ceef17483"
 type: place
 title: Italia
-author: 
+author: Author Name
 contributor: Rhiannon Paré, Keith Jenkins
 date: 2025-07-07
 modified: 2025-07-07

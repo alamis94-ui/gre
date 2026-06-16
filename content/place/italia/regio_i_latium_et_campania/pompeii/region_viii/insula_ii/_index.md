@@ -1,7 +1,7 @@
 ---
 slug: "9933cfca71"
 type: place
-title: Insula ii
+title: Insula II
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-08
