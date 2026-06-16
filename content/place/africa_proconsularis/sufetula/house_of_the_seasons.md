@@ -16,7 +16,7 @@ draft: true
 
 ## Garden Description
 
-This house, known for its majestic and richly decorated *oecus*, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late IVth. early Vth. Century (Plan view, Fig. 1).
+This house, known for its majestic and richly decorated *oecus*, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late 4th. early 5th. Century (Plan view, Fig. 1).
 
 <!-- ## Maps -->
 

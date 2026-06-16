@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -46,21 +50,13 @@ On leaving the House of the Lion from its northwest corner, following the rue du
 
 {{< image file="house_of_sucellus.png" caption="Plan of House of Sucellus" credit="" alt="" >}}
 
-## Dates
-
-It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.
-
 ## Bibliography
 
-1. *Maison 1996*, t. II,, p. 406-411
-
-2. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189-190.[worldcat](https://search.worldcat.org/title/1169743067)
-
-3. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 30,33.[worldcat](https://search.worldcat.org/title/43416334)
-
-4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
-
-6. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig.194.[worldcat](https://search.worldcat.org/title/43416334)
+- *Maison 1996*, t. II,, p. 406-411
+- Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189-190.[worldcat](https://search.worldcat.org/title/1169743067)
+- *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 30,33.[worldcat](https://search.worldcat.org/title/43416334)
+- *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
+- Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig.194.[worldcat](https://search.worldcat.org/title/43416334)
 
 ## Places
 

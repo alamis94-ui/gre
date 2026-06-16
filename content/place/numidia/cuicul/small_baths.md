@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Early 3rd century CE
+
+## Excavation Dates
+
+1938
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
@@ -59,14 +67,6 @@ The garden A mentioned as an open area was excavated in 1930-1931 and in 1944 (P
 {{< image file="small_baths_rectangular_pool.jpg" caption="Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)" credit="" alt="" >}}
 
 {{< image file="venus_djemila.jpg" caption="Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)" credit="" alt="" >}}
-## Dates
-
-Early 3rd century CE
-
-## Excavation Dates
-
-1938
-
 ## Bibliography
 
 - Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](https://search.worldcat.org/title/4824686051)

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+early 4th - 5th century CE
+
 ## Location
 
 - [Frocester Court]({{<relref ".">}})
@@ -18,15 +22,6 @@ draft: false
 ## Garden
 
 Rural Villa in Frocester Court
-
-## Keywords
-
-- {{< keyword "ditches" >}}
-- {{< keyword "fences" >}}
-- {{< keyword "kitchen gardens" >}}
-- {{< keyword "orchards" >}}
-- {{< keyword "paddocks" >}}
-- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -44,16 +39,21 @@ Excavated evidence indicates that this courtyard was designed as a formal garden
 
 {{< image file="Frocester_11_or_7.1b.jpg" caption="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence." credit="Drawing courtesy of E. Price." alt="" >}}
 
-## Dates
-
-early 4th - 5th century CE
-
 ## Bibliography
 
 - M. Carroll, *Earthly Paradises. Ancient Gardens in History and Archaeology.* London: The British Museum Press, 2003, 110, fig. 88
 - M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 463, fig. p. 461
 - E. Price, Frocester. *A Romano-British Settlement, its Antecedents and Successors*, Gloucester, 2000.
 - R.J. Zeepvat, "Roman Gardens in Britain," in: A.E. Brown, ed., *Garden Archaeology*. Council for British Archaaeology Research Report 78, London, 1991, pp. 53-56, fig. 5.2. [(worldcat)](https://search.worldcat.org/title/246578144)
+
+## Keywords
+
+- {{< keyword "ditches" >}}
+- {{< keyword "fences" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "paddocks" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

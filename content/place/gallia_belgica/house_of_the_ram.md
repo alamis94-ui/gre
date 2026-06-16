@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [DUROCORTORUM (Reims, France)]({{<relref ".">}})
@@ -31,12 +35,6 @@ Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe t
 
 House of the Ram (La Maison au Bélier)
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "corridors" >}}
-
 ## Garden Description
 
 BEL 2.3.1: Reims, House of the Ram
@@ -50,17 +48,21 @@ None Available
 ## Plans
 
 None Available
+
 ## Images
 
 None Available
-## Dates
-
-Unspecified
 
 ## Bibliography
 
 - A. Balmelle, *Reims, Le site de la villa des Capucins (site n°51 454 129)* : D.F.S. de sauvegarde urgent, S.R.A. Champagne-Ardenne, 1995  <!-- not on worldcat -->
 - A. Balmelle, R. Neiss, Les maisons de l'élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise*, t. 96, 2003, 4, p. 82. [(worldcat)](https://search.worldcat.org/title/718698064)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "corridors" >}}
 
 ## Places
 

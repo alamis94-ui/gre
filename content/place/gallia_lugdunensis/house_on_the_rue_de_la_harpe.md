@@ -10,16 +10,13 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Garden
 
 House on the Place des Halles (La maison des Halles)
-
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "courtyards" >}}
 
 ## Garden Description
 
@@ -36,13 +33,16 @@ None Available
 
 None Available
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - D. CLIQUET, L'Eure, 27, CAG p.136-137, restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "courtyards" >}}
 
 ## Places
 

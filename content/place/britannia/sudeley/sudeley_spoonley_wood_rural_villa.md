@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+3rd/4th century CE
+
+## Excavation Dates
+
+1882
+
 ## Location
 
 - [Sudeley/Spoonley Wood]({{<relref ".">}})
@@ -18,12 +26,6 @@ draft: false
 ## Garden
 
 Rural Villa in Sudeley/Spoonley Wood
-
-## Keywords
-
-- {{< keyword "axial plan" >}}
-- {{< keyword "terrace gardens" >}}
-- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -44,18 +46,16 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 -->
 
-## Dates
-
-3rd/4th century CE
-
-## Excavation Dates
-
-1882
-
 ## Bibliography
 
 - *Ancient and Historical Monuments in the County of Gloucester* Vol. 1. Royal Commission on Historical Monuments of England, London, 1976, pp. 113-114, fig. on p. 114. [(worldcat)](https://search.worldcat.org/title/929693324)
 - C. Taylor, *The Archaeology of Gardens*. Shire Archaeology Series 30, Aylesbury, 1983, pp. 30-31, fig. 1. [(worldcat)](https://search.worldcat.org/title/881563275)
+
+## Keywords
+
+- {{< keyword "axial plan" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

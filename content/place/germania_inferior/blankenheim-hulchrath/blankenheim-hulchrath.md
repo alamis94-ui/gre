@@ -10,6 +10,10 @@ modified: 2026-05-31
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [Blankenheim-Hülchrath]({{<relref ".">}})
@@ -18,11 +22,6 @@ draft: true
 ## Garden
 
 Rustic villa at Blankenheim-Hülchrath
-
-## Keywords
-
-- {{< keyword "courtyards" >}}
-- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -38,14 +37,15 @@ To the northeast of the house was an open courtyard flanked by outbuildings and 
 
 <!-- ## Images -->
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - H. G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 361-63, figs. 306-308. [(worldcat)](https://search.worldcat.org/title/456209115)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule.* Suppl. Gallia 51, Paris, 1992, pp. 192-193, fig. 5. [(worldcat)](https://search.worldcat.org/title/407704732)
+
+## Keywords
+
+- {{< keyword "courtyards" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

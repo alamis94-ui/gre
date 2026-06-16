@@ -10,6 +10,10 @@ modified: 2026-05-31
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [Castra Vetera]({{<relref ".">}})
@@ -18,16 +22,6 @@ draft: true
 ## Garden
 
 Legionary houses at Castra Vetera (Germania inferior)
-
-## Keywords
-
-- {{< keyword "castra" >}}
-- {{< keyword "praetoriums" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "pedestals" >}}
-- [Pliny the Younger](https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318)
 
 ## Garden Description
 
@@ -43,13 +37,19 @@ The partially excavated eastern villa was 78.50 m. wide and 109 m. in length. It
 
 <!-- ## Images -->
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - H. Lehner, *Vetera. Die Ergebnisse der Ausgrabungen des Bonner Provinzialmuseums bis 1929.* Römisch-Germanische Forschungen 4, Berlin, 1930, pp. 52-60, figs. 38-41. [worldcat](https://search.worldcat.org/title/884633203)
+
+## Keywords
+
+- {{< keyword "castra" >}}
+- {{< keyword "praetoriums" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "pedestals" >}}
+- [Pliny the Younger](https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318)
 
 ## Places
 

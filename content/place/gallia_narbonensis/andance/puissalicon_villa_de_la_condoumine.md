@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 75-100 built
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -54,17 +58,11 @@ The gallery led to baths [19-26]. In a second phase, they were dismantled and th
 
 {{< image file="puissalicon_villa_de_la_condoumine.png" caption="Plan of Puissalicon, villa de la Condoumine" credit="" alt="" >}}
 
-## Dates
-
-CE 75-100 built
-
 ## Bibliography
 
-1. J. P. Bacou, La villa gallo-romaine de Condoumine à Puissalicon, civitas de Béziers, *Revue Archéologique de Narbonnaise*, 1971, 4, P. 93-149.
-
-2. Bacou, J.-P. "La Villa Gallo-Romaine De Condoumine À Puissalicon (civitas De Béziers)." *Revue Archéologique De Narbonnaise*. 4.1 (1971): 93-149. [(worldcat)](https://search.worldcat.org/title/4797757945)
-
-2. Alain Bouet, *Les thermes publics et privés en Gaule Narbonnaise*, vol. II, catalogue, coll. École Française de Rome 320, Rome, 2003, P. 208-11. [(worldcat)](https://search.worldcat.org/title/490154337)
+- J. P. Bacou, La villa gallo-romaine de Condoumine à Puissalicon, civitas de Béziers, *Revue Archéologique de Narbonnaise*, 1971, 4, P. 93-149.
+- Bacou, J.-P. "La Villa Gallo-Romaine De Condoumine À Puissalicon (civitas De Béziers)." *Revue Archéologique De Narbonnaise*. 4.1 (1971): 93-149. [(worldcat)](https://search.worldcat.org/title/4797757945)
+- Alain Bouet, *Les thermes publics et privés en Gaule Narbonnaise*, vol. II, catalogue, coll. École Française de Rome 320, Rome, 2003, P. 208-11. [(worldcat)](https://search.worldcat.org/title/490154337)
 
 ## Places
 

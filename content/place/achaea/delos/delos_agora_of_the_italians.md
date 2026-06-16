@@ -12,7 +12,7 @@ draft: false
 
 ## Dates
 
-2nd-1st c. BCE
+2nd-1st century BCE
 
 ## Garden Description
 

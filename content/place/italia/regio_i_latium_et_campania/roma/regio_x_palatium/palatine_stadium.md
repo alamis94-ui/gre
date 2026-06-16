@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+81-92 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
@@ -28,25 +36,6 @@ Palatine Hill \
 ## Garden
 
 Stadium Garden of the Flavian Palace, Palatine
-
-## Keywords
-
-- {{< keyword "allées" >}}
-- {{< keyword "canals" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "pillars" >}}
-- {{< keyword "planting beds" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- [Juvenal](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.800)
-- [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
-- [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
-- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
 
 ## Garden Description
 
@@ -81,19 +70,30 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image file="palatine_stadium_fig4.jpg" caption="Fig. 4: Hypothetical reconstruction of the \"Stadium\"" credit="(after C. Huelsen, Forum und Palatin, Munch 1926, plate 58)." alt="Reconstruction of the stadium" >}}
 
-## Dates
-
-81-92 CE
-
-## Excavation Date
-
-unspecified
-
 ## Bibliography
 
 - M.A. Tomei, Nota sui giardini antichi del Palatino, *Mélanges de l'École Française de Rome (MEFRA)*, 104, 1992, 2, pp. 917-951. [(worldcat)](https://search.worldcat.org/title/972029282)
 - M.A. Tomei, *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001: 73-75 (with additional bibliography). [(worldcat)](https://search.worldcat.org/title/5894435382)
 - A. Hoffmann & U. Wulf, "Bade oder Villenluxus? Zur Neuinterpretation del 'Domus Severiana,'" in Hoffman, Wulf & Angermeyer, *Die Kaiserpaläste auf dem Palatin in Rom*, Mainz am Rhein, 2004: 153-185. [(worldcat)](https://search.worldcat.org/title/180145631)
+
+## Keywords
+
+- {{< keyword "allées" >}}
+- {{< keyword "canals" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- [Juvenal](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.800)
+- [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
+- [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
+- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
 
 ## Places
 

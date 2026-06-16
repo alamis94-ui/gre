@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
+## Excavation Dates
+
+Unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -46,15 +54,6 @@ House 13
 
 Casa Delle Origini di Roma; House of M. Fabius Secundus (V.iv.13.)
 
-## Keywords
-
-- {{< keyword "gutters" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "triclinia (couches)" >}}
-- {{< keyword "trellises" >}}
-- {{< keyword "altars" >}}
-- {{< keyword "lararia" >}}
-
 ## Garden Description
 
 This house with an unusual design had a garden (a) in the rear southwest corner that was separated from a courtyard to the north by a low masonry wall. Between the garden wall and the wall of the house a gutter was formed which directed the roof run off into a cistern. A marble garden herm was found on the low wall with the head of a satyr sporting goat's ears and ram's horns (0.20 high). In the center of the garden stood a masonry triclinium (*l. medius*, 4.00 m.; *l. imus* and. *summus* 3.75 m.) decorated with plants painted on a yellow background, a masonry table with a colored marble top (090 x 1.50 m.) sat between the couches. Excavators reported the post holes for the *pergola* were reinforced with potsherds to bolster the posts. The south and west walls were lined with cavities (the dimensions were not recorded) that were centered in soil depressions to hold water. In the northwest corner of the garden a masonry altar sat in front of an arched niche.
@@ -67,14 +66,6 @@ This house with an unusual design had a garden (a) in the rear southwest corner 
 ## Images
 -->
 
-## Dates
-
-Unspecified
-
-## Excavation Dates
-
-Unspecified
-
 ## Bibliography
 
 - Boyce, p. 41, no. 126 and pl. 11.2. [(worldcat)](https://search.worldcat.org/title/491367250)
@@ -83,6 +74,15 @@ Unspecified
 - Sogliano, *NSc* (1905), pp. 91-92 and fig. 1 (plan) on p. 87. [(worldcat)](https://search.worldcat.org/title/1091982220)
 - Soprano, p. 299, no. 12 (identifies the structure in the garden as a true triclinium and not triclinium-shaped seats as Sogliano suggests); (Soprano, I triclini all'aperto di Pompei)
 - Thédenat, p. 88. [(worldcat)](https://search.worldcat.org/title/37336723)
+
+## Keywords
+
+- {{< keyword "gutters" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "triclinia (couches)" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "lararia" >}}
 
 ## Places
 

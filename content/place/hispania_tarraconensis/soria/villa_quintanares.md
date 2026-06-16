@@ -22,16 +22,11 @@ draft: true
 
 ## Location Description
 
-This villa is about 600 meters southwest of the town Rioseco di Soria on the right (north) bank of the Sequillo river – here a small stream -- and overlooking its plain. Excavations go back to the early 1970's.  In 2007 the site was marked only by mounds of earth over the ruins.
+This villa is about 600 meters southwest of the town Rioseco di Soria on the right (north) bank of the Sequillo river – here a small stream -- and overlooking its plain. Excavations go back to the early 1970s.  In 2007 the site was marked only by mounds of earth over the ruins.
 
 ## Garden
 
 Villa los Quintanares
-
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "mosaics" >}}
 
 ## Garden Description
 
@@ -52,6 +47,11 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 - Teógenes Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco de Soria, in IX Congreso Nacional de Arqueología. Valladolid. Valladolid, 1965, pp. 341-347. [(worldcat)](https://search.worldcat.org/title/892240885)
 - T. Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco (Soria), in  Segovia , Symposium de arqueología romana,. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 285-292. [(worldcat)](https://search.worldcat.org/title/802753312)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics" >}}
 
 ## Places
 

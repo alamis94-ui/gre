@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1953-1954, 1973, 1984. Restored 1988.
+
 ## Province
 
 - [Italia]({{<relref "../../..">}})
@@ -31,10 +35,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula VIII]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "vegetable gardens" >}}
-
 ## Garden Description
 
 Jashemski examined this sizeable garden to the rear of this property in 1957 and concluded that the pronounced north-south furrows bordered by water channels indicated that this was most likely a [vegetable garden](http://vocab.getty.edu/page/aat/300008142). An oven against the south wall of the entrance room, and a bowl in the garden, suggest this was a [caupona](http://vocab.getty.edu/page/aat/300005208). The oven sat in an arch below a set of stairs which lead from the garden to an upper floor.
@@ -43,14 +43,14 @@ Jashemski examined this sizeable garden to the rear of this property in 1957 and
 
 {{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}} -->
 
+## Keywords
+
+- {{< keyword "vegetable gardens" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-## Dates
-
-Excavated 1953-1954, 1973, 1984. Restored 1988.
 
 ## Bibliography
 

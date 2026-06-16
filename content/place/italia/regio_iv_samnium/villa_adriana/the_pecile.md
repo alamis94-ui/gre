@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -37,14 +45,6 @@ The realization of this magnificent residence must have been a cherished dream o
 The Pecile (Fig. 1, n. 6)\
 - {{< id vocab="Pleiades" id="781209675" name="Pecile at Hadrian's Villa" >}}
 
-## Keywords
-
-- {{< keyword "columns" >}}
-- {{< keyword "flower gardens" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "tufa" >}}
-
 ## Garden Description
 
 The Pecile (Fig. 20) was never excavated as a garden. Thus, today, we have only the large pond, 30 m wide x 116 m long (Fig. 21) which hosts a flock of white geese (Fig. 20, A). A garden must have been spread all around it, but its flowerbeds need still to be investigated (SALZA PRINA RICOTTI 2000, pp. 139-141, fig. 45). If, as in Villa Adriana often happens, they have been dug in the tufa platform, sooner or later we will be able to see their shapes and reconstruct the garden's appearance. For the moment we have to be content with the dark green bushes which, cut in the shape of columns, mark the spots once occupied by the ones of the monumental peristyle 100 m wide and 248 m long. On the northern side of the Pecile, we can still admire the long wall around which, once, ran the double portico used by the Emperor for his daily strolls (Fig. 20, B): three spins around the central wall corresponded to a mile as written on a marble slate (HÜLSEN 1896; MANCINI 1952; COARELLI 1997, pp. 207-209). He could circle around it as many times as his doctor had prescribed him to do (Fig. 22). According to ancient Romans' belief, long walks offered an opportunity to exercise and were necessary to preserve both health and fitness. At the western end of the Pecile, a pillared Belvedere offered to Villa Adriana's inhabitants the possibility to rest from time to time admiring the underlying plain and the city of Rome far away on the horizon.
@@ -60,14 +60,6 @@ The Pecile (Fig. 20) was never excavated as a garden. Thus, today, we have only 
 {{< image file="21_pecile_pond.jpg" caption="Fig. 21: The pond of the Pecile Garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the pond of the Pecile Garden at Hadrian's Villa" >}}
 
 {{< image file="22_pecile_wall.jpg" caption="Fig. 22: The wall of the Pecile Garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the wall at the northern side of the Pecile Garden at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 
@@ -91,6 +83,14 @@ unspecified
 - Ch. Hülsen, "Zu den Institutsschriften" *Archäologischer Anzeiger*, 1896, pp. 47-48. [(worldcat)](https://search.worldcat.org/title/920385287) [(DigiZeitschriften)](http://www.digizeitschriften.de/download/PPN776863886_1896/PPN776863886_1896___LOG_0011.pdf)
 - G. Mancini, *Inscriptiones Italiae*, vol. IV, Regio IV, fasc. I, *Tibur*, Roma 1952, p. 113, n. 242. [(worldcat)](https://search.worldcat.org/title/1070414020)
 - F. Coarelli, "Il 'Pecile' di Villa Adriana e la Porticus triumphi" *Mitteilungen des Deutschen Archäologischen Instituts, Römische Abteilung* 104, 1997, pp. 207-217. [(worldcat)](https://search.worldcat.org/title/8799287)
+
+## Keywords
+
+- {{< keyword "columns" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "tufa" >}}
 
 ## Places
 

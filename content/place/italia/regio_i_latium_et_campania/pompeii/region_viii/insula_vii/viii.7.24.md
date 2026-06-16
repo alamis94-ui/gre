@@ -32,12 +32,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula VII]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 The rooms adjoining the atrium of this house, excavated in 1795-1798, had been converted to a sculptor's workshop. To the left of the atrium and up fifteen steps was a garden (a) with a surrounding portico and a fountain in the center. The triclinium to the north offered a view of the garden and the fountain.
@@ -45,6 +39,12 @@ The rooms adjoining the atrium of this house, excavated in 1795-1798, had been c
 ## Plans
 
 {{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

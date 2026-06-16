@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Houses: Late 1st century - Middle of 3rd century
+
 ## Location
 
 - [Aventicum]({{<relref ".">}})
@@ -17,22 +21,10 @@ draft: true
 
 ## Location Description
 
-The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
+The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in CE 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around CE 260, and it was progressively abandoned thereafter.
 ## Garden
 
 House in Insula 13 in Aventicum
-
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "garden pavilions" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "insulae" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "reception rooms" >}}
 
 ## Garden Description
 
@@ -48,15 +40,23 @@ The most remarkable feature of the building was a T-shaped garden courtyard (G i
 
 <!-- ## Images -->
 
-## Dates
-
-Houses: Late 1st century - Middle of 3rd century
-
 ## Bibliography
 
 - J. Morel, "Chronique archéologique 1993," Bull. de l'Association Pro Aventico 35, 1993: 19-21, figs. 8, 11.
 - J. Morel, "L'habitat," in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, Archéologie Suisse 24.1, 2001: 45-46, figs. 58, 60. [(worldcat)](https://search.worldcat.org/title/718693183)
 - M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](https://search.worldcat.org/title/1120840822)
+
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "reception rooms" >}}
 
 ## Places
 

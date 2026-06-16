@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -37,13 +45,6 @@ The realization of this magnificent residence must have been a cherished dream o
 The Libraries' Courtyard (Fig. 1, n. 13)\
 - {{< id vocab="Pleiades" id="369692199" name="Libraries' Courtyard at Hadrian's Villa" >}}
 
-## Keywords
-
-- {{< keyword "flower gardens" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 This garden belongs to the republican period and it is one of the most ancient of Villa Adriana. It is enclosed in a large peristyle 48 m wide, 72 m long. The place seems to have been watered from the Republican time up to the end of the Roman Empire, and the content of lead in its soil is among the highest in the area (SALZA PRINA RICOTTI 1994-95, fig. 7). At the center of the portico's northern side, there still is a republican *nymphaeum* with a rectangular plan and very thick walls: a vaulted hall decorated with a series of niches, but quite heavy and gloomy (Fig. 35, E). There must have been flowerbeds in the peristyle, but the garden has still to be excavated. Now an olive grove occupies the place, and I doubt that anybody would dare to cut it down. However, if this would ever happen, we must hope to ascertain the presence of tufa surfacing in this area and, thus, find the hole cut in the rock to create the flowerbeds. It would be the only way to discover how the place had been planned.
@@ -53,14 +54,6 @@ This garden belongs to the republican period and it is one of the most ancient o
 {{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
 {{< image file="35_library_courtyard.jpg" caption="Fig. 35: Plan of the Libraries' Courtyard, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Libraries' Courtyard at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 
@@ -81,6 +74,13 @@ unspecified
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 <!-- Bibliography for Garden Description -->
 - E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](https://search.worldcat.org/title/1006002216) <!-- link to specific issue needed -->
+
+## Keywords
+
+- {{< keyword "flower gardens" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

@@ -10,10 +10,18 @@ modified: 2025-06-29
 draft: true
 ---
 
-## DUPLICATE!
-
+<!--
 This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 -KGJ
+-->
+
+## Dates
+
+unspecified
+
+## Excavation Dates
+
+1873
 
 ## Location
 
@@ -35,10 +43,6 @@ This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 
 I.ii.15
 
-## Keywords
-
-- {{< keyword "impluvia" >}}
-
 ## Garden Description
 
 This humble house was excavated in 1873. It had no garden but the *impluvium* was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
@@ -53,20 +57,16 @@ This humble house was excavated in 1873. It had no garden but the *impluvium* wa
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified
-
-## Excavation Dates
-
-1873
-
 ## Bibliography
 
 - Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
 - Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
 - Viola, "*Scavi*" p. 12. [(worldcat)](https://search.worldcat.org/title/715087975)
 - Warscher, "Codex."
+
+## Keywords
+
+- {{< keyword "impluvia" >}}
 
 ## Places
 

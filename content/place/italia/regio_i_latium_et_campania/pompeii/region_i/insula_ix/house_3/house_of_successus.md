@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1952
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -29,18 +37,6 @@ draft: true
 ## Garden
 
 House of Successus (I.ix.3)
-
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "cubicula" >}}
-- {{< keyword "graffiti" >}}
-- {{< keyword "inscriptions" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "tables" >}}
 
 ## Garden Description
 
@@ -62,14 +58,6 @@ A portrait of a little boy painted on the north wall of the *cubiculum*, to the 
 
 {{< image file="Fig_53_I.ix.3_18.22.59.jpg" caption="Fig. 5: 18.22.59, S.A. Jashemski" credit="" alt="" >}}
 
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1952
-
 ## Bibliography
 
 - Della Corte, *Case*, p. 339, no. 723a.
@@ -77,6 +65,18 @@ unspecified
 - Jashemski, *Gardens*, vol.II, pp. 44; 395. [(worldcat)](https://search.worldcat.org/title/921816405)
 - Maiuri, *Pompeii*, p. 82. [(worldcat)](https://search.worldcat.org/title/470375462)
 - Schefold, *WandP*, p. 38.
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "cubicula" >}}
+- {{< keyword "graffiti" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "tables" >}}
 
 ## Places
 

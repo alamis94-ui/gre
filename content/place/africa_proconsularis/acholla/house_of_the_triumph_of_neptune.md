@@ -22,7 +22,7 @@ A low wall encloses the peristyle (17.50 x 14.50 m) with its garden (VII; 11.40 
 
 Two open spaces(XXVIII, XXXIV) with an earthen floor, probably small gardens, were arranged in both apartments and were accessible by a passage.  It is possible that the north and south walls of the *oecus-triclinium* might have had a window opening onto these courtyard gardens.
 
-Another possible garden(X) was adjacent to the reception room of the northern aisle of the portico.  This house dates from 150-170 A.D.
+Another possible garden(X) was adjacent to the reception room of the northern aisle of the portico.  This house dates from 150-170 CE.
 
 <!-- ## Maps -->
 

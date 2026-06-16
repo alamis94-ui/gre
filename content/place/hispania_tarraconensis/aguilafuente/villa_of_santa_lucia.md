@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+4th century
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -27,7 +31,7 @@ The Mediterranean trio of wine, oil and cereals are the crops most frequently me
 
 It is not strange, therefore, that gardening, the work of the topiarius, was usual in Iberian houses, as this study shows.  It was not, however, totally new to Spanish territory. Although there are no literary references to gardening in the Pre-Roman era, it must have been part of Iberian culture, as is proved in an unusual way in the northwest of the peninsula in the area under the influence of Greek culture from the city of Emporion (Ampurias or Empuriae).  A Hellenic establishment there, Rhode (Rosas), in the third century BCE minted drachmas with a rose as the emblem.  There were sacred woods connected with the cities. Close to Augustas Emeritas was Lucus Feroniae. Dedicated to Augustus was Lucus Augusti, which gave rise to the present-day Lugo, in Galicia, and another Lucus existed in the environs of Gijón, the Lugo de Llanera (Blázquez, p. 24).
 
-There has been little research on the gardens in the Roman settlements in Spain and Portugal. In drawing up the list of sites with gardens for this catalog, we have accepted that a garden existed when it was so labeled by the excavators.  There are, however, many other probable gardens which we have included.  Gorges found just under forty villas where enough remained to draw a plan. In them, certain features help to identify a garden. A peristyle alerts us to suspect a garden, but peristyle courtyards were sometimes paved with stones or bricks over a layer of lime.  They were clearly not gardens. But if the courtyard had soil in it, it was in all probability a garden. Fountains, fountain statues, and pools are typical of a garden since water is indispensable for a garden. Most peristyles in Roman villas in Spain had ornamental irrigation channels, semicircular pools, wells or pools that gave the impression of still water that, nevertheless, endowed the garden with a cool humidity that favored the cultivation of plants.  In Spain, peristyles with drainage are found in the first and second centuries AD and are also common in the late Empire.  Certain types of statuary intimately connected with vegetation and nature are found in gardens, such as divinities related to Bacchus and his circle. At Pompeii, Diana, a garden goddess, sometimes paired with Apollo, is also found. Herms were placed on pilasters, as the examples in situ from Pompeii show.  Characteristic of Roman villas was the way in which they opened out to the countryside onto a grand vista of gardens and parks filled with fountains.
+There has been little research on the gardens in the Roman settlements in Spain and Portugal. In drawing up the list of sites with gardens for this catalog, we have accepted that a garden existed when it was so labeled by the excavators.  There are, however, many other probable gardens which we have included.  Gorges found just under forty villas where enough remained to draw a plan. In them, certain features help to identify a garden. A peristyle alerts us to suspect a garden, but peristyle courtyards were sometimes paved with stones or bricks over a layer of lime.  They were clearly not gardens. But if the courtyard had soil in it, it was in all probability a garden. Fountains, fountain statues, and pools are typical of a garden since water is indispensable for a garden. Most peristyles in Roman villas in Spain had ornamental irrigation channels, semicircular pools, wells or pools that gave the impression of still water that, nevertheless, endowed the garden with a cool humidity that favored the cultivation of plants.  In Spain, peristyles with drainage are found in the first and second centuries CE and are also common in the late Empire.  Certain types of statuary intimately connected with vegetation and nature are found in gardens, such as divinities related to Bacchus and his circle. At Pompeii, Diana, a garden goddess, sometimes paired with Apollo, is also found. Herms were placed on pilasters, as the examples in situ from Pompeii show.  Characteristic of Roman villas was the way in which they opened out to the countryside onto a grand vista of gardens and parks filled with fountains.
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
@@ -46,23 +50,18 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 Villa of Santa Lucia
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 Excavation in 1968-1972 at this site, which has been reburied, revealed over half the area of a large, fourth century villa, laid out around a central *peristyle* garden (31.2 x 28.8 m). The excavations exposed the western half of the site while samples and trenches established the broad outlines of the eastern half. The oecus on the north side had a good view of the garden. Directly across from it were double-horseshoe-shaped baths on the south.  Though mosaics are few, other finds indicate that the villa saw an intense and brilliant use during the fourth century and into the fifth, when there are signs of remodelling.  The villa was briefly abandoned in Visigoth times, the in the mid-3rd century used as a necropolis.
 
-## Dates
-
-4C
-
 ## Bibliography
 
 - M.ª Lucas and V. Viñas, *La villa romana de Aguilafuente (Segovia) in Symposium de arqueología romana*, Segovia y la arqueología romana. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 239-255.[(worldcat)](https://search.worldcat.org/title/7180188573)
-
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986;  J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. [(worldcat)](https://search.worldcat.org/title/758189394)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
 
 ## Places
 

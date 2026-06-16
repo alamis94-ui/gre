@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+80 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,17 +33,6 @@ draft: false
 
 Garden of the Divorum
 
-## Keywords
-
-- {{< keyword "altars" >}}
-- {{< keyword "canals" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "pools" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "temples" >}}
-- {{< keyword "triumphal arches" >}}
-
 ## Garden Description
 
 The [Divorum](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Divorum.html), also known as the *Templum Divorum* (Degrassi 13.1.103, 233) and the *Porticus Divorum*, was a [*porticus*](http://vocab.getty.edu/page/aat/300004145) with two small [temples](http://vocab.getty.edu/page/aat/300007595) built in honor of [Titus](https://en.wikipedia.org/wiki/Titus) and [Vespasian](https://en.wikipedia.org/wiki/Vespasian) by [Domitian](https://en.wikipedia.org/wiki/Domitian), who constructed the complex after the first of 80 CE on the site of the [Villa Publica](https://www.digitalaugustanrome.org/records/villa-publica) ([Chronographer of 354 CE](http://www.tertullian.org/fathers/chronography_of_354_14_regions_of_rome.htm)). The Divorum, known from its depiction on the [Severan Marble Plan (*FUR*)](https://formaurbis.stanford.edu/index.php?field0=all&search0=DIVORUM&op0=and&field1=all&search1=) (Fig.1), is located on the eastern [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius) among other religious structures, including the [Temple of Minerva Chalcidica](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Minerva_Chalcidica.html), which visually integrated with the Divorum.
@@ -56,16 +49,23 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 
 {{< image file="divorum_fig3_placeholder.jpg" caption="Fig. 3: Perspective view looking north along the central axis. © Valerie Aymer." credit="" alt="" >}}
 
-## Dates
-
-80 CE
-
 ## Bibliography
 
 - L. Richardson, Jr., "The Villa Publica and the Divorum" in *In Memoriam Otto J. Brendel*, Eds. L. Bonfante and H. von Heintze, Mainz, 1976, pp. 159-163. [(worldcat)](https://search.worldcat.org/title/890088916)
 - R. H. Darwall-Smith, *Emperors of Architecture: A Study of Flavian Rome*, Collection Latomus 231 (1996), pp. 125-7, 139-40, 157-9, 172-7. [(worldcat)](https://search.worldcat.org/title/1000784723)
 - J. B. Ward-Perkins, *Roman Imperial Architecture*, Yale, 1981, pp. 20, 50-1, 74-5. [(worldcat)](https://search.worldcat.org/title/833150443)
 - A. Degrassi (ed.), *Inscriptiones Italiae XIII: Fasti et Elogia*, Rome, 1937. [(worldcat)](https://search.worldcat.org/title/769370170)
+
+## Keywords
+
+- {{< keyword "altars" >}}
+- {{< keyword "canals" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "triumphal arches" >}}
 
 ## Places
 

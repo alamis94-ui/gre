@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st c- 5th c CE
+
+<!-- ## Excavation Dates -->
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -28,26 +34,6 @@ draft: false
 ## Garden
 
 Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
-
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "flower gardens" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "labyrinths" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "villae urbanae" >}}
-- [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
-- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
-- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
-- [Statius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1323)
 
 ## Garden Description
 
@@ -77,13 +63,27 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image file="domus_flavia_fig3.jpg" caption="Fig. 3: Western nymphaeum after restoration (Photo SAR)." credit="" alt="" >}}
 
-## Dates
+<!-- ## Bibliography -->
 
-1st c- 5th c CE
+## Keywords
 
-<!-- ## Excavation Dates
-
-## Bibliography -->
+- {{< keyword "basins" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "labyrinths" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "villae urbanae" >}}
+- [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
+- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
+- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
+- [Statius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1323)
 
 ## Places
 

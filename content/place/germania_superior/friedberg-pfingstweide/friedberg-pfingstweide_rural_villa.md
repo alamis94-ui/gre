@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Early 2nd century - first half of 3rd century
+
 ## Location
 
 - [Friedberg Pfingstweide]({{<relref ".">}})
@@ -18,11 +22,6 @@ draft: true
 ## Garden
 
 Rural Villa in Friedberg Pfingstweide
-
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -38,13 +37,14 @@ Built in the early 2nd century, the house was of the winged corridor type with a
 
 <!-- ## Images -->
 
-## Dates
-
-Early 2nd century - first half of 3rd century
-
 ## Bibliography
 
 - D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, pp. 307-309, fig. 246. [(worldcat)](https://search.worldcat.org/title/476625416)
+
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

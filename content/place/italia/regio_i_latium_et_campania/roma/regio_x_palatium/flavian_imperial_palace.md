@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century - 2nd century CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -28,26 +32,6 @@ draft: false
 ## Garden
 
 Garden of the Flavian Imperial Palace, Palatine
-
-## Keywords
-
-- {{< keyword "allées" >}}
-- {{< keyword "altars" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "canals" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "lead" >}}
-- {{< keyword "pipes" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "plinths" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "sewers" >}}
-- {{< keyword "statues" >}}
 
 ## Garden Description
 
@@ -89,10 +73,6 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 {{< image file="flavianpalace_fig7.jpg" caption="Fig. 7: Detail of the marble canal along the outer edge of the portico." credit="" alt="Detail Marble Canal of the Flavian Palace" >}}
 
-## Dates
-
-1st century - 2nd century CE
-
 ## Bibliography
 
 - M. Royo, *Domus Imperatoriae, Topographie, formation et imaginaire des palais impériaux du Palatin*, Rome, 1999. [(worldcat)](https://search.worldcat.org/title/907608488)
@@ -102,6 +82,26 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 - J.-P Morel, "Il giardino adrianeo" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 73-75. [(worldcat)](https://search.worldcat.org/title/5894435382)
 - S. Leo, "Vasi da fiori" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 75-76. [(worldcat)](https://search.worldcat.org/title/5894435382)
 - F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](https://search.worldcat.org/title/643147049)
+
+## Keywords
+
+- {{< keyword "allées" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "canals" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "lead" >}}
+- {{< keyword "pipes" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "plinths" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "sewers" >}}
+- {{< keyword "statues" >}}
 
 ## Places
 

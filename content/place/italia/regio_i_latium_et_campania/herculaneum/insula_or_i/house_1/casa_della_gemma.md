@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Unspecified
+
 ## Province
 
 - [Italia]({{<relref "../../..">}})
@@ -23,7 +27,7 @@ draft: false
 
 ## Location Description
 
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
@@ -33,13 +37,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 ## Garden
 
 Casa della Gemma (A)
-
-## Keywords
-
-- {{< keyword "vaults" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "sundials" >}}
 
 ## Garden Description
 
@@ -54,14 +51,17 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 {{< image file="herc.i.1_7.12.78.jpg" caption="Herculaneum - insula orientalis I. 1-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="herc.i.1_17.11.78.jpg" caption="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
+## Keywords
+
+- {{< keyword "vaults" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "sundials" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -31,16 +31,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula VIII]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "strigillation" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "dolia" >}}
-- {{< keyword "doghouses" >}}
-- {{< keyword "human remains" >}}
-
 ## Garden Description
 
 A large aedicula [lararium](http://vocab.getty.edu/page/aat/300400600) on the east wall and a large [triclinium](http://vocab.getty.edu/page/aat/300142552) (l. medius, 4.40 m.; l. imus 4.00; l. summus 3.80 m.; table between couches 1.00 x 1.67m.) were found in the large area attached to this humble house when excavation was started in 1953-1954. Human remains were uncovered with five gold coins, two gold rings, a strigil and seven medical instruments close to the -triclinium. Next to the shrine two terra-cotta votive offerings, a slender female winged figure (0.155 m. high; Pompeii inv. no. 10569) and a small draped figure with considerable red paint surviving on the drapery(figure (0.165 m. high; Pompeii inv. no. 10150) were found as well as a marble statuette of Hercules (ca. 0.57 high without base; Pompeii inv. no. 10138). South of the triclinium a doghouse had been built by mounting half of a dolium (0.70 x 0.50m.) on a masonry base 0.15 m. high. Further finds included a large terra-cotta funnel, but the function of this area could not be determined.
@@ -68,6 +58,16 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 {{< image file="../../fig._72,_ii.viii.6_11.31.71.jpg" caption="Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="../../fig._73,_ii.viii.6_21.30.72.jpg" caption="Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="../../fig._74,_ii.viii.6_11.20.74.jpg" caption="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}} -->
+
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "strigillation" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "doghouses" >}}
+- {{< keyword "human remains" >}}
 
 ## Places
 

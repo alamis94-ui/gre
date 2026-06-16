@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+between 28 and 23 BCE
+
+## Excavation Dates
+
+1869, 1871-1872, 1907-1908, 1916-1930, 1934-1938
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,31 +37,6 @@ draft: false
 
 Garden of the Mausoleum of Augustus \
 - {{< id vocab="Pleiades" id="281368358" name="Mausoleum Augusti" >}}
-
-## Keywords
-
-- {{< keyword "altars" >}}
-- {{< keyword "ambulatio" >}}
-- {{< keyword "bronze" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "granite" >}}
-- {{< keyword "solaria" >}}
-- {{< keyword "inscriptions" >}}
-- {{< keyword "iron" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "nemus (grove)" >}}
-- {{< keyword "obelisks" >}}
-- {{< keyword "orthostats" >}}
-- {{< keyword "cippi" >}}
-- {{< keyword "reliefs" >}}
-- {{< keyword "sculpture" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "travertine" >}}
-- {{< keyword "ustrina" >}}
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-- [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 ## Garden Description
 
@@ -87,14 +70,6 @@ Six large travertine slabs with inscriptions that refer to different members of 
 
 The park in which the Mausoleum of Augustus, the Ara Pacis, the Horologium, and several other altars were located, transformed the entire northern *Campus Martius* into a celebration of Augustus's life, achievements, and death.
 
-## Dates
-
-between 28 and 23 BCE
-
-## Excavation Dates
-
-1869, 1871-1872, 1907-1908, 1916-1930, 1934-1938
-
 ## Bibliography
 
 - E. Buchner, *Die Sonnenuhr des Augustus*, Mainz, 1982. [(worldcat)](https://search.worldcat.org/title/469037372)
@@ -103,6 +78,31 @@ between 28 and 23 BCE
 - V. Jolivet, "Les Cendres D' Auguste: note sure la topographie monumentale du Champ de Mars septentrional," *Archeologia Laziale* 9 (1988), pp. 90-6. [(worldcat)](https://search.worldcat.org/title/489812568)
 - E. La Rocco, *Ara Pacis Augustae: in occasione del restauro della fronte orientale*, Rome, 1983. [(worldcat)](https://search.worldcat.org/title/60060689)
 - B. Frischer et al. "New Light on the Relationship between the Montecitorio Obelisk and the Ara Pacis of Augustus," *Studies in Digital Heritage* (1:1), 2017, pp. 1-105. [(worldcat)](https://search.worldcat.org/title/1224085907)
+
+## Keywords
+
+- {{< keyword "altars" >}}
+- {{< keyword "ambulatio" >}}
+- {{< keyword "bronze" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "granite" >}}
+- {{< keyword "solaria" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "iron" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "obelisks" >}}
+- {{< keyword "orthostats" >}}
+- {{< keyword "cippi" >}}
+- {{< keyword "reliefs" >}}
+- {{< keyword "sculpture" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "travertine" >}}
+- {{< keyword "ustrina" >}}
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+- [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 ## Places
 

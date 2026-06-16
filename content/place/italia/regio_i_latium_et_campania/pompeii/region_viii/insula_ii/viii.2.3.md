@@ -32,11 +32,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "sacraria" >}}
-
 ## Garden Description
 
 This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle garden had fourteen columns and was more rectangular. There was a terrace to the rear and a small room off the northwest corner of the peristyle which Mazois and Fiorello have labeled a sacrarium.
@@ -45,6 +40,11 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_3.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "sacraria" >}}
 
 ## Places
 

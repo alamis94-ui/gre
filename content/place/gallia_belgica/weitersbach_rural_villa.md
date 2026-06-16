@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 [WEITERSBACH (Germany)]({{<relref ".">}}) \
@@ -29,10 +33,6 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa
 
-## Keywords
-
-- {{< keyword "vegetable gardens" >}}
-
 ## Garden Description
 
 The enclosed farm compound measured 79 x 125/132 meters (less than one hectare). In the middle of the yard stood a house (A on plan) of the winged corridor type dating to the period between the end of the 1st and the later fourth century. (Fig. 1)
@@ -49,18 +49,20 @@ None Available
 ## Plans
 
 None Available
+
 ## Images
 
 None Available
-## Dates
-
-Unspecified
 
 ## Bibliography
 
 - E. Gose, "Jahresbericht", Trierer Zeitschrift 24/26,1956-58: 511-525, figs. 106, 113. [(worldcat)](https://search.worldcat.org/title/223360098)
 - H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 663-665, fig. 606. [(worldcat)](https://search.worldcat.org/title/924024101)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 273-276, fig. 82.  [(worldcat)](https://search.worldcat.org/title/445007864)
+
+## Keywords
+
+- {{< keyword "vegetable gardens" >}}
 
 ## Places
 

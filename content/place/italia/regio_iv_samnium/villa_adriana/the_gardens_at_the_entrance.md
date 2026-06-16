@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -36,12 +44,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The gardens at the entrance of Hadrian's villa (Fig. 1, n. 3)
 
-## Keywords
-
-- {{< keyword "flower gardens" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "tufa" >}}
-
 ## Garden Description
 
 The Great Entrance Hall of Hadrian's villa (Fig. 9) presents three gardens, two of which (Fig. 9, A and G) are peristyle ones.
@@ -63,14 +65,6 @@ c – The third garden of the Great Entrance Hall occupies its extreme western p
 ## Images
 
 {{< image file="11_east_garden.jpg" caption="Fig. 11: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Garden in the East sector of the Great Hall at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 
@@ -96,6 +90,12 @@ unspecified
 - E. Salza Prina Ricotti, "Adriano: architettura del verde e dell'acqua," in  *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, 364-366, fig. 1. [(worldcat)](https://search.worldcat.org/title/636808013)
 - Mari, Reggiani, Righi, "Grande Vestibolo presso le Cento Camerelle. Indagini e restauri," in F. Filippi (ed.), *Archeologia e Giubileo. Gli interventi a Roma e nel Lazio nel Piano per il Grande Giubileo del 2000*, Napoli 2000, pp. 478-483. [(worldcat)](https://search.worldcat.org/title/47988378)
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 323-324, fig. 80-81, 87, 134-135. [(worldcat)](https://search.worldcat.org/title/46784026)
+
+## Keywords
+
+- {{< keyword "flower gardens" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "tufa" >}}
 
 ## Places
 

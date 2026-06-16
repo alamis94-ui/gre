@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 [Italia]({{<relref "../../../..">}})
@@ -29,12 +33,6 @@ However, are we sure that the villa didn't belong to the imperial praedia? No, w
 ## Garden
 
 The villa has three gardens:  one peristyle garden, one cryptoporticus and the terrace on the sea, one nymphaeum.
-
-## Keywords
-
-- {{< keyword "insulae" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "terrace gardens" >}}
 
 ## Garden Description
 
@@ -60,10 +58,6 @@ These parts of the villa have been relatively spared and they are among the best
 
 {{< image file="99-not-founded-wall.jpg" caption="Not founded Wall." credit="" alt="" >}}
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 -B. ANDREAE, A. CONTICELLO, H. SCHROTELER, D. WUNDERLICH, *Abformung der Polyphemgruppe von Sperlonga, in GfK nach einem neuen Verfahren*, Der Präparaator 16, 1-2 (1970), pp. 1-000 [worldcat](https://search.worldcat.org/title/1088832601)
@@ -79,6 +73,12 @@ Unspecified
 -SALZA PRINA RICOTTI, *The Importance of Water in Roman Garden Triclinia*,in Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection), Dumbarton Oaks 1987, pp. 137-184 [worldcat]https://search.worldcat.org/title/715121487
 
 -SALZA PRINA RICOTTI, *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*, in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169. [worldcat](https://search.worldcat.org/title/469755044)
+
+## Keywords
+
+- {{< keyword "insulae" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "terrace gardens" >}}
 
 ## Places
 

@@ -31,12 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Le Pinard, House A
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "water wells" >}}
-
 ## Garden Description
 
 This vast house lies 120 m southwest of the theater in the southern quarter of the ancient town at a place called *le pinard*, "the wine" from the pinot grape.  Partially excavated in 1967-1968, it is still not entirely unearthed.  The known portions extend over 1250 m2 of which 715 m2 are useful covered area.  The last state is dated to the second century, but one may well suppose that there were earlier states not yet studied or exposed.
@@ -51,11 +45,15 @@ The natural slope of the terrain towards the east led to building the house in l
 
 ## Bibliography
 
-1. Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, P. 76-77. [(worldcat)](https://search.worldcat.org/title/919659882)
+- Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, P. 76-77. [(worldcat)](https://search.worldcat.org/title/919659882)
+- Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 153-154
+- Gros, Pierre. *L'architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 190-191.[(worldcat)](https://search.worldcat.org/title/762763355)
 
-2. Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 153-154
+## Keywords
 
-3. Gros, Pierre. *L'architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 190-191.[(worldcat)](https://search.worldcat.org/title/762763355)
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "water wells" >}}
 
 ## Places
 

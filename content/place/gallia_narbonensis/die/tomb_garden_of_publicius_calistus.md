@@ -47,7 +47,6 @@ None Available
 ## Bibliography
 
 - CIL 12.1657 <!-- Need more info about book -->
-
 - J.-J. Hatt, *La tombe gallo-romaine* (Paris 1951) 71. [(worldcat)](https://search.worldcat.org/title/166053943)
 
 ## Places

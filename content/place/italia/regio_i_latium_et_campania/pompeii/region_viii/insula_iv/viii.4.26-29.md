@@ -32,10 +32,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula IV]({{<relref ".">}})
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 Directly across from the Temple of Isis was an entryway to this garden (a) which was located to the rear of the house. On the east there was a portico with two columns and high up on the north wall there was an arched niche.
@@ -47,6 +43,10 @@ Directly across from the Temple of Isis was an entryway to this garden (a) which
 ## Images
 
 {{< image file="fig.14.viii.iv.27_14.22.59.jpg" caption="Fig.14, 14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
 
 ## Places
 

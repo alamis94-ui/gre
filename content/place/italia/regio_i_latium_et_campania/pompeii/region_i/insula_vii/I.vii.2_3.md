@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1911 and 1923.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,14 +33,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 
 [Insula VII]({{<relref "#">}})
-
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "fences" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "piscinae" >}}
 
 ## Garden Description
 
@@ -62,10 +58,6 @@ A very small garden was located in the light well at the rear of the [atrium](ht
 {{< image file="Fig_37_I.vii.2_12.36.72.jpg" caption="Fig. 6: I.vii. 12.36.72, S.A. Jashemski" credit="" alt="" >}}
 -->
 
-## Dates
-
-Excavated 1911 and 1923.
-
 ## Bibliography
 
 - Della Corte, M. *Case ed abitanti di Pompei*, p. 313.
@@ -79,6 +71,14 @@ Excavated 1911 and 1923.
 - Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 30.
 - Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, see large plan at back of book. [(worldcat)](https://search.worldcat.org/title/883858580)
 - Warscher, T. 1942. *Flora Pompeiana*, p. 24.
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "fences" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "piscinae" >}}
 
 ## Places
 

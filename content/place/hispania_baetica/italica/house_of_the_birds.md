@@ -11,6 +11,10 @@ modified: 2026-06-03
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Italica]({{<relref ".">}})
@@ -25,15 +29,6 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 ## Garden
 
 House of the Birds
-
-## Keywords
-
-- {{< keyword "courtyards" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "vestibules" >}}
-- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 
@@ -59,15 +54,20 @@ To the left of the entering guest was the reception room with an interesting mos
 
 {{< image file="HIS_BAE_Italica Hob_CA fig6.jpg" caption="Fig. 6: Plan of the House of the Birds." credit="" alt="" >}}
 
-## Dates
-
-unspecified
-
 ## Bibliography
 
 - Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
 - A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 - A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 70-71 [(worldcat)](https://search.worldcat.org/title/916989580)
+
+## Keywords
+
+- {{< keyword "courtyards" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

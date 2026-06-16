@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Carmona]({{<relref ".">}})
@@ -19,13 +23,6 @@ draft: true
 ## Garden
 
 Elephant tomb
-
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "tombs" >}}
-- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 
@@ -43,13 +40,16 @@ In the necropolis of Carmona, near Seville, is a very large and deep tomb create
 
 {{< image file="9-photo-of-carmona.jpg" caption="Figure 9 – Photo of the Tomb of the Elefant at Carmona." credit="" alt="" >}}
 
-## Dates
-
-unspecified
-
 ## Bibliography
 
 - Vaquerizo Gil, Desiderio, *Necroìpolis urbanas en Baetica*, Tarragona 2010).[(worldcat)](https://search.worldcat.org/title/929776098)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

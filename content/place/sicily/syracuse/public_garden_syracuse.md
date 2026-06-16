@@ -26,10 +26,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 PUBLIC GARDEN, Syracuse
 
-## Keywords
-
-<!-- {{< keyword "villae urbanae" >}} -->
-
 ## Garden Description
 
 In the Roman period, the clearest evidence for the presence of a formal garden in a public place comes from Syracuse, where an impressive piazza, 175 by 45 meters, was laid out early in the Augustan period on the west side of the third-century BCE Altar of Hieron (Fig. 2). A U-shaped stoa was erected on three sides, with fourteen columns on the short sides and sixty-four on the long; the Altar itself formed the fourth. Within the area enclosed by this portico, a large rectangular basin was erected in the center, with steps at the corners and a statue base in the middle; a drain led away from the basin westwards under the portico. The open space around the basin was planted systematically with five rows of trees, thirty-two trees in the two outermost rows, and twenty-six in each of the rows interrupted by the pool; there were thus 142 trees (of unknown species) in all (Fig. 3). The arrangement, with its central pool, trees and surrounding porticoes, recalls similar monuments in Campania, such as the Great Palaestra, also of Augustan date, at Pompeii (see Vol. 1, no.), and the Palaestra at Herculaneum (see Vol. 1, no.). The function of the Syracuse square is unknown, but it must have been principally intended as a pleasant park where the townsfolk of Syracuse could stroll, especially, perhaps, when attending events staged in the nearby amphitheater.
@@ -55,6 +51,10 @@ G. V. Gentili, Notizie degli Scavi 1954, pp. 333-61 [(worldcat)](https://cornell
 R. J. A. Wilson, Archaeological Reports 34 (1987-88):  115, fig. 6 [(worldcat)](WORLDCAT_LINK_URL)
 
 id., Sicily under the Roman Empire, Warminster, 1990, pp. 197-8  with fig. 165.1. [(worldcat)](https://search.worldcat.org/title/608028740)
+
+## Keywords
+
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Places
 

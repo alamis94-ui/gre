@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [LUGDUNUM (Lyon, France)]({{<relref ".">}})
@@ -17,15 +21,6 @@ draft: true
 ## Garden
 
 House of the Masks (Maison aux Masques)
-
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "stylobates" >}}
-- {{< keyword "plinths" >}}
-- {{< keyword "pilasters" >}}
 
 ## Garden Description
 
@@ -43,14 +38,19 @@ Not Available
 
 {{< image file="mask_house.jpg" caption="perspective drawing of porticoes" credit="" alt="Drawing of the courtyard in perspective. Some of the key features include a view of the porticoes with smiling masks hanging between the columns. There is a fountain bassin in the center." >}}
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - A.  Desbat, *Les  fouilles  de  la  rue  des  Farges  à  Lyon*, Groupe  lyonnais  de recherche en archéologie gallo-romaine, Lyon, 1984, p. 45-49 [(worldcat)](https://search.worldcat.org/title/406719832)
 - A. Desbat, *Jadis, rue des Farges, archéologie  d'un  quartier  de  Lyon  antique*, exposition  au  Musée  de  la  Civilisation  Gallo-Romaine de Lyon, 1985.  [(worldcat)](https://search.worldcat.org/title/24275953)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stylobates" >}}
+- {{< keyword "plinths" >}}
+- {{< keyword "pilasters" >}}
 
 ## Places
 

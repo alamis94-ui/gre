@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+3rd century CE?
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
@@ -33,13 +37,6 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 
 Hermaphrodite House (Maison de l'Hermaphrodite)
 
-## Keywords
-
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "pools" >}}
-
 ## Garden Description
 
 The large house was laid out around a large peristyle of 22 columns. In the axis of the *triclinium* was a rectangular pool. The courtyard may have been planted (Plan view, Fig. 1).
@@ -52,15 +49,18 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 
 <!-- ## Images -->
 
-## Dates
-
-3rd century CE?
-
 ## Bibliography
 
 - Ballu, A., *Les ruines de Timgad*, Paris, 1903, p. 90-94. [(worldcat)](https://search.worldcat.org/title/804848941)
 - Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 - Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 65, fig. 7. [(worldcat)](https://search.worldcat.org/title/643640586)
+
+## Keywords
+
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "pools" >}}
 
 ## Places
 

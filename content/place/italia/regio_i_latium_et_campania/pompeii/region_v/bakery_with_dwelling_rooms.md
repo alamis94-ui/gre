@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
+## Excavation Dates
+
+1900 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -46,13 +54,6 @@ House 1
 
 Bakery with Dwelling Rooms (V.iv.1)
 
-## Keywords
-
-- {{< keyword "cisterns" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "trellises" >}}
-- {{< keyword "fountains" >}}
-
 ## Garden Description
 
 This house was excavated in 1900 and a small garden (a) was found to the east of the *atrium*. A masonry planting bed on the north, east and south walls (0.32 m. high, 0.25 m. wide) was shortened on the south to leave room for the cistern *puteal* that stood in the southwestern corner. A podium (0.60 x 0.90 m.;) 0.55 m. high against the middle of the east wall with a niche in the wall above it was thought by Boyce to be an altar. Above the planting bed, traces of garden paintings could be seen. The only records of these paintings are reports from those present at the time of excavation. Mau relates that the paintings consisted of a lattice fence with plants above. There were two openings depicted in the fence on the on the east wall, the one on the left 0.95 m and the one on the right 1.15 m.  Each opening had plants and a vessel, the one on the left was bottle-shaped and silver colored and the one on the right was goblet-shaped and gold colored. Jashemski notes that these vessels probably represented fountains. Sogliano commented that the garden had representations of xenia.
@@ -65,14 +66,6 @@ This house was excavated in 1900 and a small garden (a) was found to the east of
 ## Images
 -->
 
-## Dates
-
-Unspecified
-
-## Excavation Dates
-
-1900CE
-
 ## Bibliography
 
 - Boyce, p. 39, no. 117. [(worldcat)](https://search.worldcat.org/title/491367250)
@@ -80,6 +73,13 @@ Unspecified
 - Mau, *RM* (1901), pp. 313-314. [(worldcat)](https://search.worldcat.org/title/1189330863)
 - Schefold, *WändP*, p. 83. [(worldcat)](https://search.worldcat.org/title/1100462668)
 - Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](https://search.worldcat.org/title/1091982220)
+
+## Keywords
+
+- {{< keyword "cisterns" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "fountains" >}}
 
 ## Places
 

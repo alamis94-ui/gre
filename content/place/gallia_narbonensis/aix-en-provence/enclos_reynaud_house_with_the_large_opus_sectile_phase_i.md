@@ -31,14 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Enclos Reynaud, House with the large opus sectile, phase I
 
-## Keywords
-
-- {{< keyword "vestibules" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "opus sectile" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 This site, the northern part of 5 on the plan of Aix, lay 100 meters from the northern limit of the town. It was uncovered in 1842 by earth movers. It has been only incompletely explored, but 980 square meters of surface are known. Originally, it was thought to have been a public building; but it was, in fact, a house. It shares a common wall with the House with the Semicircular Bay (NAR6.4). A *decumanus* runs along the north side, where the entry is presumed to have been. To judge from the style of the paved floors, the construction goes back to the first century, and it was occupied for at least a century. An earlier structure has been detected by probes.
@@ -57,10 +49,18 @@ The known part is organized in three distinct, successive spaces on the same axi
 
 ## Bibliography
 
-1. *Maison 1996*, t. II,, p. 30-31, 38-39.
+- *Maison 1996*, t. II,, p. 30-31, 38-39.
 
 
-2. J, Guyon, Nin N, Rivet L, and Saulnier S. Aix-En-Provence (Bouches-Du-Rhône), 1996, P. 50.
+- J, Guyon, Nin N, Rivet L, and Saulnier S. Aix-En-Provence (Bouches-Du-Rhône), 1996, P. 50.
+
+## Keywords
+
+- {{< keyword "vestibules" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "opus sectile" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

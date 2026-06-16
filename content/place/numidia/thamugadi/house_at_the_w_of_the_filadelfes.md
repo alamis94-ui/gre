@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+3rd-5th century CE?
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
@@ -33,11 +37,6 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 
 House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 
-## Keywords
-
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "domus" >}}
-
 ## Garden Description
 
 This large house (2500m2) was laid out around two peristyles. The E peristyle had 12 columns onto which at least three rooms opened. The large peristyle on the W, was bordered by three porticos, its large courtyard may have been planted. Between the peristyles was placed a reception room that opened into each of them.
@@ -46,13 +45,9 @@ This large house (2500m2) was laid out around two peristyles. The E peristyle ha
 
 ## Plans
 
-{{< image file="house_at _the_w _of_the_filadelfes.jpg" caption="Fig. 1: Plan of the House at the west of the filadelfes Baths." credit="(Germain, S., 1969, fig. 10)" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" >}}
+{{< image file="house_west_of_the_filadelfes.jpg" caption="Fig. 1: Plan of the House at the west of the filadelfes Baths." credit="(Germain, S., 1969, fig. 10)" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" >}}
 
 <!-- ## Images -->
-
-## Dates
-
-3rd-5th century CE?
 
 ## Bibliography
 
@@ -60,6 +55,11 @@ This large house (2500m2) was laid out around two peristyles. The E peristyle ha
 - Ballu A., *Rapport* 1923, p. 45-47: plan dépliant. [(worldcat)](https://search.worldcat.org/title/494571409)
 - Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 - Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](https://search.worldcat.org/title/643640586)
+
+## Keywords
+
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "domus" >}}
 
 ## Places
 

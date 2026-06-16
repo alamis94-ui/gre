@@ -12,6 +12,10 @@ draft: true
 
 <!-- MERGE WITH THE OTHER temple_claudii_divi.md -->
 
+## Dates
+
+1st century CE<!-- If no date, use "unspecified" -->
+
 ## Province
 
 
@@ -34,15 +38,6 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province -->
 <!-- May be left blank for now -->
 
-## Keywords
-
-- {{< keyword "temples" >}}
-- {{< keyword "nemus (grove)" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "aqueducts" >}}
-- {{< keyword "stagnum (man-made lake)" >}}
-
 ## Garden Description
 
 The Temple of the Divine Claudius, located on the northern slope of the Caelian Hill, was constructed in multiple phases. The temple is known from the Severan marble plan (Fig. 1) and from archaeological remains.  Agrippina initiated the building of the temple but was murdered before its completion. After the fire of CE 64, Nero altered the temple to include it in the [Domus Aurea](https://en.wikipedia.org/wiki/Domus_Aurea) ([Seutonius Vesp. 9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0061%3Alife%3Dves.%3Achapter%3D9%3Asection%3D1);  [Frontinus Aq. 2.76](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Frontinus/De_Aquis/text*.html)). Vespasian completed the temple in CE 69.
@@ -51,10 +46,6 @@ The temple is located on top of a platform (180 x 210 m.) and is situated just o
 Because these remains are located under the present-day Monastery of the Passionist Fathers, no recent excavation has been possible.  A. M. Colini's excavations reveal that the four faces of the platform differ significantly.  Under the stairs of the north side was a cistern, presumably remnants of Nero's nymphaeum, the water supply for the temple complex.  The south face, as yet unexcavated, should reveal evidence of the Aqua Claudia.
 
 The temple is set within eight L-shaped planting beds and fourteen rectangular planting beds (Fig. 2).  Some scholars considered these forms to be the substructures of the temple complex, while it is also possible that these structures are water features.  However, the majority of scholars believe that these structures are planted rows of trees or shrubs in a *nemus*, similar to the plantings found during the new excavations of the [Templum Pacis](https://en.wikipedia.org/wiki/Temple_of_Peace,_Rome). The role of Vespasian as sponsor also lends credence to such an interpretation.  Vespasian is credited with building a *quadriporticus* to surround the entire platform and Martial mentions a *porticus* ([Martial Sp. 2.9-10](https://www.thelatinlibrary.com/martial/mart.spec.shtml)), but there is no evidence for the *porticus* on the Marble plan. Thanks. Test for the pull.
-
-## Dates
-
-1st century CE<!-- If no date, use "unspecified" -->
 
 ## Bibliography
 
@@ -68,6 +59,15 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
+
+## Keywords
+
+- {{< keyword "temples" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "aqueducts" >}}
+- {{< keyword "stagnum (man-made lake)" >}}
 
 ## Places
 

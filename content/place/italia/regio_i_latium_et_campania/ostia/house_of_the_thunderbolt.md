@@ -10,6 +10,15 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+[Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty) \
+150-200 CE
+
+## Excavation Date
+
+1941
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -50,22 +59,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 House of the Thunderbolt (Domus Fulminata) \
 - {{< id vocab="Pleiades" id="1554484" name="House of the Thunderbolt" >}}
 
-## Keywords
-
-- {{< keyword "altars" >}}
-- {{< keyword "biclinia" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "Flavian" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "klinai" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "polychrome" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "Republican" >}}
-- {{< keyword "tesserae" >}}
-
 ## Garden Description
 
 The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden, excavated in 1941, was surrounded by a [portico](http://vocab.getty.edu/page/aat/300004145) on all four sides, supported by brick [columns](http://vocab.getty.edu/page/aat/300001571), some of which were paired or clustered in threes (Fig. 1). In the original building, dating to the [Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty), the garden (a) was furnished with a brick [*biclinium*](http://vocab.getty.edu/page/aat/300170371), with the [*klinai*](http://vocab.getty.edu/page/aat/300375544) placed opposite each other. Behind the *klinai* was an [aedicula](https://en.wikipedia.org/wiki/Aedicula)-shaped [*lararium*](http://vocab.getty.edu/page/aat/300400600) with a cylindrical marble [altar](http://vocab.getty.edu/page/aat/300003725) in front of it (Fig. 2). On the opposite side, and aligned with the entrance, was the basin of a [fountain](http://vocab.getty.edu/page/aat/300006179) with a [polychrome](http://vocab.getty.edu/page/aat/300252261) mosaic in blue and yellow [*tesserae*](http://vocab.getty.edu/page/aat/300010730) (built in a second phase, *c*. 150-200 CE). It was probably fed by the lead pipe (stamped *SEXTILIUS SECUNDUS FECIT*) that was seen by the excavators leading from the entrance towards [the Decumanus](https://en.wikipedia.org/wiki/Decumanus_Maximus). A well-head (Figs. 3-4), placed at the entrance to the garden, had a purely ornamental function, since its bottom is sealed and it only has a hole for the runoff of water. A cube-shaped stuccoed brick pedestal was erected at the southwest corner of the peristyle. Into its sloping top was inserted a marble plaque, inscribed with the letters FDC ("*fulgur dium conditum*"). It marked the spot where lightning had struck, as well as things that had been struck by the same lightning bolt and ritually buried to placate the wrath of the gods.
@@ -84,15 +77,6 @@ The house is one of the most interesting examples of the transition from the atr
 
 {{< image file="ostia_fig13b_threshold.jpg" caption="Figure 4: Section of the basin" credit="(from Ricciardi, Scrinari 1996)." alt="" >}}
 
-## Dates
-
-[Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty) \
-150-200 CE
-
-## Excavation Date
-
-1941
-
 ## Bibliography
 
 <!-- Bibliography for Location Description -->
@@ -107,6 +91,22 @@ The house is one of the most interesting examples of the transition from the atr
 - *Giornale degli Scavi*, 1941, pp. 56-58, 66.
 - M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell'acqua in Ostia Antica* 2, Rome, 1996, pp. 108-111. [(worldcat)](https://search.worldcat.org/title/801186023)
 - L.B. van der Meer, N.L.C. Stevens, H. Stoeger, "Domus Fulminata: The House of the Thunderbolt at Ostia (III, vii, 3-5)," *Bulletin Antieke Beschaving* 80, 2005, pp. 91-111. [(worldcat)](https://search.worldcat.org/title/703562666)
+
+## Keywords
+
+- {{< keyword "altars" >}}
+- {{< keyword "biclinia" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "Flavian" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "klinai" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "polychrome" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "Republican" >}}
+- {{< keyword "tesserae" >}}
 
 ## Places
 

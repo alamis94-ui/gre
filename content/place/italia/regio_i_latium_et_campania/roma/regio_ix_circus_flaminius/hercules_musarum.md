@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)
+
+## Excavation Date
+
+1980s
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -28,25 +36,6 @@ draft: false
 ## Garden
 
 Garden of the Hercules Musarum
-
-## Keywords
-
-- {{< keyword "temples" >}}
-- {{< keyword "auditoriums" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "lucus (grove)" >}}
-- {{< keyword "groves" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "podiums (building divisions)" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- [Eumenius Panegyricus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.592)
-- [Macrobius](https://catalog.perseus.org/catalog/urn:cite:perseus:author.872)
-- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-- [Valerius Maximus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1448)
 
 ## Garden Description
 
@@ -68,20 +57,31 @@ The *collegium poetarum* formally gathered near the complex, and so perhaps the 
 
 {{< image file="hercules_musarum_fig4.jpg" caption="Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" credit="(Coarelli, 1997, Figs. 113, 114)." alt="" >}}
 
-## Dates
-
-Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)
-
-## Excavation Date
-
-1980s
-
 ## Bibliography
 
 - L. Richardson, "Hercules Musarum and the Porticus Philippi in Rome," *American Journal of Archaeology* 81 (1977), pp. 355-61. [(worldcat)](https://search.worldcat.org/title/915926883) | [(JSTOR)](https://www.jstor.org/stable/503009)
 - F. Castagnoli, "Porticus Philippi," *Analecta Romana Instituti Danici* suppl. 10 (1983), pp. 93-104. [(worldcat)](https://search.worldcat.org/title/1708903)
 - F. Coarelli, *Il Campo Marzio*, 1997, pp. 452-84. [(worldcat)](https://search.worldcat.org/title/906743621)
 - A. Viscogliosi, s.v. "Porticus Philippi," *Lexicon topographicum urbis Romae* IV, pp. 146-48. [(worldcat)](https://search.worldcat.org/title/772398569)
+
+## Keywords
+
+- {{< keyword "temples" >}}
+- {{< keyword "auditoriums" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "lucus (grove)" >}}
+- {{< keyword "groves" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "podiums (building divisions)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- [Eumenius Panegyricus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.592)
+- [Macrobius](https://catalog.perseus.org/catalog/urn:cite:perseus:author.872)
+- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+- [Valerius Maximus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1448)
 
 ## Places
 

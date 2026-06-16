@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 ## Sublocation
@@ -19,11 +23,6 @@ draft: true
 ## Garden
 
 Tomb Garden of Attia Quintilla
-
-## Keywords
-
-- {{< keyword "tombs" >}}
-- {{< keyword "epitaphs" >}}
 
 ## Garden Description
 
@@ -35,16 +34,17 @@ A handsome marble funerary altar of unknown but presumably urban provenance, now
 
 <!-- ## Images -->
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - W. Altmann, *Die römischen Grabaltäre der Kaiserzeit*, (Berlin 1905) 168 no. 214; S. [worldcat](https://search.worldcat.org/title/715073021)
 - S. Ducroix, *Catalogue analytique des inscriptions latines sur pierre conservées au Musée du Louvre*, (Paris 1975) 96  no. 314. [worldcat](https://search.worldcat.org/title/602598921)
 - D. Boschung, *Antike Grabaltäre aus den Nekropolen Roms*, (Acta Bernensia X) (Bern 1987) 107 no. 329, Taf. [worldcat](https://search.worldcat.org/title/1063931061)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 9. [worldcat](https://search.worldcat.org/title/886794800)
+
+## Keywords
+
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
 
 ## Places
 

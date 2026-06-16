@@ -27,20 +27,15 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location Description
 
-The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Augustan period and, thereafter, a forum, a public bath-house, an aqueduct and city walls were constructed.  During the Flavian period, the city was made a municipium with ius Latii.  At the end of the third or beginning of the fourth century AD, new fortification walls considerably reduced the area occupied by the city.  In the time of the Suevi it was an Episcopal See, which was then transferred to Aeminium (the present day Coimbra) around 585 CE, when the kingdom of the Suevi was conquered by the Visigoths.  Further reduced in area and impoverished, the city survived until 986, at which date, according to Arab sources, it was destroyed by the great Muslim chief Almansor. In addition to the Augustan forum, which was completely rebuilt on a new ground plan under the Flavians, four bath houses have been excavated, and preliminary trial trenches established the plan of the amphitheater. Four domus have been excavated, three of which were left outside the wall built under the late empire.  It is in these houses, all built around peristyles, that we find the gardens of Conimbriga.
+The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Augustan period and, thereafter, a forum, a public bath-house, an aqueduct and city walls were constructed.  During the Flavian period, the city was made a municipium with ius Latii.  At the end of the third or beginning of the fourth century CE, new fortification walls considerably reduced the area occupied by the city.  In the time of the Suevi it was an Episcopal See, which was then transferred to Aeminium (the present day Coimbra) around 585 CE, when the kingdom of the Suevi was conquered by the Visigoths.  Further reduced in area and impoverished, the city survived until 986, at which date, according to Arab sources, it was destroyed by the great Muslim chief Almansor. In addition to the Augustan forum, which was completely rebuilt on a new ground plan under the Flavians, four bath houses have been excavated, and preliminary trial trenches established the plan of the amphitheater. Four domus have been excavated, three of which were left outside the wall built under the late empire.  It is in these houses, all built around peristyles, that we find the gardens of Conimbriga.
 
 ## Garden
 
 House of the Fountains
 
-## Keywords
-
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
-This house is almost entirely excavated, the exception being its north facade, which is still covered by a local lane.  It occupies an area of almost 3400 square meters.  Its mosaics, published in their entirety, date from the second half of the second century CE, or the Severan era.  The construction of the house dates to between 150 and 175 AD. The house has a central peristyle with twenty-six columns.  The area of the large open part (12m x 26m) is completely filled with a pool with a maximum depth of 0.90 meters, inside of which the architect installed six very formal flower-beds.  On the edges of these, more than 500 water-jets played continually. The unusual design of this peristyle has its only parallel in the Domus Augustana built in Rome for the emperor Domitian by the architect Rabirius.  This parallel, pointed out by L. Cremain 1959 in his L'architettura, has been related by other writers, none of whom has found anything similar in Roman domestic architecture in any part of the Empire.
+This house is almost entirely excavated, the exception being its north facade, which is still covered by a local lane.  It occupies an area of almost 3400 square meters.  Its mosaics, published in their entirety, date from the second half of the second century CE, or the Severan era.  The construction of the house dates to between 150 and 175 CE. The house has a central peristyle with twenty-six columns.  The area of the large open part (12m x 26m) is completely filled with a pool with a maximum depth of 0.90 meters, inside of which the architect installed six very formal flower-beds.  On the edges of these, more than 500 water-jets played continually. The unusual design of this peristyle has its only parallel in the Domus Augustana built in Rome for the emperor Domitian by the architect Rabirius.  This parallel, pointed out by L. Cremain 1959 in his L'architettura, has been related by other writers, none of whom has found anything similar in Roman domestic architecture in any part of the Empire.
 
 The house has recently been the subject of a monograph by Isabelle Morand in which she undertakes to recover the geometrical and numerical principles used by the architect and to identify astronomical and astrological allusions in the house.
 
@@ -59,6 +54,11 @@ The house has recently been the subject of a monograph by Isabelle Morand in whi
 ## Bibliography
 
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](https://search.worldcat.org/title/255066311)
+
+## Keywords
+
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

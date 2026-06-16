@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 1-100 constructed
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -31,14 +35,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Puymin Quarter, Sanctuary with Portico's
 
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "columns" >}}
-
 ## Garden Description
 
 Located to the east of the house of the Laurel-crowned Apollo, 110 meters south of the theater, the Sanctuary with Porticos is not entirely unearthed and continues under the modern city.  Constructed in the course of the first century CE, the monument was formerly interpreted as a public promenade or a the garden of a vast urban *domus*. Today it is considered a public edifice, a sanctuary connected perhaps to the cult of the waters.  Covering 2,000 to 3,000 square meters, it was organized in at least two terraces overlooking an esplanade with porticos having a large, central, ornamental pool which was probably surrounded by plantings.  A street-level, covered walkway of Tuscan order ran 52 meters along the north side, elevated 20 centimeters relative to the garden.  In the center of this walkway was a room with an apse holding a central pedestal and two symmetric niches for statues.
@@ -51,15 +47,18 @@ In the center of the court was a monumental pool 9.5 meters wide and 1.6 meters 
 
 {{< image file="puymin_quarter_sanctuary_with_portico's_formerly_called_pompey's_portico.png" caption="Plan of Sanctuary with Portico's" credit="" alt="" >}}
 
-## Dates
-
-CE 1-100 constructed
-
 ## Bibliography
 
-1. Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
+- Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
+- Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.251-254. [(worldcat)](https://search.worldcat.org/title/905795401)
 
-2. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.251-254. [(worldcat)](https://search.worldcat.org/title/905795401)
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "columns" >}}
 
 ## Places
 

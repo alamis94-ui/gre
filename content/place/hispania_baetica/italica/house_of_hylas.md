@@ -11,6 +11,10 @@ modified: 2026-06-03
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Italica]({{<relref ".">}})
@@ -25,16 +29,6 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 ## Garden
 
 House of Hylas
-
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "nymphs" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 
@@ -54,15 +48,21 @@ To the west of the central reception room or triclinium was the third garden, wh
 
 {{< image file="XXXX.jpg" caption="Fig. 2: Plan of the House of Hylas." credit="" alt="" >}}
 
-## Dates
-
-unspecified
-
 ## Bibliography
 
 - Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
 - A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 - A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 82-83 [(worldcat)](https://search.worldcat.org/title/916989580)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "nymphs" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

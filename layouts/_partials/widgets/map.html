@@ -20,7 +20,7 @@
             map = L.map('map', {
                 attributionControl: true,
                 fullscreenControl: true
-            }).setView([40, 17], 3);
+            })
             map.attributionControl.setPrefix('Basemap');
 
             {{ if eq hugo.Environment "development" }}
@@ -72,7 +72,7 @@
 
                 map.addControl(L.control.basemaps({
                     basemaps: [dare, osm, gsat],
-                    tileX: 16,
+                    tileX: 18,
                     tileY: 12,
                     tileZ: 5
                 }));
@@ -170,6 +170,7 @@
                     marker.addTo(map);
                     markers.push(marker);
                     bounds.extend(marker.getLatLng());
+                    console.log(bounds)
                 }
             }
 
@@ -210,6 +211,10 @@
                 if (map.getZoom() > 17) {
                     map.setZoom(17, {animate:false});
                 }
+            }
+            else {
+                console.log('invalid bounds', bounds)
+                map.setView([40, 17], 4)
             }
         </script>
     </div>

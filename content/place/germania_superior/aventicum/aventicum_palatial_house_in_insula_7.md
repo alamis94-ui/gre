@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Severnan Period - Middle of 3rd century
+
 ## Location
 
 - [Aventicum]({{<relref ".">}})
@@ -17,22 +21,10 @@ draft: true
 
 ## Location Description
 
-The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
+The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in CE 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around CE 260, and it was progressively abandoned thereafter.
 ## Garden
 
 Palatial House in Insula 7 in Aventicum
-
-## Keywords
-
-- {{< keyword "axial plan" >}}
-- {{< keyword "balnea" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "presence chambers" >}}
 
 ## Garden Description
 
@@ -48,15 +40,23 @@ The courtyard was on two levels, divided on the north by a terrace wall with two
 
 <!-- ## Images -->
 
-## Dates
-
-Severnan Period - Middle of 3rd century
-
 ## Bibliography
 
 - J. Morel, "Avenches VD, Derrière la Tour et insula 7 : Fouilles 1989/1990," *Annuaire de la Société Suisse de Préhistoire et d'Archéologie* 74, 1991: 214-220, fig. 2. [(worldcat)](https://search.worldcat.org/title/753507130)
 - J. Morel, "Avenches, Palais de Derrière la Tour," *Bull. de l'Association Pro Aventico* 37, 1995: 206-209, fig. 4.[(worldcat)](https://search.worldcat.org/title/716573918)
 - J. Morel, "L'habitat," in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, *Archéologie Suisse* 24.1 2001: 47-49, fig. 62.[(worldcat)](https://search.worldcat.org/title/718693183)
+
+## Keywords
+
+- {{< keyword "axial plan" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "presence chambers" >}}
 
 ## Places
 

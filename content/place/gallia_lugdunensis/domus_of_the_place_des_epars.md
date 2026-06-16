@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [AUTRICUM (Chartres, France)]({{<relref ".">}})
@@ -17,11 +21,6 @@ draft: true
 ## Garden
 
 *Domus* of the Place Epars
-
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "hypocausts" >}}
 
 ## Garden Description
 
@@ -38,13 +37,14 @@ None Available
 
 None Available
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - :A. Ollagnier, D. Joly, *L'Eure-et-Loir,*  CAG  p. 137-139, plan  p. 138 (with bibliography of previous works).  [(worldcat)](https://search.worldcat.org/title/1031979297) <!-- missing Worldcat -->
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "hypocausts" >}}
 
 ## Places
 

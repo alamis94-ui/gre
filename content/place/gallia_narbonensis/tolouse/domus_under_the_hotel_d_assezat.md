@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -56,17 +60,11 @@ The domus must have continued to exist beyond the first century, but no precise 
 
 {{< image file="domus_under_the_hotel_d_assezat.png" caption="Plan of Domus under the Hôtel d'Assézat" credit="" alt="" >}}
 
-## Dates
-
-After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.
-
 ## Bibliography
 
-1. Jean. Catalo, Urbanisme antique et médiéval au 4, rue Clémence Isaure In *Mémoire de la Société Archéologique du Midi de la France*, 56, 1996, p. 51-74.[(worldcat)](WORLDCAT_LINK_URL)
-
-2. Jean. Catalo, Toulouse, 4, av. clémence Isaure/extension de l'hôtel d'Assézat (1993-1994), Archéologie toulousaine, catalogue d'exposition, Musée Saint-Raymond, Toulouse, 1995, p. 184-6.[(worldcat)](WORLDCAT_LINK_URL)
-
-3. Jean-Marie Pailler, l'habitat privé *Mémoire de la Société Archéologique du Midi de la France*,coll. Ecole Française de Rome 281, 2003, p. 252-54.[(worldcat)](WORLDCAT_LINK_URL)
+- Jean. Catalo, Urbanisme antique et médiéval au 4, rue Clémence Isaure In *Mémoire de la Société Archéologique du Midi de la France*, 56, 1996, p. 51-74.[(worldcat)](WORLDCAT_LINK_URL)
+- Jean. Catalo, Toulouse, 4, av. clémence Isaure/extension de l'hôtel d'Assézat (1993-1994), Archéologie toulousaine, catalogue d'exposition, Musée Saint-Raymond, Toulouse, 1995, p. 184-6.[(worldcat)](WORLDCAT_LINK_URL)
+- Jean-Marie Pailler, l'habitat privé *Mémoire de la Société Archéologique du Midi de la France*,coll. Ecole Française de Rome 281, 2003, p. 252-54.[(worldcat)](WORLDCAT_LINK_URL)
 
 ## Places
 

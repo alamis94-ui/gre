@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 ## Sublocation
@@ -19,11 +23,6 @@ draft: true
 ## Garden
 
 Tomb Garden of (Cl)oelia Tyche and (C)loelia Faustina
-
-## Keywords
-
-- {{< keyword "tombs" >}}
-- {{< keyword "epitaphs" >}}
 
 ## Garden Description
 
@@ -35,13 +34,14 @@ A marble slab of unknown urban provenance broken at the bottom and long lost rec
 
 <!-- ## Images -->
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 11. [worldcat](https://search.worldcat.org/title/886794800)
+
+## Keywords
+
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
 
 ## Places
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+fourth century CE
+
 ## Garden Description
 
 <!-- TODO: the polygon boundary for Syria does not include Batnae, but rather places it in Armenia Mesopotamia -->
@@ -21,10 +25,6 @@ The Emperor Julian described the imperial residence in Batnae in Syria in one of
 <!-- ## Plans -->
 
 <!-- ## Images -->
-
-## Dates
-
-fourth century CE
 
 ## Bibliography
 

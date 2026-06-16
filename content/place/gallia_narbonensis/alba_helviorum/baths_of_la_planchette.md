@@ -31,12 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Baths of La Planchette
 
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "apsed pools" >}}
-
 ## Garden Description
 
 To the northeast there are the baths of la Planchette, today backfilled.  This bath complex of modest dimensions may have been attached to the northeast angle of the court of the house.  It is surrounded on the exterior by a large gutter for rainwater.  To the northeast of the bath building a rectangular pool has been found of about 3.5 x 2 m and having a semicircular apse with a diameter of 2 m.  It is without doubt an ornamental pool belonging to the exterior garden associated with the baths.  The nature of the ground surface around it is unknown.  At the time of its discovery, the pool still had a water supply pipe of lead.
@@ -51,9 +45,14 @@ To the northeast there are the baths of la Planchette, today backfilled.  This b
 
 ## Bibliography
 
-1. *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 82-83. [(worldcat)](https://search.worldcat.org/title/695787865)
+- *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 82-83. [(worldcat)](https://search.worldcat.org/title/695787865)
+- Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 155-156.
 
-2. Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 155-156.
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "apsed pools" >}}
 
 ## Places
 

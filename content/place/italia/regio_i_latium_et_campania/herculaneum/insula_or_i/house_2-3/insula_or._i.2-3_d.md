@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Unspecified
+
 ## Province
 
 - [Italia]({{<relref "../../..">}})
@@ -23,7 +27,7 @@ draft: false
 
 ## Location Description
 
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
@@ -33,11 +37,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 ## Garden
 
 D
-
-## Keywords
-
-- {{< keyword "rustic" >}}
-- {{< keyword "shrines" >}}
 
 ## Garden Description
 
@@ -49,14 +48,15 @@ D. A rustic shrine was attached to the north side of the house and a long narrow
 
 {{< image file="h_orientalis_1_1-3-d.jpg" caption="Herculaneum - insula orientalis I. 1-3-d" credit="" alt="" >}}
 
+## Keywords
+
+- {{< keyword "rustic" >}}
+- {{< keyword "shrines" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

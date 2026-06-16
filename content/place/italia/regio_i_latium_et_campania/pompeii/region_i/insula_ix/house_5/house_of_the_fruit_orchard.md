@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1951
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -30,18 +38,6 @@ draft: true
 
 House of the Fruit Orchard; Casa del Frutteto; Dei Cubicoli Floreali (I.ix.5)
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "cubicula" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "trellises" >}}
-
 ## Garden Description
 
 A *portico* with three columns, red on the bottom, white on the top, enclosed this *peristyle* garden (a) on the north, east and south sides. The excavating work in 1951 revealed a cistern opening at the edge of the north *portico* and a gutter on the north, east and south side of the garden. Paintings of orchards adorned two small *cubicula* (b and c) and gave this house its name.
@@ -58,14 +54,6 @@ A. The room (b) off the east side of the *atrium* had walls divided horizontally
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1951
-
 ## Bibliography
 
 - Jashemski, *Gardens*, 1:74-77 and figs. 117, 118, 120, 122 on p. 74-76, fig. 126 on p. 78, figs. 171-173 on pp. 106-107, and fig. 408 on p. 274. [(worldcat)](https://search.worldcat.org/title/884024123)
@@ -80,6 +68,18 @@ unspecified
 - *PPP*, 1:95-96.
 - Schefold, *WändP*, p.38.
 - Sichtermann, *Antike Welt* (1974), no. 3, pp. 41-45.
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "cubicula" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "trellises" >}}
 
 ## Places
 

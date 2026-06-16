@@ -10,6 +10,10 @@ modified: 2025-09-16
 draft: true
 ---
 
+## Dates
+
+end 2nd century CE
+
 ## Location
 
 - [Hadrumetum (Sousse)]({{<relref ".">}})
@@ -23,15 +27,6 @@ Hadrumetum is located on the bay of Hammamet at the edge of the fertile region o
 ## Garden
 
 House of  Sorothus (Maison de Sorothus)
-
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "semicircular basin" >}}
-- {{< keyword "mural paintings" >}}
-
-<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
 
@@ -48,9 +43,6 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 
 <!-- ## Images -->
 
-## Dates
-
-end 2nd century CE
 ## Bibliography
 
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 100-101. [(worldcat)](https://search.worldcat.org/title/989088620)
@@ -62,6 +54,15 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.[(worldcat)](https:/
 - La Blanchère, M.-R., "Note sur une mosaïque représentant le cortège de de Neptune, découvertes à Hadrumetum et transportée au musée de Tunis (Bardo)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 15, p. 342-346, 378-383.[(worldcat)](https://search.worldcat.org/title/4649609892)
 - La Blanchère, M.-R., "La mosaïque de Neptune à Sousse", in *Bulletin du Comité des travaux historiques*, 1888, p. 163‑176.
 - Laporte, J.-P., Lavagne, H., "Sousse: La domus de Sorothus et ses mosaïques", in *Les sodalités africo-romaines*, Chaires internationales de recherche Blaise Pascale, Paris, 2006, p. 24-28, fig. 4.  [(worldcat)](https://search.worldcat.org/title/912914354)
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "mural paintings" >}}
+
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Places
 

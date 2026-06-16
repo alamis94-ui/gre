@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -36,19 +44,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The Stadium-garden (Fig. 1, n. 4)
 - {{< id vocab="Pleiades" id="190433997" name="Stadium-garden at Hadrian's Villa" >}}
-
-## Keywords
-
-- {{< keyword "flower gardens" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "garden pavilions" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piazzas" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "stadiums" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "tufa" >}}
 
 ## Garden Description
 
@@ -78,14 +73,6 @@ On the opposite side (Figg. 12, H; 16), another garden - an emicycle - imitated 
 
 {{< image file="15_southern_garden.jpg" caption="Fig. 15: Southern Garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Southern Garden in the Stadium-garden at Hadrian's Villa" >}}
 
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
-
 ## Bibliography
 
 <!-- Bibliography for Location Description -->
@@ -110,6 +97,19 @@ unspecified
 - E. Salza Prina Ricotti, "Adriano: architettura del verde e dell'acqua," in  *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 383-385, fig. 14. [(worldcat)](https://search.worldcat.org/title/636808013)
 - E. Salza Prina Ricotti, "The Importance of Water in Roman Garden Triclinia," in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 178-180, fig. 21-28, 35-37. [(worldcat)](https://search.worldcat.org/title/887179596)
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 225-231. [(worldcat)](https://search.worldcat.org/title/46784026)
+
+## Keywords
+
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piazzas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stadiums" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "tufa" >}}
 
 ## Places
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -36,13 +44,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden of the *triclinium* North of the Maritime Theatre (Fig. 1, n. 7)
 
-## Keywords
-
-- {{< keyword "cyzigene" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 Today what is left of this garden is a nymphaeum 7 m long and 3.50 m large. It was set against a wall on its northern side and served as a background to the area. It consisted of a small, marble lined fountain, with a basin at its front and five square niches set on a semieliptic line at its back (Fig. 23). On the southern end, a porch, with a white mosaic paving, was set in front of a triclinium of the kind called cyzigene, which means a dining room encircled by a garden (Fig. 24). That left free only an area 34 m long and 21 m wide, set between the triclinium and the nymphaeum; not very much but quite enough to create a pleasant green scenery.
@@ -58,14 +59,6 @@ This garden, which stood between two of the highlights of Villa Adriana - the Te
 ## Images
 
 {{< image file="23_nymphaeum_n_of_maritime_theatre.jpg" caption="Fig. 23: The Nymphaeum North of the Maritime Theatre, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Nymphaeum in the garden North of the Maritime Theatre at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 
@@ -84,6 +77,13 @@ unspecified
 - J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](https://search.worldcat.org/title/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
 - M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/32679652)
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
+
+## Keywords
+
+- {{< keyword "cyzigene" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

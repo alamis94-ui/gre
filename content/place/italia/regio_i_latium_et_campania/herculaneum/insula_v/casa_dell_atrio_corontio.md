@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1933-1934
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -22,7 +30,7 @@ draft: true
 
 ## Location Description
 
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
@@ -36,13 +44,6 @@ V
 
 Casa dell'Atrio Corontio
 
-## Keywords
-
-- {{< keyword "impluvia" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "viridarium" >}}
-
 ## Garden Description
 
 552.V.30.
@@ -52,18 +53,17 @@ A shallow cruciform-shaped *impluvium* was the central feature in the rectangula
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
+## Keywords
+
+- {{< keyword "impluvia" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "viridarium" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1933-1934
 
 ## Bibliography
 

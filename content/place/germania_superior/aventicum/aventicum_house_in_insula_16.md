@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 71
+
 ## Location
 
 - [Aventicum]({{<relref ".">}})
@@ -17,16 +21,10 @@ draft: true
 
 ## Location Description
 
-The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
+The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in CE 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around CE 260, and it was progressively abandoned thereafter.
 ## Garden
 
 House in Insula 16 in Aventicum
-
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "insulae" >}}
-- {{< keyword "peristyles" >}}
 
 ## Garden Description
 
@@ -42,14 +40,16 @@ In the middle of the insula was a large peristyle courtyard which may have been 
 
 <!-- ## Images -->
 
-## Dates
-
-AD 71
-
 ## Bibliography
 
 - H. Bögli and D. Weidmann, "Nouvelles recherches à Aventicum," *Archäologie der Schweiz* 2, 1978:71-72, fig. 2.[(worldcat)](https://search.worldcat.org/title/891764106)
 - A. G. McKay, *Houses, Villas and Palaces in the Roman World*, London, 1975, pp. 202-203, fig. 186. [(worldcat)](https://search.worldcat.org/title/901557900)
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

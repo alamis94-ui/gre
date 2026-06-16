@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1912 and 1924.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,22 +33,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 
 [Insula VII]({{<relref "#">}})
-
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "tables" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
-## Gardens
-
-House of the Priest Amandus.
 
 ## Garden Description
 
@@ -68,10 +56,6 @@ One step above the level of the [triclinium](http://vocab.getty.edu/page/aat/300
 {{< image file="Fig_40_I.vii.7_22.22.68.jpg" caption="Fig. 5: I.vii. 22.22.68, S.A. Jashemski" credit="" alt="" >}}
 -->
 
-## Dates
-
-Excavated 1912 and 1924.
-
 ## Bibliography
 
 - Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no. 39.
@@ -80,6 +64,22 @@ Excavated 1912 and 1924.
 - Maiuri, A. 1939. *NSc*, pp. 26-27 and fig. 1 (plan) on p. 4.
 - Maiuri, A. 1939. *Pompeii*, p. 112. [(worldcat)](https://search.worldcat.org/title/470375462)
 - Maiuri, A. 1961. *"I giardini," In Le Vie d'Italia*, p. 1138, no. 9.
+
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "tables" >}}
+- {{< keyword "triclinia (rooms)" >}}
+
+## Gardens
+
+House of the Priest Amandus.
 
 ## Places
 

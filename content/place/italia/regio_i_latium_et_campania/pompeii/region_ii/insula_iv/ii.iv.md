@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -34,15 +38,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 Three separate gardens in the Praedia di Julia Felix.
 
-## Keywords
-
-- {{< keyword "cisterns" >}}
-- {{< keyword "sprinklers" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 Three separate gardens were located in this property.
@@ -64,10 +59,6 @@ C. A walled rustic garden close to entrance 8 had been planted and at the time o
 {{< image file="fig-19-ii.iv.-5.32.59.jpg" caption="detail of the jet." credit="" alt="Fig. 19, II.iv.5.32.59.- detail of the jet." >}}
 
 <!-- {{< image file="fig-20-ii.iv.-5.25.59.jpg" caption="portico and garden" credit="" alt="Fig. 20, II.iv. 5.25.59.- portico and garden." >}} -->
-
-## Dates
-
-Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
 ## Bibliography
 
@@ -97,6 +88,15 @@ Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 - Sear, Frank B. 1977. *Roman Wall and Vault Mosaics.* Heidelberg: F.H. Kerle, p.94
 [worlcat](https://search.worldcat.org/title/715456384)
 - Zahn, Wilhelm. 1828. *Die Schönsten Ornamente Und Merkwürdigsten Gemälde Aus Pompeji, Herkulanum Und Stabiae*, 2, pl.100 (plan) [worldcat](https://search.worldcat.org/title/1141530520)
+
+## Keywords
+
+- {{< keyword "cisterns" >}}
+- {{< keyword "sprinklers" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

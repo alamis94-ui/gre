@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 70-100
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -54,17 +58,11 @@ The façade of the back of the building opened to north by a portico [4], 3.45 m
 
 {{< image file="thes_estate_villa_of_the_peacock_axon.png" caption="Axon of Villa of The Peacock" credit="" alt="" >}}
 
-## Dates
-
-CE 70-100
-
 ## Bibliography
 
-1. KISCH, Yves . *La Villa Du Paon: Le Quartier Des Boutiques : Vaison-La-Romaine*. Vaison-la-Romaine: Mairie, 1990 [(worldcat)](https://search.worldcat.org/title/964237739)
-
-2. H. Lavagne, Recueil génral des mosaïques de la Gaule romaine, III, province de Narbonnaise 3, partie sud-est, Xe suppl. à Gallia, Paris CNRS, 2000, n° 647-53, p. 157 ss.
-
-3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.277-287. [(worldcat)](https://search.worldcat.org/title/905795401)
+- KISCH, Yves . *La Villa Du Paon: Le Quartier Des Boutiques : Vaison-La-Romaine*. Vaison-la-Romaine: Mairie, 1990 [(worldcat)](https://search.worldcat.org/title/964237739)
+- H. Lavagne, Recueil génral des mosaïques de la Gaule romaine, III, province de Narbonnaise 3, partie sud-est, Xe suppl. à Gallia, Paris CNRS, 2000, n° 647-53, p. 157 ss.
+- Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.277-287. [(worldcat)](https://search.worldcat.org/title/905795401)
 
 ## Places
 

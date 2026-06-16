@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1830-1831; 1869-1871; 1927
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -22,7 +30,7 @@ draft: true
 
 ## Location Description
 
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
@@ -36,13 +44,6 @@ III
 
 Casa dello Scheletro
 
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "tympana" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "putti" >}}
-
 ## Garden Description
 
 The small light well of this house had once been occupied by a pool. By the time of the eruption it had been filled with soil and converted to a small garden (a). During this change an *aedicula* was built on a high podium against the back wall, decorated with mosaic and shells, and garden paintings were added to the light well walls. The walls on the east and south had panels framed on the top and sides with a wide red band and a smaller black one inside. The south wall had panels on both sides of the mosaic *aedicule*, and of all the panels, the left panel of the south wall was the best preserved, although the
@@ -54,18 +55,17 @@ GARDENS OF THE ROMAN EMPIREITALIA2center third is missing. In this panel the lat
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa dello Scheletro" credit="" alt="" >}}
 
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "tympana" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "putti" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1830-1831; 1869-1871; 1927
 
 ## Bibliography
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+5th century
+
+## Excavation Dates
+
+1911
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
@@ -33,17 +41,6 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 House of Europa, Central District (Maison d'Europe, Quartier Central)
 
-## Keywords
-
-- {{< keyword "amphorae" >}}
-- {{< keyword "basins" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "fishponds" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "piscinae" >}}
-
 ## Garden Description
 
 This house of irregular shape (Plan view, Fig. 1), rested against the ancient city wall, transformed into a decorative wall for the Severian Forum, and between two large cardines. It was excavated in 1911.
@@ -62,18 +59,21 @@ The  L shaped space between the fish pool and the columns was probably planted.
 
 {{< image file="house_of_castorius_photo2.jpg" caption="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)" credit="" alt="" >}}
 
-## Dates
-
-5th century
-
-## Excavation Dates
-
-1911
-
 ## Bibliography
 
 - Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 158-161. [(worldcat)](https://search.worldcat.org/title/461390883)
 - Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
+
+## Keywords
+
+- {{< keyword "amphorae" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fishponds" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "piscinae" >}}
 
 ## Places
 

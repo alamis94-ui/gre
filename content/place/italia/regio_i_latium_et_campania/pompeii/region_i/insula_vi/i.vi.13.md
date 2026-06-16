@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1926 and 1927.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,15 +33,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 
 [Insula VI]({{<relref "#">}})
-
-## Keywords
-
-- {{< keyword "fences" >}}
-- {{< keyword "lararia" >}}
-
-## Garden
-
-House of Stallus Eros.
 
 ## Garden Description
 
@@ -63,10 +58,6 @@ At the rear of this house a masonry wall surrounded the small garden which was u
 
 ## Images -->
 
-## Dates
-
-Excavated 1926 and 1927.
-
 ## Bibliography
 
 - Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no. 38.
@@ -77,6 +68,15 @@ Excavated 1926 and 1927.
 - Maiuri, A. 1929. *NSc*, pp. 434, fig. 44 (plan) on p. 432 and fig. 45.
 - *PPP*, 1, p. 39.
 - Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 26.
+
+## Keywords
+
+- {{< keyword "fences" >}}
+- {{< keyword "lararia" >}}
+
+## Garden
+
+House of Stallus Eros.
 
 ## Places
 

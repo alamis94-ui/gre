@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1868 and 1927.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -30,14 +34,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula VII]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "triclinia (rooms)" >}}
-
-## Garden
-
-Shop-House garden with an outdoor [triclinium](http://vocab.getty.edu/page/aat/300004359).
-
 ## Garden Description
 
 The shop-house was laid out in a very irregular manner and the garden took up most of the space. There was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) in the southern part of the garden. This had a *lectus imus* and a *lectus summus* that both were 3.80 m. in length and the *lectus medius* was 4.24 m. in length. The rectangular [table](http://vocab.getty.edu/page/aat/300039548) measured 1.10 x 0.75 m.
@@ -54,14 +50,18 @@ The shop-house was laid out in a very irregular manner and the garden took up mo
 
 <!-- ## Images -->
 
-## Dates
-
-Excavated 1868 and 1927.
-
 ## Bibliography
 
 Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 41. [(worldcat)](https://search.worldcat.org/title/222353569)
 Soprano, P. 1950. *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei*, p. 296, no. 6.
+
+## Keywords
+
+- {{< keyword "triclinia (rooms)" >}}
+
+## Garden
+
+Shop-House garden with an outdoor [triclinium](http://vocab.getty.edu/page/aat/300004359).
 
 ## Places
 

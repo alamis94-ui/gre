@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1951-52
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -29,21 +37,6 @@ draft: true
 ## Garden
 
 House of Ceres; Casa di Cerere (I.ix.13-14)
-
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "putti" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "vases" >}}
 
 ## Garden Description
 
@@ -65,14 +58,6 @@ The natural rising slope of the land made this long upper garden (a) at the rear
 
 {{< image file="Fig_56_I.ix.13_39.17.68.jpg" caption="Fig. 5: 39.17.68, S.A. Jashemski" credit="" alt="" >}}
 
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1951-52
-
 ## Bibliography
 
 - DeVos, "Scavi nuovi sconoscuti (1.9.13)," *Meded* 38 (1976): 38, 49-50, 62 and pl. 35 (plan), 51, 50 and figs. 27, 32.
@@ -81,6 +66,21 @@ unspecified
 - Kapossy, p. 39.
 - *PPP*, 1:109.
 - *PPP*, 1:109.
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "putti" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "vases" >}}
 
 ## Places
 

@@ -35,15 +35,6 @@ House Cours Pourtoules
 
 In 1984-86, prior to construction of a parking garage, a large area of some 4,700 square meters was excavated south of the Cours Pourtoules. About a third of the ancient structures were reinforced and reburied; the rest was destroyed. The area encompassed  several ancient houses;  the one of interest to us is in the west insula.
 
-## Keywords
-
-- {{< keyword "mosaics" >}}
-- {{< keyword "dolia" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "opus sectile" >}}
-
 ## Garden Description
 
 The garden to the south is not completely known. The north gallery (BG), 5.5 meters wide at its widest point, was paved with black-and-white mosaics for at least 35 meters. At the west was a gallery (17 x  3.5 m)  with a floor of pounded earth.  One side was perhaps with a full wall pierced by windows.  In the southwest corner of the garden was a well (FS) for which a half *dolium, found destroyed in the well, served as a puteal. The soil of the garden is brown clay with strata of sand. Analysis of this soil has not been able to identify traces of what was planted in it. The garden was probably put in during Augustan times, but the paucity of ceramic material that could support this date must be underlined.
@@ -74,11 +65,18 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 ## Bibliography
 
-1.  "Orange, Cours Pourtoules", Informations archéologiques in Gallia 87-88, P. 321-26
+-  "Orange, Cours Pourtoules", Informations archéologiques in Gallia 87-88, P. 321-26
+- Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 70-71 [(worldcat)](https://search.worldcat.org/title/24832885)
+- J.-D. Bouche, Orange, Cours Pourtoule, ilôt Ouest. Présentation des données de fouilles de l'état I et II 15-10 av. J.-C. à 40 ap. J.-C. mémoire de DEA Université d'Aix-en-Provence, dir. X. Lafon, 2003 (à verifier EM)
 
-2. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 70-71 [(worldcat)](https://search.worldcat.org/title/24832885)
+## Keywords
 
-2. J.-D. Bouche, Orange, Cours Pourtoule, ilôt Ouest. Présentation des données de fouilles de l'état I et II 15-10 av. J.-C. à 40 ap. J.-C. mémoire de DEA Université d'Aix-en-Provence, dir. X. Lafon, 2003 (à verifier EM)
+- {{< keyword "mosaics" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "opus sectile" >}}
 
 ## Places
 

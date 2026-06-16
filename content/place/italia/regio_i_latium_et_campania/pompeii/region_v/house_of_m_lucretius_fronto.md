@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
+## Excavation Dates
+
+1900 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -46,15 +54,6 @@ House a/11
 
 House of M. Lucretius Fronto (V.iv.a/11)
 
-## Keywords
-
-- {{< keyword "cubicula" >}}
-- {{< keyword "atrium houses" >}}
-- {{< keyword "predellas" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "trellises" >}}
-
 ## Garden Description
 
 A. Immediately to the south of the rear door to the *tablinium*, excavated in 1900, was a very small garden (a) with a low wall on the north end. A gutter bordered the garden on the west, north and east sides. The *cubiculum* (c) on the south side of the *atrium* had garden representations on the east and west walls. These were painted in yellow on a black background on the *predella* under the central panels. The panel on the east wall is 0.12 x 0.80 m. and shows a rectangular garden 0.39 m. long enclosed by a lattice fence. The entrance in the middle of the front occupies approximately one third of the length of the wall and so the square area either side of the entrance and directly behind the entrance are of the same size. Vegetation is drawn along the outside of the fence in front.
@@ -67,14 +66,6 @@ A. Immediately to the south of the rear door to the *tablinium*, excavated in 19
 ## Images
 -->
 
-## Dates
-
-Unspecified
-
-## Excavation Dates
-
-1900CE
-
 ## Bibliography
 
 - Della Corte, *Case*, p. 11. [(worldcat)](https://search.worldcat.org/title/869407232)
@@ -82,6 +73,15 @@ Unspecified
 - Mau, *RM* (1901), p. 352; PPP, 2:85. [(worldcat)](https://search.worldcat.org/title/1189330863)
 - Schefold, *WändP*, p. 85. [(worldcat)](https://search.worldcat.org/title/1100462668)
 - Sogliano, *NSc* (1901), p. 161 and fig. 1 (plan) on p.145. [(worldcat)](https://search.worldcat.org/title/1091982220)
+
+## Keywords
+
+- {{< keyword "cubicula" >}}
+- {{< keyword "atrium houses" >}}
+- {{< keyword "predellas" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "trellises" >}}
 
 ## Places
 

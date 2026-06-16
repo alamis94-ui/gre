@@ -31,22 +31,22 @@ the garden complex known to have been embedded in an imperial palace at the impr
 Babylon, in Mesopotamia (e.g. Strabo 16.1.5). Suspended above the Euphrates River, the “Hanging
 Gardens” created an atmosphere reminiscent of the topography of the Median landscape, with various
 terraces and a variety of trees and foliage. This garden tradition extends back into the second
-millennium B.C., and evokes the political power of the king in his ability to drastically, and often
+millennium BCE, and evokes the political power of the king in his ability to drastically, and often
 violently, transform the landscape. Documents from Neo-Assyrian and Neo-Babylonian imperial
-contexts of the first millennium B.C. reveal an appreciation for horticulture and botany, and carved
+contexts of the first millennium BCE reveal an appreciation for horticulture and botany, and carved
 reliefs in palatial buildings depict the power of the king to move mountains and recreate rivers within
 the grounds of his estate, in addition to hunting wild herds in marshy terrain. The combination of
 vegetal and venatic leisure was a chief element in the large public parks of the Neo-Assyrians, and in
 some reliefs, the king is shown dining alongside the body parts of his victims. The hunting tradition
 continued with the Achaemenid Empire, in their main seats of control at Persepolis, Susa and Ecbatana.
 The Persian pairadaeza, transliterated into the Greek as paradeisos, became a byword in fifth- and
-fourth-century B.C. Greece for eastern decadence. These (sometimes) enclosed parks offered exotic
+fourth-century BCE Greece for eastern decadence. These (sometimes) enclosed parks offered exotic
 plants and trees, sophisticated irrigation systems, and often herds of animals for royal hunting rituals.
 While the archaeological evidence for the pairadaeza is still meager, the site of Pasargadae has provided
 an example of the cultivated spaces with elaborate water courses and monumental built features.
 
 The Parthian Arsacid Dynasty, originating near the Caspian Sea in northeastern Iran in the late
-first millennium B.C., took control of Mesopotamian cities such as Ctesiphon on the Tigris River and
+first millennium BCE, took control of Mesopotamian cities such as Ctesiphon on the Tigris River and
 Hatra on the important spice and aromatic routes from India and China after the breakdown of the
 Seleucid dynasty. Original developments in their art and architecture, including the large vaulted iwan,
 a dome covering palatial courtyards, indicate that these groups were interested in monumental designs
@@ -57,7 +57,7 @@ which can be compared to the pairadaeza at Pasargadae, but there has been no sys
 archaeology performed at the site. Sources such as Strabo (16.1.16) mention Parthian-controlled cities,
 including Ctesiphon, but are silent about any possible gardens or parks.
 
-The Sassanid dynasty of Iran, which overthrew the last Parthian king Artabanus in 224 A.D.,
+The Sassanid dynasty of Iran, which overthrew the last Parthian king Artabanus in 224 CE,
 used elements of earlier Parthian architecture and Achaemenid garden design to legitimize their rule.
 One of the earliest Sassanid palaces, at Firuzabad, today offers little archaeological support for the large
 irrigated garden that originally surrounded it. Relief carvings from Taq-i Bustan, a Sassanid-period
@@ -68,13 +68,13 @@ Mesopotamia with the later Islamic concept of paradise, but more archaeological 
 gardens and cultivation history are necessary in order to elucidate Sassanid traditions.
 
 Roman populations, mostly military, were present in Mesopotamia after the conquests of
-Pompey in the mid-first century B.C. and variously gained and lost control of the region until the wars
-of Justinian in the sixth century A.D. By the second and first centuries B.C., the Tigris and Euphrates
+Pompey in the mid-first century BCE and variously gained and lost control of the region until the wars
+of Justinian in the sixth century CE. By the second and first centuries BCE, the Tigris and Euphrates
 valleys had become the arena of numerous conflicts between the Parthian empire and Roman forces
 aiming to expand their power. Rome was able to extend its imperial territory to the east to Dura-
-Europos, and in 115 A.D. Trajan attempted to incorporate the entire region into one imperial province,
+Europos, and in 115 CE Trajan attempted to incorporate the entire region into one imperial province,
 but the empire’s control quickly became destabilized. The newly founded provinces of Assyria and
-Mesopotamia were consequently given up again by his successor Hadrian in 117 A.D., followed by
+Mesopotamia were consequently given up again by his successor Hadrian in 117 CE, followed by
 sporadic attempts at conquest by emperors such as Septimius Severus and Caracalla. There is sufficient
 documentary evidence to establish Romans living and interacting with locals in cities such as Nisibis,
 Seleucia-Ctesiphon, and Hatra in these centuries, but more research is needed in order to understand the
@@ -102,7 +102,7 @@ sites of the Roman period.
 
 - W. Ball, Rome in the East: The Transformation of an Empire. New York: Routledge, 2001.
 - K. Butcher, Roman Syria and the Near East. Los Angeles: Getty Publications, 2003.
-- A. Invernizzi, “Arsacid Palaces,” in ed. I. Nielsen, The Royal Palace Institution in the First Millenium BC. Monographs of the Danish Institute, Vol. IV. Athens: Danish Institute at Athens, 2001, pp. 295-310.
+- A. Invernizzi, “Arsacid Palaces,” in ed. I. Nielsen, The Royal Palace Institution in the First Millenium BCE. Monographs of the Danish Institute, Vol. IV. Athens: Danish Institute at Athens, 2001, pp. 295-310.
 - S. Dalley, “Mesopotamian Gardens.” The Oxford Companion to Gardens. Oxford Press, 1986.
 - E.J. Keall, “Qal’eh-i Yazdigird: The Question of its Date,” Iran XV (1977): 1-10.
 - C. Kearns, "Visual representations of gardens: diachronic perspectives on the art of landscape," in ed. K. Gleason, Cultural History of Gardens. Forthcoming, Berg Publishers.
@@ -121,5 +121,4 @@ sites of the Roman period.
 
 - {{< id vocab="Pleiades" id="981534" name="Mesopotamia" >}}
 - {{< id vocab="Pleiades" id="874602" name="Mesopotamia (region)" >}}
-
 - {{< id vocab="TGN" id="7001554" name="Mesopotamia (general region)" >}}

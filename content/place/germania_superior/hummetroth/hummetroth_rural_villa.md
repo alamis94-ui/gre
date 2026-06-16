@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+2nd century
+
 ## Location
 
 - [Hummetroth]({{<relref ".">}})
@@ -18,17 +22,6 @@ draft: true
 ## Garden
 
 Rural Villa in Hummetroth
-
-## Keywords
-
-- {{< keyword "apsed triclinia" >}}
-- {{< keyword "balnea" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "hypocausts" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "terrace gardens" >}}
-- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -44,14 +37,21 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 <!-- ## Images -->
 
-## Dates
-
-2nd century
-
 ## Bibliography
 
 - D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart,1989, pp. 360-361, fig. 303a-b. [(worldcat)](https://search.worldcat.org/title/476625416)
 - M. Carroll, *Romans,Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 74, fig. 29. [(worldcat)](https://search.worldcat.org/title/1120840822)
+
+## Keywords
+
+- {{< keyword "apsed triclinia" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

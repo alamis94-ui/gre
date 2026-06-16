@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1874.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -34,12 +38,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 Hospitium garden, possibly planted in antiquity.
 
-## Keywords
-
-- {{< keyword "lararia" >}}
-- {{< keyword "stables" >}}
-- {{< keyword "troughs" >}}
-
 ## Garden Description
 
 This site had been destroyed in antiquity and probably had been a *hospitium*. Excavated in 1874, the remains of a watering [trough](http://vocab.getty.edu/page/aat/300220971) for animals and a [stable](http://vocab.getty.edu/page/aat/300005015) were uncovered. Often demolished sites were planted but it could not be determined if there was vegetation present at the time of the eruption. The west wall contained an arched [lararium](http://vocab.getty.edu/page/aat/300400600) niche.
@@ -54,16 +52,18 @@ This site had been destroyed in antiquity and probably had been a *hospitium*. E
 
 <!-- ## Images -->
 
-## Dates
-
-Excavated 1874.
-
 ## Bibliography
 
 - Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no. 34.
 - Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](https://search.worldcat.org/title/908272023)
 - Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 33. [(worldcat)](https://search.worldcat.org/title/921816405)
 - Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 16.
+
+## Keywords
+
+- {{< keyword "lararia" >}}
+- {{< keyword "stables" >}}
+- {{< keyword "troughs" >}}
 
 ## Places
 

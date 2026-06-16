@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 20-CE 60
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -35,13 +39,6 @@ The northern end of this vast house is just west of the House of Five Mosaics an
 
 House of the Large Peristyle
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
  
 Only its eastern end has been uncovered, and of the rooms for living -- presumably to the west – very little is known. What is known is a large peristyle of unusual form with a center certainly planted as a garden. The long axis of the peristyle ran almost due north to make an angle of about 80 degrees with the street along the north and with the axis of the living areas of the house to the west. The form of the peristyle (32.5 x 18 m with porticoes 3.7 meters wide) would have been a fairly normal, slightly trapezoidal "rectangle" with the south side missing were it not that more than half of the west side was also missing. The colonnade on that side ran straight into a wall, presumably of the neighbor's house, which jutted out into the southwest corner of our owner's elegant peristyle courtyard and garden. In the northern part of the courtyard, the presence of a U-shaped channel pool seems well attested but is not shown on the plan.
@@ -55,25 +52,22 @@ Only its eastern end has been uncovered, and of the rooms for living -- presumab
 
 <!-- ## Images -->
 
-## Dates
-
-CE 20-CE 60
-
 ## Bibliography
 
-1. Laroche, H. Savay-Guerraz, E. Chantriaux et al. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 46-57[worldcat](https://search.worldcat.org/title/234328026)
+- Laroche, H. Savay-Guerraz, E. Chantriaux et al. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 46-57[worldcat](https://search.worldcat.org/title/234328026)
+- Maison 1996, t.II, p. 364-383
+- Delaval, Eric, and Hugues Savay-Guerraz. La Maison Des Dieux Océan: (ier Siècle Avant J.-C. _ IIe Siècle Après J.-C.). Saint-Romain-en-Gal: AGLAS, 1996.[worldcat](https://search.worldcat.org/title/491540345)
+- Desbat, Armand. La Maison Des Dieux Océan À Saint-Romain-En-Gal (rhône). Paris: CNRS éditions, 1994, P. 86-132[worldcat](https://search.worldcat.org/title/45622989)
+- Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](https://search.worldcat.org/title/491540838)
+- Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
+- Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
 
-2. Maison 1996, t.II, p. 364-383
+## Keywords
 
-3. Delaval, Eric, and Hugues Savay-Guerraz. La Maison Des Dieux Océan: (ier Siècle Avant J.-C. _ IIe Siècle Après J.-C.). Saint-Romain-en-Gal: AGLAS, 1996.[worldcat](https://search.worldcat.org/title/491540345)
-
-4. Desbat, Armand. La Maison Des Dieux Océan À Saint-Romain-En-Gal (rhône). Paris: CNRS éditions, 1994, P. 86-132[worldcat](https://search.worldcat.org/title/45622989)
-
-5. Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](https://search.worldcat.org/title/491540838)
-
-6. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
-
-7. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
+- {{< keyword "peristyles" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

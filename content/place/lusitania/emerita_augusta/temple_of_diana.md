@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+The end of the Augustan period
+
+## Excavation Dates
+
+1972
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
@@ -42,13 +50,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 Temple of Diana
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "waterspouts" >}}
-- {{< keyword "courtyards" >}}
-
 ## Garden Description
 
 The Temple of Diana is the only surviving religious building from the Augusta Emerita Forum.  Despite its name, it was actually dedicated to the imperial cult and dates to the end of the Augustan period. Excavations conducted in 1972 by J. Mª. Álvarez Martínez produced some evidence for a garden in conjunction with the temple. The space surrounding the temple was interpreted as a garden area, enclosed by a portico, which contained two rectangular pools on the east and west sides of the temple.
@@ -58,17 +59,16 @@ Of the sculptural pieces found outside the temple, some have been situated in th
 
 {{< image file="his_lus_col_augusta_temple_of_diana_fig1.jpg" caption="Fig. 1: Temple of Diana." credit="Adapted from Casillas Morena, p. 309." alt="" >}}
 
-## Dates
-
-The end of the Augustan period
-
-## Excavation Dates
-
-1972
-
 ## Bibliography
 
 - J. Mª.  Álvarez Martinez, J. L. de la Barrera Antón and A. Velázquez Jiménez, *Mérida* (Turismo Everest), León, 1995, p. 54. [(worldcat)](https://search.worldcat.org/title/433607571)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "waterspouts" >}}
+- {{< keyword "courtyards" >}}
 
 ## Places
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Andematunnum]({{<relref ".">}})
@@ -18,15 +22,6 @@ draft: true
 ## Garden
 
 Tomb Garden of Anonymous Gaul in Andematunnum
-
-## Keywords
-
-- {{< keyword "former reservoirs" >}}
-- {{< keyword "inscriptions" >}}
-- {{< keyword "literary gardens" >}}
-- {{< keyword "mausoleums" >}}
-- {{< keyword "orchards" >}}
-- {{< keyword "tombs" >}}
 
 ## Garden Description
 
@@ -38,16 +33,21 @@ A famous inscription from the territory of the Lingonian Gauls (Langres) known o
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified
-
 ## Bibliography
 
 - *CIL* 13.5708. [EDCS-19800561](http://db.edcs.eu/epigr/epi_ergebnis.php)
 - *ILS* 8379.
 - *FIRA* III 49.
 - J.-J. Hatt, *La tombe gallo-romaine* (Paris 1951) 65-84. [(worldcat)](https://search.worldcat.org/title/561069313)
+
+## Keywords
+
+- {{< keyword "former reservoirs" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "literary gardens" >}}
+- {{< keyword "mausoleums" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "tombs" >}}
 
 ## Places
 

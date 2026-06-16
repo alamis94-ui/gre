@@ -10,6 +10,16 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+3nd-5th century CE
+
+<!--
+## Excavation Dates
+
+1929, 1931, 1937, 1944
+-->
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
@@ -33,18 +43,6 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice au sud des Grands Thermes)
 
-## Keywords
-
-- {{< keyword "amphorae" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "oeci" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "Venus" >}}
-
 ## Garden Description
 
 The large block of buildings called the "House of Bacchus", (about 7000 m2) has three separated gardens A, B, C and a peristyle VI. This site has been excavated during four periods (1929, 1931,1937 and 1944).
@@ -67,16 +65,6 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 {{< image file="fish_pool.jpg" caption="Fig. 4: The fish pool" credit="(Février, P.-A.– CCJ 62886)" alt="" >}}
 
-## Dates
-
-3nd-5th century CE
-
-<!--
-## Excavation Dates
-
-1929, 1931, 1937, 1944
--->
-
 ## Bibliography
 
 - Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](https://search.worldcat.org/title/4824686051)
@@ -84,6 +72,18 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 - Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
 - Malek, A.-A., "Le jardin au fil de l'eau:  mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l'époque romaine*, eds, V. Brouquier-Reddé et F. Hurlet, Bordeaux, Ausonius, 2018, pp. 248-249. [(worldcat)](https://search.worldcat.org/title/1078217356)
 - Malek, A.-A. "De l'espace pictural à l'espace du jardin : mosaïques et jardins dans les domus de l'Afrique romaine", in *Archéologie des jardins: analyse des espaces et méthodes d'approches*, Van Ossel, P., Guimier-Sorbets, A.-M. (dir.), Archéologie et histoire romaine 26, Editions Monique Mergoil, 2014, p. 20. [(worldcat)](https://search.worldcat.org/title/869205223)
+
+## Keywords
+
+- {{< keyword "amphorae" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "Venus" >}}
 
 ## Places
 

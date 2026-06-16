@@ -26,10 +26,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 Villa at Durrueli di Realmonte
 
-## Keywords
-
-<!-- {{< keyword "villae urbanae" >}} -->
-
 ## Garden Description
 
 There is a small semicircular basin (Farrar Type E) inserted in a secondary period in the north edge of the peristyle, facing the principal marble-paved reception or dining-room of the north wing (Fig. 10). The basin has marble wall-veneer and plain tessellation on its floor (Fig 11). This arrangement at Durrueli may have been influenced by North African fashion, where the demi-lune basin is especially common.
@@ -51,6 +47,10 @@ There is a small semicircular basin (Farrar Type E) inserted in a secondary peri
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 198-9  with figs 164 and 165.2.[(worldcat)](https://search.worldcat.org/title/608028740)
 
 M. Aoyagi, Ripresa eegli scavi nella villa romana di Realmonte, Kokalos 26-27 (1980-81):  668-73 [(worldcat)](https://search.worldcat.org/title/186378054)
+
+## Keywords
+
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Places
 

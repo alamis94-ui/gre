@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 ## Sublocation
@@ -19,11 +23,6 @@ draft: true
 ## Garden
 
 Tomb Garden of C. Hostius Pamphilus
-
-## Keywords
-
-- {{< keyword "tombs" >}}
-- {{< keyword "epitaphs" >}}
 
 ## Garden Description
 
@@ -35,15 +34,16 @@ A travertine slab of unknown urban provenance, now in the Mus-ei Capitolini, rec
 
 <!-- ## Images -->
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - M. Mattei, *Testimonianze epigrafiche e attestazioni letterarie relative all'area degli Horti Lamiani*, in Le tranquille dimore degli dei, edited by M. Cima and E. La Rocca (Venice 1986) 153-54 fig. 103. [worldcat](https://search.worldcat.org/title/488260676)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 178 n. 21, 179 fig. 2; J. [worldcat](https://search.worldcat.org/title/886794800)
 - Bodel, *Monumental Villas and Villa Monuments*, JRA 10 (1997) 26. [worldcat](https://search.worldcat.org/title/18871033)
+
+## Keywords
+
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
 
 ## Places
 

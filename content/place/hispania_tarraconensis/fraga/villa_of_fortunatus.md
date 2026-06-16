@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -27,18 +31,15 @@ The Mediterranean trio of wine, oil and cereals are the crops most frequently me
 
 It is not strange, therefore, that gardening, the work of the topiarius, was usual in Iberian houses, as this study shows.  It was not, however, totally new to Spanish territory. Although there are no literary references to gardening in the Pre-Roman era, it must have been part of Iberian culture, as is proved in an unusual way in the northwest of the peninsula in the area under the influence of Greek culture from the city of Emporion (Ampurias or Empuriae).  A Hellenic establishment there, Rhode (Rosas), in the third century BCE minted drachmas with a rose as the emblem.  There were sacred woods connected with the cities. Close to Augustas Emeritas was Lucus Feroniae. Dedicated to Augustus was Lucus Augusti, which gave rise to the present-day Lugo, in Galicia, and another Lucus existed in the environs of Gijón, the Lugo de Llanera (Blázquez, p. 24).
 
-There has been little research on the gardens in the Roman settlements in Spain and Portugal. In drawing up the list of sites with gardens for this catalog, we have accepted that a garden existed when it was so labeled by the excavators.  There are, however, many other probable gardens which we have included.  Gorges found just under forty villas where enough remained to draw a plan. In them, certain features help to identify a garden. A peristyle alerts us to suspect a garden, but peristyle courtyards were sometimes paved with stones or bricks over a layer of lime.  They were clearly not gardens. But if the courtyard had soil in it, it was in all probability a garden. Fountains, fountain statues, and pools are typical of a garden since water is indispensable for a garden. Most peristyles in Roman villas in Spain had ornamental irrigation channels, semicircular pools, wells or pools that gave the impression of still water that, nevertheless, endowed the garden with a cool humidity that favored the cultivation of plants.  In Spain, peristyles with drainage are found in the first and second centuries AD and are also common in the late Empire.  Certain types of statuary intimately connected with vegetation and nature are found in gardens, such as divinities related to Bacchus and his circle. At Pompeii, Diana, a garden goddess, sometimes paired with Apollo, is also found. Herms were placed on pilasters, as the examples in situ from Pompeii show.  Characteristic of Roman villas was the way in which they opened out to the countryside onto a grand vista of gardens and parks filled with fountains.
+There has been little research on the gardens in the Roman settlements in Spain and Portugal. In drawing up the list of sites with gardens for this catalog, we have accepted that a garden existed when it was so labeled by the excavators.  There are, however, many other probable gardens which we have included.  Gorges found just under forty villas where enough remained to draw a plan. In them, certain features help to identify a garden. A peristyle alerts us to suspect a garden, but peristyle courtyards were sometimes paved with stones or bricks over a layer of lime.  They were clearly not gardens. But if the courtyard had soil in it, it was in all probability a garden. Fountains, fountain statues, and pools are typical of a garden since water is indispensable for a garden. Most peristyles in Roman villas in Spain had ornamental irrigation channels, semicircular pools, wells or pools that gave the impression of still water that, nevertheless, endowed the garden with a cool humidity that favored the cultivation of plants.  In Spain, peristyles with drainage are found in the first and second centuries CE and are also common in the late Empire.  Certain types of statuary intimately connected with vegetation and nature are found in gardens, such as divinities related to Bacchus and his circle. At Pompeii, Diana, a garden goddess, sometimes paired with Apollo, is also found. Herms were placed on pilasters, as the examples in situ from Pompeii show.  Characteristic of Roman villas was the way in which they opened out to the countryside onto a grand vista of gardens and parks filled with fountains.
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
-
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
-
 - J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
-
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 ## Location
@@ -53,11 +54,6 @@ Fraga sits astride the Cinca river about 86 kilometers northwest of Tarragona an
 
 Villa of Fortunatus
 
-## Keywords
-
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "mosaics" >}}
-
 ## Garden Description
 
 On the left bank of the Cinca about 5 km upstream (north) of Fraga, at the top of a steep bank, this villa sits some fifteen meters above the river below.  At high water, the villa could have fairly easily floated its products to the sea.  It had a view of the fertile plain on the right bank. The site has been known since at least 1893 and was excavated almost clandestinely between 1926 and 1936; no reports are known.  The site was occupied from the Republican period, but a new atrium-style house was constructed in the second century.  At the end of the third or beginning of the fourth century, a *peristyle* (20.5 x 17 m.) with a garden was added.  In the center of the north side was a long, narrow, brick pool raised above ground level.  On it were paintings of fish and aquatic plants.  Both ends of the pool are semicircular.  At the east end of the pool was a well, 12-14 meters deep, which provided water for the garden.  The galleries surrounding the garden were all paved in *mosaic*. In the triclinium or reception room on the south side of the garden the *mosaic*, with floral designs and animals, bears in its border the name of builder written in two parts, FORTU and NATUS, separated by the Christian symbol of the crossed Χ and Ρ and the letters ω and α.  Later, a palaeochristian chapel was installed and  remained intact until the sixth century. (B?)
@@ -65,11 +61,8 @@ On the left bank of the Cinca about 5 km upstream (north) of Fraga, at the top o
 ## Bibliography
 
 - J. de C. Serra Ráfols, *La villa Fortunatus de Fraga*, in Ampurias V. CSIC, Barcelona, 1943, pp. 6-35 [(worldcat)](https://search.worldcat.org/title/432715390)
-
 - R. Puertas Tricas, *Trabajos de planimetría y excavación en la "Villa Fortunatus"*, Fraga (Huesca), Noticiario Arqueológico Hispánico, Arqueología, 1. Madrid, 1972, pp. 71-81 [(worldcat)](https://search.worldcat.org/title/954940163)
-
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Edita Grupo FCC, Madrid, 2001, p. 29. [(worldcat)](https://search.worldcat.org/title/1090911182)
-
 - J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques.* Centre Pierre Paris, París, 1979, pp. 267-8. [(worldcat)](https://search.worldcat.org/title/803415143)
 
 ## Plans
@@ -78,11 +71,12 @@ On the left bank of the Cinca about 5 km upstream (north) of Fraga, at the top o
 
 <!-- ## Images -->
 
-## Dates
-
-Unspecific
-
 <!-- -doesn't have ## Bibliography -->
+
+## Keywords
+
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "mosaics" >}}
 
 ## Places
 

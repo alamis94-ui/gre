@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+partially excavated between June 1972 and January 1973
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -49,21 +57,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 House on Via del Tempio Rotondo
 
-## Keywords
-
-- {{< keyword "Augustan" >}}
-- {{< keyword "basins" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "travertine" >}}
-- {{< keyword "Tuscan order" >}}
-- {{< keyword "vases" >}}
-<!-- -->
-- [Cato](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.335.1)
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-
 ## Garden Description
 
 This house was only partially excavated between June 1972 and January 1973 (Fig. 1). In its [Augustan](http://vocab.getty.edu/page/aat/300020543) phase the peristyle garden (a) was adorned with a large central basin paved in [opus signinum](http://vocab.getty.edu/page/aat/300379969). At the center of the basin was a brick support, interpreted as the base of a [fountain](http://vocab.getty.edu/page/aat/300006179). The [columns](http://vocab.getty.edu/page/aat/300001571) of the [peristyle](http://vocab.getty.edu/page/aat/300080971), probably [Tuscan](http://vocab.getty.edu/page/aat/300067420), rested on bases alternating with [travertine](http://vocab.getty.edu/page/aat/300011329) strips at pavement level (Fig. 2). Three perforated vases of the type of *ollae perforatae* recorded by [Cato](https://en.wikipedia.org/wiki/Cato_the_Elder) ([RR  52, 133](https://www.thelatinlibrary.com/cato/cato.agri.html) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cato/De_Agricultura/A*.html)) and [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) ([NH 12. 16](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:12.16); [17. 64](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.64), [97](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.97)) were found between the basin and the columns of the peristyle, and exactly aligned with their bases. The *ollae* were intact and must have contained plants, no doubt of the flowering and rambling variety, which would have found both a support and a chromatic backdrop in the columns to the rear.
@@ -78,14 +71,6 @@ This house was only partially excavated between June 1972 and January 1973 (Fig.
 
 {{< image file="ostia_fig23b.jpg" caption="Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive)." credit="" alt="A flower pot during 1973 excavation" >}}
 
-## Dates
-
-unspecified
-
-## Excavation Date
-
-partially excavated between June 1972 and January 1973
-
 ## Bibliography
 
 - G. Calza, G. Becatti, I. Gismondi, G. De Angelis D'Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
@@ -98,6 +83,21 @@ partially excavated between June 1972 and January 1973
 <!-- Bibliography for Garden Description -->
 - *Giornale degli Scavi*, 1972-1973, p. 56. [(worldcat)](https://search.worldcat.org/title/8340098)
 - G. Messineo, "Ollae perforatae," *Xenia* 8, 1984, pp. 65-82. [(worldcat)](https://search.worldcat.org/title/7522968) <!-- correct worldcat? -->
+
+## Keywords
+
+- {{< keyword "Augustan" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "travertine" >}}
+- {{< keyword "Tuscan order" >}}
+- {{< keyword "vases" >}}
+<!-- -->
+- [Cato](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.335.1)
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 
 ## Places
 

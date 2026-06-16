@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+The first third of the 2nd century
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -27,18 +31,15 @@ The Mediterranean trio of wine, oil and cereals are the crops most frequently me
 
 It is not strange, therefore, that gardening, the work of the topiarius, was usual in Iberian houses, as this study shows.  It was not, however, totally new to Spanish territory. Although there are no literary references to gardening in the Pre-Roman era, it must have been part of Iberian culture, as is proved in an unusual way in the northwest of the peninsula in the area under the influence of Greek culture from the city of Emporion (Ampurias or Empuriae).  A Hellenic establishment there, Rhode (Rosas), in the third century BCE minted drachmas with a rose as the emblem.  There were sacred woods connected with the cities. Close to Augustas Emeritas was Lucus Feroniae. Dedicated to Augustus was Lucus Augusti, which gave rise to the present-day Lugo, in Galicia, and another Lucus existed in the environs of Gijón, the Lugo de Llanera (Blázquez, p. 24).
 
-There has been little research on the gardens in the Roman settlements in Spain and Portugal. In drawing up the list of sites with gardens for this catalog, we have accepted that a garden existed when it was so labeled by the excavators.  There are, however, many other probable gardens which we have included.  Gorges found just under forty villas where enough remained to draw a plan. In them, certain features help to identify a garden. A peristyle alerts us to suspect a garden, but peristyle courtyards were sometimes paved with stones or bricks over a layer of lime.  They were clearly not gardens. But if the courtyard had soil in it, it was in all probability a garden. Fountains, fountain statues, and pools are typical of a garden since water is indispensable for a garden. Most peristyles in Roman villas in Spain had ornamental irrigation channels, semicircular pools, wells or pools that gave the impression of still water that, nevertheless, endowed the garden with a cool humidity that favored the cultivation of plants.  In Spain, peristyles with drainage are found in the first and second centuries AD and are also common in the late Empire.  Certain types of statuary intimately connected with vegetation and nature are found in gardens, such as divinities related to Bacchus and his circle. At Pompeii, Diana, a garden goddess, sometimes paired with Apollo, is also found. Herms were placed on pilasters, as the examples in situ from Pompeii show.  Characteristic of Roman villas was the way in which they opened out to the countryside onto a grand vista of gardens and parks filled with fountains.
+There has been little research on the gardens in the Roman settlements in Spain and Portugal. In drawing up the list of sites with gardens for this catalog, we have accepted that a garden existed when it was so labeled by the excavators.  There are, however, many other probable gardens which we have included.  Gorges found just under forty villas where enough remained to draw a plan. In them, certain features help to identify a garden. A peristyle alerts us to suspect a garden, but peristyle courtyards were sometimes paved with stones or bricks over a layer of lime.  They were clearly not gardens. But if the courtyard had soil in it, it was in all probability a garden. Fountains, fountain statues, and pools are typical of a garden since water is indispensable for a garden. Most peristyles in Roman villas in Spain had ornamental irrigation channels, semicircular pools, wells or pools that gave the impression of still water that, nevertheless, endowed the garden with a cool humidity that favored the cultivation of plants.  In Spain, peristyles with drainage are found in the first and second centuries CE and are also common in the late Empire.  Certain types of statuary intimately connected with vegetation and nature are found in gardens, such as divinities related to Bacchus and his circle. At Pompeii, Diana, a garden goddess, sometimes paired with Apollo, is also found. Herms were placed on pilasters, as the examples in situ from Pompeii show.  Characteristic of Roman villas was the way in which they opened out to the countryside onto a grand vista of gardens and parks filled with fountains.
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
-
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
-
 - J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
-
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 ## Location
@@ -50,13 +51,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 Villa de Los Villares
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "mosaics" >}}
-
 ## Garden Description
 
 The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos.  The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.
@@ -66,14 +60,17 @@ The villa was built in the first third of the 2nd century, destroyed by the Germ
 
 {{< image file="his_tar_san_villares_fig1.jpg" caption="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" credit="Gorges, Planche XLV" alt="" >}}
 
-## Dates
-
-The first third of the 2nd century
-
 ## Bibliography
 
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1982 [(worldcat)](https://search.worldcat.org/title/876519837)
 - J. M. Blázquez, Los jardines en la Hispania Romana, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 33 [(worldcat)](https://search.worldcat.org/title/1090911182)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "mosaics" >}}
 
 ## Places
 

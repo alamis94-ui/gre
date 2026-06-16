@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+between the early 2nd and early 3rd century CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
@@ -51,12 +59,6 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 Garden beneath the House of the Fishes (Domus dei Pesci) \
 - {{< id vocab="Pleiades" id="223974300" name="House of the Fishes" >}}
 
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "terracotta" >}}
-- {{< keyword "water supply systems" >}}
-
 ## Garden Description
 
 In the course of recent excavations in a room (a) of this house a probable garden area was uncovered (Fig. 1). Only its southern limits, represented by the perimeter wall of an otherwise unidentified building, could be traced. The archaeological sequence established by the [stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy) of this garden area dates it between the early 2nd and early 3rd century CE. It is characterized by a series of superimposed levels of beaten earth, interrupted by small channels, [postholes](https://en.wikipedia.org/wiki/Posthole) and larger pits.
@@ -66,14 +68,6 @@ One significant level of these successive transformations of the area is represe
 ## Plans
 
 {{< image file="ostia_fig16_better_colored.jpg" caption="Fig. 1: Plan of the Garden beneath the House of the Fishes" credit="(after Becatti, 1961)." alt="" >}}
-
-## Dates
-
-between the early 2nd and early 3rd century CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 
@@ -88,6 +82,12 @@ unspecified
 <!-- Bibliography for Garden Description -->
 - Giovanni Becatti, *Case ostiensi del tardo impero*, 1961, pp. 18-20. [(worldcat)](https://search.worldcat.org/title/899106405)
 - F. Zevi et al., *Notizie degli scavi di antichità*, in press. [(worldcat)](https://search.worldcat.org/title/8340098)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "terracotta" >}}
+- {{< keyword "water supply systems" >}}
 
 ## Places
 

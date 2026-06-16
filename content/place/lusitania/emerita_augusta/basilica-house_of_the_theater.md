@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+2nd and 4th centuries CE
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
@@ -42,12 +46,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 Basilica-House of the Theater
 
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "impluvia" >}}
-
 ## Garden Description
 
 This late-imperial domus was discovered by J. Ramón Mélida while excavating the backstage of the Theater. The existence of two rooms with apses at the east end led to the interpretation of the building as an early Christian basilica. Few of the structures in this residence of the 2nd and 4th centuries are visible today. These include a colonnaded courtyard with columns on small white marble bases, three each on the north and south  sides and two each on the east and west sides, not counting those on the corners. In the northeast corner of the courtyard was a shallow pool resembling an impluvium. It was shifted off-center in the garden to be almost on the axis of the larger of the two apses. A rill, coated in opus signinum, ran along its north, south and west sides. In the center was a cistern capped by a wellhead made of marble slabs and lined with several layers of opus signinum.
@@ -56,13 +54,15 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 
 {{< image file="his_lus_col_aug_basilica_fig1.jpg" caption="Fig. 1: Plan of the Basilica - House of the Theater." credit="Adapted from Cassilla Moreno, p.315." alt="" >}}
 
-## Dates
-
-2nd and 4th centuries CE
-
 ## Bibliography
 
 - R. Durán Cabello, 'La técnica constructiva de la llamada 'Casa Basílica' de Mérida', in *La casa urbana hispanorromana : ponencias y comunicaciones.*, 1991, pp. 359-69. [(worldcat)](https://search.worldcat.org/title/434540010)
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "impluvia" >}}
 
 ## Places
 

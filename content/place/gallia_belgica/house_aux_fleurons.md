@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [DUROCORTORUM (Reims, France)]({{<relref ".">}})
@@ -31,11 +35,6 @@ Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe t
 
 The House aux Fleurons (boulevard de la Paix)
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "trenches" >}}
-
 ## Garden Description
 
 BEL 2.2.1: Reims, House aux Flerurons
@@ -48,12 +47,10 @@ None Available
 ## Plans
 
 None Available
+
 ## Images
 
 None Available
-## Dates
-
-Unspecified
 
 ## Bibliography
 
@@ -61,6 +58,11 @@ Unspecified
 - D.R.A.H..A., La Bourse du Travail à Reims, *Bulletin de la société archéologique champenoise,* n°4, 1977, p. 77-79  <!-- not on worldcat -->
 - R. Neiss, La structure urbaine de Reims antique et son évolution du Ier au IIIe siècle après J.-C. Les villes de la Gaule Belgique au Haut-Empire, in: *Actes du colloque tenu à Saint-Riquier (Somme). Revue archéologique de Picardie,* n°3-4, 1984, p. 171-191, [(worldcat)](https://search.worldcat.org/title/754518194)
 - A. Balmelle, R. Neiss, Les maisons de l'élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise,* t. 96, 2003, 4, p. 74. [(worldcat)](https://search.worldcat.org/title/718698064)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "trenches" >}}
 
 ## Places
 

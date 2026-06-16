@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Wiesbaden-Biebrich]({{<relref ".">}})
@@ -21,13 +25,6 @@ Biebrich, now part of Wiesbaden, is directly on the right bank of the Rhein sout
 ## Garden
 
 Rural Villa in Wiesbaden-Biebrich
-
-## Keywords
-
-<!-- archaeological garden -->
-
-- {{< keyword "kitchen gardens" >}}
-- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -42,13 +39,16 @@ Only the residential part of this farm has been excavated. The house with a widt
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified
-
 ## Bibliography
 
 - D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, p. 495, fig. 471.
+
+## Keywords
+
+<!-- archaeological garden -->
+
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+55 BCE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,34 +33,6 @@ draft: false
 
 Garden of the Porticus of Pompey \
 - {{< id vocab="Pleiades" id="165546433" name="Porticus Pompei" >}}
-
-## Keywords
-
-- {{< keyword "caveae" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "curiae" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "latrines" >}}
-- {{< keyword "museums" >}}
-- {{< keyword "nemus (grove)" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "quadriportici" >}}
-- {{< keyword "scaenae frontes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "temples" >}}
-- {{< keyword "theaters" >}}
-- {{< keyword "viridarium" >}}
-- {{< keyword "arboretums" >}}
-- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
-- [Catullus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.337)
-- [Cicero](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.364)
-- [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
-- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
-- [Propertius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1187)
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-- [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
 
 ## Garden Description
 
@@ -90,10 +66,6 @@ Augustus' remodeling of the theater and *porticus* (in 32 BCE), discussed above,
 
 {{< image file="porticus_of_pompey_fig4.jpg" caption="Fig. 4: The view along the central axis from the Curia to the Temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of the scaenae. The temple cannot be seen at all. © Lori Cockerham Catalano." credit="" alt="Sketch of the view along the central axis from the curia to the temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of scaena; the temple cannot be seen at all" >}}
 
-## Dates
-
-55 BCE
-
 ## Bibliography
 
 - F. Coarelli, *Il Campo Marzio*, Rome, 1997, pp. 539-79. [(worldcat)](https://search.worldcat.org/title/906743621)
@@ -105,6 +77,34 @@ Augustus' remodeling of the theater and *porticus* (in 32 BCE), discussed above,
 - A. Kuttner, "Culture and History at Pompey's Museum," *Transactions of the American Philological Association* 129 (1999), pp. 343-73. [(worldcat)](https://search.worldcat.org/title/228297096)
 - M. Gagliardo and J.Packer "A New Look at Pompey's Theater: History, Documentation, and Recent Excavation," *American Journal of Archaeology* Vol. 110, No. 1 (January 2006), pp. 93-122. [(worldcat)](https://search.worldcat.org/title/604029789)
 - E. Macaulay-Lewis, "Use and Reception," in *A Cultural History of Gardens in Antiquity*, ed. K.L. Gleason, London, 2013, pp. 99-118. [(worldcat)](https://search.worldcat.org/title/968535933)
+
+## Keywords
+
+- {{< keyword "caveae" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "curiae" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "latrines" >}}
+- {{< keyword "museums" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "quadriportici" >}}
+- {{< keyword "scaenae frontes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "theaters" >}}
+- {{< keyword "viridarium" >}}
+- {{< keyword "arboretums" >}}
+- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
+- [Catullus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.337)
+- [Cicero](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.364)
+- [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
+- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
+- [Propertius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1187)
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+- [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
 
 ## Places
 

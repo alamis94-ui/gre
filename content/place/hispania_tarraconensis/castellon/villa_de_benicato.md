@@ -25,11 +25,6 @@ draft: true
 
 Villa de Benicató
 
-## Keywords
-
-- {{< keyword "mosaics" >}}
-- {{< keyword "corridors" >}}
-
 ## Garden Description
 
 The first finds go back to 1883.  Part of the site was acquired by the provincial government in 1954 and archaeological work was begun the next year, but the reports remain unpublished.
@@ -48,6 +43,11 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 ## Bibliography
 
 - F. Gusi and C. Olaria : La villa romana de Benicató (Nules, Castellón). Cuadernos de Prehistoria y, Arqueología Castellonenses, 4, (1996) pp. 101-144. [(worldcat)](https://search.worldcat.org/title/802707581)
+
+## Keywords
+
+- {{< keyword "mosaics" >}}
+- {{< keyword "corridors" >}}
 
 ## Places
 

@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1929-1932
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -22,7 +30,7 @@ draft: true
 
 ## Location Description
 
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
@@ -36,14 +44,6 @@ IV
 
 Casa dei Cervi
 
-## Keywords
-
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "oeci" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "puteals" >}}
-- {{< keyword "pergolas" >}}
-
 ## Garden Description
 
 545.IV.21
@@ -56,18 +56,18 @@ B. and C. On either side of the *pergola* was a small garden (d)and (e) with an 
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
+## Keywords
+
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "puteals" >}}
+- {{< keyword "pergolas" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1929-1932
 
 ## Bibliography
 

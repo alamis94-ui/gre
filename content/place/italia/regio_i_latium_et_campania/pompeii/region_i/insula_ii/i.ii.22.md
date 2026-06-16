@@ -30,17 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "amphorae" >}}
-- {{< keyword "cauponae" >}}
-- {{< keyword "pillars" >}}
-- {{< keyword "porticoes" >}}
-
-## Garden
-
-Garden serving a [caupona](http://vocab.getty.edu/page/aat/300005208).
-
 ## Garden Description
 
 This [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated in 1873 but the reports offer insufficient details to determine if the open area had been planted. The room was entered directly from the street and the open area, had a [portico](http://vocab.getty.edu/page/aat/300004145) on the north and east supported by one [pillar](http://vocab.getty.edu/page/aat/300264605). Fifteen [amphorae](http://vocab.getty.edu/page/aat/300148696) with inscriptions were uncovered here.
@@ -52,6 +41,17 @@ This [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated in 1873 
 - Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 24-25 [(worldcat)](https://search.worldcat.org/title/222353569)
 - Mau, A. 1874. *BdI*, pp.263
 - Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 13 [(worldcat)](https://search.worldcat.org/title/254502217)
+
+## Keywords
+
+- {{< keyword "amphorae" >}}
+- {{< keyword "cauponae" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
+
+## Garden
+
+Garden serving a [caupona](http://vocab.getty.edu/page/aat/300005208).
 
 ## Places
 

@@ -17,6 +17,14 @@ draft: true
 
 
 
+## Dates
+
+unspecified
+
+## Excavation Dates
+
+1873
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -36,16 +44,6 @@ draft: true
 ## Garden
 
 House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
-
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "biclinia" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 
@@ -67,14 +65,6 @@ When this garden was excavated in 1873, the excavators reported three panels on 
 
 {{< image file="Fig_3_I.ii.10_2.19.72.jpg" caption="Fig. 3: I.ii.10; 2.19.72, S. A. Jashemski." credit="" alt="" >}}
 
-## Dates
-
-unspecified
-
-## Excavation Dates
-
-1873
-
 ## Bibliography
 
 - Boyce, p. 22, no. 6.
@@ -89,6 +79,16 @@ unspecified
 - Sogliano, "Pitture," p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580)
 - Soprano, p.305, no. 23.
 - Viola, "*Scavi*" p. 11. [(worldcat)](https://search.worldcat.org/title/715087975)
+
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "biclinia" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

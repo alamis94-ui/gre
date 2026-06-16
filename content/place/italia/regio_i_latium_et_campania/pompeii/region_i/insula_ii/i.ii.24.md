@@ -30,21 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "cauponae" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
-## Garden
-
-Garden serving a [caupona](http://vocab.getty.edu/page/aat/300005208).
-
 ## Garden Description
 
 The garden east of the [atrium](http://vocab.getty.edu/page/aat/300004097) had a [portico](http://vocab.getty.edu/page/aat/300004145) extending along the south and part of the west sides. A low wall (0.52m high) connected the columns and an entrance to the garden was located on the west. In 1873 the [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated. The garden contained a masonry triclinium (l. medius, 3.85m; l. summus and l. imus, 3.20m) with a table. The badly damaged [triclinium](http://vocab.getty.edu/page/aat/300004359) revealed the [amphorae](http://vocab.getty.edu/page/aat/300148696) used in its construction. A low podium along the north wall was thought by Fiorelli to have held [flowerpots](http://vocab.getty.edu/page/aat/300194749). Mau reported a drainage channel at the corner of the [triclinium](http://vocab.getty.edu/page/aat/300004359) formed by the l. meduis and the l. summus, although it is no longer evident. The base of an [aedicula](http://vocab.getty.edu/page/aat/300002574) [lararium](http://vocab.getty.edu/page/aat/300400600) remains against the east wall opposite the north end of the east couch.
@@ -63,6 +48,21 @@ The garden east of the [atrium](http://vocab.getty.edu/page/aat/300004097) had a
 - Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 292-293, no.1
 - Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 13 [(worldcat)](https://search.worldcat.org/title/254502217)
 - Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, no.32 [(worldcat)](https://search.worldcat.org/title/974375313)
+
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "cauponae" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
+
+## Garden
+
+Garden serving a [caupona](http://vocab.getty.edu/page/aat/300005208).
 
 ## Places
 

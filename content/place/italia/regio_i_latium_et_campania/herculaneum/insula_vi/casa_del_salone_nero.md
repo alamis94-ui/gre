@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Unspecified
+
 ## Province
 
 - [Italia]({{<relref "../../..">}})
@@ -23,7 +27,7 @@ draft: false
 
 ## Location Description
 
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
@@ -36,11 +40,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 Casa del Salone Nero
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "tablina" >}}
-
 ## Garden Description
 
 Excavation of this garden (a) to the rear of this elegant house took place in the spring of 1939. The garden was completely surround by a portico which had eight columns and two pillars on the north side with engaged columns placed strategically so as to provide an unimpeded view from the tablinum. The southwest corner of the garden was the location of a small pool (0.82 x 0.63).
@@ -50,14 +49,15 @@ Excavation of this garden (a) to the rear of this elegant house took place in th
 {{< image file="herculaneum_vi_13.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 {{< image file="h_6_11-19_25-26-a.jpg" caption="Herculaneum VI.11-19,25-26-Casa del Salone Nero" credit="" alt="" >}}
 
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Gardens: Beginning and last third of second century
+
+## Excavation Dates
+
+2004
+
 ## Location
 
 - [Vesontio]({{<relref ".">}})
@@ -24,19 +32,6 @@ Archaeology in a downtown area is always a matter of seizing opportunities as th
 ## Garden
 
 Structures under the Collège Lumière in Vesontio
-
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "kraters" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "rinceaux" >}}
-- {{< keyword "terrazzo" >}}
 
 ## Garden Description
 
@@ -60,17 +55,22 @@ Images not available (?)
 
 <!-- ## Images -->
 
-## Dates
-
-Gardens: Beginning and last third of second century
-
-## Excavation Dates
-
-2004
-
 ## Bibliography
 
 - C. Gaston and C. Munier "Une luxueuse domus de la find du IIe siècle à Besançon, college Lumière (Doubs, F)"" in *Premières Journées archéologiques frontalières de l'Arc jurassien: Mandeure, sa campagne et ses relations d'Avenches à Luxeuil et d'Augst à Besançon*. Ed, Cécile Bélet-Gonda, Presses Univ. Franche-Comté (2007), 103-112.
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "kraters" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "rinceaux" >}}
+- {{< keyword "terrazzo" >}}
 
 ## Places
 

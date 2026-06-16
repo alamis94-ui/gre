@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+ca. 190- 240 CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -28,22 +32,6 @@ draft: false
 ## Garden
 
 Garden of the Temple of Elagabalus, Palatine
-
-## Keywords
-
-- {{< keyword "allées" >}}
-- {{< keyword "altars" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "brick" >}}
-- {{< keyword "canals" >}}
-- {{< keyword "flower gardens" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "religious standards" >}}
-- {{< keyword "temples" >}}
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 
 ## Garden Description
 
@@ -91,10 +79,6 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 {{< image file="elagabalium_fig7.jpg" caption="Fig. 7: Reconstruction of a tree and planting bed in the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA)." credit="" alt="" >}}
 
-## Dates
-
-ca. 190- 240 CE
-
 ## Bibliography
 
 - F. Chausson, "Le site de la Vigna Barberini de 191 à 455" in *La Vigna Barberini I. Histoire d'un site. Étude des sources et de la topographie*, Rome, 1997, pp. 31-85. [(worldcat)](https://search.worldcat.org/title/1000676783)
@@ -103,6 +87,22 @@ ca. 190- 240 CE
 - Y. Thébert, "Il santuario di Elagabalus: un giardino sacro" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 83-94. [(worldcat)](https://search.worldcat.org/title/5894435382)
 - G. Rizzo, "Le anfore utilizzate come vasi da fiori nei giardini del tempio" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, p. 98. [(worldcat)](https://search.worldcat.org/title/5894435382)
 - F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](https://search.worldcat.org/title/643147049)
+
+## Keywords
+
+- {{< keyword "allées" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "brick" >}}
+- {{< keyword "canals" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "religious standards" >}}
+- {{< keyword "temples" >}}
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 
 ## Places
 

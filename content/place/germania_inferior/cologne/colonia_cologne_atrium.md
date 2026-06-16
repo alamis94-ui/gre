@@ -16,7 +16,7 @@ Middle of the first century CE until the fourth century CE
 
 ## Garden Description
 
-West of the [House of Dionysos]({{<relref "colonia_cologne_dionysius.md">}}) stood the so-called "atrium house" which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.
+West of the [House of Dionysos]({{<relref "colonia_cologne_dionysius.md">}}) stood the so-called "atrium house" which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century CE.
 
 Entering from the colonnaded street at the west, one passed through a room reconstructed as an atrium, continuing along a corridor around the *tablinum*, and arrived at a peristyle courtyard with a semicircular pool. This courtyard, approximately 10 x 13 m. in size, was almost certainly a garden (Plan 1, G). A ground level gutter ran around the edge of the unpaved courtyard. This part of the house remained unchanged until the destruction of the building in the 4th century.
 

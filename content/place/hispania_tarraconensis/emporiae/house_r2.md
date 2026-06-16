@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+1st century BCE
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -27,18 +31,15 @@ The Mediterranean trio of wine, oil and cereals are the crops most frequently me
 
 It is not strange, therefore, that gardening, the work of the topiarius, was usual in Iberian houses, as this study shows.  It was not, however, totally new to Spanish territory. Although there are no literary references to gardening in the Pre-Roman era, it must have been part of Iberian culture, as is proved in an unusual way in the northwest of the peninsula in the area under the influence of Greek culture from the city of Emporion (Ampurias or Empuriae).  A Hellenic establishment there, Rhode (Rosas), in the third century BCE minted drachmas with a rose as the emblem.  There were sacred woods connected with the cities. Close to Augustas Emeritas was Lucus Feroniae. Dedicated to Augustus was Lucus Augusti, which gave rise to the present-day Lugo, in Galicia, and another Lucus existed in the environs of Gijón, the Lugo de Llanera (Blázquez, p. 24).
 
-There has been little research on the gardens in the Roman settlements in Spain and Portugal. In drawing up the list of sites with gardens for this catalog, we have accepted that a garden existed when it was so labeled by the excavators.  There are, however, many other probable gardens which we have included.  Gorges found just under forty villas where enough remained to draw a plan. In them, certain features help to identify a garden. A peristyle alerts us to suspect a garden, but peristyle courtyards were sometimes paved with stones or bricks over a layer of lime.  They were clearly not gardens. But if the courtyard had soil in it, it was in all probability a garden. Fountains, fountain statues, and pools are typical of a garden since water is indispensable for a garden. Most peristyles in Roman villas in Spain had ornamental irrigation channels, semicircular pools, wells or pools that gave the impression of still water that, nevertheless, endowed the garden with a cool humidity that favored the cultivation of plants.  In Spain, peristyles with drainage are found in the first and second centuries AD and are also common in the late Empire.  Certain types of statuary intimately connected with vegetation and nature are found in gardens, such as divinities related to Bacchus and his circle. At Pompeii, Diana, a garden goddess, sometimes paired with Apollo, is also found. Herms were placed on pilasters, as the examples in situ from Pompeii show.  Characteristic of Roman villas was the way in which they opened out to the countryside onto a grand vista of gardens and parks filled with fountains.
+There has been little research on the gardens in the Roman settlements in Spain and Portugal. In drawing up the list of sites with gardens for this catalog, we have accepted that a garden existed when it was so labeled by the excavators.  There are, however, many other probable gardens which we have included.  Gorges found just under forty villas where enough remained to draw a plan. In them, certain features help to identify a garden. A peristyle alerts us to suspect a garden, but peristyle courtyards were sometimes paved with stones or bricks over a layer of lime.  They were clearly not gardens. But if the courtyard had soil in it, it was in all probability a garden. Fountains, fountain statues, and pools are typical of a garden since water is indispensable for a garden. Most peristyles in Roman villas in Spain had ornamental irrigation channels, semicircular pools, wells or pools that gave the impression of still water that, nevertheless, endowed the garden with a cool humidity that favored the cultivation of plants.  In Spain, peristyles with drainage are found in the first and second centuries CE and are also common in the late Empire.  Certain types of statuary intimately connected with vegetation and nature are found in gardens, such as divinities related to Bacchus and his circle. At Pompeii, Diana, a garden goddess, sometimes paired with Apollo, is also found. Herms were placed on pilasters, as the examples in situ from Pompeii show.  Characteristic of Roman villas was the way in which they opened out to the countryside onto a grand vista of gardens and parks filled with fountains.
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
-
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
-
 - J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
-
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 ## Location
@@ -54,20 +55,16 @@ Not only was Emporion the point of first contact between the Celtoiberians and H
 
 Neapolis was settled from north to south.  The oldest parts date from before 550 BCE. The oldest part of the city wall come from 450-425 BCE.  The  Asklepion in the southwest corner was built in the 400 -350 BCE period, as a reorganization of an older sanctuary.  In the years 375-350 BCE, a new wall extended farther south.  The 2nd century BCE saw major building programs.  The wall was again extended southwards.  A new agora was formed, and the Asklepion reorganized.  Public baths were built in the northeastern part of the city about 100 BCE.  A Serapium was built in the southeastern corner in the first century BCE.  Around 100 BCE, a Roman city surrounded by a wall (750 x 350 m) was built on a hill about 150 meters west of Neapolis where there had previously been a structure that was probably the Roman praesidium.  We will refer to this area as the Roman City; it is also called the Republican City .  Streets were laid out in a rectangular grid, and a large forum occupied the center of the southern half.  Just outside the south wall were an amphitheater and a palaestra.  Three large houses, two of them with gardens, have been found northeast of the forum and one to the southeast of it.  The northern half of the city remains unexcavated.  Once development of the Roman City began, Neapolis seems to have been little changed.  The two walls between them were dismantled, but – rather strangely – replaced by a single wall, probably in connection with the creation of the Municipium Emporiae in about 36-27 BCE
 
-Neapolis was abandoned in the course of the second half of the first century AD.  The Roman City seems to have ceased development at about that time but remained inhabited to nearly the end of the third century. This abandonment of a once-thriving trading town is probably connected with the silting up of the harbor.  The mouth of the Fluvià River has shifted seven kilometers to the north, while Palaiapolis, once an island, is now a hill rising out of lowland where the harbor once was.
+Neapolis was abandoned in the course of the second half of the first century CE.  The Roman City seems to have ceased development at about that time but remained inhabited to nearly the end of the third century. This abandonment of a once-thriving trading town is probably connected with the silting up of the harbor.  The mouth of the Fluvià River has shifted seven kilometers to the north, while Palaiapolis, once an island, is now a hill rising out of lowland where the harbor once was.
 
-Publicly funded excavation of the northeastern part of Neapolis and the forum of the Roman City was conducted in 1846-8.  Further systematic studies were conducted from 1908 to 1936 under E. Gandía, who took a great interest in stratigraphy before it was common to do so.  The Spanish Civil War brought this work to an end, but Gandía's day books have been preserved.  Work was resumed in the 1940's and 1950's by M. Almagro, with recent work by R. Mar and J. Ruiz de Arbulo, and B. Tang.  Tang emphasizes that it is often difficult or impossible to determine whether a space in a house in Neapolis was open or covered.  The difficulty should not be so great in the case of gardens, for any sort of paving or hammered earth rules out the possibility of a garden. She identifies gardens in N5 and N7 and notes  that also N 52 near the northern end of the western edge and N 75 on the  northern edge "appear to have been provided with gardens or terraces."
+Publicly funded excavation of the northeastern part of Neapolis and the forum of the Roman City was conducted in 1846-8.  Further systematic studies were conducted from 1908 to 1936 under E. Gandía, who took a great interest in stratigraphy before it was common to do so.  The Spanish Civil War brought this work to an end, but Gandía's day books have been preserved.  Work was resumed in the 1940s and 1950s by M. Almagro, with recent work by R. Mar and J. Ruiz de Arbulo, and B. Tang.  Tang emphasizes that it is often difficult or impossible to determine whether a space in a house in Neapolis was open or covered.  The difficulty should not be so great in the case of gardens, for any sort of paving or hammered earth rules out the possibility of a garden. She identifies gardens in N5 and N7 and notes  that also N 52 near the northern end of the western edge and N 75 on the  northern edge "appear to have been provided with gardens or terraces."
 
 ## Bibliography
 
 - M.A. Basch, Ampurias; *historia de la ciudad y guía de las excavaciones*. Barcelona, 1951 [(worldcat)](https://search.worldcat.org/title/802755367)
-
 - A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972 [(worldcat)](https://search.worldcat.org/title/7243478)
-
 - R. Marcet i Barbé and E. Sanmartí, *Empuries*, Barcelona, 1989 [(worldcat)](https://search.worldcat.org/title/22917816)
-
 - R. Mar and J. Ruiz de Arbulo, *Ampurias romana : historia, arquitectura y arqueología*. Sabadell, 1993 [(worldcat)](https://search.worldcat.org/title/30732452)
-
 - B. Tang, *Delos, Carthage, Ampurias, The Housing of Three Mediterranean Trading Centers*, Bretschneider, Rome, 2005. [(worldcat)](https://search.worldcat.org/title/57730335)
 
 ## Plans
@@ -82,23 +79,15 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 House R2 (Tang AmpR2 and AmpR3)
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
-House R2, situated south of House R1 in the area of the forum of the Roman City (Fig. 1), is of totally different design and is smaller, but equally luxurious.  In describing the phases of its construction, we follow Tang's account (page 126). (Fig. 2)  In its first phase, from the first quarter of the 1st century BCE, the area of House R2 was occupied by two separate, similar houses, designated R2A on the south and R2B on the north.  Each had a single, central atrium, which opened onto the cardo along the west side. Behind each house, a hortus extended back and was bounded by an intervallum of the city wall. In the second phase, in the second third of the 1st century BCE, house R2A expanded, absorbing its own hortus and that of its neighbor, and taking out part of the city wall and extending beyond it to the east.  It also acquired the southeastern corner (room [15]) of its neighbor.  The old hortus of R2A was replaced by a large garden of 400 square meters enclosed by a peristyle; and a suite of rooms, opening onto the garden, was added. on the east on land formerly outside the city wall. Moreover, a row of rooms [42-49] was built behind them and opening to the east. The area beyond them may have been a garden.  In the the first century AD, in a third phase, the former hortus of House R2B was converted into a peristyle garden [35a]  with porticoes on the east, south and west sides.  Along the north side were three, precisely symmetric rooms. The south wall of the central one extended in an arc into the garden.  This part of the wall probably had windows opening into the garden.  Along the west side of the new peristyle garden a bath complex [30-32] was added.  A fourth phase at the end of the 1st or beginning of the 2nd second century AD saw a reworking of the eastern side of the house, with a huge room [46] with a triple entrance from the wide portico which now ran along the east side.  A large garden extended on to the east a distance not yet determined.  The L-shaped portico next to the garden indicated an interest in protecting the garden from the north wind.  A small altar with paintings of a serpent and cock was found in the house, possibly in the garden peristyle.
+House R2, situated south of House R1 in the area of the forum of the Roman City (Fig. 1), is of totally different design and is smaller, but equally luxurious.  In describing the phases of its construction, we follow Tang's account (page 126). (Fig. 2)  In its first phase, from the first quarter of the 1st century BCE, the area of House R2 was occupied by two separate, similar houses, designated R2A on the south and R2B on the north.  Each had a single, central atrium, which opened onto the cardo along the west side. Behind each house, a hortus extended back and was bounded by an intervallum of the city wall. In the second phase, in the second third of the 1st century BCE, house R2A expanded, absorbing its own hortus and that of its neighbor, and taking out part of the city wall and extending beyond it to the east.  It also acquired the southeastern corner (room [15]) of its neighbor.  The old hortus of R2A was replaced by a large garden of 400 square meters enclosed by a peristyle; and a suite of rooms, opening onto the garden, was added. on the east on land formerly outside the city wall. Moreover, a row of rooms [42-49] was built behind them and opening to the east. The area beyond them may have been a garden.  In the the first century CE, in a third phase, the former hortus of House R2B was converted into a peristyle garden [35a]  with porticoes on the east, south and west sides.  Along the north side were three, precisely symmetric rooms. The south wall of the central one extended in an arc into the garden.  This part of the wall probably had windows opening into the garden.  Along the west side of the new peristyle garden a bath complex [30-32] was added.  A fourth phase at the end of the 1st or beginning of the 2nd second century CE saw a reworking of the eastern side of the house, with a huge room [46] with a triple entrance from the wide portico which now ran along the east side.  A large garden extended on to the east a distance not yet determined.  The L-shaped portico next to the garden indicated an interest in protecting the garden from the north wind.  A small altar with paintings of a serpent and cock was found in the house, possibly in the garden peristyle.
 
 ## Bibliography
 
 - X. Aquilué and J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita Grupo FCC, Madrid, 2001, p. 12 [(worldcat)](https://search.worldcat.org/title/1090911182)
-
 - A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1973, 101-102 [(worldcat)](https://search.worldcat.org/title/7243478)
-
 - R. Mar and J. Ruíz de Arbulo, Ampurias Romana, Editorial Ausa, Sabadell, 1993, 390-397 [(worldcat)](https://search.worldcat.org/title/30732452)
-
 - E. Ripio Perelló, Ampurias: Itinerary-Guide, Publicaciones del "Instituto de Prehistoria y Arqueología de la Diputación Provincial de Barcelona, Barcelona, 1972. [(worldcat)](https://search.worldcat.org/title/45255754)
 
 ## Plans
@@ -109,11 +98,12 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 
 {{< image file="HIS_TAR_Emp_R2_fig2.jpg" caption="House R2 (Tang R2 and R3) in the Roman City in Ampurias.(The dividing line runs between House R2B in the upper left and R2A; the vertical red line shows the approximate location of the original city wall.)" credit="Adapted from Tang, where it was adapted from Mar and Ruiz de Arbulo." alt="" >}}
 
-## Dates
-
-1C BCE
-
 <!-- -doesn't have ## Bibliography -->
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

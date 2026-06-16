@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -51,13 +55,9 @@ This house at [14] on the map, was discovered in 1977 in an emergency salvage ex
 
 {{< image file="house_under_the_credit_agricole.png" caption="Plan of House under the Crédit Agricole" credit="" alt="" >}}
 
-## Dates
-
-After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.
-
 ## Bibliography
 
-1. J.M. Rouquette, "Les découvertes du Crédit Agricole" in Claude Sintès, dir., *Du nouveau sur Arles antique*, Arles, 1987, p. 71-7;  Maison 1996 t. II, p. 88-89.
+- J.M. Rouquette, "Les découvertes du Crédit Agricole" in Claude Sintès, dir., *Du nouveau sur Arles antique*, Arles, 1987, p. 71-7;  Maison 1996 t. II, p. 88-89.
 
 ## Places
 

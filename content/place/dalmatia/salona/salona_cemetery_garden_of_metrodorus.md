@@ -26,9 +26,9 @@ A sarcophagus found at Salona in 1824, transported to the museum in Split, and s
 
 ## Bibliography
 
-1. *CIL* 3.2207
-2. M. Abramić, *VAHD 52*, 1935-49:1-18
-3. J. J. Wilkes, *Dalmatia*. London, 1969, pp. 360-61, fig. 16.
+- *CIL* 3.2207
+- M. Abramić, *VAHD 52*, 1935-49:1-18
+- J. J. Wilkes, *Dalmatia*. London, 1969, pp. 360-61, fig. 16.
 
 ## Keywords
 

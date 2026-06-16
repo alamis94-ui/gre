@@ -28,10 +28,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 Villa de Milreu
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-
 ## Garden Description
 
 The ruins of this villa are 0.9 km west of the center of Estoi.  Strabo (3.2.5) mentions Ossonoba as a town on an estuary in this part of Lusitania.  The Roman temple at the Milreu site, still standing to the springline of its vaults, always marked this spot as a Roman settlement, and many concluded that it must be Ossonoba.  Among those of this opinion was Sebastião Philippes Martins Estácio da Veiga, who first excavated the site in 1877.  He wrote that he had "brought to light the famous cathedral of Ossonoba." Controversy swirled over the identification of the ruins as it became increasingly clear that they were those of an affluent villa.  The dispute was not resolved until 1952 when Abel Viana produced irrefutable evidence that the ruins of Ossonoba lie under modern Faro.
@@ -42,7 +38,7 @@ On the west side of the peristyle, the triclinium was centered on the garden and
 
 The peristyle of this villa was a productive one.  Five olive presses sat in the northwest corner of the peristyle but at a lower level. Wine presses were placed in a structure on the northeast corner of the peristyle. Much of this northeast area is now covered by a 15th century farmhouse.  The Roman structures beneath it have been excavated and are visible through the modern glass floors of the farmhouse, a clever and effective way to preserve and present the Roman material while also preserving the attractive and historic farmhouse.
 
-The archaeologists working on the site have not produced a detailed sequence of phases.  Settlement on the site, however, seems to go back to the Bronze Age, while the first Roman structures date from the first century CE.  The second and third centuries CE saw the villa assume approximately its present form. The fine marine mosaics, found not only around the peristyle but in several of the numerous pools, date from the mid-fourth century AD. The temple was contemporaneous and appears to have been originally pagan, though before the end of the century it had been converted to a Christian church.
+The archaeologists working on the site have not produced a detailed sequence of phases.  Settlement on the site, however, seems to go back to the Bronze Age, while the first Roman structures date from the first century CE.  The second and third centuries CE saw the villa assume approximately its present form. The fine marine mosaics, found not only around the peristyle but in several of the numerous pools, date from the mid-fourth century CE. The temple was contemporaneous and appears to have been originally pagan, though before the end of the century it had been converted to a Christian church.
 
 <!-- ## Maps -->
 
@@ -62,6 +58,10 @@ The archaeologists working on the site have not produced a detailed sequence of 
 <!-- ## Bibliography
 
 - T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](https://search.worldcat.org/title/927151602) -->
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
 
 ## Places
 

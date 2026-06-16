@@ -16,9 +16,9 @@ Unspecified
 
 ## Garden Description
 
-A fish-curing factory (*salsamenta*) located to the SE of the Nymfarum domus was renovated between the IInd and the IIIrd centuries. Among the changes made was the design of a small house organized around a small peristyle garden (4 x 4 m.) (XXII) and bound by a low wall that curved to make a semi-circular basin (Plan view, Fig.1; ).
+A fish-curing factory (*salsamenta*) located to the SE of the Nymfarum domus was renovated between the 2nd and the 3rd centuries. Among the changes made was the design of a small house organized around a small peristyle garden (4 x 4 m.) (XXII) and bound by a low wall that curved to make a semi-circular basin (Plan view, Fig.1; ).
 
-During the second half of the IVth century, with the abandonment of the industrial unit, the residential area was enlarged and a second semi-circular basin was added in the garden.
+During the second half of the 4th century, with the abandonment of the industrial unit, the residential area was enlarged and a second semi-circular basin was added in the garden.
 
 <!-- ## Maps -->
 

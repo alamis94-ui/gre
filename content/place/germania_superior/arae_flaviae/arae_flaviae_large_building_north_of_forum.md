@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Complex built at the earliest during the reign of Trajan.
+
 ## Location
 
 - [Arae Flaviae]({{<relref ".">}})
@@ -17,17 +21,10 @@ draft: true
 
 ## Location Description
 
-This town on the Neckar river was granted municipal status around 84 AD or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
+This town on the Neckar river was granted municipal status around 84 CE or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
 ## Garden
 
 Large Building north of Forum in Arae Flaviae
-
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "corridors" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "vestibules" >}}
 
 ## Garden Description
 
@@ -41,13 +38,16 @@ This building ca. 95 meters in width consisted of several units built at differe
 
 <!-- ## Images -->
 
-## Dates
-
-Complex built at the earliest during the reign of Trajan.
-
 ## Bibliography
 
 - C. S. Sommer, "Municipium Arae Flaviae. Militärisches und ziviles Zentrum im rechtsrheinischen Obergermanien," *Bericht der Römisch-Germanischen Kommission 73*, 1992: 301-302, Beilage 1.2.
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "vestibules" >}}
 
 ## Places
 

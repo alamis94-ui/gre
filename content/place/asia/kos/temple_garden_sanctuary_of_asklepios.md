@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [Kos]({{<relref ".">}})
@@ -18,6 +22,20 @@ draft: true
 ## Garden
 
 Temple Garden, Sanctuary of Asklepios
+
+## Garden Description
+
+Inscriptions of the fifth and fourth centuries BCE record certain regulations for the maintenance of a sacred grove belonging to Asklepios on the island of Kos.  Cypress trees are specifically mentioned, and it was unlawful to cut them down or remove wood from the sanctuary.  In the mid-first century BCE, however, a Roman prefect by the name of Turullius felled trees in the sanctuary to acquire timber for building ships. Caesar had him executed for this offence (Cassius Dio 51.8.3; Valerius Maximus 1.1.19).
+
+<!-- ## Maps -->
+
+<!-- ## Plans -->
+
+<!-- ## Images -->
+
+## Bibliography
+
+- R. Herzog, *Heilige Gesetze von Kos*, Berlin, 1928, pp. 32-33. [(worldcat)](https://search.worldcat.org/title/1140889143)
 
 ## Keywords
 
@@ -32,24 +50,6 @@ Temple Garden, Sanctuary of Asklepios
 - {{< keyword "quadriportici" >}}
 - {{< keyword "palaestrae" >}}
 - {{< keyword "gymnasiums" >}}
-
-## Garden Description
-
-Inscriptions of the fifth and fourth centuries BCE record certain regulations for the maintenance of a sacred grove belonging to Asklepios on the island of Kos.  Cypress trees are specifically mentioned, and it was unlawful to cut them down or remove wood from the sanctuary.  In the mid-first century BCE, however, a Roman prefect by the name of Turullius felled trees in the sanctuary to acquire timber for building ships. Caesar had him executed for this offence (Cassius Dio 51.8.3; Valerius Maximus 1.1.19).
-
-<!-- ## Maps -->
-
-<!-- ## Plans -->
-
-<!-- ## Images -->
-
-## Dates
-
-Unspecified
-
-## Bibliography
-
-- R. Herzog, *Heilige Gesetze von Kos*, Berlin, 1928, pp. 32-33. [(worldcat)](https://search.worldcat.org/title/1140889143)
 
 ## Places
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+7 CE
+
+## Excavation Date
+
+1984- C. Panella
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,23 +37,6 @@ Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755) \
 ## Garden
 
 Garden of the Porticus Liviae <!-- There does not appear to be a Pleiades place resource for this garden -->
-
-## Keywords
-
-- {{< keyword "colonnades" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "frescoes" >}}
-- {{< keyword "niches" >}}]
-- {{< keyword "pergolas" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "shrines" >}}
-- {{< keyword "statues" >}}
-- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
-- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
-- [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
 
 ## Garden Description
 
@@ -67,14 +58,6 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 <!-- {{< image file=".jpg" caption="Fig. 3: Entrance to the Porticus Liviae. © Holly Spoth-Torres." credit="" alt="Entrance to the Porticus Liviae" >}} -->
 
-## Dates
-
-7 CE
-
-## Excavation Date
-
-1984- C. Panella
-
 ## Bibliography
 
 - A. Carandini and P. Carafa (eds.), *The Atlas of Ancient Rome: Biography and Portraits of the City,* 2 vols., Princeton and Oxford, Princeton University Press, 2017. [Trans. (worldcat)](https://search.worldcat.org/title/980303776) | [Italian (worldcat)](https://search.worldcat.org/title/903328667)
@@ -82,6 +65,23 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 - D. Favro, *The Urban Image of Augustan Rome*, pp. 132-133, 171, 174. [(worldcat)](https://search.worldcat.org/title/914906877)
 - E.M. Steinby (ed.), *Lexicon topographicum urbis Romae* IV, Roma, Edizioni Quasar, 1999, "Porticus Liviae" (C. Panella), pp. 127-129; "Subura" (K. Welch), pp. 379-383. [(worldcat)](https://search.worldcat.org/title/772398569)
 <!-- correct citation format? compare with Domus Aurea -->
+
+## Keywords
+
+- {{< keyword "colonnades" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "frescoes" >}}
+- {{< keyword "niches" >}}]
+- {{< keyword "pergolas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "shrines" >}}
+- {{< keyword "statues" >}}
+- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
+- [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
+- [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
 
 ## Places
 

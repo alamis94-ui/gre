@@ -30,16 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula III]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "cisterns" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
-## Garden
-
-[Peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear of a domestic property.
-
 ## Garden Description
 
 This site was excavated in 1868 revealing a [peristyle](http://vocab.getty.edu/page/aat/300080971) garden at the rear of the house. A [portico](http://vocab.getty.edu/page/aat/300004145) on the east and north side was supported by five columns connected by a low wall. There was an opening to the garden on the north. The middle of the garden had two [cistern](http://vocab.getty.edu/page/aat/300052558) puteals. The west wall of the garden held the famous painting depicting the battle between the Nucerians and the Pompeians in the amphitheatre (1.60m high by a little less than 2.00m wide; Mus. Naz. Inv. No. 112 222; Ruesch no. 1344). This event was recorded by Tacitus (Annals 14.17). A gutter went along the east, south, and north edges of the garden.
@@ -56,6 +46,16 @@ This site was excavated in 1868 revealing a [peristyle](http://vocab.getty.edu/p
 - Maiuri, A. 1939. *NSc*, pp. 168-169
 - Sogliano, A., 1879. *Le pitture murali campane scoverte negli anni 1867-79. Napoli: Giannini*, p. 204, no. 604
 - Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313), nos. 44-50
+
+## Keywords
+
+- {{< keyword "cisterns" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+
+## Garden
+
+[Peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear of a domestic property.
 
 ## Places
 

@@ -30,18 +30,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula III]({{<relref "#">}})
 
-## Keywords
-
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "tablina" >}}
-
-## Garden
-
-[Peristyle](http://vocab.getty.edu/page/aat/300080971) gardens in the House of Epidius Fortunatus.
-
 ## Garden Description
 
 A. On the right of the [tablinum](http://vocab.getty.edu/page/aat/300004180) were ten steps that led to the [peristyle](http://vocab.getty.edu/page/aat/300080971) garden. A [portico](http://vocab.getty.edu/page/aat/300004145) enclosed the garden on the west, north and east sides. This was supported by ten columns and two engaged columns which were stuccoed brick painted red. The north, east, and west edges of the garden had a gutter. There were two cistern openings, according to Mau, one located in the northeast corner of the garden with a tufa puteal and the other in the corresponding corner of the portico. Water emptied at the northeast corner from the gutter into the cistern and into the street at the southeast and southwest corners. An aqueduct pipe came out of the first column, (counting from the south on the west portico), and ran between the gutter and the [portico](http://vocab.getty.edu/page/aat/300004145). The pipe rose, supported from the second column on the west side, to spurt a jet of water in the gutter. Flanking the west and the north [porticoes](http://vocab.getty.edu/page/aat/300004145), it disappeared going to the northwest. On the west side it was possible in two places to let water flow into the gutter by a widening of the pipe. The gutter had openings to the gardens at these two points to serve as watering outlets. There were keys before and after the widen pipe sections to control the flow of water. Two branches of this pipe entered a room off the northwest corner of the [peristyle](http://vocab.getty.edu/page/aat/300080971) where there was a basin.
@@ -57,6 +45,18 @@ B. The front of this house excavated in 1869 had an unusual design in that it wa
 - Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 26 [(worldcat)](https://search.worldcat.org/title/222353569)
 - Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78
 - Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, nos.16-21 [(worldcat)](https://search.worldcat.org/title/974375313)
+
+## Keywords
+
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
+
+## Garden
+
+[Peristyle](http://vocab.getty.edu/page/aat/300080971) gardens in the House of Epidius Fortunatus.
 
 ## Places
 

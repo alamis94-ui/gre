@@ -10,6 +10,15 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century CE
+
+## Excavation Date
+
+1900-1901: G. Boni \
+1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,26 +38,6 @@ Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 ## Garden
 
 Garden of the Neronian Palace, Palatine
-
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "frescoes" >}}
-- {{< keyword "garden pavilions" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "niches" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "pillars" >}}
-- {{< keyword "polychrome" >}}
-- {{< keyword "pools" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "scaenae" >}}
-- {{< keyword "terraces" >}}
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
 ## Garden Description
 
@@ -74,19 +63,30 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image file="domus_transitoria_fig2.jpg" caption="Fig. 2: Nymphaeum of the Domus Transitoria." credit="Hypothetical reconstruction by C. Evans (1936)." alt="" >}}
 
-## Dates
-
-1st century CE
-
-## Excavation Date
-
-1900-1901: G. Boni \
-1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
-
 ## Bibliography
 
 - H. Manderscheid, "Was nach den 'ruchlosen Räubereien' übriglieb-zu Gestalt und Funktion der sogenannten Bagni di Livia in der Domus Transitoria," in A. Hoffmann, U. Wulf (eds.), *Die Kaiserpaläste auf dem Palatin in Rom. Das Zentrum der römischen Welt und seine Bauten*, Mainz: Zabern, 2006, p. 75-85. [(worldcat)](https://search.worldcat.org/title/769179906)
 - M.A. Tomei, "Nerone sul Palatino", in M.A. Tomei, R. Rea (eds.), *Nerone: Catalogo della mostra*, Milano: Electa, 2011, p. 118-135. [(worldcat)](https://search.worldcat.org/title/1051659054)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "frescoes" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "polychrome" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "scaenae" >}}
+- {{< keyword "terraces" >}}
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
 ## Places
 

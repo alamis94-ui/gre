@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -36,12 +44,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The Garden of the Piazza d'Oro (Fig. 1, n. 20)\
 - {{< id vocab="Pleiades" id="379689233" name="Piazza d'Oro at Hadrian's Villa" >}}
-
-## Keywords
-
-- {{< keyword "flower gardens" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
 
 ## Garden Description
 
@@ -83,14 +85,6 @@ Here there was a different way to water the plants. Due to their inclination the
 
 {{< image file="63_pozzetti_irrigazione.jpg" caption="Fig. 63: The eastern canal of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of eastern irrigation canal of the Piazza d'Oro garden Hadrian's Villa, showing the many little pits excavated in its bottom" >}}
 
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
-
 ## Bibliography
 
 <!-- Bibliography for Location Description -->
@@ -122,6 +116,12 @@ unspecified
 - PLIN. *nat.* 16.28.70
 - PLIN. *nat.* 21.14 and 47
 - E. Salza Prina Ricotti, "Il sistema di irrigazione della Piazza d'Oro", *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 121-150. [(worldcat)](https://search.worldcat.org/title/1074521932)
+
+## Keywords
+
+- {{< keyword "flower gardens" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -37,11 +45,6 @@ The realization of this magnificent residence must have been a cherished dream o
 Antinous' tomb (Fig. 1, n. 25)\
 - {{< id vocab="Pleiades" id="652231746" name="Antinoeion at Hadrian's Villa" >}}
 
-## Keywords
-
-- {{< keyword "nymphaea" >}}
-- {{< keyword "tombs" >}}
-
 ## Garden Description
 
 When, after having asked Dr. Reggiani to write about the garden emerged by her excavations, I began to study the map she kindly sent me (Fig. 75). Mari had informed me that the big structure beside the entrance gate was a Nymphaeum, but this seemed to me really improbable: It was too big and not in scale with the rest. I soon discovered that not only it was not a Nymphaeum but that it was a tomb and I easily connected it with Antinous, the same Antinous who had been deified by the Egyptians (E. SALZA PRINA RICOTTI 2002-2003). Hadrian was more than pleased to accept him as a god, thus he could  build to his memory a very important monument, something that he could never do for a simple boy. A temple more than a tomb.
@@ -68,7 +71,7 @@ After the passage or this horde of locusts the only things that were left to Vil
 
 Today on this rocky plain, left naked by an exaggerate excavation, we can see all that happened here, from the big mass of marble fragments prepared for the kilns (and that was left there by the local people who, now had more than enough lime, and never burned them) to the long furrow traced in the tufa platform by the holy Fathers in such a way as to held rain water in them, keep always humid the soil and by capillarity irrigate the young vines.
 
-As we have said at the beginning the Temple-tomb was never completed. Antinous who, at the end of the works, would have been transported there, was left in Antinoopolis' temple (J. C. GRENIER 1986). Anyway he now was a god with a well asserted religion, and temples (Fig. 90) in a great part of the known world. A cult that thrived up to the middle of  the IV century (ATTANASIUS 350 A.D.). However also if Antinous was left in the desert's sands his memory is still here and visiting Villa Adriana, one can always feel his presence.
+As we have said at the beginning the Temple-tomb was never completed. Antinous who, at the end of the works, would have been transported there, was left in Antinoopolis' temple (J. C. GRENIER 1986). Anyway he now was a god with a well asserted religion, and temples (Fig. 90) in a great part of the known world. A cult that thrived up to the middle of  the IV century (ATTANASIUS 350 CE). However also if Antinous was left in the desert's sands his memory is still here and visiting Villa Adriana, one can always feel his presence.
 
 ## Plans
 
@@ -108,14 +111,6 @@ As we have said at the beginning the Temple-tomb was never completed. Antinous w
 
 {{< image file="89_cuts_in_the_tufa.jpg" caption="Fig. 89: Cuts made in the tufa of the tomb's platform by the Jesuits, Eugenia Salza Prina Ricotti." credit="" alt="Photograph showing the cuts made in the tufa of the tomb's platform by the Jesuits" >}}
 
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
-
 ## Bibliography
 
 <!-- Bibliography for Location Description -->
@@ -142,6 +137,11 @@ unspecified
 - J. C. Grenier "L'emplacement de la tombe de Antinous d'après les textes de l'obelisque Barberini," in J.C. Grenier, F. Coarelli, "La tombe de Antinous à Rome," in *Mélanges de l'École française de Rome, Antiquité* XCVIII (1986), pp. 217-229. [(worldcat)](https://search.worldcat.org/title/220729070)<!-- link for specific issue? -->
 - Attanasius 350 CE –  From a letter of Saint Attanasius "And then this is the new god, Antinous, Hadrian's servant, a boy who was a slave of the emperor's depraved and against nature lust... This scandalous and shameless boy died in Aegypt during an imperial court's visit to this country. Immediately His Imperial Majesty issued an order and an extremely rigorous edict obliging all his subjects to recognize the deity of the dead boy..."
 <!-- PIETRANGELI 1993 reference removed -->
+
+## Keywords
+
+- {{< keyword "nymphaea" >}}
+- {{< keyword "tombs" >}}
 
 ## Places
 

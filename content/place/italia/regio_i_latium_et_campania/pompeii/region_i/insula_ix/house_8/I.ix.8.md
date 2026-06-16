@@ -10,6 +10,12 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified - 70 CE
+
+## Excavation Date
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -30,11 +36,6 @@ draft: true
 
 I.ix.8
 
-## Keywords
-
-- {{< keyword "cisterns" >}}
-- {{< keyword "puteals" >}}
-
 ## Garden Description
 
 The garden (a) and cistern that was in the southwest corner of this house had been paved over by CE 79. There was a *puteal* in the courtyard.
@@ -49,15 +50,14 @@ The garden (a) and cistern that was in the southwest corner of this house had be
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified - 70 CE
-
-## Excavation Date
-
 ## Bibliography
 
 - Jashemski, *Gardens*, vol.II, p. 44. [(worldcat)](https://search.worldcat.org/title/921816405)
+
+## Keywords
+
+- {{< keyword "cisterns" >}}
+- {{< keyword "puteals" >}}
 
 ## Places
 

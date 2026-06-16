@@ -10,6 +10,18 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century- 3rd century CE
+
+## Excavation Date
+
+1720-1729: F. Bianchini\
+1860s: P. Rosa\
+1900-1901: G. Boni\
+1983-1988: C. Krause under the Swiss Institute of Rome
+1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -28,30 +40,6 @@ draft: false
 ## Garden
 
 Garden of the Domus Tiberiana, Palatine
-
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "cryptoportici" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "garden pavilions" >}}
-- {{< keyword "herms" >}}
-- {{< keyword "lead" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "pipes" >}}
-- {{< keyword "pools" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "solariums" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "terraces" >}}
-- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
-- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
-- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 ## Garden Description
 
@@ -91,18 +79,6 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image file="domus_tiberiana_fig4.jpg" caption="Fig. 4: Oval pool in the southeast corner of the gardens (Photo Moscioni 246A)." credit="" alt="" >}}
 
-## Dates
-
-1st century- 3rd century CE
-
-## Excavation Date
-
-1720-1729: F. Bianchini\
-1860s: P. Rosa\
-1900-1901: G. Boni\
-1983-1988: C. Krause under the Swiss Institute of Rome
-1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
-
 ## Bibliography
 
 - A. Carandini, "Il Giardino Romano nell'età Tardo Repubblicana e Giulio-Claudia" *Roma Antica 2: Gli Orti Farnesiani sul Palatino*. Rome: École Française de Rome (1990):  9-15. [(worldcat)](https://search.worldcat.org/title/471515490)
@@ -112,6 +88,30 @@ RELATED PHASES ON THE PALATINE:
 - A. Platner-Ashby, *A Topographical Dictionary of Ancient Rome*, London: Oxford University Press, 1929: 191-194.[(worldcat)](https://search.worldcat.org/title/910092330)
 - L. Richardson, "Domus Tiberiana," *A New Topographical Dictionary of Rome*. Baltimore: Johns Hopkins University Press, 1992, 136-137. [(worldcat)](https://search.worldcat.org/title/256637651)
 - M.A. Tomei, M.G. Filetici (eds.), *Domus Tiberiana: Scavi e Restauri 1990-2011*. Milano: Electa, 2011, partic. pp. 59-70; 222-229; 303-305. [(worldcat)](https://search.worldcat.org/title/819286517)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "herms" >}}
+- {{< keyword "lead" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pipes" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "solariums" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "terraces" >}}
+- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
+- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
+- [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+- [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 ## Places
 

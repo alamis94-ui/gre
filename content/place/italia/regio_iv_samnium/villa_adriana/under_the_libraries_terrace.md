@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -36,10 +44,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)
 
-## Keywords
-
-- {{< keyword "terrace gardens" >}}
-
 ## Garden Description
 
 The principal element of this garden (Fig. 28) is the sustaining wall of the overhanging terrace, a kind of theater scenery decorated by a series of 23 alternatively semicircular and square niches (Fig. 29).
@@ -55,14 +59,6 @@ However the garden did not occupy the entire plateau. A substantial concentratio
 ## Images
 
 {{< image file="29_nymphaeum.jpg" caption="Fig. 29: Nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Nymphaeum of the Terraced garden under the Libraries at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 
@@ -83,6 +79,10 @@ unspecified
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 <!-- Bibliography for Garden Description -->
 - E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](https://search.worldcat.org/title/1006002216) <!-- link to specific issue needed -->
+
+## Keywords
+
+- {{< keyword "terrace gardens" >}}
 
 ## Places
 

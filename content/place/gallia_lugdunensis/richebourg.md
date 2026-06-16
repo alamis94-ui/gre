@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [AUTRICUM (Chartres, France)]({{<relref ".">}})
@@ -17,17 +21,6 @@ draft: true
 ## Garden
 
 Richebourg (Yvelines) villa de
-
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "trellises" >}}
-- {{< keyword "stylobates" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "apses" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 
@@ -58,10 +51,6 @@ None Available
 
 {{< image file="yvelines2.jpg" caption="Plan 1:  Bird's Eye Perspective of the Garden" credit="" alt="A colorful bird's eye perspective of the garden between the buildings." >}}
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - Y. Barat, La villa gallo-romaine de Richebourg (Yvelines) in  *Revue  Archéologique  du  Centre  de  la  France,*  38, 1999, p. 117-67, plans  p. 122, jardin  p.140. [(worldcat)](https://search.worldcat.org/title/4647907321)
@@ -69,6 +58,17 @@ Unspecified
 - Y. Barat, La recherche archéologique des jardins antiques in *Les nouvelles de l'archéologie*  83-84, 2001, p. 56-62, not. P. 58-59. <!-- no worldcat -->
 - G. Coulon, J.C. Golvin, *Voyage en Gaule romaine,* Actes sud Errance, Arles-Paris, 2002, p.121-3, restitution p. 122-3. [(worldcat)](https://search.worldcat.org/title/1002913551)
 - Y. Barat and D. Morize, L'archéologie des jardins antiques: le cas de la *pars urbana* de la *villa* de Richebourg (Yvelines) in *Actualité de la Recherche en Histoire et Archéologie agraires, Annales Littéraires de L'Université de Franche-Comté,* 764, Besançon, 2003.  [(worldcat)](https://search.worldcat.org/title/243748592)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "stylobates" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "apses" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

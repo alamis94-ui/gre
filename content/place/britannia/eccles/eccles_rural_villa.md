@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+mid-1st to 4th century CE
+
 ## Location
 
 - [Eccles]({{<relref ".">}})
@@ -18,15 +22,6 @@ draft: false
 ## Garden
 
 Rural Villa in Eccles
-
-## Keywords
-
-- {{< keyword "ditches" >}}
-- {{< keyword "drains" >}}
-- {{< keyword "horticultural containers" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "villae rusticae" >}}
-- {{< keyword "water baths" >}}
 
 ## Garden Description
 
@@ -42,15 +37,20 @@ This country estate in modern Kent possessed a large ornamental pool (P in Fig. 
 
 {{< image file="Eccles_Fig_2.jpg" caption="Fig. 2: Clay planting pot with cut-out holes." credit="Adapted from Detsicas 1981, fig. 26.2." alt="" >}}
 
-## Dates
-
-mid-1st to 4th century CE
-
 ## Bibliography
 
 - A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](https://search.worldcat.org/title/247009310)
 - R.J. Zeepvat, "Fishponds in Roman Britain," in: M. Aston, ed., *Medieval Fish, Fisheries and Fishponds in England. British Archaeological Reports*, Brit. Ser. 182, Oxford, 1988, p. 18, fig. 2. [(worldcat)](https://search.worldcat.org/title/490025716)
 - A. Detsicas, "A group of pottery from Eccles, Kent," in *Roman Pottery Research in Britain and Northwest Europe, British Archaeological Reports*, Int. Ser. 123, Oxford, 1981, pp. 441-445.
+
+## Keywords
+
+- {{< keyword "ditches" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "horticultural containers" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "water baths" >}}
 
 ## Places
 

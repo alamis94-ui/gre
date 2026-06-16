@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}})
@@ -19,27 +23,17 @@ draft: true
 
 Villa de Châtillon-sur-Seiche
 
-## Keywords
-
-- {{< keyword "barns" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "trenches" >}}
-- {{< keyword "fanums" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "hypocausts" >}}
-- {{< keyword "forecourts" >}}
-
 ## Garden Description
 
 Six kilometers south of Rennes, this village with medieval churches and pleasant promenades along the banks of the Seiche must once have been the site of *castellum* from which the name Châtillon derives. The fort was probably on a mound a few hundred meters southwest of the ancient farm and villa described here.
 
 The evolution of this agricultural site can be followed from the period immediately following the Roman conquest up to its destruction at the end of the fourth century. The site lies 0.9 kilometers east of the center of the cloverleaf intersection of N 137 with D 34 in the Guyomerais area on the west side of Noyal-Châtillon-sur-Seiche. Rue des Potiers cuts through the site, with the *pars urbana* on the north and the smaller *pars rustica* on the south. The Rue de Condate bounds the area on the east. Known since 1904, the four-hectare site was excavated by Alain Provost between 1984 and 1988 prior to development of a residential subdivision.
 
-From a period immediately following the Roman occupation (from 20 BCE to about 40 AD) date a stone enclosure for animals, some agricultural walls, and remnants of a simple *barn.*
+From a period immediately following the Roman occupation (from 20 BCE to about 40 CE) date a stone enclosure for animals, some agricultural walls, and remnants of a simple *barn.*
 
 A modest farmhouse (Phase 1) was built about CE 30. To the south extended a *courtyard* (65 x 70 m), delimited by a *trench,* which may have had a garden. Outbuildings included a forge, a workshop, and three small homes with fireplaces.
 
-About AD 80, the farmhouse was razed to make room for the first villa (Phase 2).Built of small stones, this villa consisted of five rooms in a line extending 26.5 meters along the north side of a gallery. A wall replaced the trench delimiting the *courtyard.* Outbuildings included a barn, a mill, and a chalk oven, in addition to the forge and homes.
+About CE 80, the farmhouse was razed to make room for the first villa (Phase 2).Built of small stones, this villa consisted of five rooms in a line extending 26.5 meters along the north side of a gallery. A wall replaced the trench delimiting the *courtyard.* Outbuildings included a barn, a mill, and a chalk oven, in addition to the forge and homes.
 
 Then, somewhere around 180, residential structures were attached to the outside of the wall on the east side of the *courtyard* (Phase 3). They may have been the residence of the villicus. A little to the south and also outside the *courtyard* was built a square *fanum,* a type of temple thought to be of Celtic origin and consisting of a tower in a *courtyard* surrounded by a gallery.
 
@@ -53,7 +47,7 @@ At the end of the third century, the *pars urbana* was abandonned, then partiall
 
 Was there a garden? Within the *courtyard,* there is no direct evidence of planting, but neither is there evidence of a hard surface that would preclude a garden, except that between the north gallery and the *fountain* there seems to have been a passage way. Outside the courtyard, northeast of the supposed house of the *villicus,* there were parallel *trenches* interpreted by the excavator as a garden zone (F on the Phase 4 plan).
 
-A study of pollens and sediments below the levels of the Gallo-Roman villa in a paleosol dated to the late first century BCE or early first century AD has revealed the environment of the farm at that time. It shows a soil already worked and gardened by man and the presence of pollens of cereals. The countryside, already totally or partially cleared combined various trees – pine, hazel, oak, holly and linden – with ferns and herbaceous plants, especially grasses and plantains characteristic of prairies and grasslands. A comparison with the quantities of pollens found in the soils of the villa in the second and third centuries shows relative stability of the percentages, as shown in figure 5. While interesting, these findings describe the environment rather than the gardens themselves.
+A study of pollens and sediments below the levels of the Gallo-Roman villa in a paleosol dated to the late first century BCE or early first century CE has revealed the environment of the farm at that time. It shows a soil already worked and gardened by man and the presence of pollens of cereals. The countryside, already totally or partially cleared combined various trees – pine, hazel, oak, holly and linden – with ferns and herbaceous plants, especially grasses and plantains characteristic of prairies and grasslands. A comparison with the quantities of pollens found in the soils of the villa in the second and third centuries shows relative stability of the percentages, as shown in figure 5. While interesting, these findings describe the environment rather than the gardens themselves.
 
 ## Maps
 
@@ -68,14 +62,20 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 
 {{< image file="noyal_section.jpg" caption="Reconstructed cut of the Fountain Bassin." credit="" alt="A section drawing of a fountain. A female figure stands in the center with water spewing out of a column. There are two extra, unadorned pedastals in the fountain drawing before getting to the fountain's edge." >}}
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - Alain Provost, "La villa gallo-romaine de Chatillon-sur-Seiche," in the catalog of the exposition  *Nos ancêtres les Riedones*, Musée de Bretagne- Eco-musée du pays de Rennes, Rennes, 20 juin, 31 déc. 1990, p. 10-31 [(worldcat)](https://search.worldcat.org/title/715516488)
 - Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)](https://search.worldcat.org/title/463616145)
+
+## Keywords
+
+- {{< keyword "barns" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "trenches" >}}
+- {{< keyword "fanums" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "forecourts" >}}
 
 ## Places
 

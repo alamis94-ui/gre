@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Unspecified
+
 ## Province
 
 - [Italia]({{<relref "../../..">}})
@@ -23,7 +27,7 @@ draft: false
 
 ## Location Description
 
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
@@ -33,12 +37,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 ## Garden
 
 B
-
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "stuccoing" >}}
 
 ## Garden Description
 
@@ -54,14 +52,16 @@ B. From the atrium the peristyle on the lower level was reached by way of a stee
 
 {{< image file="herc.i.2-3_42.19.64.jpg" caption="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "stuccoing" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
-## Dates
-
-Unspecified
 
 ## Bibliography
 

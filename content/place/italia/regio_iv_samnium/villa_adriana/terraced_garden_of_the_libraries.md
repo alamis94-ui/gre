@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -36,11 +44,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Terraced garden of the Libraries (Fig. 1, n. 8)
 
-## Keywords
-
-- {{< keyword "euripus" >}}
-- {{< keyword "terrace gardens" >}}
-
 ## Garden Description
 
 This terrace, leaning to the North on a sustaining wall, is the first one of a series of very interesting overhanging gardens developing on successive sloping down terraces (Fig. 25). Up to now no flowerbeds have been discovered. Today we can only admire the very long *euripus* (Fig. 26), which was the principal feature of this garden (Fig. 25, A). It ran parallel to the buildings of the libraries and occupied all its northern front. At its extremities the *euripus* expanded in two octagonal basins which had flowerbeds at their centers (Fig. 26). Two other smaller basins decorated the garden (Fig. 25, B-C).  We can see one in the photo (Fig. 27).
@@ -56,14 +59,6 @@ This terrace, leaning to the North on a sustaining wall, is the first one of a s
 {{< image file="26_libraries_euripus.jpg" caption="Fig. 26: Euripus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Euripus in the Terraced garden of the Libraries at Hadrian's Villa" >}}
 
 {{< image file="27_fontana.jpg" caption="Fig. 27: Fountain, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of a Fountain in the Terraced garden of the Libraries at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 
@@ -82,6 +77,11 @@ unspecified
 - J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](https://search.worldcat.org/title/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
 - M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/32679652)
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
+
+## Keywords
+
+- {{< keyword "euripus" >}}
+- {{< keyword "terrace gardens" >}}
 
 ## Places
 

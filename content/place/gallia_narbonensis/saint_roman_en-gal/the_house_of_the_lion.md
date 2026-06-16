@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
@@ -49,17 +53,11 @@ This house is today, as when it was built, only a few meters back from the right
 
 {{< image file="the_house_of_the_lion.png" caption="Plan of the house of the lion" credit="" alt="" >}}
 
-## Dates
-
-It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.
-
 ## Bibliography
 
-1. Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189-190.[worldcat](https://search.worldcat.org/title/1169743067)
-
-2. *Recherches Archéologiques À Saint-Romain-En-Gal, 1988-1990*. Vienne: Société des amis de Vienne, 1992, P.78,81.[worldcat](https://search.worldcat.org/title/1068996218)
-
-3. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, p.259-263, fig. 182-183.[worldcat](https://search.worldcat.org/title/43416334)
+- Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189-190.[worldcat](https://search.worldcat.org/title/1169743067)
+- *Recherches Archéologiques À Saint-Romain-En-Gal, 1988-1990*. Vienne: Société des amis de Vienne, 1992, P.78,81.[worldcat](https://search.worldcat.org/title/1068996218)
+- Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, p.259-263, fig. 182-183.[worldcat](https://search.worldcat.org/title/43416334)
 
 ## Places
 

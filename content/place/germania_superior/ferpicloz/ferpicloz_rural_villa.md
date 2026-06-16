@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Ferpicloz]({{<relref ".">}})
@@ -18,13 +22,6 @@ draft: true
 ## Garden
 
 Rural Villa in Ferpicloz
-
-## Keywords
-
-<!-- archaeological garden -->
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -38,14 +35,17 @@ The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) 
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified
-
 ## Bibliography
 
 - W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 394-395, fig. 369. [(worldcat)](https://search.worldcat.org/title/639129078)
 - R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d'histoire*, Lausanne, 1992, p. 157, fig. 116.3. [(worldcat)](https://search.worldcat.org/title/28038264)
+
+## Keywords
+
+<!-- archaeological garden -->
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

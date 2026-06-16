@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1952-1953
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -30,14 +38,6 @@ draft: true
 
 I.ix.12
 
-## Keywords
-
-- {{< keyword "columns" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "pillars" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 A low wall connected the three columns and a pillar that supported the *portico* of this *peristyle* garden (a) located to the back of the house. The *portico* enclosed the garden on the on the east and south and entry was gained on the south between two of the columns. The excavation was done in 1952-53 and uncovered a *lararium* niche on the west garden wall.
@@ -52,19 +52,19 @@ A low wall connected the three columns and a pillar that supported the *portico*
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1952-1953
-
 ## Bibliography
 
 - DeVos, "Scavi nuovi sconoscuti (1.9.13)," *Meded* 38 (1976), pl. 35 (plan).
 - Jashemski, *Gardens*, vol.II, p. 45. [(worldcat)](https://search.worldcat.org/title/921816405)
 - Orr, no. 4.
+
+## Keywords
+
+- {{< keyword "columns" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

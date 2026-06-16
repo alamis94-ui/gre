@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1913.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,22 +33,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 
 [Insula VI]({{<relref "#">}})
-
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "garden lights" >}}
-- {{< keyword "garden ornaments" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "storerooms" >}}
-
-## Garden
-
-House of L. Ceius Secundus; House of the Ceii; of Queen Elena; of Fabia and Tyrannus.
 
 ## Garden Description
 
@@ -72,10 +60,6 @@ This small garden was located at the rear of the house and featured a [portico](
 
 {{< image file="Fig_29_I.vi.15_45.18.64.jpg" caption="Fig. 8: I. vi. 45.18.64, S.A. Jashemski" credit="" alt="" >}} -->
 
-## Dates
-
-Excavated 1913.
-
 ## Bibliography
 
 - Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 69-70, 113 and fig 43, 111-114. [(worldcat)](https://search.worldcat.org/title/312003872)
@@ -88,6 +72,22 @@ Excavated 1913.
 - Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 407-418 and figs. 467-478, 481 on pp.409-416, 418.
 - Spinazzola, *Scavi nuovi*, pp. 275-277, fig. 282 (plan) on p. 258, and figs. 304, 306, and 307 on pp. 275-277. [(worldcat)](https://search.worldcat.org/title/883858580)
 - Zanker, P. 1998. *Pompeii: Public and Private Life*, pp. 477-480.
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden lights" >}}
+- {{< keyword "garden ornaments" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "storerooms" >}}
+
+## Garden
+
+House of L. Ceius Secundus; House of the Ceii; of Queen Elena; of Fabia and Tyrannus.
 
 ## Places
 

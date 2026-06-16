@@ -26,10 +26,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 Villa at Borgellusa di Avola
 
-## Keywords
-
-<!-- {{< keyword "villae urbanae" >}} -->
-
 ## Garden Description
 
 There is a four meter square basin located in the middle of the space enclosed by the peristyle (Fig. 6). Belonging to Farrar's type D, the pool has a square exterior and an inner outline of semicircular corner niches alternating with rectangular recesses. Probably belonging to the first half of the first century CE, the pool is waterproofed with white mortar inside, and has edges lined with white and grey marble, possibly Carraran (Fig. 7).
@@ -52,6 +48,10 @@ G. M. Bacci, Scavi e ricerche a Avola, Grammichele, Portopalo, Taormina, Kokalos
 
 R. J. A. Wilson, Archaeological Reports 34 (1987-88):  115, fig. 6 [(worldcat)](WORLDCAT_LINK_URL)
 id., Sicily under the Roman Empire, Warminster, 1990, pp. 197-8  with fig. 165.1. [(worldcat)](https://search.worldcat.org/title/608028740)
+
+## Keywords
+
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Places
 

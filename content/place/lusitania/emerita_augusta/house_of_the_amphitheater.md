@@ -11,6 +11,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+2nd century CE and 3rd CE
+
+## Excavation Dates
+
+from 1947
+
 ## Province
 
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
@@ -42,15 +50,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 House of the Amphitheater
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "water wells" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Garden Description
 
 Next to the Amphitheater, on the east side of Augusta Emerita, are the remains of two extramural residences. The archaeological excavations of these domestic structures were begun in 1947 by José de Calasanz Serra Ráfols, who was succeeded by M. Pous, Álvarez Sáenz de Buruaga, and E. García Sandoval. Although chronologically distinct, the two houses are known together as the "House of the Amphitheater" due to their proximity to that monument.
@@ -61,7 +60,7 @@ The second house, which is better preserved, is more correctly dubbed the "House
 
 The house, of sizeable proportions, boasted important painted and mosaic decoration. Of the three chambers situated along the southeast gallery, the center chamber had opus signinum pavement and has been interpreted as a triclinium, from which one could enjoy magnificent views of the garden. The pavement of the contiguous chamber to the northeast has a beautiful mosaic with representations of Venus and Cupid surrounded with floral designsand "The Mosaic of the Grape Harvest" (Mosaico de la Vendimia). They were repaired in antiquity.
 
-An equally important second nucleus of this house consisted of a complex of rooms at its east end. This area had handsome mosaic pavements and communicated with the aforementioned peristyle through an L-shaped passageway. Its largest chamber, which had the character of a show room, if not a triclinium, is known as the "Hall of the Fish Mosaic" (Habitación del Mosaico de los Peces) and is dated to the 3rd century AD. Although this second group of rooms was probably organized around courtyards or gardens, none have been documented because this part of the residence remains unexcavated. The peristyle of the House of the Amphitheater, as well as the plan of the entire residence, has close parallels in the eastern Mediterranean which have been thoroughly studied by A. Balil.
+An equally important second nucleus of this house consisted of a complex of rooms at its east end. This area had handsome mosaic pavements and communicated with the aforementioned peristyle through an L-shaped passageway. Its largest chamber, which had the character of a show room, if not a triclinium, is known as the "Hall of the Fish Mosaic" (Habitación del Mosaico de los Peces) and is dated to the 3rd century CE. Although this second group of rooms was probably organized around courtyards or gardens, none have been documented because this part of the residence remains unexcavated. The peristyle of the House of the Amphitheater, as well as the plan of the entire residence, has close parallels in the eastern Mediterranean which have been thoroughly studied by A. Balil.
 
 ## Plans
 
@@ -73,19 +72,20 @@ An equally important second nucleus of this house consisted of a complex of room
 
 {{< image file="his_lus_col_augusta_ha_photo_fig2.jpg" caption="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." credit="" alt="" >}}
 
-## Dates
-
-2nd century CE and 3rd CE
-
-## Excavation Dates
-
-from 1947
-
 ## Bibliography
 
 - A. Balil Illana, A. 1976: "Sobre la arquitectura doméstica en Augusta Emerita", *Augusta Emerita Actas del Bimilenario de Mérida, Mérida*, 75-91. [(worldcat)](https://search.worldcat.org/title/256553527)
 - E. García Sandoval, Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8 (i964): 469-477 [(worldcat)](https://search.worldcat.org/title/43198027)
 - E. García Sandoval, Informe sobre las casa romanas de Mérida y excavaciones en la «Casa del Anfiteatro»," in *Excavaciones Arqueológicas en España*  nº. 49, Madrid, 1964. [(worldcat)](https://search.worldcat.org/title/681090209)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

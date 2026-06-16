@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [COLONIA AUGUSTA TREVERORUM (Trier, Germany)]({{<relref ".">}})
@@ -18,12 +22,6 @@ draft: true
 ## Garden
 
 Urban House East of Forum
-
-## Keywords
-
-- {{< keyword "insulae" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "peristyles" >}}
 
 ## Garden Description
 
@@ -38,17 +36,21 @@ None Available
 ## Plans
 
 None Available
+
 ## Images
 
 None Available
-## Dates
-
-Unspecified
 
 ## Bibliography
 
 - W. Reusch, "Wandmalereien und Mosaikboden eines Peristylhauses im Bereich der Trierer Kaiserthermen," Trierer Zeitschrift 29, 1966:187-235. [(worldcat)](https://search.worldcat.org/title/1088857189)
 - W. Reusch, "Die Ausgrabungen im Westteil der Trierer Kaiserthermen", Bericht der Römisch-Germanischen Kommission 51-52,1970-71:252-270, 281, Beilage 30. [(worldcat)](https://search.worldcat.org/title/67721035)
+
+## Keywords
+
+- {{< keyword "insulae" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

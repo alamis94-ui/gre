@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Excavations in 1982-1984
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -50,15 +54,10 @@ The free space north of rooms [1], [2] and [9] was probably a garden without por
 
 {{< image file="house1_quartier_de_la_verrerie_glassworks_quarter_at_trinquetaille.png" caption="Plan of House I, Quartier de la Verrerie at Trinquetaille" credit="" alt="" >}}
 
-## Dates
-
-Excavations in 1982-1984
-
 ## Bibliography
 
-1. Cl. Sintès, *Les fouilles de la verrerie de Trinquetaille*, in Cl. SINTES, dir., Du nouveau sur Arles antique, Arles, 1987, p. 81-4. 
-
-2. Rouquette, Jean-Maurice, and Claude Sintès. *Arles Antique: Monuments Et Sites* Paris: Impr. nationale, p. 90-1.[(worldcat)](https://search.worldcat.org/title/22813475)
+- Cl. Sintès, *Les fouilles de la verrerie de Trinquetaille*, in Cl. SINTES, dir., Du nouveau sur Arles antique, Arles, 1987, p. 81-4. 
+- Rouquette, Jean-Maurice, and Claude Sintès. *Arles Antique: Monuments Et Sites* Paris: Impr. nationale, p. 90-1.[(worldcat)](https://search.worldcat.org/title/22813475)
 
 ## Places
 

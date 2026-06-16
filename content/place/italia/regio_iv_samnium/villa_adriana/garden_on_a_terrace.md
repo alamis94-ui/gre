@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -36,11 +44,6 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden on a terrace (Fig. 1, n. 15)
 
-## Keywords
-
-- {{< keyword "columns" >}}
-- {{< keyword "porticoes" >}}
-
 ## Garden Description
 
 This garden was placed to the east of the Palace and, looking the Valley of Tempe, was sustained by a huge wall (Fig. 1, 15). Now nothing of it is left, but in ancient times a long portico ran all along the eastern side of the terrace. For what is written in Contini's notes, in 1658 many columns of gray marble with corinthian capitals were still standing in the place. Afterwards, Piranesi (who, in 1781, surveyed Villa Adriana, and published a new map of it) found that some of them had been brought to the Vatican Museums. Today only the beautiful view from the terrace and the considerable presence of lead in the soil (SALZA PRINA RICOTTI 1994-95, fig. 7) denounces the presence of this ancient garden.
@@ -48,14 +51,6 @@ This garden was placed to the east of the Palace and, looking the Valley of Temp
 ## Plans
 
 {{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
-
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
 
 ## Bibliography
 
@@ -76,6 +71,11 @@ unspecified
 - J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 <!-- Bibliography for Garden Description -->
 - E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](https://search.worldcat.org/title/1006002216) <!-- link to specific issue needed -->
+
+## Keywords
+
+- {{< keyword "columns" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

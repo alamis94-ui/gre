@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century BCE- 1st century CE
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -28,22 +32,6 @@ draft: false
 ## Garden
 
 Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
-
-## Keywords
-
-- {{< keyword "brick" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "flower gardens" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "frescoes" >}}
-- {{< keyword "marble" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-- [princeps](https://www.britannica.com/topic/princeps)
-- {{< keyword "architectural terracotta" >}}
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
 ## Garden Description
 
@@ -69,14 +57,26 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 {{< image file="jc_domus_fig2.jpg" caption="Figure 2. Axonometric reconstruction of the domus peristyle (© J.-M. Gassend, AMU-CNRS, IRAA)." credit="" alt="" >}}
 
-## Dates
-
-1st century BCE- 1st century CE
-
 ## Bibliography
 
 - J.-P Morel and F. Villedieu, "Le site de la Vigna Barberini à l'époque néronienne", *Actes du VIe congrès international Neronia VI, Rome à l'époque néronienne* (Roma 19-23 Mai 1999). [(worldcat)](https://search.worldcat.org/title/51441167)
 - J.-P Morel, "Una ricca domus con giardino in età giulio-claudia" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 33-43. [(worldcat)](https://search.worldcat.org/title/5894435382)
+
+## Keywords
+
+- {{< keyword "brick" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "frescoes" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
+- [princeps](https://www.britannica.com/topic/princeps)
+- {{< keyword "architectural terracotta" >}}
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
 ## Places
 

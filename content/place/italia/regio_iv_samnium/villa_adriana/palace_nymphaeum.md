@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Built between 118 and 138 CE
+
+## Excavation Date
+
+unspecified
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -35,10 +43,6 @@ The realization of this magnificent residence must have been a cherished dream o
 ## Garden
 
 Palace *nymphaeum* (Fig. 1, n. 16)
-
-## Keywords
-
-- {{< keyword "nymphaea" >}}
 
 ## Garden Description
 
@@ -70,14 +74,6 @@ We can have an idea how it looked at the beginning of the XIX century in a drawi
 
 {{< image file="45_the_immission_canal.jpg" caption="Fig. 45: The imission canal of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of a canal unearthed by the probe at the Palace Nymphaeum at Hadrian's Villa" >}}
 
-## Dates
-
-Built between 118 and 138 CE
-
-## Excavation Date
-
-unspecified
-
 ## Bibliography
 
 <!-- Bibliography for Location Description -->
@@ -99,6 +95,10 @@ unspecified
 - W. F. Jashemski, E. Salza Prina Ricotti, "I giardini di Villa Adriana: rapporto preliminare" *Atti della Pontificia Accademia romana di archeologia: Rendiconti*, Vol. 60 (1987-88), pp. 145-169. [(worldcat)](https://search.worldcat.org/title/1075183783)
 - E. Salza Prina Ricotti, "Adriano: architettura del verde e dell-acqua," in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 385-388, figs. 15-16. [(worldcat)](https://search.worldcat.org/title/636808013)
 - E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 361-367, figs. 129-133. [(worldcat)](https://search.worldcat.org/title/46784026)
+
+## Keywords
+
+- {{< keyword "nymphaea" >}}
 
 ## Places
 

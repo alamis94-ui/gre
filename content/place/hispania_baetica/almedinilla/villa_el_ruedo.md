@@ -11,6 +11,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
 ## Location
 
 - [Almedinilla]({{<relref ".">}})
@@ -19,18 +23,6 @@ draft: true
 ## Garden
 
 Villa el Ruedo
-
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "orchards" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "reservoirs" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "kilns" >}}
 
 ## Garden Description
 
@@ -54,14 +46,22 @@ The chronology of the house is quite tentative.  A first phase, probably to be p
 
 {{< image file="HIS_BAE_Almedinilla_El_Ruedo_Fig3_CA.jpg" caption="Fig. 3  Photograph looking south over stibadium and pools (Clopper Almon)." credit="" alt="" >}}
 
-## Dates
-
-unspecified
-
 ## Bibliography
 
 - D. Vaquerizo Gil and J. R. Carrillo Diaz-Pines,'The Roman Villa of El Ruedo' (Almedinilla, Córdoba),*Journal of Roman Archaeology 8*, (Ann Arbor 1995), 121-154. [(worldcat)](https://search.worldcat.org/title/643576298)
 - D. Vaquerizo and J. M. Noguera,*La villa romana de El Ruedo (Almedinilla, Córdoba): Decoración escultórica e interpretación*, Diputación Provincial de Córdoba-Universidad de Córdoba-Universidad de Murcia (Murcia 1997). [(worldcat)](https://search.worldcat.org/title/1024361591)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "reservoirs" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "kilns" >}}
 
 ## Places
 

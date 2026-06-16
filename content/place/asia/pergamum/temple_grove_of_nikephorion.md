@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 - [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}})
@@ -21,6 +25,23 @@ Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into a
 ## Garden
 
 Temple Grove of Nikephorion
+
+## Garden Description
+
+King Eumenes II of Pergamum employed a gardener to plant new trees and nurse damaged ones back to health in the grove of the Nikephorion, following an attack on the city by Philip V of Macedon in 201 BCE, during which Philip V ordered his troops to cut down trees in the sanctuary (Polybios 16.1.6).
+
+<!-- ## Maps -->
+
+<!-- ## Plans -->
+
+<!-- ## Images -->
+
+## Bibliography
+
+- M. Carroll-Spillecke, "The Gardens of Greece from Homeric to Roman Times," *Journal of Garden History* 12, 1992: 84-101. [(Taylor & Francis Online)](https://doi.org/10.1080/01445170.1992.10410564)
+- A. Kuttner, "Republican Rome looks at Pergamon," *Harvard Studies in Classical Philology* vol. 97, *Greece in Rome: Influence, Interaction, Resistance*, ed. C. P. Jones, R. Thomas, 1997, pp. 157-178. [(worldcat)](https://search.worldcat.org/title/67030024)
+- C. Ratte, "Pergamon," *Oxford Encyclopedia of Near Eastern Archaeology*, 1997, 261-262. [(worldcat)](https://search.worldcat.org/title/607143997)
+- I. Nielsen, *Hellenistic Palaces*. Aarhus, 1994, p. 107, catalog no. 15. [(worldcat)](https://search.worldcat.org/title/468433476)
 
 ## Keywords
 
@@ -35,27 +56,6 @@ Temple Grove of Nikephorion
 - {{< keyword "quadriportici" >}}
 - {{< keyword "palaestrae" >}}
 - {{< keyword "gymnasiums" >}}
-
-## Garden Description
-
-King Eumenes II of Pergamum employed a gardener to plant new trees and nurse damaged ones back to health in the grove of the Nikephorion, following an attack on the city by Philip V of Macedon in 201 BCE, during which Philip V ordered his troops to cut down trees in the sanctuary (Polybios 16.1.6).
-
-<!-- ## Maps -->
-
-<!-- ## Plans -->
-
-<!-- ## Images -->
-
-## Dates
-
-Unspecified
-
-## Bibliography
-
-- M. Carroll-Spillecke, "The Gardens of Greece from Homeric to Roman Times," *Journal of Garden History* 12, 1992: 84-101. [(Taylor & Francis Online)](https://doi.org/10.1080/01445170.1992.10410564)
-- A. Kuttner, "Republican Rome looks at Pergamon," *Harvard Studies in Classical Philology* vol. 97, *Greece in Rome: Influence, Interaction, Resistance*, ed. C. P. Jones, R. Thomas, 1997, pp. 157-178. [(worldcat)](https://search.worldcat.org/title/67030024)
-- C. Ratte, "Pergamon," *Oxford Encyclopedia of Near Eastern Archaeology*, 1997, 261-262. [(worldcat)](https://search.worldcat.org/title/607143997)
-- I. Nielsen, *Hellenistic Palaces*. Aarhus, 1994, p. 107, catalog no. 15. [(worldcat)](https://search.worldcat.org/title/468433476)
 
 ## Places
 

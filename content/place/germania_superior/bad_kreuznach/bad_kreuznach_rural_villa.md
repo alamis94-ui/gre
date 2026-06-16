@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Second half of 2nd century - around 275
+
 ## Location
 
 - [Bad Kreuznach]({{<relref ".">}})
@@ -18,19 +22,6 @@ draft: true
 ## Garden
 
 Rural Villa in Bad Kreuznach
-
-## Keywords
-
-- {{< keyword "apsed triclinia" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "cryptoportici" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -48,15 +39,24 @@ At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the
 
 <!-- ## Images -->
 
-## Dates
-
-Second half of 2nd century - around 275
-
 ## Bibliography
 
 - G. Rupprecht, "Die Kreuznacher Mosaikbodenvilla. Kurzbericht (Stand: April 1977)," *Saalburg Jahrbuch* 34, 1977:78-87.
 - G. Rupprecht, "Leben auf dem Land," *Archäologie in Deutschland* 4, 1986: 36-39. [(worldcat)](https://search.worldcat.org/title/7788112662)
 - Heinz Cüppers, *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp.321-323, fig. 204. [(worldcat)](https://search.worldcat.org/title/1040869002)
+
+## Keywords
+
+- {{< keyword "apsed triclinia" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Places
 

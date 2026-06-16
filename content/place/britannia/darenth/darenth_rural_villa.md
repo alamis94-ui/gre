@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+ca. 100 CE - late 4th century CE
+
 ## Location
 
 - [Darenth]({{<relref ".">}})
@@ -18,13 +22,6 @@ draft: false
 ## Garden
 
 Rural Villa in Darenth
-
-## Keywords
-
-- {{< keyword "kitchen gardens" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "villae rusticae" >}}
-- {{< keyword "waterspouts" >}}
 
 ## Garden Description
 
@@ -44,14 +41,17 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 <!-- ## Images -->
 
-## Dates
-
-ca. 100 CE - late 4th century CE
-
 ## Bibliography
 
 - A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](https://search.worldcat.org/title/247009310)
 - B. Philp, *Excavations in the Darent Valley*, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. [(worldcat)](https://search.worldcat.org/title/896055765)
+
+## Keywords
+
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "waterspouts" >}}
 
 ## Places
 

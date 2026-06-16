@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+First half of 1st century CE - 250
+
 ## Location
 
 - [Winkel-Seeb]({{<relref ".">}})
@@ -18,15 +22,6 @@ draft: true
 ## Garden
 
 Rural Villa in Winkel-Seeb
-
-## Keywords
-
-- {{< keyword "corridors" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "terrace gardens" >}}
-- {{< keyword "villae rusticae" >}}
-- {{< keyword "well houses" >}}
 
 ## Garden Description
 
@@ -40,16 +35,21 @@ The residential and service parts of this *villa rustica* occupied an area of ca
 
 <!-- ## Images -->
 
-## Dates
-
-First half of 1st century CE - 250
-
 ## Bibliography
 
 - W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 550-555, figs. 511-512. [(worldcat)](https://search.worldcat.org/title/639129078)
 - Ch. Jacquat, *Der römische Garten in Seeb*, Zürich, 1988. [(worldcat)](https://search.worldcat.org/title/883206952)
 - W. Drack, *Der römische Gutshof bei Seeb, Gem. Winkel. Berichte der Zürcher Denkmalpflege. Archäologische Monographien 8*, Zürich, 1990. [(worldcat)](https://search.worldcat.org/title/468251890)
 - M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 75, fig. 29. [(worldcat)](https://search.worldcat.org/title/1120840822)
+
+## Keywords
+
+- {{< keyword "corridors" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "well houses" >}}
 
 ## Places
 

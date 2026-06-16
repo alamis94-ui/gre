@@ -10,6 +10,16 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+1st century BCE- 2nd century CE
+
+## Excavation Dates
+
+1930s: A. Bartoli\
+1950s: G.F. Carretoni\
+1985-: Soprintendenza Archeologica in collaboration with École française de Rome
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -28,13 +38,6 @@ draft: false
 ## Garden
 
 Vigna Barberini Site Overview, Palatine
-
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "temples" >}}
 
 ## Garden Description
 
@@ -56,16 +59,6 @@ PHASES OF THE VIGNA BARBERINI SITE:
 
 {{< image file="vigna_barberini_fig2.jpg" caption="Fig. 2: Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." credit="" alt="" >}}
 
-## Dates
-
-1st century BCE- 2nd century CE
-
-## Excavation Dates
-
-1930s: A. Bartoli\
-1950s: G.F. Carretoni\
-1985-: Soprintendenza Archeologica in collaboration with École française de Rome
-
 ## Bibliography
 
 - P. Bigot, "Le temple de Jupiter Ultor et la Vigna Barberini," *Bullettino della Commissione archeologica Comunale di Roma*, 1911, pp. 80-85. [(worldcat)](https://search.worldcat.org/title/991557901)
@@ -78,6 +71,13 @@ PHASES OF THE VIGNA BARBERINI SITE:
 - J.-P. Morel, "Stratigraphie et histoire sur le Palatin : la zone centrale de la Vigna Barberini," *Comptes Rendus de l'Académie des Inscriptions & Belles-Lettres*, 1996, pp. 173-205. [(worldcat)](https://search.worldcat.org/title/643571704)
 - F. Villedieu, P. Veltri, "Les soutènements nord-ouest et nord de la terrasse de la Vigna Barberini (Rome, Palatin): constructions et remaniements de l'époque flavienne à l'époque sévérienne," *Mélanges de l'École Française de Rome*, 111 (1999), pp. 749-778. [(worldcat)](https://search.worldcat.org/title/220729070)
 - F. Villedieu , et alii, *Il giardino dei Cesari.* Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001. [(worldcat)](https://search.worldcat.org/title/5894435382)
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "temples" >}}
 
 ## Places
 

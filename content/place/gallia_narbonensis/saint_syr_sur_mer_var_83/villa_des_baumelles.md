@@ -31,6 +31,19 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Villa des Baumelles
 
+## Garden Description
+
+## Plans
+
+{{< image file="villa_des_baumelles.jpg" caption="Plan of Villa des Baumelles" credit="" alt="" >}}
+
+<!-- ## Dates -->
+
+## Bibliography
+
+-  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 639-649, plan P. 641. [(worldcat)](https://search.worldcat.org/title/1074683092)
+- Bouet, Alain, and Philippe Leveau. *Les Thermes Prives Et Publics En Gaule Narbonnaise*. S.l.: s.n., 1996, P. 293-294. [(worldcat)](https://search.worldcat.org/title/490154337)
+
 ## Keywords
 
 - {{< keyword "aqueducts" >}}
@@ -54,20 +67,6 @@ To the southwest, a second residential complex, closer to the sea, was developed
 An 80-meter gallery running the full length of the villa served as the southwest façade beside the sea.  Its stone columns rested on cubical bases.  To the south rose a tower, doubtless a belvedere [16], which was perhaps balanced by a symmetric one at the other end of the gallery.
 
 To the south, a charming apartment overlooked the cove of the Madrague and may have been winter living quarters.  Below, on the lowest level, another court [14] reached by stairs [13], was embellished by a large rectangular pool (9.92 by 6.15 meters) with an apse at either end.  The pool was lined with *opus signinum* with quarter-round molding for waterproofing in the corners.  Steps descended into this pool, and at the foot of the steps a lead pipe was found.  The villa also had two facilities for heated baths, one at each end of the façade towards the sea.
-
-## Garden Description
-
-## Plans
-
-{{< image file="villa_des_baumelles.jpg" caption="Plan of Villa des Baumelles" credit="" alt="" >}}
-
-<!-- ## Dates -->
-
-## Bibliography
-
-1.  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 639-649, plan P. 641. [(worldcat)](https://search.worldcat.org/title/1074683092)
-
-2. Bouet, Alain, and Philippe Leveau. *Les Thermes Prives Et Publics En Gaule Narbonnaise*. S.l.: s.n., 1996, P. 293-294. [(worldcat)](https://search.worldcat.org/title/490154337)
 
 ## Places
 

@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+CE 40-60 Built
+
 ## Province
 
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
@@ -47,19 +51,12 @@ House C is 300 meters east of the source of the big spring at the foot of Mt. Ca
 
 {{< image file="house_c_les_villegiales_quarter_of_the_benedictines_3.jpg" caption="Fig. 3 Plan of House C, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
 
-## Dates
-
-CE 40-60 Built
-
 ## Bibliography
 
-1. J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996.
-
-2. P.Gros, J. Guyon, Ph. Leveau, dir.,*La maison urbaine d'époque romaine, Atlas des maisons de la Gaule narbonnaise*, t. II, Doc. d'Archéol. Vaucl, 6, 1996, Nîmes, fiche n°6 P. 202-203.[(worldcat)](https://search.worldcat.org/title/491576850)
-
-3. M. Monteil, *Nîmes antique et sa proche campagne*, Monographie d'Archéologie Méditerranéenne, 3, 1999, P. 130-139.[(worldcat)](https://search.worldcat.org/title/643112972)
-
-4. Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 74-76, P 83-88.[(worldcat)](https://search.worldcat.org/title/45421533)
+- J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996.
+- P.Gros, J. Guyon, Ph. Leveau, dir.,*La maison urbaine d'époque romaine, Atlas des maisons de la Gaule narbonnaise*, t. II, Doc. d'Archéol. Vaucl, 6, 1996, Nîmes, fiche n°6 P. 202-203.[(worldcat)](https://search.worldcat.org/title/491576850)
+- M. Monteil, *Nîmes antique et sa proche campagne*, Monographie d'Archéologie Méditerranéenne, 3, 1999, P. 130-139.[(worldcat)](https://search.worldcat.org/title/643112972)
+- Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 74-76, P 83-88.[(worldcat)](https://search.worldcat.org/title/45421533)
 
 ## Places
 

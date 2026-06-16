@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: false
 ---
 
+## Dates
+
+Excavated 1912 and 1925.
+
 ## Province
 
 - [Italia]({{<relref "../..">}})
@@ -29,40 +33,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 
 [Insula VII]({{<relref "#">}})
-
-## Keywords
-
-- {{< keyword "aedicules" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "basins" >}}
-- {{< keyword "busts" >}}
-- {{< keyword "candelabras (candleholders)" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "dolia" >}}
-- {{< keyword "engaged columns" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "fences" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "impluvia" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "pillars" >}}
-- {{< keyword "piscinae" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "tables" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "trellises" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "vegetable gardens" >}}
-- {{< keyword "vestibules" >}}
-
-## Garden
-
-House of the Ephebe; Casa Dell'Efebo; House of P. Cornelius Teges (or Tages).
 
 ## Garden Description
 
@@ -100,10 +70,6 @@ C. Behind the [tablinum](http://vocab.getty.edu/page/aat/300004180), and seen fr
 {{< image file="Fig_44_I.vii.11_12_11.33.59.jpg" caption="Fig. 6: I.vii. 11.33.59, S.A. Jashemski" credit="" alt="" >}}
 -->
 
-## Dates
-
-Excavated 1912 and 1925.
-
 ## Bibliography
 
 - Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 26, no. 41.
@@ -123,6 +89,40 @@ Excavated 1912 and 1925.
 - Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 34.
 - Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 295, no. 5 and fig. 31 on p. 296.
 - Zanker, P. 1998. *Pompeii: Public and Private Life*, pp. 500-501.
+
+## Keywords
+
+- {{< keyword "aedicules" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "busts" >}}
+- {{< keyword "candelabras (candleholders)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "engaged columns" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fences" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "impluvia" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "tables" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "vegetable gardens" >}}
+- {{< keyword "vestibules" >}}
+
+## Garden
+
+House of the Ephebe; Casa Dell'Efebo; House of P. Cornelius Teges (or Tages).
 
 ## Places
 

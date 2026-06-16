@@ -10,6 +10,10 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+Unspecified
+
 ## Location
 
 -- missing in Pleiades --
@@ -32,11 +36,6 @@ On the left bank of the Sarthe, where it is joined by the Isaac creek, the Roman
 
 House on the Place des Halles (La maison des Halles)
 
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "courtyards" >}}
-
 ## Garden Description
 
 LUG 6.1.1: Le Mans. House on the Place des Halles. From CAG.
@@ -52,13 +51,14 @@ This *domus* was on the Place des Halles, the former site of the covered market 
 {{< image file="place_des_halles.jpg" caption="Restored section of the entire domus by P. André" credit="" alt="A section drawing depicting the two floors of what a restored domus would look like." >}}
 <!-- ## Images -->
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - Service  Régional  de  l'Archéologie  des  Pays  de  la  Loire, *La  Sarthe,*  72, CAG p. 318-319, plan  p. 318. [(worldcat)](https://search.worldcat.org/title/316192643)
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "courtyards" >}}
 
 ## Places
 

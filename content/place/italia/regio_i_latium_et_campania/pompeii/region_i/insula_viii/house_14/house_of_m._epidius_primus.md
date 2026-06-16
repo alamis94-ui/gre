@@ -10,6 +10,14 @@ modified: 2025-06-29
 draft: true
 ---
 
+## Dates
+
+unspecified
+
+## Excavation Date
+
+1941
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
@@ -30,13 +38,6 @@ draft: true
 
 House of M. Epidius Primus (I.viii.14)
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "gutters" >}}
-- {{< keyword "viridarium" >}}
-
 ## Garden Description
 
 This house was excavated in 1941. The *atrium* led directly to a little *viridarium* (a), with a cistern in the southwest corner. A gutter bordered the garden on the south, west and north sides.
@@ -51,18 +52,17 @@ This house was excavated in 1941. The *atrium* led directly to a little *viridar
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified
-
-## Excavation Date
-
-1941
-
 ## Bibliography
 
 - Della Corte, *NSc* (1946), p. 108.
 - Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "viridarium" >}}
 
 ## Places
 
