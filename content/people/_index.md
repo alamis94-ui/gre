@@ -15,29 +15,48 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - \*  Deceased
 - \*\* Corresponding editor
 
-## Executive Editors & Digital Humanities Team
-- [Kathryn Gleason](kathryn-gleason), Cornell University, Director & Editor-in-Chief
-- [Amina-Aïcha Malek](amina-aicha-malek), AOROC, CNRS ENS PSL, Director & Editor-in-Chief
+## Executive Team
+
 - [Divya Kumar-Dumas](divya-kumar-dumas), ISAW/NYU, Managing Editor & Digital Strategy Coordinator
 - [Keith Jenkins](keith-jenkins), Cornell University, Technical Lead
 
-## Founding Editors (& Scientific Committee)
+## Founding Editors
+
 - *[Wilhelmina Jashemski](wilhelmina-jashemski)*\* , University of Maryland
 - [Kathryn Gleason](kathryn-gleason), Cornell University
 - Kim J. Hartswick, CUNY Graduate Center
 - [Amina-Aïcha Malek](amina-aicha-malek), AOROC, CNRS ENS PSL
 
+## Scientific Committee
+
+- [John Bodel](john-bodel) (chair)
+- [Victoria Austen](victoria-austen)
+- [Leigh-Ann Bedal](leigh-ann-bedal)
+- Bettina Bergmann
+- [Michel Fuchs](michel-fuchs)
+- [Kathryn Gleason](kathryn-gleason)
+- Sebastian Heath
+- [Keith Jenkins](keith-jenkins)
+- Vincent Jolivet
+- [Divya Kumar-Dumas](divya-kumar-dumas)
+- [Amina-Aïcha Malek](amina-aicha-malek)
+- [Annalisa Marzano](annalisa-marzano)
+- Eric Poehler
+- Nicholas Purcell
+- [David Ratzan](david-ratzan)
+- Greg Woolf
+
 
 ## Publication Designers & Technical Advisors
 
-### Website and Data Structure Design
+### Original Website and Data Structure Design
 - Christian Casey, ISAW/NYU
 - [David M. Ratzan](david-ratzan), ISAW/NYU
 - Sebastian Heath, ISAW/NYU
 
 ### Mapping
 - [Keith Jenkins](keith-jenkins), Cornell University, GIS mapping
-- [Gabriel McKee](https://isaw.nyu.edu/people/staff/gabriel-mckee), ISAW/NYU, Pleiades liaison
+- [Tom Elliott](https://isaw.nyu.edu/people/staff/tom-elliott), ISAW/NYU, Pleiades liaison
 
 
 ## Editorial Teams (Geographic areas and Thematic Content)
@@ -315,8 +334,8 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Luisa Musso
 - K. Sara Myers
 - Ehud Netzer*
-- Paola Olivanti, Paola
-- Margarita Orfila, Margarita
+- Paola Olivanti
+- Margarita Orfila
 - Emanuele Papi
 - Joseph Patrich
 - Esther Puertas
