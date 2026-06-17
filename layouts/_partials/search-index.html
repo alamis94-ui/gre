@@ -3,11 +3,11 @@
 <script>
 // build the search index from each garden page (TODO: include place pages -- but how to display in results?)
 window.pageData = {
-{{- range $ri, $rv := where (sort .Site.Pages "Path") "Type" "garden" -}}
-    {{- if .Title -}}
+{{ range $ri, $rv := where (sort .Site.Pages "Path") "Type" "garden" }}
+    {{ if .Title }}
         {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
-        {{- $place := title (replaceRE "[\\W_]+" " " .Path) -}}
-        {{- $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
+        {{ $place := title (replaceRE "[\\W_]+" " " .Path) }}
+        {{ $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
         {{ $smallcrumbs := "" }}
         {{ range $i, $p := .Ancestors.Reverse }}
             {{ if gt $i 1 }}
@@ -15,15 +15,16 @@ window.pageData = {
                 {{ $smallcrumbs = print $smallcrumbs .Title }}
             {{ end }}
         {{ end }}
-"{{ $ri }}": {
-    "title": "{{ .Title }}",
-    "smallcrumbs": {{ $smallcrumbs }},
-    "content": {{ $content }},
-    "url": {{ .Permalink }},
-    "draft": {{ .Draft }},
-    "latlon": {{ .Params.latlon }} },
-    {{ end -}}
-{{- end -}}
+        "{{ $ri }}": {
+            "title": "{{ .Title }}",
+            "smallcrumbs": {{ $smallcrumbs }},
+            "content": {{ $content }},
+            "url": {{ .Permalink }},
+            "draft": {{ .Draft }},
+            "latlon": {{ .Params.latlon }}
+        },
+    {{ end }}
+{{ end }}
 }
 </script>
 <script src="{{ .Site.BaseURL }}js/lunr-2.3.9.min.js"></script>
