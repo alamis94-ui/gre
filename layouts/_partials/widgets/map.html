@@ -164,13 +164,13 @@
             let div_circle = L.divIcon({ className: 'dot' })
             
             function addPoint(lat, lon, name, url) {
+                // only add point if lat/lon are both not 0
                 if (lat && lon) {
                     marker = L.marker([ lat, lon ], { icon: div_circle });
                     marker.bindPopup(`<a href='${url}'>${name}</a>`);
                     marker.addTo(map);
                     markers.push(marker);
                     bounds.extend(marker.getLatLng());
-                    console.log(bounds)
                 }
             }
 
