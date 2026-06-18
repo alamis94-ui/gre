@@ -36,9 +36,9 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - [Michel Fuchs](michel-fuchs)
 - [Kathryn Gleason](kathryn-gleason)
 - Sebastian Heath
-- [Keith Jenkins](keith-jenkins)
+- [Keith Jenkins](keith-jenkins) (_ex officio_)
 - Vincent Jolivet
-- [Divya Kumar-Dumas](divya-kumar-dumas)
+- [Divya Kumar-Dumas](divya-kumar-dumas) (_ex officio_)
 - [Amina-Aïcha Malek](amina-aicha-malek)
 - [Annalisa Marzano](annalisa-marzano)
 - Eric Poehler
