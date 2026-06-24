@@ -3,15 +3,17 @@ slug: "d2e9307e07"
 type: place
 title: "Latium et Campania"
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-30
-modified: 2026-05-30
+modified: 2026-06-24
 draft: false
 ---
 
 <!-- ## Dates -->
 
 <!-- ## Place Description -->
+
+Around 7 BCE, Latium et Campania were defined as Regio I of Italia by Augustus.  This region includes major archaeological sites in Roma, Pompeii, and Herculaneum.
 
 <!--
 ## Maps

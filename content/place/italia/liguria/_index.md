@@ -1,17 +1,19 @@
 ---
-slug: "2679e95d53"
+slug: "fd304affef"
 type: place
-title: "Aemilia"
+title: "Liguria"
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-30
-modified: 2026-05-30
+modified: 2026-06-24
 draft: false
 ---
 
 <!-- ## Dates -->
 
 <!-- ## Place Description -->
+
+Around 7 BCE, Liguria was defined as Regio IX of Italia by Augustus.
 
 <!--
 ## Maps

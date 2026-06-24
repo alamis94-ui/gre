@@ -1,11 +1,11 @@
 ---
-slug: "fd304affef"
+slug: "2679e95d53"
 type: place
-title: "Liguria"
+title: "Aemilia"
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-30
-modified: 2026-05-30
+modified: 2026-06-24
 draft: false
 ---
 
@@ -13,7 +13,7 @@ draft: false
 
 <!-- ## Place Description -->
 
-Regio IX
+Around 7 BCE, Aemilia was defined as Regio VIII of Italia by Augustus.
 
 <!--
 ## Maps

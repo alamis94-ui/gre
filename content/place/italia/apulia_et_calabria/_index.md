@@ -3,15 +3,17 @@ slug: "c337b5100c"
 type: place
 title: "Apulia et Calabria"
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-30
-modified: 2026-05-30
+modified: 2026-06-24
 draft: false
 ---
 
 <!-- ## Dates -->
 
 <!-- ## Place Description -->
+
+Around 7 BCE, Apulia et Calabria were defined as Regio II of Italia by Augustus.
 
 <!--
 ## Maps

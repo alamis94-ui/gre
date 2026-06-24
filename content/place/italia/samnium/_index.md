@@ -3,15 +3,17 @@ slug: "c9ce7f7648"
 type: place
 title: "Samnium"
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-30
-modified: 2026-05-30
+modified: 2026-06-24
 draft: false
 ---
 
 <!-- ## Dates -->
 
 <!-- ## Place Description -->
+
+Around 7 BCE, Samnium defined as Regio IV of Italia by Augustus.
 
 <!--
 ## Maps
