@@ -98,12 +98,16 @@
                         fillOpacity: 0.1
                     }
                 }).bindPopup(function (layer) {
-                    return layer.feature.properties.name
+                    let p = layer.feature.properties
+                    if (p.id) {
+                        return `<a class='smallcrumbs' href='/id/${p.id}'>${p.name}</a>`
+                    } else {
+                        return `<b>${p.name}</b><br>(No gardens have been published)`
+                    }
                 }).on('click', (event) => {
                     captureCoords(event)
                 })
                 provinces.addTo(map);
-
 
             {{ else }}
                 // For public website, use DARE basemap, backed up by OpenStreetMap
@@ -162,11 +166,14 @@
             bounds = L.latLngBounds();
             let div_circle = L.divIcon({ className: 'dot' })
             
-            function addPoint(lat, lon, name, url) {
+            function addPoint(p) {
                 // only add point if lat/lon are both not 0
-                if (lat && lon) {
-                    marker = L.marker([ lat, lon ], { icon: div_circle });
-                    marker.bindPopup(`<a href='${url}'>${name}</a>`);
+                if (p.latlon[0] && p.latlon[1]) {
+                    marker = L.marker(p.latlon, { icon: div_circle });
+                    marker.bindPopup(`
+                        <div class='smallcrumbs'>${p.smallcrumbs}</div>
+                        <a href='${p.url}'>${p.title}</a>
+                    `);
                     marker.addTo(map);
                     markers.push(marker);
                     bounds.extend(marker.getLatLng());
@@ -178,7 +185,7 @@
                 for (const r of window.results) {
                     let p = window.pageData[r['ref']]
                     try {
-                        addPoint(p.latlon[0], p.latlon[1], p.title, p.url)
+                        addPoint(p)
                     }
                     catch (err) {
                         console.log('Unable to add point to map', p)
@@ -198,7 +205,7 @@
                         {{ $lat := index .Params.latlon 0 }}
                         {{ $lon := index .Params.latlon 1 }}
                         {{ $url := .Permalink }}
-                        addPoint({{ $lat }}, {{ $lon }}, {{ .Title}}, {{ $url }})
+                        addPoint({ "latlon":{{ .Params.latlon }}, "smallcrumbs":"TODO", "title":`{{ .Title }}`, "url":"{{ $url }}" })
                     {{ end }}
                 {{ end }}
             {{ end }}
