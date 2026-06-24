@@ -23,8 +23,9 @@
             })
             map.attributionControl.setPrefix('Basemap');
 
-            {{ if eq hugo.Environment "development" }}
-                // When running hugo server locally, add basemap selector including satellite imagery, for checking coordinate accuracy
+            {{ if or (eq hugo.Environment "development") (strings.Contains .SiteBaseURL "test-drafts") }}
+                // When running hugo server locally or viewing test/drafts,
+                // add basemap selector including satellite imagery, for checking coordinate accuracy
 
                 // Digital Atlas of the Roman Empire, muted colors
                 var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
@@ -87,6 +88,23 @@
                 }
                 L.DomEvent.addListener(map, 'click', (e) => captureCoords(e))
 
+                // Add Roman Provinces
+                let provinces = L.geoJSON(provinceGeoJSON, {
+                    style: {
+                        color: '#282',
+                        weight: 1.7,
+                        opacity: 1,
+                        fillColor: '#282',
+                        fillOpacity: 0.1
+                    }
+                }).bindPopup(function (layer) {
+                    return layer.feature.properties.name
+                }).on('click', (event) => {
+                    captureCoords(event)
+                })
+                provinces.addTo(map);
+
+
             {{ else }}
                 // For public website, use DARE basemap, backed up by OpenStreetMap
 
@@ -138,25 +156,6 @@
                 });
                 osm_hi.addTo(map);
             {{ end }}
-
-            /* TODO: wait until we have better boundaries
-            // Add Roman Provinces
-            let provinceStyle = {
-                color: '#000',
-                weight: 1,
-                opacity: 1,
-                fillColor: '#c22d30',
-                fillOpacity: 0
-            }
-            let provinces = L.geoJSON(provinceGeoJSON, {
-                style: provinceStyle
-            }).bindPopup(function (layer) {
-                return layer.feature.properties.name
-            }).on('click', (event) => {
-                captureCoords(event)
-            })
-            // provinces.addTo(map);
-            */
 
             // Add marker for each garden relevant to the current page
             markers = [];
