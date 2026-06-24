@@ -20,7 +20,7 @@
     {{ $sortable = $sortable | append $s }}
 {{ end }}
 
-{{ if $sortable }}
+{{ if and $sortable (gt $gardens.Len 0)}}
 <div class='sublocations'>
     <h2>
         {{ if eq .Title "All Gardens" }}Provinces{{ else }}Places in {{ .Title }}{{ end }}:
