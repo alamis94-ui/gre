@@ -1,11 +1,11 @@
 ---
 slug: "f76d433a3e"
 type: place
-title: Sicily
+title: Sicilia
 author: Roger Wilson
 contributor: Keith Jenkins
 date: 2026-05-14
-modified: 2026-05-30
+modified: 2026-06-24
 draft: false
 ---
 
