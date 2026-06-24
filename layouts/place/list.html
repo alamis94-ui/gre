@@ -32,7 +32,7 @@
         garden article{{ if ne $countpublished 1 }}s{{ end }}
         {{ if ne .Slug "all" }} in {{ .Title }}{{ end -}}
         {{ if ne $countpublished 1 }} have {{ else }} has {{ end }}
-        been published:
+        been published{{ if ne $countpublished 0 }}:{{ end }}
     </div>
 
     <!-- List each garden -->
