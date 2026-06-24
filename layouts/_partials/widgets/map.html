@@ -23,7 +23,7 @@
             })
             map.attributionControl.setPrefix('Basemap');
 
-            {{ if or (eq hugo.Environment "development") (strings.Contains .SiteBaseURL "test-drafts") }}
+            {{ if or (eq hugo.Environment "development") (strings.Contains .Site.BaseURL "test-drafts") }}
                 // When running hugo server locally or viewing test/drafts,
                 // add basemap selector including satellite imagery, for checking coordinate accuracy
 
