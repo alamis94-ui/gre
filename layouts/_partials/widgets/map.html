@@ -206,12 +206,12 @@
                     {{ $gardens = .Site.RegularPages }}
                 {{ end }}
                 {{ range $gardens }}
-                    {{ if .Params.latlon }}
-                        {{ $lat := index .Params.latlon 0 }}
-                        {{ $lon := index .Params.latlon 1 }}
-                        {{ $url := .Permalink }}
-                        addPoint({ "latlon":{{ .Params.latlon }}, "smallcrumbs":"", "title":`{{ .Title }}`, "url":"{{ $url }}" })
-                    {{ end }}
+                    addPoint({
+                        "latlon": {{ .Params.latlon }},
+                        "smallcrumbs": {{ partial "smallcrumbs.html" . }},
+                        "title": {{ .Title }},
+                        "url": {{ .Permalink }}
+                    })
                 {{ end }}
             {{ end }}
 

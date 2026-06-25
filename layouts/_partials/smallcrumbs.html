@@ -1,11 +1,7 @@
-{{/* Display the navigational breadcrumbs for the given page,
-     optionally linking each level
-*/}}
-<div class="smallcrumbs">
-    {{ range $i, $p := .Ancestors.Reverse }}
-        {{ if gt $i 1 }}
-            {{ if ne $i 2 }} / {{ end }}
-            {{ .Title }}
-        {{ end }}
-    {{ end }}
-</div>
+{{/* Return a text string containing the navigational breadcrumbs for the given page */}}
+{{- range $i, $p := .Ancestors.Reverse -}}
+    {{- if gt $i 1 -}}
+        {{- if ne $i 2 }} / {{ end -}}
+        {{- .Title -}}
+    {{- end -}}
+{{- end -}}

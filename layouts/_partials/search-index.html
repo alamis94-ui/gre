@@ -8,16 +8,9 @@ window.pageData = {
         {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
         {{ $place := title (replaceRE "[\\W_]+" " " .Path) }}
         {{ $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
-        {{ $smallcrumbs := "" }}
-        {{ range $i, $p := .Ancestors.Reverse }}
-            {{ if gt $i 1 }}
-                {{ if ne $i 2 }}{{ $smallcrumbs = print $smallcrumbs " / " }}{{ end }} 
-                {{ $smallcrumbs = print $smallcrumbs .Title }}
-            {{ end }}
-        {{ end }}
         "{{ $ri }}": {
             "title": "{{ .Title }}",
-            "smallcrumbs": {{ $smallcrumbs }},
+            "smallcrumbs": {{ partial "smallcrumbs.html" . }},
             "content": {{ $content }},
             "url": {{ .Permalink }},
             "draft": {{ .Draft }},
