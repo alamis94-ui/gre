@@ -23,8 +23,8 @@
             })
             map.attributionControl.setPrefix('Basemap');
 
-            {{ if or (eq hugo.Environment "development") (strings.Contains .Site.BaseURL "test-drafts") }}
-                // When running hugo server locally or viewing test/drafts,
+            {{ if eq hugo.Environment "development" }}
+                // When running hugo server locally,
                 // add basemap selector including satellite imagery, for checking coordinate accuracy
 
                 // Digital Atlas of the Roman Empire, muted colors
@@ -88,29 +88,6 @@
                 }
                 L.DomEvent.addListener(map, 'click', (e) => captureCoords(e))
 
-                // Add Roman Provinces
-                let provinces = L.geoJSON(provinceGeoJSON, {
-                    style: {
-                        color: '#c22d30',
-                        weight: 1.7,
-                        opacity: 1,
-                        //fillColor: '#c22d30',
-                        fillOpacity: 0
-                    }
-                }).bindPopup(function (layer) {
-                    let p = layer.feature.properties
-                    if (p.id) {
-                        let base = {{ site.BaseURL }}
-                        let url = base + 'id/' + p.id
-                        return `<a class='smallcrumbs' href='${url}'>${p.name}</a>`
-                    } else {
-                        return `<b>${p.name}</b><br>(No gardens have been published)`
-                    }
-                }).on('click', (event) => {
-                    captureCoords(event)
-                })
-                provinces.addTo(map);
-
             {{ else }}
                 // For public website, use DARE basemap, backed up by OpenStreetMap
 
@@ -161,6 +138,32 @@
                     ]
                 });
                 osm_hi.addTo(map);
+            {{ end }}
+
+
+            {{ if or (eq hugo.Environment "development") (strings.Contains .Site.BaseURL "test-drafts") }}
+                // Add Roman Provinces
+                let provinces = L.geoJSON(provinceGeoJSON, {
+                    style: {
+                        color: '#c22d30',
+                        weight: 1.7,
+                        opacity: 1,
+                        //fillColor: '#c22d30',
+                        fillOpacity: 0
+                    }
+                }).bindPopup(function (layer) {
+                    let p = layer.feature.properties
+                    if (p.id) {
+                        let base = {{ site.BaseURL }}
+                        let url = base + 'id/' + p.id
+                        return `<a class='smallcrumbs' href='${url}'>${p.name}</a>`
+                    } else {
+                        return `<b>${p.name}</b><br>(No gardens have been published)`
+                    }
+                }).on('click', (event) => {
+                    captureCoords(event)
+                })
+                provinces.addTo(map);
             {{ end }}
 
             // Add marker for each garden relevant to the current page
