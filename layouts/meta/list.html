@@ -10,7 +10,7 @@
 
     {{ $pages := sort (where .Site.Pages "Type" "place") "Path" }}
     <h1 id="places">All places ({{ $pages.Len }})</h1>
-    <table class="meta" id="metaplace">
+    <table class="meta place">
         <tr>
             <th>path</th>
             <th>title</th>
@@ -37,7 +37,7 @@
 
     {{ $pages := sort (where .Site.RegularPages "Type" "garden") "Path" }}
     <h1 id="gardens">All gardens ({{ $pages.Len }})</h1>
-    <table class="meta" id="metagarden">
+    <table class="meta garden">
         <tr>
             <th>jashemski number</th>
             <th>path</th>

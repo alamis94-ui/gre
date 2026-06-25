@@ -91,11 +91,11 @@
                 // Add Roman Provinces
                 let provinces = L.geoJSON(provinceGeoJSON, {
                     style: {
-                        color: '#282',
+                        color: '#c22d30',
                         weight: 1.7,
                         opacity: 1,
-                        fillColor: '#282',
-                        fillOpacity: 0.1
+                        //fillColor: '#c22d30',
+                        fillOpacity: 0
                     }
                 }).bindPopup(function (layer) {
                     let p = layer.feature.properties
