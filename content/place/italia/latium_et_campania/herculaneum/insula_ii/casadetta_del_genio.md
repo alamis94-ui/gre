@@ -7,7 +7,6 @@ author: Wilhelmina Jashemski, Chiara Romano
 contributor: Tiffany Y. Fong
 jashemski-catalogue: 535
 date: 2020-09-29
-modified: 2026-06-22
 draft: true
 ---
 

@@ -8,7 +8,6 @@ translator: Translator Name
 contributor: Tiffany Y. Fong
 jashemski-catalogue: 533, 534
 date: 2020-09-29
-modified: 2026-06-22
 draft: true
 ---
 
