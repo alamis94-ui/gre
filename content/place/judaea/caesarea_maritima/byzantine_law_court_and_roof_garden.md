@@ -6,7 +6,7 @@ latlon: [ 32.501237, 34.89151 ]
 author: Joseph Patrich
 contributor: Yaniv Korman, Keith Jenkins
 date: 2021-05-03
-modified: 2026-05-15
+
 draft: false
 ---
 

@@ -6,7 +6,7 @@ latlon: [ 37.972372, 23.723371 ]
 author: Maureen Carroll
 contributor: Jane Millar
 date: 2021-04-21
-modified: 2025-09-15
+
 draft: false
 ---
 

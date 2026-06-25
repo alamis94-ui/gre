@@ -6,7 +6,7 @@ latlon: [ 41.853944, 12.517797 ]
 author: John Bodel
 contributor: Yuyao Liu
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: true
 ---
 

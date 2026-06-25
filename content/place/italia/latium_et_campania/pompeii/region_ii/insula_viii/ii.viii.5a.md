@@ -7,7 +7,7 @@ author: Wilhelmina Jashemski
 contributor: Yifan Li, Jessica Venner, Keith Jenkins
 jashemski-catalogue: 151
 date: 2021-04-21
-modified: 2026-06-04
+
 draft: true
 ---
 

@@ -8,7 +8,7 @@ translator: Translator Name
 contributor: Contributor Name
 jashemski-catalogue: 139
 date: 2026-06-04
-modified: 2026-06-04
+
 draft: true
 ---
 

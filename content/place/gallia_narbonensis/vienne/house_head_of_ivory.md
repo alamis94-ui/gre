@@ -7,7 +7,7 @@ author: Author Name
 translator: Translator Name
 contributor: Contributor Name
 date: 2026-06-03
-modified: 2026-06-03
+
 draft: true
 ---
 

@@ -6,7 +6,7 @@ latlon: [ 35.079643, 11.020606 ]
 author: Véronique Blanc-Bijon
 contributor: Yuming Huang
 date: 2021-04-21
-modified: 2025-09-16
+
 draft: true
 ---
 

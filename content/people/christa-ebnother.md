@@ -2,7 +2,7 @@
 type: people
 title: Christa Ebnöther
 date: 2025-07-01
-modified: 2025-07-01
+
 draft: false
 ---
 

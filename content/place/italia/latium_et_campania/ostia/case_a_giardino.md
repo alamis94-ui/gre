@@ -6,7 +6,7 @@ latlon: [ 41.751911781895046, 12.28455095873102 ]
 author: Paola Olivanti
 contributor: Joshua Rosenheim
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: false
 ---
 

@@ -5,7 +5,7 @@ title: "Liguria"
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-30
-modified: 2026-06-24
+
 draft: false
 ---
 

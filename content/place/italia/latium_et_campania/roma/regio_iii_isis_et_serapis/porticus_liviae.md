@@ -6,7 +6,7 @@ latlon: [ 41.894044, 12.496495 ]
 author: Elizabeth Macaulay, Holly Spoth-Torres
 contributor: Joshua Rosenheim, Rhiannon Paré
 date: 2021-04-17
-modified: 2025-06-29
+
 draft: false
 ---
 

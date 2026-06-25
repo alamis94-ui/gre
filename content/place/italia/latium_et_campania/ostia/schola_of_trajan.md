@@ -6,7 +6,7 @@ latlon: [ 41.752343, 12.286960 ]
 author: Thomas Morard
 contributor: Joshua Rosenheim
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: false
 ---
 

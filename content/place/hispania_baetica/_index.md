@@ -5,7 +5,7 @@ title: Hispania Baetica
 author:
 contributor: Lai Ching Tsui
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: false
 ---
 

@@ -6,7 +6,7 @@ latlon: [ 41.895098, 12.475233 ]
 author: Elizabeth Macaulay, Kathryn Gleason
 contributor: Joshua Rosenheim, Rhiannon Paré
 date: 2021-04-17
-modified: 2025-06-29
+
 draft: false
 ---
 

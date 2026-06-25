@@ -6,7 +6,7 @@ latlon: [ 31.5673651297, 35.6241088966 ]
 author: Győző Vörös
 contributor: Yaniv Korman, Keith Jenkins
 date: 2021-04-21
-modified: 2026-05-16
+
 draft: false
 ---
 

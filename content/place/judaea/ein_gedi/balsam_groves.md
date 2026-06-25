@@ -6,7 +6,7 @@ latlon: [ 31.468449, 35.388383 ]
 author: Kathryn Gleason
 contributor: Yaniv Korman, Keith Jenkins
 date: 2021-04-21
-modified: 2026-05-15
+
 draft: false
 ---
 

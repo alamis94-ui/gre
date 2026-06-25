@@ -6,7 +6,7 @@ latlon: [ 30.328615, 35.443000 ]
 author: Leigh-Ann Bedal
 contributor: Jane Millar, Keith Jenkins
 date: 2021-04-21
-modified: 2025-09-20
+
 draft: false
 ---
 

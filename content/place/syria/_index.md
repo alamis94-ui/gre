@@ -5,7 +5,7 @@ title: Syria
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-14
-modified: 2026-05-30
+
 draft: false
 ---
 

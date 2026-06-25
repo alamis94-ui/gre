@@ -6,7 +6,7 @@ latlon: [ 40.628342, 22.952885 ]
 author: John Bodel
 contributor: Amartya Shri, Keith Jenkins
 date: 2021-04-21
-modified: 2026-05-22
+
 draft: true
 ---
 

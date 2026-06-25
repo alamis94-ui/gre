@@ -7,7 +7,7 @@ author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
 jashemski-catalogue: 536
 date: 2020-09-29
-modified: 2025-06-29
+
 draft: true
 ---
 

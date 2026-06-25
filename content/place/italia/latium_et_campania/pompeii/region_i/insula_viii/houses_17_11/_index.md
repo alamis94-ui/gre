@@ -5,7 +5,7 @@ title: House 17/11
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-10
-modified: 2026-06-10
+
 draft: false
 ---
 

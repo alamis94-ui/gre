@@ -5,7 +5,7 @@ title: Macchaerus
 author: Győző Vörös
 contributor: Keith Jenkins
 date: 2026-05-16
-modified: 2026-05-16
+
 draft: false
 ---
 

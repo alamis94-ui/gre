@@ -5,7 +5,7 @@ title: Pisidia
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-07
-modified: 2026-06-05
+
 draft: false
 ---
 

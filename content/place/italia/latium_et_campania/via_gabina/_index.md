@@ -5,7 +5,7 @@ title: Via Gabina
 author: Walter Widrig
 contributor: Keith Jenkins
 date: 2026-05-30
-modified: 2026-06-01
+
 draft: false
 ---
 

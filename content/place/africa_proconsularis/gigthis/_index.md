@@ -5,7 +5,7 @@ title: Gigthis
 author: Amina-Aïcha Malek
 contributor: Maureen Carroll, Yuming Huang, Keith Jenkins
 date: 2025-09-16
-modified: 2025-09-20
+
 draft: false
 ---
 

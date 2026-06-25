@@ -5,7 +5,7 @@ title: Arabia Petraea
 author: Leigh-Ann Bedal
 contributor: Keith Jenkins
 date: 2025-07-01
-modified: 2026-05-15
+
 draft: false
 ---
 

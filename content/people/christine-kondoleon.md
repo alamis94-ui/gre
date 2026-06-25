@@ -2,7 +2,7 @@
 type: people
 title: Christine Kondoleon
 date: 2025-07-07
-modified: 2025-07-07
+
 draft: false
 ---
 

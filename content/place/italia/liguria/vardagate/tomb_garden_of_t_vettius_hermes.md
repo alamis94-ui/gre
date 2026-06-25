@@ -6,7 +6,7 @@ latlon: [ 45.0818, 8.4406 ]
 author: Annalisa Marzano
 contributor: Zhenrui Mei
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: true
 ---
 

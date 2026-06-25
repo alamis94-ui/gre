@@ -7,7 +7,7 @@ author: Eugenia Salza Prina Ricotti
 contributor: Lai Ching Tsui
 jashemski-catalogue: 
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: true
 ---
 

@@ -5,7 +5,7 @@ title: Winkel Seeb
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
-modified: 2026-05-16
+
 draft: false
 ---
 

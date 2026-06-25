@@ -6,7 +6,7 @@ latlon: [ 49.214670, 8.015747 ]
 author: Christa Ebnöther, Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: true
 ---
 

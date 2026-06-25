@@ -6,7 +6,7 @@ latlon: [ 41.753992, 12.290523 ]
 author: Elizabeth J. Shepherd
 contributor: Joshua Rosenheim
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: false
 ---
 

@@ -5,7 +5,7 @@ title: Samos
 author: Author Name
 contributor: Victoria Austen
 date: 2025-09-21
-modified: 2026-05-13
+
 draft: false
 ---
 

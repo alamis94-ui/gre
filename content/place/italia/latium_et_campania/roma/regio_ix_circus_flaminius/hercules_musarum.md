@@ -6,7 +6,7 @@ latlon: [ 41.893253, 12.477600]
 author: Elizabeth Macaulay, Linda Anderson
 contributor: Joshua Rosenheim, Rhiannon Paré
 date: 2021-04-17
-modified: 2025-06-29
+
 draft: false
 ---
 

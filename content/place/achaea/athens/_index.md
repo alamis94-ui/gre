@@ -5,7 +5,7 @@ title: Athens
 author: Author Name
 contributor: Keith Jenkins
 date: 2025-06-23
-modified: 2026-05-15
+
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 type: people
 title: Eric Morvillez
 date: 2025-07-01
-modified: 2025-07-01
+
 draft: false
 ---
 

@@ -8,7 +8,7 @@ translator: Translator Name
 contributor: Keith Jenkins
 jashemski-catalogue: 128
 date: 2026-06-02
-modified: 2026-06-04
+
 draft: true
 ---
 

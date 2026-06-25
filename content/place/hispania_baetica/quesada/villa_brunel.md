@@ -7,7 +7,7 @@ author:
 contributor: Lai Ching Tsui, Keith Jenkins
 jashemski-catalogue: BAE 1.1
 date: 2021-04-21
-modified: 2026-06-05
+
 draft: true
 ---
 

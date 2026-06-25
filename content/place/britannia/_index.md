@@ -5,7 +5,7 @@ title: Britannia
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-modified: 2026-05-15
+
 draft: false
 ---
 

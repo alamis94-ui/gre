@@ -6,7 +6,7 @@ latlon: [ 39.071402, 27.891043 ]
 author: John Bodel
 contributor: Shamika Ghate, Amelia Lamis
 date: 2021-04-21
-modified: 2026-05-13
+
 draft: true
 ---
 

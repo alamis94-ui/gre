@@ -6,7 +6,7 @@ latlon: [ 37.944523, 27.351764 ]
 author: Kathryn Gleason
 contributor: Shamika Ghate
 date: 2021-04-21
-modified: 2025-09-21
+
 draft: true
 ---
 

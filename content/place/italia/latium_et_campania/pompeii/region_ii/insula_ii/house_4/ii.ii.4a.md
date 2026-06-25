@@ -7,7 +7,7 @@ author: Wilhelmina Jashemski
 contributor: Yuyao Liu, Keith Jenkins
 jashemski-catalogue: 137
 date: 2021-04-21
-modified: 2026-06-04
+
 draft: false
 ---
 

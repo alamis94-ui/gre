@@ -6,7 +6,7 @@ latlon: [ 41.711087, 12.346884 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Yuyao Liu, Keith Jenkins
 date: 2020-11-07
-modified: 2026-06-05
+
 draft: true
 ---
 

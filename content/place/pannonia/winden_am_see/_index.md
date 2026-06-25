@@ -5,7 +5,7 @@ title: Winden Am See
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-14
-modified: 2026-05-14
+
 draft: false
 ---
 

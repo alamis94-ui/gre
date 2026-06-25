@@ -5,7 +5,7 @@ title: Cologne
 author: Maureen Carroll
 contributor: Keith Jenkins
 date: 2026-05-16
-modified: 2026-05-31
+
 draft: false
 ---
 

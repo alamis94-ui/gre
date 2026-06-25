@@ -7,7 +7,7 @@ author: Wilhelmina Jashemski
 contributor: Jessica Venner
 jashemski-catalogue: 140, 141
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: false
 ---
 

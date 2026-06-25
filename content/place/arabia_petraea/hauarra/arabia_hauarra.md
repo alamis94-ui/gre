@@ -6,7 +6,7 @@ latlon: [ 29.956958, 35.328326 ]
 author: M. Barbara Reeves
 contributor: Jane Millar, Leigh-Ann Bedal
 date: 2021-04-21
-modified: 2025-09-19
+
 draft: false
 ---
 

@@ -6,7 +6,7 @@ latlon: [ 32.547145, 34.9361 ]
 author: Yitzar Hirschfeld
 contributor: Yaniv Korman, Keith Jenkins
 date: 2021-04-21
-modified: 2026-05-15
+
 draft: true
 ---
 

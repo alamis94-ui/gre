@@ -5,7 +5,7 @@ title: Third Palace
 author: Kathryn Gleason
 contributor: Keith Jenkins
 date: 2026-05-16
-modified: 2026-05-16
+
 draft: false
 ---
 

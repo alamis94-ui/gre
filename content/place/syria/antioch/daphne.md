@@ -6,7 +6,7 @@ latlon: [ 36.222551, 36.183214 ]
 author: Christine Kondoleon, Elizabeth Macaulay
 contributor: Jane Millar, Keith Jenkins
 date: 2021-04-21
-modified: 2026-05-30
+
 draft: true
 ---
 

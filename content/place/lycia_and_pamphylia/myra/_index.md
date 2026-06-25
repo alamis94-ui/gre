@@ -5,7 +5,7 @@ title: Myra
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
-modified: 2026-05-07
+
 draft: false
 ---
 

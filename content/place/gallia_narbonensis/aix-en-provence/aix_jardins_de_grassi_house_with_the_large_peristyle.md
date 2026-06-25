@@ -6,7 +6,7 @@ latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu, Alena Wigodner
 date: 2021-04-21
-modified: 2026-05-13
+
 draft: true
 ---
 

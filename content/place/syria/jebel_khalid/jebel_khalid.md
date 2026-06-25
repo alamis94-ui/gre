@@ -6,7 +6,7 @@ latlon: [ 36.354311, 38.174169 ]
 author: Graeme Clark
 contributor: Jane Millar, Keith Jenkins
 date: 2021-04-21
-modified: 2026-05-30
+
 draft: true
 ---
 

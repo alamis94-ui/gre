@@ -2,7 +2,7 @@
 type: people
 title: Alena Wigodner
 date: 2026-05-13
-modified: 2026-05-13
+
 draft: false
 ---
 

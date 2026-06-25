@@ -6,7 +6,7 @@ latlon: [ 37.401783, 25.267610 ]
 author: Monika Trümper
 contributor: Jane Millar
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: false
 ---
 

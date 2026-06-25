@@ -5,7 +5,7 @@ title: Scafati
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-31
-modified: 2026-05-31
+
 draft: false
 ---
 

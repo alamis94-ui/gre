@@ -6,7 +6,7 @@ latlon: [ 37.900814, 22.895986 ]
 author: David Gilman Romano
 contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
-modified: 2025-09-15
+
 draft: false
 ---
 

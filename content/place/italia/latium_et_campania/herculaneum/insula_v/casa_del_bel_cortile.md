@@ -7,7 +7,7 @@ author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong
 jashemski-catalogue: Appendix II. 110
 date: 2020-09-29
-modified: 2025-06-29
+
 draft: true
 ---
 

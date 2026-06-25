@@ -6,7 +6,7 @@ latlon: [ 41.649151, 13.194182 ]
 author: Pier Giorgio Monti
 contributor: Lingyi Xu
 date: 2020-11-29
-modified: 2025-06-29
+
 draft: true
 ---
 

@@ -6,7 +6,7 @@ latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 contributor: Christian Casey, Keith Jenkins
 date: 2020-07-14
-modified: 2026-05-15
+
 draft: true
 ---
 

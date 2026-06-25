@@ -6,7 +6,7 @@ latlon: [ 36.400355, 9.903990 ]
 author: Wilhelmina Jashemski
 contributor: Nicholas Gill
 date: 2021-04-21
-modified: 2025-09-16
+
 draft: false
 ---
 

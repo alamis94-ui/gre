@@ -6,7 +6,7 @@ latlon: [ 41.878239, 12.628907 ]
 author: Walter Widrig
 contributor: Lingyi Xu, Keith Jenkins
 date: 2021-04-21
-modified: 2026-06-01
+
 draft: true
 ---
 

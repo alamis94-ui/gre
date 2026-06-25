@@ -5,7 +5,7 @@ title: Delos
 author: Monika Trümper
 contributor: Jane Millar, Keith Jenkins
 date: 2021-04-21
-modified: 2026-05-15
+
 draft: false
 ---
 

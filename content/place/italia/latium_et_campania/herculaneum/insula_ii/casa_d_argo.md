@@ -8,7 +8,7 @@ translator: Translator Name
 contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 533, 534
 date: 2020-09-29
-modified: 2026-05-13
+
 draft: true
 ---
 

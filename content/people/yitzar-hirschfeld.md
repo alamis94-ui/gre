@@ -2,7 +2,7 @@
 type: people
 title: Yitzar Hirschfeld
 date: 2025-07-07
-modified: 2025-07-07
+
 draft: false
 ---
 

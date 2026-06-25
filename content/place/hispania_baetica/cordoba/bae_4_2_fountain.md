@@ -8,7 +8,7 @@ translator: Translator Name
 contributor: Contributor Name
 jashemski-catalogue: BAE 4.2
 date: 2026-06-03
-modified: 2026-06-03
+
 draft: true
 ---
 

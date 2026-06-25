@@ -7,7 +7,7 @@ author: Clopper Almon, D. Vaquerizo
 contributor: Lai Ching Tsui
 jashemski-catalogue: BAE 2.1
 date: 2021-04-21
-modified: 2025-06-29
+
 draft: true
 ---
 

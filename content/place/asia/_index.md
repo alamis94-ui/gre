@@ -5,7 +5,7 @@ title: Asia
 author: Kathryn Gleason, Maureen Carroll
 contributor: Keith Jenkins
 date: 2025-07-01
-modified: 2025-09-21
+
 draft: false
 ---
 
