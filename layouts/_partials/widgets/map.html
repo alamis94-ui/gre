@@ -100,7 +100,9 @@
                 }).bindPopup(function (layer) {
                     let p = layer.feature.properties
                     if (p.id) {
-                        return `<a class='smallcrumbs' href='/id/${p.id}'>${p.name}</a>`
+                        let base = {{ site.BaseURL }}
+                        let url = base + 'id/' + p.id
+                        return `<a class='smallcrumbs' href='${url}'>${p.name}</a>`
                     } else {
                         return `<b>${p.name}</b><br>(No gardens have been published)`
                     }
@@ -205,7 +207,7 @@
                         {{ $lat := index .Params.latlon 0 }}
                         {{ $lon := index .Params.latlon 1 }}
                         {{ $url := .Permalink }}
-                        addPoint({ "latlon":{{ .Params.latlon }}, "smallcrumbs":"TODO", "title":`{{ .Title }}`, "url":"{{ $url }}" })
+                        addPoint({ "latlon":{{ .Params.latlon }}, "smallcrumbs":"", "title":`{{ .Title }}`, "url":"{{ $url }}" })
                     {{ end }}
                 {{ end }}
             {{ end }}
