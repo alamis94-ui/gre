@@ -4,8 +4,8 @@ type: garden
 title: Terrace House 2
 latlon: [ 37.944523, 27.351764 ]
 author: Kathryn Gleason
-contributor: Shamika Ghate
-date: 2021-04-21
+contributor: Shamika Ghate, Amelia Lamis
+date: 2026-06-30
 
 draft: true
 ---
@@ -20,7 +20,7 @@ The most striking remains are in Terrace House 2, in Room 20 (Residence 4), exca
 
 In the central peristyle of Residence 2 of Terrace House 2, Vetters uncovered a late Imperial mosaic of Dionysius and Ariadne in a niche. The peristyle itself is a paved courtyard, but the mosaic offers the viewer a rich view of a paradisiacal vineyard.  A lunette features a mosaic of two peacocks holding a garland over a basket or urn of grapes and fruits, with white geese to each side standing on a green lawn with roses and lilies (Fig. 3). The ceiling of the niche features Dionysias and Ariadne in a central medallion set into a panel of blue, against which is arrayed a vine laden with grapes and doves (Fig. 4).  In the upper corner, the vine emerges from the ground, and along the base of the wall, a winged *putto* leads two harnessed leopards or panthers.  The opposite side is not preserved.
 
-Just off the peristyle in Room 17, the walls feature a variety of birds, individually portrayed on white backgrounds either sitting on branches or standing among small plants.  In Room 24, the landscape themes continue with a painting of stags in woodland, apparently being chased by a putto.  Only a small fragment remains.  In Room 14, mythological scenes of Achilles and Skyros (west wall) and Achilles and Priam (south wall) are set in a landscape of rocks and trees (Fig. 6). Bird and plant themes are represented through this house.
+Just off the peristyle in Room 17, the walls feature a variety of birds, individually portrayed on white backgrounds either sitting on branches or standing among small plants.  In Room 24, the landscape themes continue with a painting of stags in woodland, apparently being chased by a *putto*.  Only a small fragment remains.  In Room 14, mythological scenes of Achilles and Skyros (west wall) and Achilles and Priam (south wall) are set in a landscape of rocks and trees (Fig. 6). Bird and plant themes are represented through this house.
 
 <!--
 ## Maps
@@ -43,10 +43,10 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 
 ## Bibliography
 
-- *Forschungen in Ephesos* Vol. VIII/1, Figs. 207-219 [(worldcat)](https://search.worldcat.org/title/6928546)
-- *Forschungen in Ephesos* Vol. VIII/2 Figs. 109-130 [(worldcat)](https://search.worldcat.org/title/6928546)
-- W. Jobst, *Romische Mosaiken aus Ephesos I:  Die Hanghauser des Embolos*,Vienna, 1977 [(worldcat)](https://search.worldcat.org/title/929054298)
-- C. Kearns, "Visual representations of gardens: diachronic perspectives on the art of landscape," In ed. K. Gleason, *Cultural History of Gardens*, London. 2013. pp. 164-165. [(worldcat)](https://search.worldcat.org/title/968338784)
+- Jobst, W. 1977. *Römische Mosaiken aus Ephesos I: Die Hanghäuser des Embolos* 8/2, Figs. 109-130. <!--usually no Figs in AJA bib but kept for easy ref-->Vienna: Verlag der Österreichischen Akademie der Wissenschaften. [(worldcat)](https://search.worldcat.org/title/929054298) 
+- Kearns, C. 2013. “Visual Representations of Gardens: Diachronic Perspectives on the Art of Landscape.” In *A Cultural History of Gardens. Vol. 1, Antiquity*, edited by K.L. Gleason, 164–65. London: Bloomsbury Academic. [(worldcat)](https://search.worldcat.org/title/968338784)
+- Strocka, V.M. 1977. *Die Wandmalerei der Hanghäuser in Ephesos. Forschungen in Ephesos* 8/1, Figs. 207-219.<!--usually no Figs in AJA bib but kept for easy ref--> Vienna: Verlag der Österreichischen Akademie der Wissenschaften. [(worldcat)](https://search.worldcat.org/title/6928546)
+
 
 ## Keywords
 
@@ -55,3 +55,6 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 - {{< keyword "peristyles" >}}
 - {{< keyword "medallions" >}}
 - {{< keyword "putti" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "mosaics (visual works)" >}}
