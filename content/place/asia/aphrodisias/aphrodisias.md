@@ -53,7 +53,7 @@ Aphrodisias (_Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis_), in Ca
 
 ## Places
 
-
+<!--
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
 - {{< id vocab="Pleiades" id="638753" name="Aphrodisias" >}}
-
+-->

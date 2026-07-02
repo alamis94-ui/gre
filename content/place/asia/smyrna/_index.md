@@ -10,7 +10,7 @@ draft: false
 ---
 
 ## Dates 
-fourth century BC, rebuilt 2nd cent CE
+fourth century BCE, rebuilt 2nd cent CE
 
 ## Place Description
 On the Aegean coast of Anatolia, Smyrna was rebuilt after an earthquake in the 2nd century CE atop the area of the city first established after the conquest of Alexander the Great on the slopes of Mt. Pagos (Kadifekale). An inscription suggests the presence of a palm grove that was an elaborately decorated park, as noted at Aphrodisias. (Robert 526, n. 5 on IBR IV, 1431.)

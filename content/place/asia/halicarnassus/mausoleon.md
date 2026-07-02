@@ -12,7 +12,7 @@ draft: true
 ---
 
 ## Dates
-353/352 BC
+353/352 BCE
 
 ## Excavation Dates
 <!-- Biliotti in 1865. Pederson later? -->

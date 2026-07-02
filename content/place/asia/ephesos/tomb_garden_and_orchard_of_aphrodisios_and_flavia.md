@@ -15,7 +15,8 @@ draft: true
 2nd or 3rd century BCE
 
 ## Garden Description
-<!--might look better to ital the Greek-->
+
+
 According to a secondary inscription carved horizontally, perhaps in the third century CE, across the back of a figured grave stele of perhaps the third or second century BCE, found on the road between the Magnesia gate and the Temple of Artemis at Ephesus, "this orchard with its sarcophagi and pavilion (θόλῳ) belongs to Aphrodisios and his wife <!--Flavia = Φλαβίας-->and children" (τοῦτο τὸ πωμάριν ἐστὶν σὺν τε͂ς σ̣ωροῖς κὲ τῷ θόλῳ Ἀφροδισίου κὲ γ(υ)ν(αικὸς) Φλαβίας κὲ τέκνω[ν]). The first editor, Hicks, interpreted the word πωμάριν to mean "cover" or "lid" (πῶμα)  and thought that the stele originally protected the entrance to the monument, but Keil <!--(who corrected Hicks' misreading to σαρκοφάγων, "sarcophagi")-PHI has σ̣ωροῖς-->rightly saw that πωμάριν was nothing more than a transliterated form of the Latin *pomarium*, fruit orchard, an amenity often attached to tomb monuments in the Roman world. The character of the θόλῳ is uncertain—the term is attested only once elsewhere in Asia Minor in a funerary context, in Pisidia, where a θόλῳ is equipped with statues (Monumenta Asiae Minoris Antiquae. Manchester and London, 1928-1993, VIII, 375; cf. Kubin'ska)—but the transliterated pumarin gives reason to suspect that a Roman context is here relevant, in which case one naturally thinks of the sort of ornamental (often round) pavilion (*diaeta*) frequently found in Roman tomb gardens.
 
 
@@ -31,7 +32,6 @@ According to a secondary inscription carved horizontally, perhaps in the third c
 
 ## Bibliography
 
-
 - Börker, C., and R. Merkelbach. 1980. *Die Inschriften von Ephesos*. Teil 5. Bonn: Rudolf Habelt.<!--1625b--> [(worldcat)](https://search.worldcat.org/title/1085909921)
 - Hicks, E.L. 1890. *The Collection of Ancient Greek Inscriptions in the British Museum*. Vol. 3, pt. 2, <!--no. 625-->Ephesos. Oxford: Clarendon Press. [(worldcat)](https://search.worldcat.org/title/866630869)
 - Keil, B. 1908. "Über kleinasiatische Grabinschriften." *Hermes* 43:546 n. 1. [(worldcat)](https://search.worldcat.org/title/9974562780)
@@ -43,4 +43,4 @@ According to a secondary inscription carved horizontally, perhaps in the third c
 - {{< keyword "sarcophagi" >}}
 - {{< keyword "pomarium" >}}
 - {{< keyword "tomb monuments" >}}
-- {{< keyword "garden pavillions" >}}
+- {{< keyword "garden pavilions" >}}
