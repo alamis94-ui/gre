@@ -34,7 +34,6 @@ A statue base found in 1886 in a modern cemetery midway along the path between G
 
 ## Bibliography
 
-
 - Cagnat, R., et al. 1906–27. *Inscriptiones Graecae ad res Romanas pertinentes*. Vol. 4. Paris. [(worldcat)](https://search.worldcat.org/title/256313198)
 - Herrmann, P. 1989. *Tituli Lydiae linguis Graeca et Latina conscripti (Tituli Asiae Minoris V.2,* 828c4). Vienna.  [(worldcat)](https://search.worldcat.org/title/886649239)
 - Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw. [(worldcat)](https://search.worldcat.org/title/164233326)
@@ -52,5 +51,3 @@ A statue base found in 1886 in a modern cemetery midway along the path between G
 
 - {{< id vocab="Pleiades" id="550472" name="Attaleia" >}}
 - {{< id vocab="TGN" id="550701" name="Lydia/Maionia (region)" >}}
-
-

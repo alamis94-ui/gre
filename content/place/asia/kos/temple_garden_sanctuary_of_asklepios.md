@@ -2,7 +2,7 @@
 slug: "c0650573df"
 type: garden
 title: Temple Garden, Sanctuary of Asklepios
-latlon: [ 0, 0 ]
+latlon: [ 36.8757418771, 27.2573730442 ]
 author: Maureen Carroll
 contributor: Annette Guan, Amelia Lamis
 date: 2021-04-21
@@ -14,14 +14,6 @@ draft: true
 
 <!--maybe "fifth/fourth century BCE - mid-first century BCE"-->
 
-## Location
-
-- [Kos]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="599728" name="Kos" >}}
-
-## Garden
-
-Temple Garden, Sanctuary of Asklepios
 
 ## Garden Description
 
@@ -55,4 +47,3 @@ Inscriptions of the fifth and fourth centuries BCE record certain regulations fo
 
 - {{< id vocab="Pleiades" id="814448537" name="Grove of Asklepios at Kos" >}}
 - {{< id vocab="TGN" id="7012054" name="Kos, Nísos (island)" >}}
-

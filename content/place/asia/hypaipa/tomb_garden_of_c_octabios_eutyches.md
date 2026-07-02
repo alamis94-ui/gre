@@ -22,7 +22,7 @@ first or second century  CE
 
 ## Garden Description
 
-A grave stele set up at Hypaipa by C. Octabios (Octavius) Eutyches from Ephesus, Munatius Dionysius, and several others some time probably in the first or second century declares that “they built this tomb with the garden (*peribolo*) and its trees around the tomb” (τοῦτο τὸ ἡρῶον κατεσκεύασα[ν] σὺν καὶ τῶ περιβόλω καὶ τοῖς δένδρεσιν αὐτοῦ τοῖς περὶ τὸ ἡρῶον). Here, as regularly in Lydia and often elsewhere in Asia Minor, the garden itself (in this case perhaps a plantation or orchard) is referred to metonymically by its perimeter wall (*peribolo*).
+A grave stele set up at Hypaipa by C. Octabios (Octavius) Eutyches from Ephesus, Munatius Dionysius, and several others some time probably in the first or second century declares that “they built this tomb with the garden (*peribolo*) and its trees around the tomb” (*τοῦτο τὸ ἡρῶον κατεσκεύασα[ν] σὺν καὶ τῶ περιβόλω καὶ τοῖς δένδρεσιν αὐτοῦ τοῖς περὶ τὸ ἡρῶον*). Here, as regularly in Lydia and often elsewhere in Asia Minor, the garden itself (in this case perhaps a plantation or orchard) is referred to metonymically by its perimeter wall (*peribolo*).
 
 <!--
 ## Maps

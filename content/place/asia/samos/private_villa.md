@@ -12,10 +12,11 @@ draft: true
 ---
 
 ## Dates
- Late 2nd century BCE – Late 2nd century/Early 3rd century CE.
+
+ Late 2nd century BCE – Late 2nd/early 3rd century CE
 
 <!-- ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+-->
 
 ## Garden Description
 
@@ -40,12 +41,12 @@ Fig. 1.  Samos. Plan of a remodelled Roman house with its courtyard gardens (G) 
 R. Tölle-Kastenbein, Das Kastro Tigani. Samos XIV, Bonn, 1974, pp. 52-54, figs. 18-20, 44, plan 5, Beilage 1.-->
 
 ## Bibliography
+
 - Tölle-Kastenbein, R. 1974. *Das Kastro Tigani: die Bauten und Funde griechischer, römischer und byzantinischer Zeit: Samos Band XIV*. Bonn: Habelt. [(worldcat)](https://search.worldcat.org/title/881054947)
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 - {{< keyword "pools" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "courtyards" >}}
-
-

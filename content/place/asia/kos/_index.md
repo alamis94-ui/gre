@@ -40,6 +40,6 @@ draft: false
 
 <!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="Pleiades" id="599581" name="Kos" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->

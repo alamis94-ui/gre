@@ -40,5 +40,6 @@ draft: false
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="599636" name="Halicarnassus/Halikarnassos" >}}
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}

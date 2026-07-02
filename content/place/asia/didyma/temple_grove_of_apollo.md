@@ -36,8 +36,6 @@ The precinct has been well-defined archaeologically, but the archaeologists iden
 - Haussoullier, B. 1898. “Le temple d’Apollon didymien.” *Revue de philologie* 22:50–51. [(worldcat)](https://search.worldcat.org/title/1764078)
 - Tuchelt, K. 1996. “Didyma.” In *The Oxford Encyclopedia of Archaeology in the Near East*, edited by E.M. Meyers, 160. New York: Oxford University Press. [(worldcat)](https://search.worldcat.org/title/5104744829)
 
-
-
 ## Keywords
 
 - {{< keyword "sacred groves" >}}
@@ -49,4 +47,3 @@ The precinct has been well-defined archaeologically, but the archaeologists iden
 
 - {{< id vocab="Pleiades" id="599593" name="Didyma/Branchidai/Ioustinianopolis" >}}
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
-
