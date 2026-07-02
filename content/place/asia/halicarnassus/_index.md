@@ -3,7 +3,7 @@ slug: "39b28586d9"
 type: place
 title: Halicarnassus
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2025-09-21
 
 draft: false
@@ -38,8 +38,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
+
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+- {{< id vocab="Pleiades" id="599636" name="Halicarnassus/Halikarnassos" >}}
+- {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
