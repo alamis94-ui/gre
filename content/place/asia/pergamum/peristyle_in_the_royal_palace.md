@@ -2,10 +2,10 @@
 slug: "22d82e6588"
 type: garden
 title: Peristyle In The Royal Palace
-latlon: [ 0, 0 ]
-author: Author Name
+latlon: [ 39.132309, 27.18474625 ]
+author: Maureen Carroll, Kathryn Gleason
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
@@ -48,9 +48,6 @@ Fig. 1:  Plan of the peristyle court in Palace V, after H. Schleif in Nielsen, H
 - C. Ratte, “Pergamon,” Oxford Encyclopedia of Near Eastern Archaeology, 1997, 261-262
 - I. Nielsen, Hellenistic Palaces. Aarhus, 1994, p. 107, catalog no. 15.
 
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
-
 <!--
 ## Keywords
 - {{< keyword "example" >}}
@@ -58,7 +55,7 @@ Fig. 1:  Plan of the peristyle court in Palace V, after H. Schleif in Nielsen, H
 
 <!--
 ## Places
-places containing this garden will be listed automatically
+
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->

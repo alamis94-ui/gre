@@ -2,8 +2,8 @@
 slug: "add593790a"
 type: place
 title: Pergamum
-author: Author Name
-contributor: Contributor Name
+author: Maureen Carroll, Kathryn Gleason
+contributor: Amelia Lamis
 date: 2025-09-21
 
 draft: false
@@ -42,8 +42,10 @@ Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into a
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
+
+- {{< id vocab="Pleiades" id="550812" name="Pergamum" >}}
+
+<!--
 - {{< id vocab="TGN" id="" name="" >}}
 -->

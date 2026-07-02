@@ -2,7 +2,7 @@
 slug: "9d76afc6b1"
 type: place
 title: Sardis
-author: Author Name
+author: Kathryn Gleason
 contributor: Amelia Lamis
 date: 2025-09-21
 
