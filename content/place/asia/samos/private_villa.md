@@ -5,7 +5,7 @@ title: Private Villa
 latlon: [ 37.7324600706, 26.8391253467 ]
 author: Maureen Carroll
 translator: Translator Name
-contributor: Victoria Austen
+contributor: Victoria Austen, Amelia Lamis
 date: 2026-05-07
 
 draft: true
