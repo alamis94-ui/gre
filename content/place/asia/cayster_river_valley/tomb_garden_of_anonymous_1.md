@@ -31,7 +31,7 @@ A highly fragmentary inscription found in the south part of the Cayster River va
 ## Bibliography
 
 - Keil, J., and A. von Premerstein. 1914. *Bericht über eine dritte Reise in Lydien und den angrenzenden Gebieten Ioniens. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien 57.1. Vienna. [(worldcat)](https://search.worldcat.org/title/604130286) <!--inscription no. 112-->
-- Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw.  [(worldcat)](https://search.worldcat.org/title/164233326)<!--p. 145>
+- Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw.  [(worldcat)](https://search.worldcat.org/title/164233326)<!--p. 145-->
 
 ## Keywords
 
