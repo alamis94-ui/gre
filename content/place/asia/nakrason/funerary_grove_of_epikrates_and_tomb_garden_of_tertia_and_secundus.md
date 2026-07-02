@@ -4,7 +4,7 @@ type: garden
 title: Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus
 latlon: [ 0, 0 ]
 author: John Bodel
-contributor: Annette Guan
+contributor: Annette Guan, Amelia Lamis
 date: 2021-04-21
 
 draft: true
