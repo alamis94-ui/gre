@@ -5,23 +5,23 @@ title: Rhodes Groves On The Acropolis
 latlon: [ 36.443113, 28.227611 ]
 author: Maureen Carroll
 translator: Translator Name
-contributor: Alena Wigodner
+contributor: Alena Wigodner, Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
 Unspecified
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
-Unexcavated
+
+Unexcavated <!--check -Archaeological exploration of the acropolis sector has confirmed the existence of temples to Zeus and to Apollo "-->
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
-Aelius Aristides (25.6) referred in the second century CE to the parks and groves in the acropolis district of the city.  According to Philostratos, writing in the late second and early third century CE, this area in the western part of the city had many sanctuaries, groves and gymnasia (Life of Apollonius 5.22).  Archaeological exploration of the acropolis sector has confirmed the existence of temples to Zeus and to Apollo, a gymnasium with a stadium and several sacred caves of the nymphs (nymphaia) near the temple of Zeus.  These artificial caves were carved out of the rock and had water basins and niches for statues.  No trace of any gardens or groves survives, but these would not have been out of place in the context of sanctuaries and gymnasia.
+
+Aelius Aristides (25.6) referred in the second century CE to the parks and groves in the acropolis district of the city.  According to Philostratos, writing in the late second and early third century CE, this area in the western part of the city had many sanctuaries, groves and gymnasia (Life of Apollonius 5.22).  Archaeological exploration of the acropolis sector has confirmed the existence of temples to Zeus and to Apollo, a gymnasium with a stadium and several sacred caves of the nymphs (*nymphaia*) near the temple of Zeus.  These artificial caves were carved out of the rock and had water basins and niches for statues.  No trace of any gardens or groves survives, but these would not have been out of place in the context of sanctuaries and gymnasia.
 
 
 <!--
@@ -37,13 +37,11 @@ Aelius Aristides (25.6) referred in the second century CE to the parks and grove
 <!--
 ## Images
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
-BIBLIOGRAPHY: W. Hoepfner and E.-L. Schwandner, Haus und Stadt im klassischen Griechenland. Wohnen in der klassischen Polis 1, 2nd Edition, Berlin, 1994, pp. 65-66, fig. 41;
+
 -->
 
 ## Bibliography
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
 - Carroll-Spillecke, M. 1989. _Κήπος. Der antike griechische Garten._ Vol. 3, _Wohnen in der klassischen Polis_, 86, 94, fig. 12. Munich: Deutscher Kunstverlag. [(worldcat)](https://search.worldcat.org/title/21460064)
 - Hoepfner, W., and E.-L. Schwandner, S. Dakares, and J. Boessneck. 1994. _Haus und Stadt im klassischen Griechenland._ 2nd. ed. Vol. 1, _Wohnen in der klassischen Polis_, 65-66, fig. 41. Munich: Deutscher Kunstverlag. [(worldcat)](https://search.worldcat.org/title/30964330)
 
