@@ -2,7 +2,7 @@
 slug: "bf17e7b780"
 type: garden
 title: Tomb Garden Of C Octabios Eutyches
-latlon: [ 0, 0 ]
+latlon: [ 38.248459, 27.962914 ]
 author: Author Name
 translator: Translator Name
 contributor: Amelia Lamis
@@ -12,13 +12,14 @@ draft: true
 ---
 
 ## Dates
-first or second century <!--CE?-->
+first or second century  CE
+<!--pleiades has 30 BC - AD 300 -->
 
 ## Excavation Dates
 <!-- format as YYYY, or YYYY-YYYY -->
 
 ## Garden Description
-A grave stele set up at Hypaipa by C. Octabios (Octavius) Eutyches from Ephesus, Munatius Dionysius, and several others some time probably in the first or second century declares that “they built this tomb with the garden (*peribolo*) and its trees around the tomb” <!--(need Greek)-->. Here, as regularly in Lydia and often elsewhere in Asia Minor, the garden itself (in this case perhaps a plantation or orchard) is referred to metonymically by its perimeter wall (*peribolo*).
+A grave stele set up at Hypaipa by C. Octabios (Octavius) Eutyches from Ephesus, Munatius Dionysius, and several others some time probably in the first or second century declares that “they built this tomb with the garden (*peribolo*) and its trees around the tomb” (τοῦτο τὸ ἡρῶον κατεσκεύασα[ν] σὺν καὶ τῶ περιβόλω καὶ τοῖς δένδρεσιν αὐτοῦ τοῖς περὶ τὸ ἡρῶον). Here, as regularly in Lydia and often elsewhere in Asia Minor, the garden itself (in this case perhaps a plantation or orchard) is referred to metonymically by its perimeter wall (*peribolo*).
 
 <!--
 ## Maps
@@ -37,17 +38,20 @@ A grave stele set up at Hypaipa by C. Octabios (Octavius) Eutyches from Ephesus,
 
 
 ## Bibliography
-- J. Keil and A. von Premerstein, Bericht über eine dritte Reise in Lydien. Vienna, 1914, no. 108
-- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, p. 146.
+- Keil, J., and A. von Premerstein. 1914. *Bericht über eine dritte Reise in Lydien*. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien 57.1.<!--no. 108--> Vienna. [(worldcat)](https://search.worldcat.org/title/604130286) 
+- Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw: Państwowe Wydawnictwo Naukowe.<!--pp. 146--> [(worldcat)](https://search.worldcat.org/title/1164839456)
 
-<!--
+
+
 ## Keywords
-- {{< keyword "example" >}}
--->
+- {{< keyword "tombs" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "periboloi" >}}
+
+
+## Places
+- {{< id vocab="Pleiades" id="550585" name="Hypaipa" >}}
 
 <!--
-## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->

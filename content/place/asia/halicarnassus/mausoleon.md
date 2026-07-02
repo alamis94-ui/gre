@@ -31,10 +31,9 @@ K. Jeppeson, in his study of the quadrangle of the monument, provides further di
 <!--
 ## Plans
 
-Fig. 1:  Plan of the precinct of the Mausoleon showing possible planted area and water features. 
-
-{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Plan of the precinct of the Mausoleon showing possible planted area and water features." credit="" alt="" >}}
 -->
+
 
 <!--
 ## Images
