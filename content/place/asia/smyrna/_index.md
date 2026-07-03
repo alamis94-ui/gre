@@ -11,7 +11,7 @@ draft: false
 
 ## Dates 
 
-fourth century BCE, rebuilt 2nd cent CE
+fourth century BCE, rebuilt 2nd century CE
 
 ## Place Description
 
