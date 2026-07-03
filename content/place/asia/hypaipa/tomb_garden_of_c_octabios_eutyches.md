@@ -1,7 +1,7 @@
 ---
 slug: "bf17e7b780"
 type: garden
-title: Tomb Garden Of C Octabios Eutyches
+title: Tomb Garden Of C. Octabios Eutyches
 latlon: [ 38.248459, 27.962914 ]
 author: Author Name
 translator: Translator Name
@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-first or second century  CE
+first or second century CE
 <!--pleiades has 30 BCE - 300 CE -->
 
 <!-- 
