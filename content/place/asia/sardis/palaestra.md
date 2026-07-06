@@ -18,7 +18,7 @@ draft: true
 
 ## Excavation Dates
 
-Unspecified <!--should be easy to find-->
+1958-1975 <!--https://omphale.arthistory.wisc.edu/pdf/Sardis_R3.pdf-->
 
 ## Garden Description
 
@@ -51,11 +51,11 @@ A short section of drain was also found in the NE quadrant of the courtyard.  Th
 
 ## Bibliography
 
-- C. Greenewalt Jr, “The Fifteenth Campaign at Sardis” BASOR 211 Oct. 1973:19-20, fig. 3
-- W.H. Buckler and D.M. Robinson, Greek and Latin Inscriptions, Sardis VII: 1, 1932: 31, no 12.6
-- R. Meiggs and D.M. Lewis, A selection of Greek historical inscriptions to the end of the fifth century B.C., Oxford: Clarendon Press, 1969, no. 12
-- J. Pedley, Ancient Literary Sources on Sardis, Cambridge: Harvard University Press, 1972
-- F. Yegul, The Bath-Gymnasium Complex at Sardis. Cambridge: Harvard University Press, 1986.  
+- Buckler, W. H., and D. M. Robinson. 1932. Greek and Latin Inscriptions. Sardis 7.1. Cambridge, MA. [(worldcat)](https://search.worldcat.org/title/19942523)
+- Greenewalt Jr., C. 1973. “The Fifteenth Campaign at Sardis.” Bulletin of the American Schools of Oriental Research 211: 19–20. [(worldcat)](https://search.worldcat.org/title/7931000564)
+- Meiggs, R., and D. M. Lewis. 1969. *A Selection of Greek Historical Inscriptions to the End of the Fifth Century B.C*. Oxford. [(worldcat)][https://search.worldcat.org/title/25330]
+- Pedley, J. 1972. *Ancient Literary Sources on Sardis*. Cambridge, MA. [(worldcat)][https://search.worldcat.org/title/584433]
+- Yegül, F. 1986. *The Bath-Gymnasium Complex at Sardis*. Cambridge, MA. [(worldcat)](https://search.worldcat.org/title/12971983)<!--pdf of excavation report: https://omphale.arthistory.wisc.edu/pdf/Sardis_R3.pdf-->
 
 ## Keywords
 
