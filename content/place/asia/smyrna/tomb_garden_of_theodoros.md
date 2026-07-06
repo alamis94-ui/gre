@@ -40,8 +40,6 @@ A reused rectangular marble block from Smyrna housed since the middle of the eig
 
 ## Bibliography
 
-- G. Petzl, Die Inschriften von Smyrna. Teil 1: Grabinschriften, postume Ehrungen, Grabepigramme. Bonn, 1982, p. 267, no. 563 and Pl. 40.
-
 - Chandler, R. 1763. *Marmora Oxoniensia*. Oxford. <!--II 39,2--> [(Archive.org)](https://archive.org/details/gri_33125011694565/page/72/mode/2up)
 - Petzl, G. 1982. *Die Inschriften von Smyrna. Teil 1: Grabinschriften, postume Ehrungen, Grabepigramme. Inschriften griechischer Städte aus Kleinasien* 23. Bonn. [(worldcat)](https://search.worldcat.org/title/929279106)
 
