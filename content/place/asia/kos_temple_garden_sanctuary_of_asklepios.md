@@ -12,7 +12,7 @@ draft: true
 
 ## Dates
 
-<!--maybe "fifth/fourth century BCE - mid-first century BCE"-->
+fifth/fourth century BCE - mid-first century BCE
 
 
 ## Garden Description
@@ -27,7 +27,7 @@ Inscriptions of the fifth and fourth centuries BCE record certain regulations fo
 
 ## Bibliography
 
-- R. Herzog, *Heilige Gesetze von Kos*, Berlin, 1928, pp. 32-33. [(worldcat)](https://search.worldcat.org/title/1140889143)
+- Herzog, R. 1928. *Heilige Gesetze von Kos*, Berlin.<!--pp. 32-33-->. [(worldcat)](https://search.worldcat.org/title/1140889143)
 
 ## Keywords
 
