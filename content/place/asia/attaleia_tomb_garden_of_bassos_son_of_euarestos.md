@@ -50,4 +50,6 @@ A statue base found in 1886 in a modern cemetery midway along the path between G
 ## Places
 
 - {{< id vocab="Pleiades" id="550472" name="Attaleia" >}}
+<!--
 - {{< id vocab="TGN" id="550701" name="Lydia/Maionia (region)" >}}
+-->
