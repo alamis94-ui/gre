@@ -3,7 +3,7 @@ slug: "7a753a3e06"
 type: place
 title: Ephesos
 author: Kathryn Gleason
-contributor: Keith Jenkins
+contributor: Keith Jenkins, Amelia Lamis
 date: 2025-09-21
 
 draft: false
@@ -11,9 +11,10 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+ ## Place Description
 
 Remains of gardens have yet to be discovered in this city, but an appreciation for garden culture is seen in the Terrace Houses, dating to the second and third centuries CE, where wall paintings not only depict gardens, but use garden images to create the illustionistic experience of being in the space of garden.
+
 
 <!--
 ## Maps
@@ -43,4 +44,4 @@ Remains of gardens have yet to be discovered in this city, but an appreciation f
 ## Places
 
 - {{< id vocab="Pleiades" id="599612" name="Ephesus/Arsinoe(ia)" >}}
-- {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
+

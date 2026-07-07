@@ -4,7 +4,7 @@ type: garden
 title: Temple Garden, Sanctuary of Asklepios
 latlon: [ 0, 0 ]
 author: Maureen Carroll
-contributor: Annette Guan
+contributor: Annette Guan, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -12,7 +12,7 @@ draft: true
 
 ## Dates
 
-Unspecified
+<!--maybe "fifth/fourth century BCE - mid-first century BCE"-->
 
 ## Location
 
