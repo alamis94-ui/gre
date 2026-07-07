@@ -4,7 +4,7 @@ type: garden
 title: Temple Grove of Nikephorion
 latlon: [ 0, 0 ]
 author: Maureen Carroll, Kathryn Gleason
-contributor: Annette Guan
+contributor: Annette Guan, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -12,18 +12,14 @@ draft: true
 
 ## Dates
 
-Unspecified
+<!--third/second centuries BCE-->
 
 ## Location
 
 - [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="550812" name="Pergamum" >}}
 
-## Location Description
-
-Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into an architectural center under the Attalid dynasty (282-133 BCE).  Attalus the III wrote treatises on gardens, raised poisonous plants, made wax models (Plut. Demet. 20.2), and upon his death, left the kingdom of Mysia to the Romans.  It became one of the most important Roman cities of Asia, and current scholarship has revealed its significance as an influence on the art and architecture of Rome.  The range of designed open spaces includes sanctuaries, gymnasia, palaestra, and agoras, all of which were renovated during the Roman period.  No archaeological remains of planting features have been reported, but an inscription records a law prohibiting the deliberate planting of trees near walls (SEG XIII 521.11.158-61).
-## Garden
-
+## Garden 
 Temple Grove of Nikephorion
 
 ## Garden Description

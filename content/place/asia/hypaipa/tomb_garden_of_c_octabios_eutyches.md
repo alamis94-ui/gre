@@ -5,20 +5,20 @@ title: Tomb Garden Of C Octabios Eutyches
 latlon: [ 0, 0 ]
 author: Author Name
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+first or second century <!--CE?-->
 
 ## Excavation Dates
 <!-- format as YYYY, or YYYY-YYYY -->
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+A grave stele set up at Hypaipa by C. Octabios (Octavius) Eutyches from Ephesus, Munatius Dionysius, and several others some time probably in the first or second century declares that “they built this tomb with the garden (*peribolo*) and its trees around the tomb” <!--(need Greek)-->. Here, as regularly in Lydia and often elsewhere in Asia Minor, the garden itself (in this case perhaps a plantation or orchard) is referred to metonymically by its perimeter wall (*peribolo*).
 
 <!--
 ## Maps
@@ -35,10 +35,10 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
+
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+- J. Keil and A. von Premerstein, Bericht über eine dritte Reise in Lydien. Vienna, 1914, no. 108
+- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, p. 146.
 
 <!--
 ## Keywords
