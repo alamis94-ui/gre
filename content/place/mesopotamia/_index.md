@@ -100,22 +100,24 @@ sites of the Roman period.
 
 ## Bibliography
 
-- W. Ball, Rome in the East: The Transformation of an Empire. New York: Routledge, 2001.
-- K. Butcher, Roman Syria and the Near East. Los Angeles: Getty Publications, 2003.
-- A. Invernizzi, “Arsacid Palaces,” in ed. I. Nielsen, The Royal Palace Institution in the First Millenium BCE. Monographs of the Danish Institute, Vol. IV. Athens: Danish Institute at Athens, 2001, pp. 295-310.
-- S. Dalley, “Mesopotamian Gardens.” The Oxford Companion to Gardens. Oxford Press, 1986.
-- E.J. Keall, “Qal’eh-i Yazdigird: The Question of its Date,” Iran XV (1977): 1-10.
-- C. Kearns, "Visual representations of gardens: diachronic perspectives on the art of landscape," in ed. K. Gleason, Cultural History of Gardens. Forthcoming, Berg Publishers.
-- W.J.T. Mitchell, “Imperial landscape,” In ed. W.J.T. Mitchell, Landscape and Power. Chicago: University of Chicago Press, 1994, pp. 5-34.
-- E.B. Moynihan, Paradise as a Garden: In Persia and Mughal India. New York: George Braziller, 1979.
-- D. Shepherd, "Sasanian Art" in ed. E. Yarshater, Cambridge History of Iran. Cambridge: Cambridge University Press, 1983, pp. 1055-1112.
-- D. Stronach, Pasargadae: A Report on the Excavations Conducted by the British School of Persian Studies 1961-1963. New York: Clarendon Press, 1978.
-- C. Tuplin, Achaemenid Studies. Historia Einzelschriften 99. Stuttgart: Franz Steiner Verlag, 1997.
+- W. Ball, *Rome in the East: The Transformation of an Empire*. New York: Routledge, 2001. [(worldcat)](https://search.worldcat.org/title/40901158)
+- K. Butcher, *Roman Syria and the Near East*. Los Angeles: Getty Publications, 2003. [(worldcat)](https://search.worldcat.org/title/52001730)
+- A. Invernizzi, “Arsacid Palaces,” in ed. I. Nielsen, *The Royal Palace Institution in the First Millenium BCE. Monographs of the Danish Institute, Vol. IV*. Athens: Danish Institute at Athens, 2001, pp. 295-310. [(worldcat)](https://search.worldcat.org/title/49036007)
+- S. Dalley, “Mesopotamian Gardens.” *The Oxford Companion to Gardens*. Oxford Press, 1986. [(worldcat)](https://search.worldcat.org/title/13183968)
+- E.J. Keall, “Qal’eh-i Yazdigird: The Question of its Date,” Iran XV (1977): 1-10. [(worlcat)](https://search.worldcat.org/title/5543709981)
+- C. Kearns, "Visual representations of gardens: diachronic perspectives on the art of landscape," in ed. K. Gleason, *A Cultural History of Gardens*. Bloomsbury, 2016. [(worldcat)](https://search.worldcat.org/title/1252735683)
+- W.J.T. Mitchell, “Imperial landscape,” In ed. W.J.T. Mitchell, *Landscape and Power*. Chicago: University of Chicago Press, 1994, pp. 5-34. [(worldcat)](https://search.worldcat.org/title/48383458)
+- E.B. Moynihan, *Paradise as a Garden: In Persia and Mughal India*. New York: George Braziller, 1979. [(worldcat)](https://search.worldcat.org/title/11981415)
+- D. Shepherd, "Sasanian Art" in ed. E. Yarshater, *Cambridge History of Iran*. Cambridge: Cambridge University Press, 1983, pp. 1055-1112. [(worldcat)](https://search.worldcat.org/title/457145660)
+- D. Stronach, *Pasargadae: A Report on the Excavations Conducted by the British School of Persian Studies 1961-1963*. New York: Clarendon Press, 1978. [(worldcat)](https://search.worldcat.org/title/4669054540)
+- C. Tuplin, Achaemenid Studies. Historia Einzelschriften 99. Stuttgart: Franz Steiner Verlag, 1997. [(worldcat)](https://search.worldcat.org/title/36095572)
 
-<!--
 ## Keywords
-- {{< keyword "Example keyword" >}}
--->
+
+- {{< keyword "paradise gardens" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "terrace gardens" >}}
+
 
 ## Places
 
