@@ -2,7 +2,7 @@
 slug: "9a54de29f0"
 type: garden
 title: Tomb Garden Of Apollonios
-latlon: [ 0, 0 ]
+latlon: [ 37.4708007309, 31.0145884714 ]
 author: John Bodel
 translator: Translator Name
 contributor: Amelia Lamis
