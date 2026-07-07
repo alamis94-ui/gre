@@ -3,7 +3,7 @@ slug: "45160fc4c4"
 type: place
 title: Mesopotamia
 author: Catherine Kearns
-contributor: Keith Jenkins
+contributor: Keith Jenkins, Amelia Lamis
 date: 2026-05-30
 
 draft: false
@@ -11,11 +11,11 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- ## Province Description -->
+## Province Description
 
 As a locus of garden history, Mesopotamia possesses one of the richest narratives of the ancient world,
 fusing historical landscapes with mythological and sacred ones. From the imperial gardens of the
-Babylonians, to the paradeisoi of the Achaemenids, to the Biblical topos of Eden, this extensive (and
+Babylonians, to the *paradeisoi* of the Achaemenids, to the Biblical *topos* of Eden, this extensive (and
 not easily defined) geographic expanse reveals the close relationships between, on the one hand,
 constructed and imagined landscapes, and on the other, social and political practice. Rooted in the
 Fertile Crescent of modern Iraq and Iran, but at times conceptually including the northern boundaries of
@@ -39,10 +39,10 @@ the grounds of his estate, in addition to hunting wild herds in marshy terrain. 
 vegetal and venatic leisure was a chief element in the large public parks of the Neo-Assyrians, and in
 some reliefs, the king is shown dining alongside the body parts of his victims. The hunting tradition
 continued with the Achaemenid Empire, in their main seats of control at Persepolis, Susa and Ecbatana.
-The Persian pairadaeza, transliterated into the Greek as paradeisos, became a byword in fifth- and
+The Persian *pairadaeza*, transliterated into the Greek as *paradeisos*, became a byword in fifth- and
 fourth-century BCE Greece for eastern decadence. These (sometimes) enclosed parks offered exotic
 plants and trees, sophisticated irrigation systems, and often herds of animals for royal hunting rituals.
-While the archaeological evidence for the pairadaeza is still meager, the site of Pasargadae has provided
+While the archaeological evidence for the *pairadaeza* is still meager, the site of Pasargadae has provided
 an example of the cultivated spaces with elaborate water courses and monumental built features.
 
 The Parthian Arsacid Dynasty, originating near the Caspian Sea in northeastern Iran in the late
@@ -53,7 +53,7 @@ a dome covering palatial courtyards, indicate that these groups were interested 
 that afforded outdoor mobility. Unfortunately, the evidence of Parthian gardens is lacking, and a solid
 understanding of Parthian palatial architecture also remains elusive. Excavations at the site known as
 Qal’eh-i Yazdigird in the Zagros Mountains have revealed a large rectangular enclosure, Gach Gumbad,
-which can be compared to the pairadaeza at Pasargadae, but there has been no systematic garden
+which can be compared to the *pairadaeza* at Pasargadae, but there has been no systematic garden
 archaeology performed at the site. Sources such as Strabo (16.1.16) mention Parthian-controlled cities,
 including Ctesiphon, but are silent about any possible gardens or parks.
 
@@ -62,7 +62,7 @@ used elements of earlier Parthian architecture and Achaemenid garden design to l
 One of the earliest Sassanid palaces, at Firuzabad, today offers little archaeological support for the large
 irrigated garden that originally surrounded it. Relief carvings from Taq-i Bustan, a Sassanid-period
 grotto in the Zagros Mountains, depict hunting scenes set in marshy landscapes that echo the Neo-
-Assyrian reliefs found at Nineveh and Khorsabad. The Sassanids potentially adopted the pairadaeza as
+Assyrian reliefs found at Nineveh and Khorsabad. The Sassanids potentially adopted the *pairadaeza* as
 a fixture in their palatial architecture, and they serve as a link connecting ancient garden design in
 Mesopotamia with the later Islamic concept of paradise, but more archaeological work on contemporary
 gardens and cultivation history are necessary in order to elucidate Sassanid traditions.
