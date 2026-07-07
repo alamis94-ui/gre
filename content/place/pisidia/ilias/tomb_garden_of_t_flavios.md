@@ -40,12 +40,13 @@ A fragmentary inscription found near Ilias in 1886 and dated by Ramsay to the fo
 
 ## Bibliography
 
- - J. R. S. Sterrett, “The Wolfe Expedition to Asia Minor,” *Papers of the ASCSA 3*, 1884/5 (1888), p. 424 no. 621
- - W. M. Ramsay, *The Cities and Bishoprics of Phrygia I*. Oxford, 1895, p. 333 no. 150. [(Archive.org)](https://archive.org/details/citiesbishoprics01rams/page/332/mode/2up)
- - J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 143.
+ - J. R. S. Sterrett, “The Wolfe Expedition to Asia Minor,” *Papers of the ASCSA 3*, 1884/5 (1888), p. 424 no. 621. [(worldcat)](https://search.worldcat.org/title/4568100); [(Hathi Trust)](https://hdl.handle.net/2027/hvd.hn349f)
+ - W. M. Ramsay, *The Cities and Bishoprics of Phrygia I*. Oxford, 1895, p. 333 no. 150. [(worldcat)](https://search.worldcat.org/title/3060972); [(Archive.org)](https://archive.org/details/citiesbishoprics01rams/page/332/mode/2up)
+ - J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 143. [(worldcat)](https://search.worldcat.org/title/8740190)
 
 
 ## Keywords
+
 - {{< keyword "inscriptions" >}}
 - {{< keyword "sepulchral monuments" >}}
 - {{< keyword "tombs" >}}
