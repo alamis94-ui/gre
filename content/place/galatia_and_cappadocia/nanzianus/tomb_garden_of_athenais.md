@@ -3,22 +3,25 @@ slug: "d67532e9dd"
 type: garden
 title: Tomb Garden Of Athenais
 latlon: [ 0, 0 ]
-author: Author Name
+author: John Bodel
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+ 
+unspecified
 
+<!--
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+-->
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+A gravestone found at Sorsovu identifies “the monument and garden (*peribolo*)” of Athenais, the daughter of Xennios, and calls down incurable disease on any who wish to harm them. Here it seems, as more often in western Asia Minor, a tomb garden is identified metonymically by reference to its perimeter wall.
 
 <!--
 ## Maps
@@ -35,10 +38,10 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- Bull. Épigr. 1939:448
+- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, p. 144.
 
 <!--
 ## Keywords
