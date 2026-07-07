@@ -4,7 +4,7 @@ type: garden
 title: Casa dell'Ara Laterizia
 latlon: [ 40.806029, 14.346488 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 539-540
 date: 2020-09-29
 
@@ -47,10 +47,12 @@ Casa dell'Ara Laterizia
 ## Garden Description
 
 539.III.17.
-At the rear of this small house there was a courtyard with an impressive brick altar against the rear wall. Maiuri felt this was probably a roofed area which would have been a *sacellum*. This area was excavated in 1927-1929 and may have held a few potted plants.
+At the rear of this small house there was a courtyard with an impressive brick altar against the rear wall. Maiuri felt this was probably a roofed area which would have been a sacellum. This area was excavated in 1927-1929 and may have held a few potted plants.
+
 
 540.III.19-18/1-2
-Because it was one of the largest houses in Herculaneum commanding a fine view of the Bay, it was initially thought that this residence was a hotel when it was excavated between the years of 1835 to 1855. The large garden (a) was also mistaken for a poultry yard but the discovery of the carbonized trunk of a pear tree (*Pyrus communis L.*) would indicate this area could have been planted in fruit trees. A *portico* surrounded the garden eight steps (1.10) above the garden level while the gutter ran one step below the *portico* and at each corner there was a shallow square basin for purifying the household water. The gutter conveyed the rain water to a cistern below the two wells, the openings of which were located between the columns in the middle of the east and west walls.  A low masonry wall of *opus reticulatum* which went between the columns was a later addition. The garden was entered by way of masonry steps in the center of the south side.
+Because it was one of the largest houses in Herculaneum commanding a fine view of the Bay, it was initially thought that this residence was a hotel when it was excavated between the years of 1835 to 1855. The large garden (a) was also mistaken for a poultry yard but the discovery of the carbonized trunk of a pear tree (Pyrus communis L.) would indicate this area could have been planted in fruit trees. A portico surrounded the garden eight steps (1.10) above the garden level while the gutter ran one step below the portico and at each corner there was a shallow square basin for purifying the household water. The gutter conveyed the rain water to a cistern below the two wells, the openings of which were located between the columns in the middle of the east and west walls.  A low masonry wall of opus reticulatum which went between the columns was a later addition. The garden was entered by way of masonry steps in the center of the south side.
+
 <!-- ## Maps -->
 
 ## Plans
