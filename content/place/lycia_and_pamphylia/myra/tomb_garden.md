@@ -3,22 +3,25 @@ slug: "874c1ce568"
 type: garden
 title: Tomb Garden
 latlon: [ 0, 0 ]
-author: Author Name
+author: John Bodel
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+unspecified
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unspecified
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+A broken tombstone from Myra records part of a testator’s instructions to certain persons (gardeners?) charged with “not living elsewhere but staying in the heroon and themselves taking care of it completely” in return for which “they are to have use of the walled garden and the buildings in it, two underground rooms, and the two corresponding rooms on the ground floor” <!--(need Greek)-->. The two “houses” (*oikoi*) were probably humble structures, combining storage rooms for garden equipment and residential space for the gardeners.
 
 <!--
 ## Maps
@@ -35,10 +38,10 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- E. Petersen and F. von Luschan, Reisen in Lykias, Milyas und Kibyratis II. Vienna, 1889, p. 36 no. 56
+- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, pp. 142-43.
 
 <!--
 ## Keywords
