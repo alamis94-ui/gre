@@ -35,13 +35,13 @@ Although mountainous, Lycia and Pamphylia included some arable land on which the
 
 ## Bibliography
 
-- H. Brandt, Gesellschaft und Wirtschaft Pamphyliens und Pisidiens im Altertum. Asia Minor Studien, Band 7, Bonn: Dr. Rudolf Habelt GmbH, 1992
-- J.J. Coulton, “Highland cities in south-west Turkey: the Oinoanda and Balboura surveys,” in ed. R. Matthews, Ancient Anatolia: fifty years’ work by the British Institute of Archaeology at Ankara. 1998, pp. 225- 36
-- A. Dalby, Empire of pleasures: luxury and indulgence in the Roman world. New York: Routledge, 2000
-- L.W. Mays, “A Brief History of Roman Water Technology,” in ed. L.W. Mays, Ancient Water Technologies. London: Springer, 2012, pp. 115-37
-- M.J. Mellink, “Archaeology in Asia Minor,” American Journal of Archaeology 78.2 (1974): 105-130
-- S. Mitchell, Anatolia I. Oxford: Clarendon Press, 1993, pp. 110-64
-- S. Mitchell, “Olive cultivation in the economy of Roman Asia Minor,” in eds. S. Mitchell and C. Katsari, Patterns in the economy of Roman Asia Minor. London: Duckworth, 2005, pp. 83-114.
+- H. Brandt, *Gesellschaft und Wirtschaft Pamphyliens und Pisidiens im Altertum*. Asia Minor Studien, Band 7, Bonn: Dr. Rudolf Habelt GmbH, 1992. [(worldcat)](https://search.worldcat.org/title/27088222)
+- J.J. Coulton, “Highland cities in south-west Turkey: the Oinoanda and Balboura surveys,” in ed. R. Matthews, *Ancient Anatolia: fifty years’ work by the British Institute of Archaeology at Ankara*. 1998, pp. 225- 36. [(worldcat)](https://search.worldcat.org/title/10015708676)
+- A. Dalby, *Empire of pleasures: luxury and indulgence in the Roman world*. New York: Routledge, 2000. [(worlcat)](https://search.worldcat.org/title/43885828)
+- L.W. Mays, “A Brief History of Roman Water Technology,” in ed. L.W. Mays, *Ancient Water Technologies*. London: Springer, 2012, pp. 115-37. [(worldcat)](https://search.worldcat.org/title/654396308)
+- M.J. Mellink, “Archaeology in Asia Minor,” American Journal of Archaeology 78.2 (1974): 105-130. [(worldcat)](https://search.worldcat.org/title/5548807736)
+- S. Mitchell, *Anatolia I*. Oxford: Clarendon Press, 1993, pp. 110-64. [(worldcat)](https://search.worldcat.org/title/26502259)
+- S. Mitchell, “Olive cultivation in the economy of Roman Asia Minor,” in eds. S. Mitchell and C. Katsari, *Patterns in the economy of Roman Asia Minor*. London: Duckworth, 2005, pp. 83-114. [(worldcat)](https://search.worldcat.org/title/1250304753)
 
 <!--
 ## Keywords
