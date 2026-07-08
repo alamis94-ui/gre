@@ -39,18 +39,19 @@ New archaeobotanical research at numerous sites in the Caucasus provides evidenc
 
 ## Bibliography
 
-- N. Garsoian, “The emergence of Armenia,” in ed. G. Hovannisian, *The Armenian People from Ancient to Modern Times, Vol. 1*. New York: St. Martin’s Press, 1997, pp. 37-62.
-- R. Hovsepyan and G. Willcox, “The earliest finds of cultivated plants in Armenia: evidence from charred remains and crop processing residues from the Neolithic settlements of Aratashen and Aknashen,” *Vegetation History and Archaeobotany*, 17.1, 2008: 63-71.
-- L. Khatchadourian, “Making nations from the ground up: traditions of classical archaeology in the South Caucasus,” American Journal of Archaeology, 112.2, 2008: 247-78.
-- R. Syme, *Anatolica: Studies in Strabo*. Oxford: Clarendon Press, 1995, pp. 27-85.
+- N. Garsoian, “The emergence of Armenia,” in ed. G. Hovannisian, *The Armenian People from Ancient to Modern Times, Vol. 1*. New York: St. Martin’s Press, 1997, pp. 37-62. [(worldcat)](https://search.worldcat.org/title/53069249)
+- R. Hovsepyan and G. Willcox, “The earliest finds of cultivated plants in Armenia: evidence from charred remains and crop processing residues from the Neolithic settlements of Aratashen and Aknashen,” *Vegetation History and Archaeobotany*, 17.1, 2008: 63-71. [(worldcat)](https://search.worldcat.org/title/438738464)
+- L. Khatchadourian, “Making nations from the ground up: traditions of classical archaeology in the South Caucasus,” American Journal of Archaeology, 112.2, 2008: 247-78. [(worldcat)](https://search.worldcat.org/title/9970717012)
+- R. Syme, *Anatolica: Studies in Strabo*. Oxford: Clarendon Press, 1995, pp. 27-85. [(worldcat)](https://search.worldcat.org/title/30318791)
 
 <!--
 ## Keywords
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
+
 - {{< id vocab="Pleiades" id="981507" name="Armenia (Roman Province)" >}}
+<!--
 - {{< id vocab="TGN" id="" name="" >}}
 -->
