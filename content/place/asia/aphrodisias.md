@@ -36,8 +36,6 @@ Aphrodisias (_Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis_), in Ca
 - Roueché, C., and J.M. Reynolds. 1989. _Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim_. London: Society for the Promotion of Roman Studies. [(worldcat)](https://search.worldcat.org/title/4669803971)
 - Wilson, A.I. 2015. "Water, nymphs and a palm grove: monumental water displays at Aphrodisias." In _Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012_, edited by R.R.R. Smith, J. Lenaghan, A. Sokolicek, and K. Welch, 100-135. _JRA_ Supplement 103. [(worldcat)](https://search.worldcat.org/title/950610833)
 
-
-
 ## Keywords
 
 - {{< keyword "agoras" >}}
@@ -49,11 +47,9 @@ Aphrodisias (_Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis_), in Ca
 - {{< keyword "groves" >}}
 - {{< keyword "inscriptions" >}}
 
-
-
+<!--
 ## Places
-
 
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
 - {{< id vocab="Pleiades" id="638753" name="Aphrodisias" >}}
-
+-->

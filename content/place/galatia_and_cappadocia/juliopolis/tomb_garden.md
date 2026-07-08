@@ -3,22 +3,25 @@ slug: "9a3e124c7c"
 type: garden
 title: Tomb Garden
 latlon: [ 0, 0 ]
-author: Author Name
+author: John Bodel
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 
+unspecified
+
+<!-- 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+-->
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+A fragmentary inscription found in 1898 built into a modern fountain at the lower maharra in the village of Iki kalissi near Juliopolis records a funerary donation of “a complete area for a garden” <!--(need Greek)-->, the revenue from which was to be shared equally among the donor’s children in commemorating him with libations at his tomb.
 
 <!--
 ## Maps
@@ -35,10 +38,10 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- J. G. C. Anderson, in J. W. Crowfoot, “Exploration in Galatia cis Halym,” JHS 19, 1899:73 no. 25
+- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, p. 143.
 
 <!--
 ## Keywords

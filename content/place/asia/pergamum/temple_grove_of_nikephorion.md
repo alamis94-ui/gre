@@ -2,7 +2,7 @@
 slug: "64c43f2f28"
 type: garden
 title: Temple Grove of Nikephorion
-latlon: [ 0, 0 ]
+latlon: [ 39.1325, 27.184167 ]
 author: Maureen Carroll, Kathryn Gleason
 contributor: Annette Guan, Amelia Lamis
 date: 2021-04-21
@@ -12,15 +12,7 @@ draft: true
 
 ## Dates
 
-<!--third/second centuries BCE-->
-
-## Location
-
-- [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="550812" name="Pergamum" >}}
-
-## Garden 
-Temple Grove of Nikephorion
+ca. 3rd - 2nd centuries BCE
 
 ## Garden Description
 
@@ -57,4 +49,3 @@ King Eumenes II of Pergamum employed a gardener to plant new trees and nurse dam
 
 - {{< id vocab="Pleiades" id="537932154" name="Temple Grove of Nikephorion at Pergamum" >}}
 - {{< id vocab="TGN" id="7016140" name="Bergama (inhabited place)" >}}
-

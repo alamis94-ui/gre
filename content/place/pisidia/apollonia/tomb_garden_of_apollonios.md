@@ -3,22 +3,26 @@ slug: "9a54de29f0"
 type: garden
 title: Tomb Garden Of Apollonios
 latlon: [ 0, 0 ]
-author: Author Name
+author: John Bodel
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+early first century CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+1886
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+A white limestone block found in use as a doorstep in Uluborlu in 1886 records an epitaph set up some time early in the first century by Apollonios, the son of Olympichos, grandson of Artemon, to himself, his wife Tatia, and their children, and dedicating, along with the monument, colonnades (*stoai*), “the things provided around the tomb” <!--(need Greek)-->, gardens (*kepoi*), stalls <!--(?)-->, workshops, and a permanent attendant to care for the complex <!--(need Greek)-->. The leading member of a local family, Apollonios, is honored in a decree of the town council of the Tiberian age for, among other services, serving as ambassador to Germanicus Caesar (no doubt during the latter’s journey east in 18 CE) and for erecting in the local shrine of the emperors three equestrian statues.  These were probably of Tiberius and his two sons Germanicus and Drusus, the same trio that appeared flanking Augustus and Livia in the statue group that surmounted the base at Apollonia inscribed with a Greek version of the *Res Gestae Divi Augusti*. The decree provides not only a valuable indication for the date of Apollonios’s monument but also an insight into the background of a local magnate who took a Roman wife, Tatia, and built for his family a Roman style tomb garden, more ambitious in its appointments than any other specimen in Asia Minor, with features such as porticoes (*stoai*) and workshops or merchant stalls on both a modest and a grander scale otherwise found in the region associated mainly with temples and sanctuaries (e.g. *Syll*.3 1106; cf. *CIL* 9.4112; for a portico, cf. *CIL* 6.10237, the contemporary tomb garden, dedicated in 16 CE, of a funerary collegium at Rome). As Kubin’ska notes, it is unclear whether the porticos at Apollonios’s monument were intended for the accommodation of those who visited the tomb or were meant to house the attendants, an arrangement found regularly elsewhere, in which case they would have been rented out along with the shops to provide income for upkeep of the property.
+
 
 <!--
 ## Maps
@@ -35,10 +39,11 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- J. R. S. Sterrett, “The Wolfe Expedition to Asia Minor,” Papers of the ASCSA 3, 1884/5 (1888), no. 518
+- Monumenta Asiae Minoris Antiquae. Manchester and London, 1928-1993, IV, 171
+- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, pp. 143, 149-50.
 
 <!--
 ## Keywords

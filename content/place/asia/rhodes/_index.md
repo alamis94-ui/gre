@@ -39,5 +39,5 @@ draft: false
 -->
 
 ## Places
-- {{< id vocab="Pleiades" id="590031" name="Rhodos (island)" >}}
 
+- {{< id vocab="Pleiades" id="590031" name="Rhodos (island)" >}}

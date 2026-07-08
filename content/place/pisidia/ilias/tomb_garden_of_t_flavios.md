@@ -1,24 +1,27 @@
 ---
 slug: "a1b5e41f3e"
 type: garden
-title: Tomb Garden Of T Flavios
+title: Tomb Garden Of T. Flavios
 latlon: [ 0, 0 ]
-author: Author Name
+author: John Bodel
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+fourth century CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+1886
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+A fragmentary inscription found near Ilias in 1886 and dated by Ramsay to the fourth century records the end of a funerary dedication of a monument “in its own tomb garden (*kepotaphon*)” by a man, presumably a T. Flavius, to himself, his wife F(lavia) Eupos, and their two living children, T. F(lavius) Valens and F(lavia) Tatia. <!--add Greek-->
 
 <!--
 ## Maps
@@ -35,10 +38,11 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+ - J. R. S. Sterrett, “The Wolfe Expedition to Asia Minor,” Papers of the ASCSA 3, 1884/5 (1888), p. 424 no. 621
+ - W. M. Ramsay, The Cities and Bishoprics of Phrygia I. Oxford, 1895, p. 333 no. 150
+ - J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, p. 143.
 
 <!--
 ## Keywords

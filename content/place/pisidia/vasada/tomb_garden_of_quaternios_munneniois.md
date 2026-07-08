@@ -1,24 +1,27 @@
 ---
 slug: "b12b517e00"
 type: garden
-title: Tomb Garden Of Quaternios Munneniois
+title: Tomb Garden Of Quaternios Munneniois and Valeria Valeriana
 latlon: [ 37.502075, 31.911754 ]
-author: Author Name
+author: John Bodel
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+second or third century CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unspecified
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+A grave stele found near Vasada records an epitaph of perhaps second or third century date set up by a veteran secretary of the Roman army (*a commentariis*), Quaternius Munnienus, and his wife, Valeria Valeriana, who set up for themselves a tomb and surrounding pleasure garden (*paradeisos*). <!--look for text-->
 
 <!--
 ## Maps
@@ -35,10 +38,10 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- J. R. S. Sterrett, “The Wolfe Expedition to Asia Minor,” Papers of the ASCSA 3, 1884/5 (1888), no. 280
+- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, p. 143.
 
 <!--
 ## Keywords
