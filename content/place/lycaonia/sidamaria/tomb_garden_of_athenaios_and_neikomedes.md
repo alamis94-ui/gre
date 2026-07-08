@@ -20,8 +20,6 @@ unspecified
 
 ## Garden Description
 
-<!--SIDAMARIA-->
-
 A large and heavy stone found in 1904 in use as a doorstep at Kale Keui records the dedication by two brothers, Athenaios and Neikomedes, the sons of Nicanor, of a tomb monument for their father and mother and calls on the heavenly and chthonian Menes (Anatolian deities related to the Roman Di Manes) not to allow anyone “except a [brother ?] to sell or buy the garden (*peribolo*) of the tomb” (*μὴ ἐξεῖναί τινι πωλῆσαι τὸ περίβολον τοῦ τάφου μήτε ἀγοράζειν τοῦ ἀδελφοῦ(?)*, 13-18<!--https://inscriptions.packhum.org/text/274457?hs=371-378-->). The prohibition against sale suggests that here, as often elsewhere in Asia Minor and Italy, a garden is referred to metonymically by the perimeter wall that enclosed it.
 
 <!--
@@ -50,9 +48,11 @@ A large and heavy stone found in 1904 in use as a doorstep at Kale Keui records 
 - {{< keyword "periboloi" >}}
 - {{< keyword "tombs" >}}
 
+<!--
 ## Places
 
-- {{< id vocab="Pleiades" id="648777" name="Sidamaria " >}}
-<!--
-- {{< id vocab="TGN" id="" name="" >}}
+Where is "Kale Keui"? There is a modern-day place called "Kaleköy" that is just 5km from the Pleiades point location for Sidamaria
+https://www.openstreetmap.org/relation/13400622
+https://pleiades.stoa.org/places/648777
+
 -->
