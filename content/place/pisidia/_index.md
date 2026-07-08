@@ -21,7 +21,6 @@ Its political history, like its neighbors in Anatolia, is marked by shifting pow
 
 Strabo (12.7.1-3) records the fertility of the land during the Roman period, which supported in particular the cultivation of olive groves and wheat, livestock breeding, and the production of wine and timber.  The native *styrax* wood produced a gum that was used to make an aromatic perfume known across the empire, and the Amblada area was reputable for its wine (Pliny 12.55).  Evidence of stone terracing, olive press weights and drainage spouts at sites such as Sagalassus support this identification of Pisidia’s agricultural wealth.  In addition, a recent pollen core taken from Sagalassus reveals the presence of olives in a period dating roughly from the third century BCE to the seventh century CE, indicating that olive cultivation was pervasive during the city’s existence as a Hellenistic and Roman province.  While no garden archaeology has yet been published from any sites, excavations at the city of Ariassos have uncovered several houses dating to the Roman period, including ones with peristyles.  Archaeological evidence for the construction of large bath houses, sanctuaries, and gymnasia in the imperial period also suggests that some of these public areas may have boasted gardens or parks.  At the colony of Cremna, for example, originally established by Augustus but enhanced following the reign of Hadrian, public structures such as the Doric-style forum had porticos and *exedrae*.
 
-
 <!--
 ## Maps
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
@@ -36,7 +35,6 @@ Strabo (12.7.1-3) records the fertility of the land during the Roman period, whi
 ## Images
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
-
 
 ## Bibliography
 
