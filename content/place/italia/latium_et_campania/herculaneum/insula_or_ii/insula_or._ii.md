@@ -4,7 +4,7 @@ type: garden
 title: Insula or. II
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Yifan Li
+contributor: Yifan Li, Chiara Romano
 jashemski-catalogue: 565
 date: 2021-04-21
 
@@ -38,7 +38,7 @@ Garden (a)
 
 ## Garden Description
 
-Directly south of the Great Palaestra there is a peristyle garden (a) enclosed by a portico. A pool with a low wall surrounding it is located in the center of this garden.
+Directly south of the Great Palaestra there is a *peristyle* garden (a) enclosed by a *portico*. A pool with a low wall surrounding it is located in the center of this garden.
 
 ## Plans
 
