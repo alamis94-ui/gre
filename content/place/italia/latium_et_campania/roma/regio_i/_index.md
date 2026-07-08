@@ -1,23 +1,16 @@
 ---
-slug: "{{ substr (sha256 now) 0 10 }}"
-type: garden
-title: {{ title (replaceRE `[-_]` " " .Name) }}
-latlon: [ 0, 0 ]
+slug: "e223b28e50"
+type: place
+title: Regio I
 author: Author Name
 contributor: Contributor Name
-date: {{ time.Now.Format "2006-01-02" }}
-draft: true
+date: 2026-07-08
+draft: false
 ---
 
-## Dates
+<!-- ## Dates -->
 
-
-<!--
-## Excavation Dates
--->
-
-## Garden Description
-
+<!-- ## Place Description-->
 
 <!--
 ## Maps
@@ -36,19 +29,16 @@ draft: true
 
 <!--
 ## Bibliography
-
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
 <!--
 ## Keywords
-
-- {{< keyword "example" >}}
+- {{< keyword "Example keyword" >}}
 -->
 
 <!--
 ## Places
-
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->

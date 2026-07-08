@@ -40,7 +40,7 @@ B
 
 ## Garden Description
 
-B. From the atrium the peristyle on the lower level was reached by way of a steeply sloping corridor. Stuccoed brick columns and a low wall 0.50 m. high enclosed the central area (b) and a large gutter collected water from the edges and conducted it to the cistern. A rectangular pool ca. 2.60 x 5.00 m. with the inside painted blue was located in the center of this area. At the rear of the pool an area paved with bipedales (tiles two feet long) covered the cellars below with an opening 1.70 x 2.20 to provide light. Jashemski noted that the paved and planted areas were reconstructed with a lattice fence between them, although she did not know of any evidence to support this interpretation.
+B. From the *atrium* the *peristyle* on the lower level was reached by way of a steeply sloping corridor. Stuccoed brick columns and a low wall 0.50 m. high enclosed the central area (b) and a large gutter collected water from the edges and conducted it to the cistern. A rectangular pool ca. 2.60 x 5.00 m. with the inside painted blue was located in the center of this area. At the rear of the pool an area paved with *bipedales* (tiles two feet long) covered the cellars below with an opening 1.70 x 2.20 to provide light. Jashemski noted that the paved and planted areas were reconstructed with a lattice fence between them, although she did not know of any evidence to support this interpretation.
 
 ## Plans
 
@@ -65,6 +65,7 @@ B. From the atrium the peristyle on the lower level was reached by way of a stee
 
 ## Bibliography
 
-- Maiuri, *Herculaneum*, pp.66-67 [(worldcat)](https://search.worldcat.org/title/1107784297)
-- Maiuri, *Ercolano*, p. 353 [(worldcat)](https://search.worldcat.org/title/490581395)
 - Jashemski, *Gardens*, 1:50-51 and fig. 89 on p. 51 [(worldcat)](https://search.worldcat.org/title/1029851777)
+- Maiuri, *Herculaneum*, pp. 66-67 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Ercolano*, p. 353 [(worldcat)](https://search.worldcat.org/title/490581395)
+

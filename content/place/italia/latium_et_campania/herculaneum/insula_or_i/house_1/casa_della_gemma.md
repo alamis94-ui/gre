@@ -4,7 +4,7 @@ type: garden
 title: Casa della Gemma (Insula or. I.1)
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Yifan Li
+contributor: Yifan Li, Chiara Romano
 jashemski-catalogue: 559
 date: 2021-04-21
 
@@ -40,7 +40,8 @@ Casa della Gemma (A)
 
 ## Garden Description
 
-A. This garden (a) is built partially into the edge of the hill and partially on vaults. A square opening enclosed by a high wall in the center of the garden supplies light to the floor below, shared by both the Casa della Gemma with windows on three sides and the Casa del Rilievo di Telefo next door with windows on one side. The garden was perhaps jointly owned, although neither had an entrance into the area. Three sides of the garden had large raised gutters 0.74 m. wide; 0.70 m. high which collected roof water and conveyed it to a cistern in the atrium of Casa della Gemma. A sundial is located in this garden.
+A. This garden (a) is built partially into the edge of the hill and partially on vaults. A square opening enclosed by a high wall in the center of the garden supplies light to the floor below, shared by both the Casa della Gemma with windows on three sides and the Casa del Rilievo di Telefo next door with windows on one side. The garden was perhaps jointly owned, although neither had an entrance into the area. Three sides of the garden had large raised gutters 0.74 m. wide; 0.70 m. high which collected roof water and conveyed it to a cistern in the *atrium* of Casa della Gemma. A sundial is located in this garden.
+
 
 ## Plans
 
@@ -65,6 +66,7 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 
 ## Bibliography
 
-- Maiuri, *Herculaneum*, p.65 [(worldcat)](https://search.worldcat.org/title/1107784297)
-- Maiuri, *Ercolano*, p. 341 and fig. 266 (plan) on p. 337 [(worldcat)](https://search.worldcat.org/title/490581395)
 - Gibbs, p. 295, no. 3074G
+- Maiuri, *Herculaneum*, p. 65 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Ercolano*, p. 341 and fig. 266 (plan) on p. 337 [(worldcat)](https://search.worldcat.org/title/490581395)
+
