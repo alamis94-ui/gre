@@ -4,7 +4,7 @@ type: garden
 title: Casa dell'Alcova
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 542-543
 date: 2020-09-29
 
@@ -47,10 +47,12 @@ Casa dell'Alcova
 ## Garden Description
 
 542.IV.3-4.
-A. Two separate dwellings were united to form this house, excavated in 1928-1929. The northern house has three courtyards. The first (a) is directly off of the vestibule, the second is a covered *atrium*(b) with a small courtyard that collected roof water, and the third courtyard (c) in the rear supplied light and air to the adjoining rooms and the *triclinium*. This was too badly damaged to ascertain if it was a garden or even if it once held potted plants. It was compared to the better preserved courtyard in the Casa a Graticcio by Maiuri.
+A. Two separate dwellings were united to form this house, excavated in 1928-1929. The northern house has three courtyards. The first (a) is directly off of the vestibule, the second is a covered *atrium* (b) with a small courtyard that collected roof water, and the third courtyard (c) in the rear supplied light and air to the adjoining rooms and the *triclinium*. This was too badly damaged to ascertain if it was a garden or even if it once held potted plants. It was compared to the better preserved courtyard in the Casa a Graticcio by Maiuri.
+
 
 543.IV.3-4.
 B. The more elegant dwelling to the south had a long corridor on one side of the large *triclinium* leading to a small paved courtyard with pillars (e) which supplied light and air to the house. The pillars on the south and east stood on a low wall, 0.80 m. high, with a planting area 15 cm. wide in between. This gives the area the feeling of window boxes placed below large windows. There was a well in the southeast corner of this courtyard which received rain water and beyond the courtyard was a secluded alcove. This consisted of an apsed room preceded by a *procoeton*.
+
 <!-- ## Maps -->
 
 ## Plans
@@ -74,7 +76,7 @@ B. The more elegant dwelling to the south had a long corridor on one side of the
 ## Bibliography
 
 - Maiuri, *Ercolano*, pp. 51, 389-391 and fig. 322 (plan) on p. 389 [(worldcat)](https://search.worldcat.org/title/490581395)
-- Maiuri, *Herculaneum*, pp. 31 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Herculaneum*, p. 31 [(worldcat)](https://search.worldcat.org/title/1107784297)
 -
 - Maiuri, *Ercolano*, pp. 51, 392 and fig. 322 (plan) on p. 389 [(worldcat)](https://search.worldcat.org/title/490581395)
 
