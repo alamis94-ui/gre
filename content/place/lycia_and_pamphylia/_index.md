@@ -15,7 +15,7 @@ draft: false
 
 Lycia was a mountainous country in southwestern Anatolia, known to the Hittites as the land of the Lukka and long-dominant in Greek imagination as the territory of mythological figures such as Sarpedon.  To the east lay Pamphylia (“Land of many tribes”), which consisted of the territory along the southern coastal plain of modern Turkey, enclosed by the Taurus mountains and Cilicia to the east.  After the conquests of Alexander the Great in Anatolia, Lycia became part of the Ptolemaic kingdom and in the third century BCE (Strabo 14.3.3). After short rule by Antiochus III in 198 BCE, Lycia was allocated by the Romans to the city of Rhodes, and then incorporated into the province of Asia in 133 BCE.  The region became an autonomous province for the first time under Claudius in 43 CE (Suetonius *Claud*. 25.3). The emperor Vespasian combined Lycia with Pamphylia as an imperial province, and during this period the construction of new civic buildings, aqueducts, and bathhouses began.  The main cities of the area included Attaleia, Magydus, Perge, Sillyum and Aspendus, but to date no garden archaeology has been performed in this region.    
 
-Although mountainous, Lycia and Pamphylia included some arable land on which the inhabitants grew a number of crops.  A coin from the region, issued in the time of Diocletian, shows an ear of wheat on one side, potentially emphasizing local agricultural prosperity.  Pliny (12.9) mentions the story of a local Lycian plane tree large enough to fit Licinius Mucianus and his dinner party within it, near the amoenitas of a cool spring.  Beyond a few literary references, however, the question of garden culture during the Roman period remains open.  In Pamphylian Perge, a large nymphaeum near the acropolis included a two-story fountain with a statue of the river god Cestrus, and points to the conspicuous public and visibly accessible display of water.
+Although mountainous, Lycia and Pamphylia included some arable land on which the inhabitants grew a number of crops.  A coin from the region, issued in the time of Diocletian, shows an ear of wheat on one side, potentially emphasizing local agricultural prosperity.  Pliny (12.9) mentions the story of a local Lycian plane tree large enough to fit Licinius Mucianus and his dinner party within it, near the *amoenitas* of a cool spring.  Beyond a few literary references, however, the question of garden culture during the Roman period remains open.  In Pamphylian Perge, a large *nymphaeum* near the acropolis included a two-story fountain with a statue of the river god Cestrus, and points to the conspicuous public and visibly accessible display of water.
 
 
 <!--
@@ -48,8 +48,8 @@ Although mountainous, Lycia and Pamphylia included some arable land on which the
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="Pleiades" id="981530" name="Lycia et Pamphylia" >}}
+<!--
 - {{< id vocab="TGN" id="" name="" >}}
 -->
