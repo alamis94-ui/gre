@@ -17,7 +17,6 @@ Lycia was a mountainous country in southwestern Anatolia, known to the Hittites 
 
 Although mountainous, Lycia and Pamphylia included some arable land on which the inhabitants grew a number of crops.  A coin from the region, issued in the time of Diocletian, shows an ear of wheat on one side, potentially emphasizing local agricultural prosperity.  Pliny (12.9) mentions the story of a local Lycian plane tree large enough to fit Licinius Mucianus and his dinner party within it, near the *amoenitas* of a cool spring.  Beyond a few literary references, however, the question of garden culture during the Roman period remains open.  In Pamphylian Perge, a large *nymphaeum* near the acropolis included a two-story fountain with a statue of the river god Cestrus, and points to the conspicuous public and visibly accessible display of water.
 
-
 <!--
 ## Maps
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
