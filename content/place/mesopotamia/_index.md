@@ -97,7 +97,6 @@ sites of the Roman period.
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-
 ## Bibliography
 
 - W. Ball, *Rome in the East: The Transformation of an Empire*. New York: Routledge, 2001. [(worldcat)](https://search.worldcat.org/title/40901158)
@@ -117,7 +116,6 @@ sites of the Roman period.
 - {{< keyword "paradise gardens" >}}
 - {{< keyword "palaces" >}}
 - {{< keyword "terrace gardens" >}}
-
 
 ## Places
 

@@ -2,7 +2,7 @@
 slug: "9a3e124c7c"
 type: garden
 title: Tomb Garden of Anonymous
-latlon: [ 0,0 ]
+latlon: [ 37.5, 32.5 ]
 author: John Bodel
 translator: Translator Name
 contributor: Amelia Lamis
@@ -42,7 +42,6 @@ A fragmentary inscription found in 1898 built into a modern fountain at the lowe
 
 - J. G. C. Anderson, in J. W. Crowfoot, “Exploration in Galatia cis Halym,” *JHS 19*, 1899:73 no. 25. [(worldcat)](https://search.worldcat.org/title/8272435320); [(JStor)](https://www.jstor.org/stable/623843)
 - J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, pp. 143. [(worldcat)](https://search.worldcat.org/title/8740190)
-
 
 ## Keywords
 

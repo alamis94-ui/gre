@@ -43,7 +43,6 @@ During the Roman period, the region consisted of areas densely populated with vi
 - {{< keyword "Example keyword" >}}
 -->
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="981523" name="Galatia et Cappadocia" >}}

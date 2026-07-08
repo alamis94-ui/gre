@@ -40,7 +40,7 @@ A gravestone <!--[(SEG 12:510)](https://inscriptions.packhum.org/text/287326?hs=
 
 ## Bibliography
 
-- Bull. Épigr. 1939:448. [(JStor)](https://www.jstor.org/stable/44271747); [(worldcat)](https://search.worldcat.org/title/6820232)
+- Bull. Épigr. 1939:448. [(worldcat)](https://search.worldcat.org/title/6820232); [(JStor)](https://www.jstor.org/stable/44271747);
 - J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, pp. 144. [(worldcat)](https://search.worldcat.org/title/8740190)
 
 ## Keywords

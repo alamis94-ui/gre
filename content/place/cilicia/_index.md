@@ -40,12 +40,10 @@ While the mountainous region of ‘Rough Cilicia’ offered less cultivable land
 - S. Mitchell, *Anatolia I*. Oxford: Clarendon Press, 1993. [(worldcat)](https://search.worldcat.org/title/26502259)
 - N.K. Rauh, “Rough Cilicia Regional Archaeology Survey Project,” *Near Eastern Archaeology*, 62.1 (1999): 54-55. [(worldcat)](https://search.worldcat.org/title/5546252079) 
 
-
 <!--
 ## Keywords
 - {{< keyword "Example keyword" >}}
 -->
-
 
 ## Places
 
