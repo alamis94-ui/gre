@@ -4,7 +4,7 @@ type: garden
 title: Casa del Paprio Dipinto
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 544
 date: 2020-09-29
 
@@ -69,6 +69,6 @@ This narrow house excavated in 1929-1932 had a small paved courtyard serving as 
 ## Bibliography
 
 - Jashemski, *Gardens*, vol.II, p. 370 [(worldcat)](https://search.worldcat.org/title/1029851777)
-- Maiuri, *Herculaneum*, pp. 32 [(worldcat)](https://search.worldcat.org/title/1107784297)
-- Maiuri, *Ercolano*, pp. 424 and fig. 365 (plan) on p. 424. [(worldcat)](https://search.worldcat.org/title/490581395)
+- Maiuri, *Herculaneum*, p. 32 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Ercolano*, p. 424 and fig. 365 (plan) on p. 424. [(worldcat)](https://search.worldcat.org/title/490581395)
 

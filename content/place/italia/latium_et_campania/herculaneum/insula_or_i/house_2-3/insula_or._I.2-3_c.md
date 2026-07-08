@@ -4,7 +4,7 @@ type: garden
 title: Insula or. I.2-3(C)
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Yifan Li
+contributor: Yifan Li, Chiara Romano
 jashemski-catalogue: 563
 date: 2021-04-21
 
@@ -40,7 +40,7 @@ C
 
 ## Garden Description
 
-C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).
+C. There are five rooms south of the *peristyle* and on a lower level beyond them is another garden (c).
 
 ## Plans
 
