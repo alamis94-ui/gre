@@ -38,11 +38,12 @@ Strabo (12.7.1-3) records the fertility of the land during the Roman period, whi
 
 ## Bibliography
 
-- A. Dalby, Empire of pleasures: luxury and indulgence in the Roman world. New York: Routledge, 2000
-- S. Mitchell, “Ariassos 1990,” Anatolian Studies, 41, 1991, pp. 159-72
-- S. Mitchell, Cremna in Pisidia: an ancient city in peace and in war. London: Duckworth, 1995; S. Mitchell, “The Pisidian Survey,” in ed. R. Matthews, Ancient Anatolia: fifty years’ work by the British Institute of Archaelogy at Ankara. 1998, pp. 237-53
-- S. Mitchell, “Olive cultivation in the economy of Roman Asia Minor,” in eds. S. Mitchell and C. Katsari, Patterns in the economy of Roman Asia Minor. London: Duckworth, 2005, pp. 83-114
-- R. Syme, Anatolica: Studies in Strabo. 1995, Oxford: Clarendon Press
+- A. Dalby, *Empire of pleasures: luxury and indulgence in the Roman world*. New York: Routledge, 2000. [(worlcat)](https://search.worldcat.org/title/43885828)
+- S. Mitchell, “Ariassos 1990,” *Anatolian Studies*, 41, 1991, pp. 159-72. [(worldcat)](https://search.worldcat.org/title/8271772006)
+- S. Mitchell, Cremna in Pisidia: an ancient city in peace and in war. London: Duckworth, 1995. [(worlcat)](https://search.worldcat.org/title/604545337)
+- S. Mitchell, “The Pisidian Survey,” in ed. R. Matthews, *Ancient Anatolia: fifty years’ work by the British Institute of Archaelogy at Ankara*. 1998, pp. 237-53. [(worldcat)](https://search.worldcat.org/title/40486843)
+- S. Mitchell, “Olive cultivation in the economy of Roman Asia Minor,” in eds. S. Mitchell and C. Katsari, Patterns in the economy of Roman Asia Minor. London: Duckworth, 2005, pp. 83-114. [(worldcat)](https://search.worldcat.org/title/1250304753)
+- R. Syme, Anatolica: Studies in Strabo. 1995, Oxford: Clarendon Press. [(worldcat)](https://search.worldcat.org/title/30318791)
 - M. Vermoere et al., “Pollen sequences from the city of Sagalassos (Pisidia, southwest Turkey),” Anatolian Studies, 53, 2003: 161-73. 
 
 <!--
@@ -50,8 +51,9 @@ Strabo (12.7.1-3) records the fertility of the land during the Roman period, whi
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
+
+- {{< id vocab="Pleiades" id="639060" name="Pisidia" >}}
+<!--
 - {{< id vocab="TGN" id="" name="" >}}
 -->
