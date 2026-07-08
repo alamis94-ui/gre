@@ -41,7 +41,7 @@ A gravestone found at Sorsovu identifies “the monument and garden (*peribolo*)
 ## Bibliography
 
 - Bull. Épigr. 1939:448
-- J. Kubin’ska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, p. 144.
+- J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, pp. 144. [(worldcat)](https://search.worldcat.org/title/8740190)
 
 <!--
 ## Keywords
