@@ -4,7 +4,7 @@ type: garden
 title: Insula or. I.1
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Yifan Li
+contributor: Yifan Li, Chiara Romano
 jashemski-catalogue: 560
 date: 2021-04-21
 
@@ -40,7 +40,8 @@ B
 
 ## Garden Description
 
-B. The front of this house has an L-shaped terrace (b) which provided a passageway between the kitchen and the triclinium that opened onto the long loggia (c) with a spectacular view of the Bay. The terrace could have been decorated with potted plants. A gutter on the edges of the terrace, excepting the southeast corner, collected rain water.
+B. The front of this house has an L-shaped terrace (b) which provided a passageway between the kitchen and the *triclinium* that opened onto the long *loggia* (c) with a spectacular view of the Bay. The terrace could have been decorated with potted plants. A gutter on the edges of the terrace, excepting the southeast corner, collected rain water.
+
 
 ## Plans
 
@@ -63,4 +64,4 @@ B. The front of this house has an L-shaped terrace (b) which provided a passagew
 
 ## Bibliography
 
-- Maiuri, *Ercolano*, p.65 [(worldcat)](https://search.worldcat.org/title/490581395)
+- Maiuri, *Ercolano*, p. 65 [(worldcat)](https://search.worldcat.org/title/490581395)
