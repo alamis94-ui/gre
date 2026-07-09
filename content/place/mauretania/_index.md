@@ -5,8 +5,7 @@ title: Mauretania
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-05-07
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->

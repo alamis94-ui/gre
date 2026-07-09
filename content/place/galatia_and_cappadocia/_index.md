@@ -5,8 +5,7 @@ title: Galatia And Cappadocia
 author: Catherine Kearns
 contributor: Amelia Lamis
 date: 2026-05-07
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->
