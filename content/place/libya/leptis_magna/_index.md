@@ -32,14 +32,16 @@ The villas of Silin are part of a group of seaside residences built on the coast
 
 ## Bibliography
 
-- Aurigemma 1922
-- Bartocini 1927 and 1958
-- Di Vita 1966
-- Goodchild 1954 
-- Guidi 1933
-- Eugenia Salza Prina Ricott, "Le ville marittime di Silin (Leptis Magna)", Atti della Pontificia Accademia Romana di Archeologia. Rendiconti 43: 135-163, 1970-1971
-- Eugenia Salza Prina Ricotti, "1 porti della zona di Leptis Magna", Atti della Pontificia Accademia Romana diArcheologia. Rendiconti 45: 75-103, 1972-1973.
-- Romanelli 1916 and 1929-30
+- Aurigemma, 1922. Antichità della regione di Gurgi (Tripoli), Notiziario archeologico 3.
+- Bartocini, 1927. <!--which one? "Ville e terme romane a Misurata Marina , Africa Italiana 1 (1927), pp. 214-225" or "Villa romana presso l ex cimitero israelitico di Homs , Africa Italiana 1 (1927), pp. 226-232"-->
+- Bartoccini, R. 1958. Il porto romano di Leptis Magna , Supplemento al Bollettino del Centro Studi per la Storia dell Architettura 13 
+- Di Vitta, A. 1966. La villa della Gara delle Nereidi , in Supplements of Libya antiqua, Roma.
+- Goodchil, R. G. 1954. Tabula Imperii Romani - Leptis Magna, Oxford.
+- Guidi, G. 1933. La villa del Nilo a Leptis Magna , Africa Italiana 5.
+- Ricotti, E. S. P. 1970-1971. "Le ville marittime di Silin (Leptis Magna)", Atti della Pontificia Accademia Romana di Archeologia. Rendiconti 43: 135-163. <!--check name formatting of 4 names-->
+- Ricotti, E. S. P. 1972-1973. "1 porti della zona di Leptis Magna", Atti della Pontificia Accademia Romana diArcheologia. Rendiconti 45: 75-103.
+- Romanelli, P. 1916. Studi e ricerche archeologiche in Tripolitania nei primi quattro anni di occupazione italiana , Nuova antologia.
+- Romanelli, P. 1929-30. La vita agricola in Tripolitania attraverso le rappresentazioni figurate, Africa Italiana 2, pp. 53-75.
 
 <!--
 ## Keywords
