@@ -1,0 +1,16 @@
+{{/* Render just a section of html that begins with the given <h2> header and ends just before the next <h2>.
+     If "Place Description" was requested, but not found, return everything up to first <h2>
+        and make sure the <h2> is present
+*/}}
+{{ $html := replaceRE `(?s)<!--.*?-->` " " .html }}
+{{ $match := findRE (print `(?s)<h2[^>]+>` .header `</h2>.*?(<h2|$)`) $html 1}}
+{{ $value := "" }}
+{{ if $match }}
+    {{ $value = replaceRE `<h2$` " " (index $match 0) }}
+{{ else if (eq .header "Place Description") }}
+    {{ $value = replaceRE `(?s)\s*<h2.*$` "" $html }}
+    {{ if $value }}
+        {{ $value = print `<h2 id="place description">Place Description</h2>` $value }}
+    {{ end }}
+{{ end }}
+{{ return ($value | safeHTML) }}

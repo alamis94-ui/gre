@@ -460,3 +460,7 @@ xh6::after { content: 'h6' }
 sup {
   font-size: 75%;
 }
+
+.embed-place-description.hidden {
+  display: none;
+}

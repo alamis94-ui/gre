@@ -1,0 +1,13 @@
+{{/* Embed place descriptions for the parent place that contains the current garden
+*/}}
+{{ $placedesc := "" }}
+{{ with .Parent }}
+    <div class="embed-place">
+        <!--<div class="embed-place-name">{{ .Title }}</div>-->
+        {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Place Description" ) }}
+    </div>
+{{ end }}
+
+{{ $content := .Content }}
+{{ $content = replaceRE `<h2 id="garden-description"` (print $placedesc `<h2 id="garden-description"`) $content }}
+{{ $content | safeHTML }}
