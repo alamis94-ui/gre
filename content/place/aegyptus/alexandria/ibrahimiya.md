@@ -17,7 +17,7 @@ first century CE
 
 ## Excavation Dates
 
-unexcavataed
+unexcavated
 
 ## Garden Description
 
@@ -40,9 +40,9 @@ Ibrahimiya was an eastern suburban necropolis of Alexandria. Size not given. Con
 
 ## Bibliography
 
-- Fraser and Nicholas 1958. 
+- Fraser and Nicholas, 1958. 
 - J. and L. Robert, Revue des Études Grecques 72 (1959) 272-73.
-- Supplementum Epigrapicum Graecum 18.646.
+- Supplementum Epigrapicum Graecum, 18.646.
 
 <!--
 ## Keywords

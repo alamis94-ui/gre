@@ -16,7 +16,8 @@ draft: true
 239 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
 

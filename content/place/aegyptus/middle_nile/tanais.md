@@ -16,7 +16,8 @@ draft: true
 280 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
 

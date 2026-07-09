@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-5 BC 
+5 BCE
 
 ## Excavation Dates
 
@@ -21,7 +21,7 @@ unexcavated
 
 ## Garden Description
 
-These were  “in the so-called Palm Grove.” Size not given. Leased in 5 BC for five years. Walled with a *peribolos*. Rent part in cash and part in produce. Crops mentioned in preserved text are: asparagus; fresh grapes; mixed plantains; beetroot; leeks (headed and sweet ); members of the cabbage family (prob. incl. cauliflower); figs; round gourds; great jujubes; palm-leaf dusters; mistletoe; kitchen vegetables; and land snails. 
+These were  “in the so-called Palm Grove.” Size not given. Leased in 5 BCE for five years. Walled with a *peribolos*. Rent part in cash and part in produce. Crops mentioned in preserved text are: asparagus; fresh grapes; mixed plantains; beetroot; leeks (headed and sweet ); members of the cabbage family (prob. incl. cauliflower); figs; round gourds; great jujubes; palm-leaf dusters; mistletoe; kitchen vegetables; and land snails. 
 
 <!--
 ## Maps

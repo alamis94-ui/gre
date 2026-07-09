@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-5 BC
+5 BCE
 
 ## Excavation Dates
 
@@ -21,7 +21,7 @@ unexcavated
 
 ## Garden Description
 
-These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fava bean gardens (*κυαμῶνες*) were in in wetlands on the Strip (cf. no. 1 above<!--link to kanopos.md?-->). Size: 4.5 ar. (1.24 ha.) in two parcels, of which lessors own two-thirds share. Leased in 5 BC for 5 years. 
+These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fava bean gardens (*κυαμῶνες*) were in in wetlands on the Strip (cf. no. 1 above<!--link to kanopos.md?-->). Size: 4.5 ar. (1.24 ha.) in two parcels, of which lessors own two-thirds share. Leased in 5 BCE for 5 years. 
 
 <!--
 ## Maps

@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-22 BC 
+22 BCE
 
 ## Excavation Dates
 
@@ -21,7 +21,7 @@ unexcavated
 
 ## Garden Description
 
-This garden was in wetlands (*tenagos* <!--τ̣έ̣ν̣α̣γος-->) by the  Strip  (*tainias*, a ridge<!--τ̣α̣ι̣ν̣ί̣α̣ς̣-->) (cf. Fraser 1972: II 253-54 n. 96). Size lost. Leased in 22 BC for one year, rent part in cash and part in produce. Crops mentioned in preserved text are: garden lettuce<!--aka "cultivated lettuce" (θρίδακας κηπουριακὰς)-->; wild lettuce; fresh grapes; gourds; plantains; beetroot; leeks (headed and sweet ); a member of the cabbage family (prob. cauliflower); and land snails. 
+This garden was in wetlands (*tenagos* <!--τ̣έ̣ν̣α̣γος-->) by the  Strip  (*tainias*, a ridge<!--τ̣α̣ι̣ν̣ί̣α̣ς̣-->) (cf. Fraser 1972: II 253-54 n. 96). Size lost. Leased in 22 BCE for one year, rent part in cash and part in produce. Crops mentioned in preserved text are: garden lettuce<!--aka "cultivated lettuce" (θρίδακας κηπουριακὰς)-->; wild lettuce; fresh grapes; gourds; plantains; beetroot; leeks (headed and sweet ); a member of the cabbage family (prob. cauliflower); and land snails. 
 
 <!--
 ## Maps
