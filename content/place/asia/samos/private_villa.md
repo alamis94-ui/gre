@@ -50,3 +50,7 @@ R. Tölle-Kastenbein, Das Kastro Tigani. Samos XIV, Bonn, 1974, pp. 52-54, figs.
 - {{< keyword "pools" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "courtyards" >}}
+
+<!--
+## Places
+-->
