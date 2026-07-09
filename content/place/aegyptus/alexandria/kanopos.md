@@ -3,22 +3,25 @@ slug: "05b24acec3"
 type: garden
 title: Kanopos
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+22 BC 
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+This garden was in wetlands (*tenagos* <!--τ̣έ̣ν̣α̣γος-->) by the  Strip  (*tainias*, a ridge<!--τ̣α̣ι̣ν̣ί̣α̣ς̣-->) (cf. Fraser 1972: II 253-54 n. 96). Size lost. Leased in 22 BC for one year, rent part in cash and part in produce. Crops mentioned in preserved text are: garden lettuce<!--aka "cultivated lettuce" (θρίδακας κηπουριακὰς)-->; wild lettuce; fresh grapes; gourds; plantains; beetroot; leeks (headed and sweet ); a member of the cabbage family (prob. cauliflower); and land snails. 
 
 <!--
 ## Maps
@@ -35,10 +38,10 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
+
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- BGU IV 1118 (with corr. in BL 1.97). [(papyri.info)](https://papyri.info/hgv/18560)
 
 <!--
 ## Keywords
