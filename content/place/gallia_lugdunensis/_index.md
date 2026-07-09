@@ -5,8 +5,7 @@ title: Gallia Lugdunensis
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-07
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->

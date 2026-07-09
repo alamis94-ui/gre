@@ -5,8 +5,7 @@ title: Germania Inferior
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar, Keith Jenkins
 date: 2021-04-21
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates

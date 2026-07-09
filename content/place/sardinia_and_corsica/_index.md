@@ -5,8 +5,7 @@ title: Sardinia et Corsica
 author: Author Name
 contributor: Contributor Name
 date: 2025-07-12
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->
