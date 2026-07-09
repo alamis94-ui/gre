@@ -23,9 +23,7 @@
         {{ $pages := where (where .Site.RegularPages ".Params.Author" "like" $person) ".Type" "garden" }}
         {{ $places := where (where .Site.Pages ".Params.Author" "like" $person) ".Type" "place" }}
         {{ range $places }}
-            {{ if gt (len .RegularPagesRecursive) 0 }}
-                {{ $pages = $pages | append . }}
-            {{ end }}
+            {{ $pages = $pages | append . }}
         {{ end }}
         {{ if $pages }}
             <hr>
@@ -39,9 +37,7 @@
         {{ $pages := where (where .Site.RegularPages ".Params.Contributor" "like" $person) ".Type" "garden" }}
         {{ $places := where (where .Site.Pages ".Params.Contributor" "like" $person) ".Type" "place" }}
         {{ range $places }}
-            {{ if gt (len .RegularPagesRecursive) 0 }}
-                {{ $pages = $pages | append . }}
-            {{ end }}
+            {{ $pages = $pages | append . }}
         {{ end }}
         {{ if $pages }}
             <hr>
