@@ -3,22 +3,25 @@ slug: "c6652f08ae"
 type: garden
 title: Vineyard 2 Theadelphia
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+71 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+One-half aroura (.14 ha.). Leased on 71 CE for 3 years. Includes fruit trees (apple, perhaps others), up which vines are trained; vineyard is described as anadendradic. Surrounded by mud-brick wall (*πλαστή*). Rent of wine plus 1000 apples and amounts of thyme. 
 
 <!--
 ## Maps
@@ -35,10 +38,9 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- P.Soter. 2.
 
 <!--
 ## Keywords
