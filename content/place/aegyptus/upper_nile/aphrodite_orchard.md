@@ -3,22 +3,25 @@ slug: "dba6ef61c4"
 type: garden
 title: Aphrodite Orchard
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+after 550 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+Located in the western plain of the village. Size not given. Leased after 550 CE for an unknown period. Furnished with a palisade, open-air drying shed, chaff storehouse, and two wooden sakiyas. Includes palms, fruit orchard (*πωμάριον*), and olive orchard. Document is fragmentary and no doubt other things were mentioned. 
 
 <!--
 ## Maps
@@ -35,10 +38,9 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- P.Hamb. I 68. [(papyri.info)](https://papyri.info/ddbdp/p.hamb;1;68)
 
 <!--
 ## Keywords

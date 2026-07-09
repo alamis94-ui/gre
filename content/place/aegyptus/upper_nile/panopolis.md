@@ -3,9 +3,9 @@ slug: "7fd4cfb8d2"
 type: garden
 title: Panopolis
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
@@ -15,10 +15,12 @@ draft: true
 <!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+Located near the temple of Apollo (or Horos?) at Panopolis. Size not known. Known from inscriptions in verse set up by the owner, Ptolemagrios, a veteran of the Roman army, with dedications to Ares, Poseidon, Zeus, and probably Hades. Mentions persea and date palms. Owner seems to stress that he and his sons have worked themselves on the garden. <!--find inscription-->
 
 <!--
 ## Maps
@@ -35,10 +37,9 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- Welles 1946.
 
 <!--
 ## Keywords
