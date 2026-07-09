@@ -12,12 +12,4 @@ The public website is built by running a GitHub Action that uses Hugo to publish
 
 ## Basic Development
 
-Create a new garden page using the `hugo new` command, for example:
-
-```hugo new place/achaea/athens/my_garden.md```
-
-In this example, we have specified the full path to the province and sublocation (`achaea/athens`).  Some gardens may have more levels of hierarchical sublocations (`italia/pompeii/region_viii/insula_iii`).
-
-The text after the final slash (`my_garden.md`) should be the full name of the garden as it will be written in the article, with any punctuation omitted, and any spaces replaced with underscores, plus the extension `.md`.  For example, a garden named "Aegina Temple Grove" becomes: `aegina_temple_grove.md` -- do not include spaces or any other punctuation in the filename!
-
-For more guidance, see the [GRE wiki](https://github.com/roman-gardens/gre/wiki)
+See the [GRE wiki](https://github.com/roman-gardens/gre/wiki)

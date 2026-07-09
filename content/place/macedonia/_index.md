@@ -5,8 +5,7 @@ title: Macedonia
 author: Author Name
 contributor: Amartya Shri, Keith Jenkins
 date: 2020-07-16
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->

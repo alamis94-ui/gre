@@ -1,17 +1,16 @@
 ---
-slug: "646e65fbff"
+slug: "d9fc0b7f3c"
 type: place
 title: Nakrason
 author: Author Name
 contributor: Contributor Name
-date: 2025-09-21
-
+date: 2026-07-09
 draft: false
 ---
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+<!-- ## Place Description-->
 
 <!--
 ## Maps
@@ -38,8 +37,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
+
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="550767" name="Nakrason (or Nakrasos)" >}}

@@ -1,17 +1,16 @@
 ---
-slug: "3cb6cb268d"
+slug: "4f454d1ead"
 type: place
 title: Attouda
 author: Author Name
 contributor: Contributor Name
-date: 2025-09-21
-
+date: 2026-07-09
 draft: false
 ---
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+<!-- ## Place Description-->
 
 <!--
 ## Maps
@@ -38,8 +37,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="638779" name="Attouda" >}}

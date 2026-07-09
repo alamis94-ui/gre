@@ -140,8 +140,14 @@
                 osm_hi.addTo(map);
             {{ end }}
 
-
             {{ if or (eq hugo.Environment "development") (strings.Contains .Site.BaseURL "test-drafts") }}
+                // Build list of provinces (top-level places)
+                let provinceNames = [
+                    {{ range sort ( .Site.GetPage "place" ).Pages "Title" "asc" }}
+                        "{{ .Title }}",
+                    {{ end }}
+                ]
+
                 // Add Roman Provinces
                 let provinces = L.geoJSON(provinceGeoJSON, {
                     style: {
@@ -153,7 +159,7 @@
                     }
                 }).bindPopup(function (layer) {
                     let p = layer.feature.properties
-                    if (p.id) {
+                    if (p.id && provinceNames.includes(p.name)) {
                         let base = {{ site.BaseURL }}
                         let url = base + 'id/' + p.id
                         return `<a class='smallcrumbs' href='${url}'>${p.name}</a>`

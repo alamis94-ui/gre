@@ -1,16 +1,16 @@
 ---
-slug: "ea16bc666f"
+slug: "e223b28e50"
 type: place
-title: Areas Outside Pompeii
+title: Regio I
 author: Author Name
 contributor: Contributor Name
-date: 2026-05-31
-draft: true
+date: 2026-07-08
+draft: false
 ---
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+<!-- ## Place Description-->
 
 <!--
 ## Maps

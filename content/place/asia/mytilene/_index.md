@@ -1,19 +1,18 @@
 ---
-slug: "91be00f7c8"
+slug: "7d072b6972"
 type: place
 title: Mytilene
 author: Author Name
-contributor: Amelia Lamis
-date: 2025-09-21
-
+contributor: Contributor Name
+date: 2026-07-09
 draft: false
 ---
 
-## Dates
-unspecified
+<!-- ## Dates -->
 
-## Place Description <!--these are the first two sentences of "Rural Estates"-->
-The city of Mytilene was located on the island of Lesbos lying off the west coast of Asia Minor.  Gardens, vineyards and olive groves in the territory of Mytilene are known from a list on a Roman marble inscription that has survived in several fragments (IG XII.2 76-80). 
+## Place Description
+
+The city of Mytilene was located on the island of Lesbos lying off the west coast of Asia Minor.
 
 <!--
 ## Maps
@@ -30,17 +29,16 @@ The city of Mytilene was located on the island of Lesbos lying off the west coas
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-
+<!--
 ## Bibliography
-- IG XII.2 76-80 <!--link to this?-->
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
 
 <!--
 ## Keywords
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="550763" name="Mytilene" >}}

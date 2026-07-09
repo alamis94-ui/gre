@@ -1,17 +1,18 @@
 ---
-slug: "ec44bb9cbd"
+slug: "001bb17272"
 type: place
 title: Aphrodisias
 author: Author Name
 contributor: Contributor Name
-date: 2025-09-21
-
+date: 2026-07-09
 draft: false
 ---
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+## Place Description
+
+Aphrodisias (_Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis_), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art was placed in landscape as well as architectural settings.
 
 <!--
 ## Maps
@@ -38,8 +39,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="638753" name="Aphrodisias" >}}

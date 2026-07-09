@@ -15,7 +15,6 @@ draft: false
 
 Remains of gardens have yet to be discovered in this city, but an appreciation for garden culture is seen in the Terrace Houses, dating to the second and third centuries CE, where wall paintings not only depict gardens, but use garden images to create the illustionistic experience of being in the space of garden.
 
-
 <!--
 ## Maps
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
@@ -44,4 +43,3 @@ Remains of gardens have yet to be discovered in this city, but an appreciation f
 ## Places
 
 - {{< id vocab="Pleiades" id="599612" name="Ephesus/Arsinoe(ia)" >}}
-

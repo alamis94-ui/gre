@@ -30,23 +30,19 @@
             {{/* undo the roman sorting hack */}}
             {{ $v := replaceRE "viiii" "ix" . }}
             {{ $v = replaceRE "VIIII" "IX" $v }}
-            {{ if $v }}
-                {{ range or (where $places "Title" $v) (where $places "Path" "like" (print $v `\b`) ) }}
-                    {{/* put brackets around titles inferred from path */}}
-                    {{ if not .Title }}
-                        {{ $v = print "[" $v "]" }}
-                    {{ end }}
-                    {{ $drafts := len (where .Site.Home.RegularPagesRecursive "Draft" true) }}
-                    {{ $count := len .RegularPagesRecursive }}
-                    {{ $countpublished := len (where .RegularPagesRecursive "Draft" false) }}
-                    {{ if $count }}
-                        <li><a href="{{ .Permalink }}">{{ $v }}</a>
-                        {{ if $drafts }}
-                            ({{ $countpublished }}/{{ $count }} gardens)</li>
-                        {{ else }}
-                            ({{ $count }} gardens)</li>
-                        {{ end }}
-                    {{ end }}
+            {{ range or (where $places "Title" $v) (where $places "Path" "like" (print $v `\b`) ) }}
+                {{/* put brackets around titles inferred from path */}}
+                {{ if not .Title }}
+                    {{ $v = print "[" $v "]" }}
+                {{ end }}
+                {{ $drafts := len (where .Site.Home.RegularPagesRecursive "Draft" true) }}
+                {{ $count := len .RegularPagesRecursive }}
+                {{ $countpublished := len (where .RegularPagesRecursive "Draft" false) }}
+                <li><a href="{{ .Permalink }}">{{ $v }}</a>
+                {{ if $drafts }}
+                    ({{ $countpublished }}/{{ $count }} gardens)</li>
+                {{ else }}
+                    ({{ $count }} gardens)</li>
                 {{ end }}
             {{ end }}
         {{ end }}

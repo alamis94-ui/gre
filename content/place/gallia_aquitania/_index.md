@@ -5,8 +5,7 @@ title: Gallia Aquitania
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->

@@ -1,17 +1,16 @@
 ---
-slug: "10d70e7aca"
+slug: "50a6b5edd7"
 type: place
 title: Samos
 author: Author Name
-contributor: Victoria Austen
-date: 2025-09-21
-
+contributor: Contributor Name
+date: 2026-07-09
 draft: false
 ---
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+<!-- ## Place Description-->
 
 <!--
 ## Maps
@@ -39,4 +38,5 @@ draft: false
 -->
 
 ## Places
+
 - {{< id vocab="Pleiades" id="599926" name="Samos (island)" >}}
