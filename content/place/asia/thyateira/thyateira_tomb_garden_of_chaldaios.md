@@ -51,9 +51,6 @@ The establishment of a tomb monument in a garden belonging to an extraneous part
 - {{< keyword "marble" >}}
 - {{< keyword "tombs" >}}
 
-<!--
 ## Places
-places containing this garden will be listed automatically
+
 - {{< id vocab="Pleiades" id="953668272" name=" Tomb Garden of Chaldaeus at Thyateira" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
