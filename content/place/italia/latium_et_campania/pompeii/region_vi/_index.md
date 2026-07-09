@@ -5,8 +5,7 @@ title: Regio VI
 author: Author Name
 contributor: Contributor Name
 date: 2026-06-08
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->

@@ -6,8 +6,7 @@ latlon: [ 47.5, 22.5 ]
 author: John Bodel
 contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates

@@ -5,8 +5,7 @@ title: Sicilia
 author: Roger Wilson
 contributor: Keith Jenkins
 date: 2026-05-14
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->

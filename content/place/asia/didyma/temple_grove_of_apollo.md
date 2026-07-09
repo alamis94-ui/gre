@@ -43,7 +43,7 @@ The precinct has been well-defined archaeologically, but the archaeologists iden
 - {{< keyword "inscriptions" >}}
 - {{< keyword "springs (bodies of water)" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="599593" name="Didyma/Branchidai/Ioustinianopolis" >}}
-- {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
+- {{< id vocab="Pleiades" id="" name="" >}}
+-->

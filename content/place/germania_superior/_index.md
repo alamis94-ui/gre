@@ -5,8 +5,7 @@ title: Germania Superior
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-
-draft: false
+draft: true
 ---
 
 <!-- ## Province Description -->

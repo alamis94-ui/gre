@@ -50,10 +50,8 @@ A grave stele set up at Hypaipa by C. Octabios (Octavius) Eutyches from Ephesus,
 - {{< keyword "inscriptions" >}}
 - {{< keyword "periboloi" >}}
 
+<!--
 ## Places
 
-- {{< id vocab="Pleiades" id="550585" name="Hypaipa" >}}
-
-<!--
-- {{< id vocab="TGN" id="" name="" >}}
+- {{< id vocab="Pleiades" id="" name="" >}}
 -->

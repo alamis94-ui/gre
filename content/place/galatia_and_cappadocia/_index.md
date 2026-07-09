@@ -5,8 +5,7 @@ title: Galatia And Cappadocia
 author: Catherine Kearns
 contributor: Amelia Lamis
 date: 2026-05-07
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->
@@ -32,19 +31,20 @@ During the Roman period, the region consisted of areas densely populated with vi
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-
 ## Bibliography
-- S. Mitchell, Anatolia I. Oxford: Clarendon Press 1993
-- S. Mitchell, “Olive cultivation in the economy of Roman Asia Minor,” in eds. S. Mitchell and C. Katsari, Patterns in the economy of Roman Asia Minor. London: Duckworth, 2005, pp. 83-114
-- R. Van Dam, Kingdom of Snow: Roman Rule and Greek Culture in Cappadocia. Philadelphia: University of Pennsylvania Press, 2002.
+
+- S. Mitchell, *Anatolia I*. Oxford: Clarendon Press, 1993. [(worldcat)](https://search.worldcat.org/title/26502259)
+- S. Mitchell, “Olive cultivation in the economy of Roman Asia Minor,” in eds. S. Mitchell and C. Katsari, *Patterns in the economy of Roman Asia Minor*. London: Duckworth, 2005, pp. 83-114. [(worldcat)](https://search.worldcat.org/title/1250304753)
+- R. Van Dam, *Kingdom of Snow: Roman Rule and Greek Culture in Cappadocia*. Philadelphia: University of Pennsylvania Press, 2002. [(worldcat)](https://search.worldcat.org/title/49529861)
 
 <!--
 ## Keywords
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
+
+- {{< id vocab="Pleiades" id="981523" name="Galatia et Cappadocia" >}}
+<!--
 - {{< id vocab="TGN" id="" name="" >}}
 -->

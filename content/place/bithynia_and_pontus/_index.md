@@ -5,8 +5,7 @@ title: Bithynia And Pontus
 author: Catherine Kearns
 contributor: Amelia Lamis
 date: 2026-05-07
-
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->
@@ -37,20 +36,21 @@ Bithynia was economically one of the most important provinces of the Roman empir
 
 ## Bibliography
 
-- A. Dalby, *Empire of pleasures: luxury and indulgence in the Roman world*. New York: Routledge, 2000
-- O. Doonan, *Sinop landscapes: exploring connection in a Black Sea hinterland*, Philadelphia. 2004
-- R. Matthews, T. Pollard and M. Ramage, “Project Paphlagonia: regional survey in northern Anatolia,” in ed. R. Matthews, *Ancient Anatolia: fifty years’ work by the British Institute of Archaeology at Ankara*. 1998, pp. 195-206
-- S. Mitchell, *Anatolia I*. Oxford: Clarendon Press, 1993
-- S. Mitchell, “Olive cultivation in the economy of Roman Asia Minor,” in eds. S. Mitchell and C. Katsari, *Patterns in the economy of Roman Asia Minor*. London: Duckworth, 2005, pp. 83-114
-- G. Woolf, “Pliny’s province,” in ed. T. Bekker-Nielsen, *Rome and the Black Sea Region: domination, romanisation, resistance*. Aarhus University Press, pp. 93-108.  
+- A. Dalby, *Empire of pleasures: luxury and indulgence in the Roman world*. New York: Routledge, 2000. [(worlcat)](https://search.worldcat.org/title/43885828)
+- O. Doonan, *Sinop landscapes: exploring connection in a Black Sea hinterland*, Philadelphia. 2004. [(worldcat)](https://search.worldcat.org/title/606348766)
+- R. Matthews, T. Pollard and M. Ramage, “Project Paphlagonia: regional survey in northern Anatolia,” in ed. R. Matthews, *Ancient Anatolia: fifty years’ work by the British Institute of Archaeology at Ankara*. 1998, pp. 195-206. [(worldcat)](https://search.worldcat.org/title/40486843)
+- S. Mitchell, *Anatolia I*. Oxford: Clarendon Press, 1993. [(worldcat)](https://search.worldcat.org/title/26502259)
+- S. Mitchell, “Olive cultivation in the economy of Roman Asia Minor,” in eds. S. Mitchell and C. Katsari, *Patterns in the economy of Roman Asia Minor*. London: Duckworth, 2005, pp. 83-114. [(worldcat)](https://search.worldcat.org/title/1250304753)
+- G. Woolf, “Pliny’s province,” in ed. T. Bekker-Nielsen, *Rome and the Black Sea Region: domination, romanisation, resistance*. Aarhus University Press, 2006, pp. 93-108. [(worldcat)](https://search.worldcat.org/title/712995908)
 
 <!--
 ## Keywords
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
+
+- {{< id vocab="Pleiades" id="981512 " name="Bithynia et Pontus" >}}
+<!--
 - {{< id vocab="TGN" id="" name="" >}}
 -->
