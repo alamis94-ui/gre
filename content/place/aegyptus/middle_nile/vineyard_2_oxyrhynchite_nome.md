@@ -3,22 +3,25 @@ slug: "85f9f30605"
 type: garden
 title: Vineyard 2 Oxyrhynchite Nome
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+141 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+A reed plantation, orchard, and garden; location not preserved. Leased in 141 CE for a number of years now lost. Furnished with a sakiya, a small watchtower, and a walled animal enclosure. Requires applications of *χοῦς* and dung. Rent includes cash, wine, fresh grapes, fresh and pressed dry dates, green and black olives, pomegranates, peaches, figs, myxes, two types of gourds, and vegetables (*λάχανα*) according to season. 
 
 <!--
 ## Maps
@@ -35,10 +38,9 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- P.Ross.Georg. II 19. [(papyri.info)](https://papyri.info/ddbdp/p.ross.georg;2;19)
 
 <!--
 ## Keywords
