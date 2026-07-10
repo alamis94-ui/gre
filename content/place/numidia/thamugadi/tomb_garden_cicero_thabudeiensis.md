@@ -1,7 +1,7 @@
 ---
 slug: "3b37043a57"
 type: garden
-title: Tomb Garden Cicero Thabudeiensis
+title: Tomb Garden of Cicero Thabudeiensis
 latlon: [ 35.48889, 6.46972 ]
 author: John Bodel
 translator: Translator Name
@@ -40,13 +40,13 @@ An inscription found near Timgad (Algeria) in 1955 records the epitaph of Cicero
 
 ## Bibliography
 
-- Libyca. Archéologie Épigraphie 4.1 (1956) 119-21 no. 29 (fig.) 
+- Libyca. Archéologie Épigraphie 4.1 (1956) 119-21, no. 29 [(worldcat)](https://search.worldcat.org/title/804663679)
 - AE 1957, 185. 
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
+
+- {{< keyword "inscriptions" >}}
+- {{< keyword "tombs" >}}
 
 <!--
 ## Places
