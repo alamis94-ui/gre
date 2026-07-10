@@ -1,7 +1,7 @@
 ---
 slug: "6d6895c85e"
 type: garden
-title: Oxyrhynchos
+title: Garden at Oxyrhynchos
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

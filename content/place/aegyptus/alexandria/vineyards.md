@@ -1,7 +1,7 @@
 ---
 slug: "a6318547b4"
 type: garden
-title: Vineyards
+title: Vineyards, rose, and bean gardens at Kanopos
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

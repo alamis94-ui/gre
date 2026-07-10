@@ -1,7 +1,7 @@
 ---
 slug: "11032f45a7"
 type: garden
-title: Dionysias
+title: Vegetable garden (κῆπος λαχανευόμενος) at Dionysias
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name
