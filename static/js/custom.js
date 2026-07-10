@@ -49,12 +49,42 @@ function detectGreek() {
         let t = em.innerText
         for (let i=0; i < t.length; i++) {
             let c = t.codePointAt(i)
-            if (c >= 0x370 && c <= 0x3ff) {
+            // check if within "Greek and Coptic" or "Greek Extended" Unicode ranges
+            if (c>=0x370 && c<=0x3ff || c>=0x1f00 && c<0x1fff){
                 em.lang = 'el'
                 break
             }
         }
     })
+}
+
+function detectGreek2() {
+    let m = document.querySelector('.main .content')
+    let els = m.getElementsByTagName('*')
+    for (let i=0; i<els.length; i++) {
+        let nodes = els.item(i).childNodes
+        for (let j=0; j<nodes.length; j++) {
+            let n = nodes[j]
+            if (n.nodeType==3) {
+                let words = n.nodeValue.split(" ")
+                let words2 = []
+                let greek = false
+                for (let wi=0; wi<words.length; wi++) {
+                    let w = words[wi]
+                    if (w.match(/[\u0370-\u03ff\u1f00-\u1fff]/)) {
+                        words2.push("<em lang='el'>" + w + "</em>")
+                        greek = true
+                    }
+                    else {
+                        words2.push(w)
+                    }
+                }
+                if (greek) {
+                    n.nodeValue = words2.join(" ")
+                }
+            }
+        }
+    }
 }
 
 detectGreek()
