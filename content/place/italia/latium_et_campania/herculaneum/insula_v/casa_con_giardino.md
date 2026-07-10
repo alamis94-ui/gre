@@ -4,7 +4,7 @@ type: garden
 title: Casa con Giardino
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 553
 date: 2020-09-29
 
@@ -47,7 +47,8 @@ Casa con Giardino
 ## Garden Description
 
 553.V.33
-This humble house had a huge garden (a) which was entered from the long fauceson the north. Most likely used to grow produce, Maiuri speculated that the garden may have belonged to the larger houses to the west at one time.
+This humble house had a huge garden (a) which was entered from the long *fauces* on the north. Most likely used to grow produce, Maiuri speculated that the garden may have belonged to the larger houses to the west at one time.
+
 
 ## Plans
 
@@ -64,7 +65,7 @@ This humble house had a huge garden (a) which was entered from the long fauceson
 
 ## Bibliography
 
-- Maiuri,Herculaneum, p. 52
-- Maiuri, Ercolano, p. 431 and fig. 374 (plan) on p. 431
+- Maiuri, *Herculaneum*, p. 52
+- Maiuri, *Ercolano*, p. 431 and fig. 374 (plan) on p. 431
 
 
