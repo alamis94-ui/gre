@@ -1,7 +1,7 @@
 ---
 slug: "cb3d3aa992"
 type: garden
-title: Tanais
+title: Vineyard (ἄμπελος), orchard (πωμάριον), and reed plantation (καλαμεῖα)
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

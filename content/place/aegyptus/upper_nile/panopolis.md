@@ -1,7 +1,7 @@
 ---
 slug: "7fd4cfb8d2"
 type: garden
-title: Panopolis
+title: Garden in Panopolis
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

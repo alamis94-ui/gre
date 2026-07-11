@@ -4,7 +4,7 @@ type: garden
 title: Casa del Gran Portale
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 554
 date: 2020-09-29
 
@@ -47,7 +47,8 @@ Casa con Giardino
 ## Garden Description
 
 554.V.35.
-Just to the west of the entrance to this house was a small, raised courtyard (a) which supplied light and air to the residence. This area collected rain water from the roof and directed it into the cistern which had a covered overflow emptying onto the street. Garden paintings in this courtyard gave the impression of beingin a garden.A red background was covered with flowering oleanders, a lattice fence in front and a vase-shaped fountain in the center of one panel. The wall towards the street may have had similar decoration with a pilaster in relief dividing the wall into two panels according to Maiuri, however nothing remains on this wall.
+Just to the west of the entrance to this house was a small, raised courtyard (a) which supplied light and air to the residence. This area collected rain water from the roof and directed it into the cistern which had a covered overflow emptying onto the street. Garden paintings in this courtyard gave the impression of being in a garden. A red background was covered with flowering oleanders, a lattice fence in front and a vase-shaped fountain in the center of one panel. The wall towards the street may have had similar decoration with a pilaster in relief dividing the wall into two panels according to Maiuri, however nothing remains on this wall.
+
 
 ## Plans
 
@@ -60,7 +61,7 @@ Just to the west of the entrance to this house was a small, raised courtyard (a)
 
 ## Bibliography
 
-- Jashemski, Gardens, vol.II, p. 371
-- Maiuri,Herculaneum, p. 53
-- Maiuri, Ercolano, pp. 378-379 and fig. 308 (plan) on p. 378
+- Jashemski, *Gardens*, vol.II, p. 371.
+- Maiuri, *Herculaneum*, p. 53.
+- Maiuri, *Ercolano*, pp. 378-379 and fig. 308 (plan) on p. 378.
 

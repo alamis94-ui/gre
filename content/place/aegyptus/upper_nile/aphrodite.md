@@ -1,7 +1,7 @@
 ---
 slug: "eb6cba0868"
 type: garden
-title: Aphrodite
+title: Garden in village of Aphrodite
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name
