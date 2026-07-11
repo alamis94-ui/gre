@@ -1,24 +1,27 @@
 ---
 slug: "84843629fd"
 type: garden
-title: Arsinoite Nome
+title: Vegetable garden (κῆπος λαχανευόμενος) in Arsinoite nome
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+7th century CE (after 641)
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+In an unknown villiage; size not stated, part of larger tract of 10.5 arouras. Leased by an Arsinoite notable to his cowherd in the 7th cent. CE (after 641). Contains date palms, sycamores, and perhaps other trees. 
 
 <!--
 ## Maps
@@ -35,10 +38,9 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- CPR VIII 71.
 
 <!--
 ## Keywords

@@ -1,24 +1,27 @@
 ---
 slug: "6d6895c85e"
 type: garden
-title: Oxyrhynchos
+title: Garden at Oxyrhynchos
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+258 CE <!--(https://papyri.info/ddbdp/p.coll.youtie;2;66)-->
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+Described as a garden of the city inside its walls (*κῆπον τῆς πόλεως ἔνδον τειχῶν ὄντα*, 63), called the Paradeisos of Diktynos, which the plants and water for irrigation in it by the grammarian to whom it had been given as a source of income (it earned 2400 drachmas a year). Mentioned in a petition to the emperors. 
 
 <!--
 ## Maps
@@ -35,10 +38,9 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- P.Coll.Youtie II 66; P.Oxy. XLVII 3366 [(papyri.info)](https://papyri.info/ddbdp/p.coll.youtie;2;66)
 
 <!--
 ## Keywords

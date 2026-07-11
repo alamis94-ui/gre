@@ -1,24 +1,27 @@
 ---
 slug: "aef6743f30"
 type: garden
-title: Vineyard 1 Oxyrhynchite Nome
+title: Vineyard (κτῆμα) in Oxyrhynchite nome
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+137 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+Location unknown and size lost. Subleased in 137 CE for 4 years. Includes reed plantation (*καλαμεῖα*) and rose garden (*ῥοδών*). Surrounded by dikes and a palisade. Furnished with a sakiya (*μηχανή*) operated by *hydroparochoi* and using 5 oxen and 3 young cattle, a cistern (*ὑδροδοχεῖον*) and with an open-air drying shed (*ἡλιαστήριον*). Requires applications of *χοῦς* and pigeon dung. 
 
 <!--
 ## Maps
@@ -35,10 +38,9 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- P.Oxy. IV 729. [(papyri.info)](https://papyri.info/hgv/20429)
 
 <!--
 ## Keywords

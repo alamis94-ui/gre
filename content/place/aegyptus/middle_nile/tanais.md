@@ -1,24 +1,27 @@
 ---
 slug: "cb3d3aa992"
 type: garden
-title: Tanais
+title: Vineyard (ἄμπελος), orchard (πωμάριον), and reed plantation (καλαμεῖα)
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+280 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+Near the village of Tanais, Oxyrhynchite nome. Size not stated. Work leased out in 280 CE. Orchard includes date palms and fruit trees (*ἀκρόδρυα*). Surrounded by a mud-brick wall (*πλαστή*). Furnished with an open-air drying shed. Watering required. Rent includes wine and various fruits: fresh and pressed dates, *καρυωτός* dates, black olives, peaches (*περσικά*), citrons (*κίτρια*), summer and winter figs, and large white melons.
 
 <!--
 ## Maps
@@ -35,10 +38,9 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- P.Oxy. XIV 1631. [(papyri.info)](https://papyri.info/ddbdp/p.oxy;14;1631)
 
 <!--
 ## Keywords

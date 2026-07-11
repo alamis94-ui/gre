@@ -1,24 +1,27 @@
 ---
 slug: "0ea548bb0d"
 type: garden
-title: Euhemeria
+title: Vegetable garden (κῆπος λαχανευόμενος) at Euhemeria
 latlon: [ 0, 0 ]
-author: Author Name
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+239 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+1 1/8 arouras (.31 ha.). Leased for 3 years in 239 CE. Furnished with well and sakiya. Rent in cash payable in two installments each year.
 
 <!--
 ## Maps
@@ -35,10 +38,10 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- P.Flor. I 16. 
+- Rathbone 1991: 186.
 
 <!--
 ## Keywords
