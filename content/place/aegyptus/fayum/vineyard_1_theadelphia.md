@@ -1,7 +1,7 @@
 ---
 slug: "408d429c37"
 type: garden
-title: Vineyard 1 Theadelphia
+title: Vineyard (ἀμπελών) 1 at Theadelphia
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

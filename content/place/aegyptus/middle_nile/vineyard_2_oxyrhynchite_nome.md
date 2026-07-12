@@ -1,7 +1,7 @@
 ---
 slug: "85f9f30605"
 type: garden
-title: Vineyard 2 Oxyrhynchite Nome
+title: Vineyard (ἀμπελών) in Oxyrhynchite nome
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

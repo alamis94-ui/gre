@@ -4,7 +4,7 @@ type: garden
 title: Casa dell'Atrio Corontio
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 552
 date: 2020-09-29
 
@@ -47,7 +47,7 @@ Casa dell'Atrio Corontio
 ## Garden Description
 
 552.V.30.
-A shallow cruciform-shaped *impluvium* was the central feature in the rectangular *atrium* of this house excavated in 1933-1934. The *atrium* gave the impression of a *peristyle* garden by way of the fountain centered in the *impluvium*, the plantings on either side and three tuffa columns on either side, fluted white stucco on the top and painted red at the base. These were connected by a low wall with plantings on the top creating a lush green atmosphere to the total effect. This arrangement was the result of the aqueduct supplying an abundance of water and reducing the demand on the cistern, which was found in the northeast corner of the garden, and the ancient well incorporated into the low wall. This house was noted by Maiuri as an elegant example of the transformation of the *impluvium* basin into a fountain and *viridarium*.
+A shallow cruciform-shaped *impluvium* was the central feature in the rectangular *atrium* of this house excavated in 1933-1934. The *atrium* gave the impression of a peristyle garden by way of the fountain centered in the *impluvium*, the plantings on either side and three tuffa columns on either side, fluted white stucco on the top and painted red at the base. These were connected by a low wall with plantings on the top creating a lush green atmosphere to the total effect. This arrangement was the result of the aqueduct supplying an abundance of water and reducing the demand on the cistern, which was found in the northeast corner of the garden, and the ancient well incorporated into the low wall. This house was noted by Maiuri as an elegant example of the transformation of the *impluvium* basin into a fountain and *viridarium*.
 
 ## Plans
 
@@ -67,8 +67,8 @@ A shallow cruciform-shaped *impluvium* was the central feature in the rectangula
 
 ## Bibliography
 
-- Jashemski, Gardens, vol.1, fig. 90 on p. 52
-- Maiuri,Herculaneum,p. 51
-- Idem, Ercolano, pp.51, 263-264 and fig. 209 (plan) on p. 261
+- Jashemski, *Gardens*, vol.1, fig. 90 on p. 52.
+- Maiuri, *Herculaneum*, p. 51.
+- Idem, *Ercolano*, pp. 51, 263-264 and fig. 209 (plan) on p. 261.
 
 

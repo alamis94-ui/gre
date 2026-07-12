@@ -1,7 +1,7 @@
 ---
 slug: "f69029472c"
 type: garden
-title: Three Tomb Gardens
+title: Three tomb gardens (κηποταφία) at Kanopos
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

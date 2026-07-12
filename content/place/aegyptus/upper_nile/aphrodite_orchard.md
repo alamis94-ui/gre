@@ -1,7 +1,7 @@
 ---
 slug: "dba6ef61c4"
 type: garden
-title: Aphrodite Orchard
+title: Vineyard and orchard in village of Aphrodite
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name
