@@ -1,13 +1,25 @@
 {{/* Embed place descriptions for the parent place that contains the current garden
+     Also add places for all ancestors up the place hierarchy
 */}}
-{{ $placedesc := "" }}
-{{ with .Parent }}
-    <div class="embed-place">
-        <!--<div class="embed-place-name">{{ .Title }}</div>-->
-        {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Place Description" ) }}
-    </div>
-{{ end }}
-
 {{ $content := .Content }}
-{{ $content = replaceRE `<h2 id="garden-description"` (print $placedesc `<h2 id="garden-description"`) $content }}
+{{ with .Parent }}
+    {{ $placedesc := partial "html-section.html" ( dict "html" .Content "header" "Place Description" ) }}
+    {{ $content = replaceRE `<h2 id="garden-description"` (print $placedesc `<h2 id="garden-description"`) $content }}
+{{ end }}
+{{ $content = replaceRE `(?s)<h2 id="places".*$` "" $content }}
+{{ $content = print $content "<h2 id='places'>Places</h2><ul>" }}
+{{/* make list of pages in hierarchy, from this page up to province */}}
+{{ $hier := (slice .Page) | append .Ancestors }}
+{{/* Omit last 2 pages (content, content/place) */}}
+{{ $realCount := sub (len $hier) 2 }}
+{{ range $i, $p := $hier }}
+    {{ if lt $i $realCount }}
+        {{ $ancestorplaces := partial "html-section.html" ( dict "html" .Content "header" "Places" ) }}
+        {{ $lis := findRE (print `(?s)<li.*?</li>`) $ancestorplaces }}
+        {{ range $lis }}
+            {{ $content = print $content . }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ $content = print $content "</ul>" }}
 {{ $content | safeHTML }}
