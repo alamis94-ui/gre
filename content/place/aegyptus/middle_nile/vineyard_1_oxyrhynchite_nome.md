@@ -1,7 +1,7 @@
 ---
 slug: "aef6743f30"
 type: garden
-title: Vineyard (κτῆμα) in Oxyrhynchite nome
+title: Vineyard 1 in Oxyrhynchite nome
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

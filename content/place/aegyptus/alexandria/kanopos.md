@@ -1,7 +1,7 @@
 ---
 slug: "05b24acec3"
 type: garden
-title: Garden (κῆπος) at Kanopos
+title: Garden at Kanopos
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

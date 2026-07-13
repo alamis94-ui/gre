@@ -1,7 +1,7 @@
 ---
 slug: "0ea548bb0d"
 type: garden
-title: Vegetable garden (κῆπος λαχανευόμενος) at Euhemeria
+title: Vegetable garden at Euhemeria
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

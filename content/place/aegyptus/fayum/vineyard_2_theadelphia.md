@@ -1,7 +1,7 @@
 ---
 slug: "c6652f08ae"
 type: garden
-title: Vineyard (ἀμπελών) 2 at Theadelphia
+title: Vineyard 2 at Theadelphia
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

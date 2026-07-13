@@ -1,7 +1,7 @@
 ---
 slug: "16c4ab940e"
 type: garden
-title: Tomb garden (κηπόταφος) probably in Ibrahimiya
+title: Tomb garden probably in Ibrahimiya
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name

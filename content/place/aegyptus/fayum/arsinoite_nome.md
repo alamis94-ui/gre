@@ -1,7 +1,7 @@
 ---
 slug: "84843629fd"
 type: garden
-title: Vegetable garden (κῆπος λαχανευόμενος) in Arsinoite nome
+title: Vegetable garden in Arsinoite nome
 latlon: [ 0, 0 ]
 author: Roger Bagnall
 translator: Translator Name
