@@ -45,46 +45,14 @@ async function citeThis(e) {
 }
 
 function detectGreek() {
-    document.querySelectorAll('em').forEach((em) => {
-        let t = em.innerText
-        for (let i=0; i < t.length; i++) {
-            let c = t.codePointAt(i)
-            // check if within "Greek and Coptic" or "Greek Extended" Unicode ranges
-            if (c>=0x370 && c<=0x3ff || c>=0x1f00 && c<0x1fff){
-                em.lang = 'el'
-                break
-            }
+    // Detect <em> that contains greek characters and mark it as lang="el" (Greek)
+    // so it can be styled in custom.css -- see the rule for em:lang(el)
+    // Note: this only looks in <p> (garden/place description), to avoid altering style of bibliography titles
+    document.querySelectorAll('p em').forEach((em) => {
+        if (em.innerText.search(/[\u0370-\u03ff\u1f00-\u1fff]/) > -1) {
+            em.lang = 'el'
         }
     })
-}
-
-function detectGreek2() {
-    let m = document.querySelector('.main .content')
-    let els = m.getElementsByTagName('*')
-    for (let i=0; i<els.length; i++) {
-        let nodes = els.item(i).childNodes
-        for (let j=0; j<nodes.length; j++) {
-            let n = nodes[j]
-            if (n.nodeType==3) {
-                let words = n.nodeValue.split(" ")
-                let words2 = []
-                let greek = false
-                for (let wi=0; wi<words.length; wi++) {
-                    let w = words[wi]
-                    if (w.match(/[\u0370-\u03ff\u1f00-\u1fff]/)) {
-                        words2.push("<em lang='el'>" + w + "</em>")
-                        greek = true
-                    }
-                    else {
-                        words2.push(w)
-                    }
-                }
-                if (greek) {
-                    n.nodeValue = words2.join(" ")
-                }
-            }
-        }
-    }
 }
 
 detectGreek()
