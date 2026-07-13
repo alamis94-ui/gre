@@ -2,7 +2,7 @@
 slug: "c6652f08ae"
 type: garden
 title: Vineyard 2 at Theadelphia
-latlon: [ 0, 0 ]
+latlon: [29.348065, 30.49696]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -40,16 +40,14 @@ One-half aroura (.14 ha.). Leased on 71 CE for 3 years. Includes fruit trees (ap
 
 ## Bibliography
 
-- P.Soter. 2.
+- *P.Soter*. 2. [(papyri.info)](https://papyri.info/ddbdp/p.soter;;2)
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
+
+- {{< keyword "vinyards" >}}
 
 <!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="Pleiades" id="737081" name="Theadelpheia" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->
