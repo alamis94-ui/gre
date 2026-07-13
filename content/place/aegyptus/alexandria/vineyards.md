@@ -2,7 +2,7 @@
 slug: "a6318547b4"
 type: garden
 title: Vineyards, rose, and bean gardens at Kanopos
-latlon: [ 0, 0 ]
+latlon: [31.313404, 30.0580595]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -21,7 +21,7 @@ unexcavated
 
 ## Garden Description
 
-These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fava bean gardens (*κυαμῶνες*) were in in wetlands on the Strip (cf. no. 1 above<!--link to kanopos.md?-->). Size: 4.5 ar. (1.24 ha.) in two parcels, of which lessors own two-thirds share. Leased in 5 BCE for 5 years. 
+These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fava bean gardens (*κυαμῶνες*) were in in wetlands on the Strip (cf. [Garden at Kanopos](/id/05b24acec3/)). Size: 4.5 ar. (1.24 ha.) in two parcels, of which lessors own two-thirds share. Leased in 5 BCE for 5 years. 
 
 <!--
 ## Maps
@@ -38,19 +38,20 @@ These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fav
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
+<!--TODO: find bibliography - not on doc -->
+
 <!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
+
+- {{< keyword "vinyards" >}}
+- {{< keyword "flower gardens" >}}
 
 <!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="Pleiades" id="727097" name="Canopus" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->
