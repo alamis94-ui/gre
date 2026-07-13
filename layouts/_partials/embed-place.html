@@ -14,10 +14,15 @@
 {{ $realCount := sub (len $hier) 2 }}
 {{ range $i, $p := $hier }}
     {{ if lt $i $realCount }}
+        {{ $elsewhere := gt $i 0 }}
+        {{ $title := .Title }}
         {{ $ancestorplaces := partial "html-section.html" ( dict "html" .Content "header" "Places" ) }}
         {{ $lis := findRE (print `(?s)<li.*?</li>`) $ancestorplaces }}
-        {{ range $lis }}
-            {{ $content = print $content . }}
+        {{ range $li := $lis }}
+            {{ if and $elsewhere (eq hugo.Environment "development") }}
+                {{ $li = replaceRE `</li>` (print " (from " $title " page)</li>") $li}}
+            {{ end }}
+            {{ $content = print $content $li }}
         {{ end }}
     {{ end }}
 {{ end }}
