@@ -2,7 +2,7 @@
 slug: "05b24acec3"
 type: garden
 title: Garden at Kanopos
-latlon: [ 31.313404, 30.0580595 ]
+latlon: [31.313404, 30.0580595]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -48,7 +48,8 @@ This garden was in wetlands (*tenagos*) by the Strip (*tainias*, a ridge) (cf. F
 
 ## Places
 
-- {{< id vocab="Pleiades" id="727097" name="Canopus" >}}
 <!--
+## Places
+- {{< id vocab="Pleiades" id="727097" name="Canopus" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->
