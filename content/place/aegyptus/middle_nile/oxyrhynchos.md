@@ -2,7 +2,7 @@
 slug: "6d6895c85e"
 type: garden
 title: Garden at Oxyrhynchos
-latlon: [ 0, 0 ]
+latlon: [28.542574, 30.65172]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
