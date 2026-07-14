@@ -44,7 +44,7 @@ Vineyard, reed plantation, orchard, olive grove, date-palm grove, mulberry grove
 
 ## Keywords
 
-- {{< keyword "vineyards >}}
+- {{< keyword "vineyards" >}}
 - {{< keyword "orchards" >}}
 - {{< keyword "olive trees" >}}
 - {{< keyword "cisterns (plumbing components)" >}}
