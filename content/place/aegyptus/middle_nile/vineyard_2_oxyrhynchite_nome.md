@@ -2,7 +2,7 @@
 slug: "85f9f30605"
 type: garden
 title: Vineyard 2 in Oxyrhynchite nome
-latlon: [ 0, 0 ]
+latlon: [28.542574, 30.65172]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
