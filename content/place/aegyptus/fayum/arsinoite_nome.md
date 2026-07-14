@@ -40,11 +40,12 @@ In an unknown village; size not stated, part of larger tract of 10.5 arouras. Le
 
 ## Bibliography
 
-- CPR 8.71. [(papyri.info)](http://papyri.info/ddbdp/cpr;8;71)
+- CPR.8.71. [(papyri.info)](http://papyri.info/ddbdp/cpr;8;71)
 
 ## Keywords
 
 - {{< keyword "vegetable gardens" >}}
+- {{< keyword "trees (woody plants)" >}}
 
 <!--
 ## Places
