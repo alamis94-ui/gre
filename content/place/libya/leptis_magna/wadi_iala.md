@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-ca. 2nd century CE - early 3rd century CE
+ca. second century CE - early third century CE
 
 ## Excavation Dates
 
@@ -46,12 +46,20 @@ The whole arrangement, even in terms of its apparent novelty, can be traced back
 
 <!--
 ## Plans
-{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 1. General plan." credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 9. Hypothetical reconstruction of the original plan." credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 10. Eastern garden (d): Hypothetical perspective reconstruction of the original garden layout." credit="" alt="" >}}
 -->
 
 <!--
 ## Images
-{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 2. Peristyle garden by the sea." credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 3. Viridarium (b): terracotta flowerpot." credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 4. Viridarium (b) to the south of the complex." credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 5. Garden (d) to the east of the villa and southern portico, general view." credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 6. Eastern garden (d): detail of a trench wall with polychrome mosaic." credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 7. Eastern garden (d): fragment of a painted frieze with Nilotic scenes." credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 8. Eastern garden (d): Perspective restitution of the present state." credit="" alt="" >}}
 -->
 
 ## Bibliography
