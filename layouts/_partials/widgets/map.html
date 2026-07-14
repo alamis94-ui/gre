@@ -13,7 +13,7 @@
     <div class="widget__content">
         <div id='map' class="leaflet-map"></div>
         {{ if eq hugo.Environment "development" }}
-        <div>ctrl-click the map to capture coordinates</div>
+        <div class="dev">ctrl-click the map to capture coordinates</div>
         {{ end }}
         <script>
             //Create Map

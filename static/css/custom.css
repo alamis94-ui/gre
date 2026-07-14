@@ -464,3 +464,11 @@ sup {
 .embed-place-description.hidden {
   display: none;
 }
+
+.dev {
+  color:#0f0;
+  background: #000;
+  font-family: Arial, sans-serif;
+  font-size: 75%;
+  padding: 3px;
+}
