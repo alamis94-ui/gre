@@ -2,7 +2,7 @@
 slug: "eb6cba0868"
 type: garden
 title: Garden in village of Aphrodite
-latlon: [ 0, 0 ]
+latlon: [26.833145, 31.416623]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-6th century CE <!--check, maybe 7th cent-->
+6th century CE 
 
 ## Excavation Dates
 
@@ -40,12 +40,15 @@ Vineyard, reed plantation, orchard, olive grove, date-palm grove, mulberry grove
 
 ## Bibliography
 
-- P.Mich. XIII 666. [(papyri.info)](https://papyri.info/hgv/21378)
+- *P.Mich*.13.666. [(papyri.info)](https://papyri.info/hgv/21378)
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
+
+- {{< keyword "vineyards >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "olive trees" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "stables (animal housing)" >}}
 
 <!--
 ## Places

@@ -38,12 +38,9 @@ These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fav
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--TODO: find bibliography - not on doc -->
-
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- BGU.4.1119. [(papyri.info)](https://papyri.info/ddbdp/bgu;4;1119)
 
 ## Keywords
 

@@ -2,7 +2,7 @@
 slug: "dba6ef61c4"
 type: garden
 title: Vineyard and orchard in village of Aphrodite
-latlon: [ 0, 0 ]
+latlon: [26.833145, 31.416623]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -40,12 +40,14 @@ Located in the western plain of the village. Size not given. Leased after 550 CE
 
 ## Bibliography
 
-- P.Hamb. I 68. [(papyri.info)](https://papyri.info/ddbdp/p.hamb;1;68)
+- *P.Hamb*.1.68. [(papyri.info)](https://papyri.info/ddbdp/p.hamb;1;68)
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
+
+- {{< keyword "orchards" >}}
+- {{< keyword "storerooms" >}}
+- {{< keyword "olive trees" >}}
+- {{< keyword "vinyards" >}}
 
 <!--
 ## Places

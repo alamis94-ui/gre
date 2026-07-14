@@ -40,7 +40,7 @@ These were “in the so-called Palm Grove.” Size not given. Leased in 5 BCE fo
 
 ## Bibliography
 
-- BBGU IV 1120 [(papyri.info)](https://papyri.info/hgv/18562)
+- BGU.4.1120 [(papyri.info)](https://papyri.info/hgv/18562)
 
 ## Keywords
 

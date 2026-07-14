@@ -11,8 +11,6 @@ date: 2026-05-07
 draft: true
 ---
 
-<!--TODO: latlong is for Alexandria - can probably get closer-->
-
 ## Dates
 
 first century CE
@@ -43,8 +41,8 @@ Ibrahimiya was an eastern suburban necropolis of Alexandria. Size not given. Con
 ## Bibliography
 
 - Fraser, P. M. and B. Nicholas (1958). The Funerary Garden of Mousa, *Journal of Roman Studies* 48: 117-29. [(worldcat)](https://search.worldcat.org/title/8271419609)
-- J. and L. Robert, *Revue des Études Grecques* 72 (1959) 272-73.<!--no. 498--> [Persee](https://www.persee.fr/doc/reg_0035-2039_1959_num_72_339_3579)
-- *Supplementum Epigrapicum Graecum*, 18.646. <!--link to SEG online?-->
+- J. and L. Robert, *Revue des Études Grecques* 72 (1959) 272-73.<!--no. 498--> [(Persée)](https://www.persee.fr/doc/reg_0035-2039_1959_num_72_339_3579)
+- *Supplementum Epigrapicum Graecum*, 18.646. [(SEG)](https://scholarlyeditions.brill.com/sego/)
 
 ## Keywords
 

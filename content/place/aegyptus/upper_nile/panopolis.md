@@ -2,7 +2,7 @@
 slug: "7fd4cfb8d2"
 type: garden
 title: Garden in Panopolis
-latlon: [ 0, 0 ]
+latlon: [26.5648875, 31.7451755]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -21,7 +21,7 @@ unexcavated
 
 ## Garden Description
 
-Located near the temple of Apollo (or Horos?) at Panopolis. Size not known. Known from inscriptions in verse set up by the owner, Ptolemagrios, a veteran of the Roman army, with dedications to Ares, Poseidon, Zeus, and probably Hades. Mentions persea and date palms. Owner seems to stress that he and his sons have worked themselves on the garden. <!--find inscription-->
+Located near the temple of Apollo (or Horos?) at Panopolis. Size not known. Known from inscriptions in verse set up by the owner, Ptolemagrios, a veteran of the Roman army, with dedications to Ares, Poseidon, Zeus, and probably Hades. Mentions persea and date palms. Owner seems to stress that he and his sons have worked themselves on the garden.
 
 <!--
 ## Maps
@@ -40,12 +40,11 @@ Located near the temple of Apollo (or Horos?) at Panopolis. Size not known. Know
 
 ## Bibliography
 
-- Welles 1946.
+- Welles, C.B. "The Garden of Ptolemagrius at Panopolis" in *Transactions and Proceedings of the American Philological Association*, Vol. 77 (1946), pp. 192-206. [(JStor)](https://www.jstor.org/stable/283456)
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
+
+- {{< keyword "inscriptions" >}}
 
 <!--
 ## Places
