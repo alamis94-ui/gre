@@ -40,11 +40,12 @@ Location unknown and size lost. Subleased in 137 CE for 4 years. Includes reed p
 
 ## Bibliography
 
-- *P.Oxy*. 4.729. [(papyri.info)](https://papyri.info/hgv/20429)
+- *P.Oxy*.4.729. [(papyri.info)](https://papyri.info/hgv/20429)
 
 ## Keywords
 
 - {{< keyword "water supply systems" >}}
+- {{< keyword "water wells" >}}
 - {{< keyword "vinyards" >}}
 
 <!--
