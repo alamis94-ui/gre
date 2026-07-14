@@ -1,9 +1,9 @@
 ---
 slug: "506c8bf97f"
 type: garden
-title: Little Circus
+title: Villa of the Little Circus
 latlon: [32.709405, 14.177938]
-author: Author Name
+author: Salza Prina Ricotti
 translator: Translator Name
 contributor: Amelia Lamis
 date: 2026-05-07
@@ -11,7 +11,7 @@ date: 2026-05-07
 draft: true
 ---
 
-<!--TODO: Author name? and Insert 2 images from doc-->
+<!--TODO: Insert 2 images from doc-->
 
 ## Dates
 

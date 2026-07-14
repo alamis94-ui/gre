@@ -1,9 +1,9 @@
 ---
 slug: "ae6dc15559"
 type: garden
-title: Silin, villa of the maritime odeon
+title: Silin, villa of the Maritime Odeon
 latlon: [32.709405, 14.177938]
-author: Author Name
+author: Salza Prina Ricotti
 translator: Translator Name
 contributor: Amelia Lamis
 date: 2026-05-07
@@ -11,7 +11,7 @@ date: 2026-05-07
 draft: true
 ---
 
-<!--TODO: Author Name? AND Insert 3 images from doc-->
+<!--TODO: Insert 3 images from doc-->
 
 ## Dates
 
