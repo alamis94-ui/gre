@@ -1,8 +1,8 @@
 ---
 slug: "11032f45a7"
 type: garden
-title: Vegetable garden (κῆπος λαχανευόμενος) at Dionysias
-latlon: [ 0, 0 ]
+title: Vegetable garden at Dionysias
+latlon: [29.40642, 30.417435]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-161 - 169 CE
+161 to 169 CE
 
 ## Excavation Dates
 
@@ -40,16 +40,12 @@ Two arouras (.56 ha.). Quarter share given in a *donatio mortis causa* by a metr
 
 ## Bibliography
 
-- P.Stras. II 122; cf. BL 4.93.
+- *P.Stras*.2.122 (cf. BL 4.93). [(papyri.info)](http://papyri.info/ddbdp/p.stras;2;122)
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "vegetable gardens">}}
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736904" name="Dionysias" >}}

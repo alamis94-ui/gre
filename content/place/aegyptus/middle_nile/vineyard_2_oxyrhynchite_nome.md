@@ -1,8 +1,8 @@
 ---
 slug: "85f9f30605"
 type: garden
-title: Vineyard (ἀμπελών) in Oxyrhynchite nome
-latlon: [ 0, 0 ]
+title: Vineyard 2 in Oxyrhynchite nome
+latlon: [28.542574, 30.65172]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -40,16 +40,14 @@ A reed plantation, orchard, and garden; location not preserved. Leased in 141 CE
 
 ## Bibliography
 
-- P.Ross.Georg. II 19. [(papyri.info)](https://papyri.info/ddbdp/p.ross.georg;2;19)
+- *P.Ross.Georg*.2.19. [(papyri.info)](https://papyri.info/ddbdp/p.ross.georg;2;19)
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "orchards" >}}
+- {{< keyword "vineyards" >}}
+- {{< keyword "stables" >}}
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736983" name="Oxyrhynchos" >}}

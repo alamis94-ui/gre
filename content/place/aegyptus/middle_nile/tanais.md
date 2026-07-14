@@ -1,8 +1,8 @@
 ---
 slug: "cb3d3aa992"
 type: garden
-title: Vineyard (ἄμπελος), orchard (πωμάριον), and reed plantation (καλαμεῖα)
-latlon: [ 0, 0 ]
+title: Vineyard, orchard, and reed plantation near Tanais
+latlon: [28.542574, 30.65172]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -40,16 +40,17 @@ Near the village of Tanais, Oxyrhynchite nome. Size not stated. Work leased out 
 
 ## Bibliography
 
-- P.Oxy. XIV 1631. [(papyri.info)](https://papyri.info/ddbdp/p.oxy;14;1631)
+- *P.Oxy*.14.1631. [(papyri.info)](https://papyri.info/ddbdp/p.oxy;14;1631)
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
+
+- {{< keyword "vineyards" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "walls" >}}
 
 <!--
 ## Places
-places containing this garden will be listed automatically
+NOTE: this is presumably not the "Tanis" that is closer to Cairo
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->

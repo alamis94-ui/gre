@@ -2,7 +2,7 @@
 slug: "6d6895c85e"
 type: garden
 title: Garden at Oxyrhynchos
-latlon: [ 0, 0 ]
+latlon: [28.542574, 30.65172]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -21,7 +21,7 @@ unexcavated
 
 ## Garden Description
 
-Described as a garden of the city inside its walls (*κῆπον τῆς πόλεως ἔνδον τειχῶν ὄντα*, 63), called the Paradeisos of Diktynos, which the plants and water for irrigation in it by the grammarian to whom it had been given as a source of income (it earned 2400 drachmas a year). Mentioned in a petition to the emperors. 
+Described as a garden of the city inside its walls (*κῆπον τῆς πόλεως ἔνδον τειχῶν ὄντα*, 63), called the Paradeisos of Diktynos, with the plants and water for irrigation in it by the grammarian to whom it had been given as a source of income (it earned 2400 drachmas a year). Mentioned in a petition to the emperors<!--Valerian and Gallienus-->.
 
 <!--
 ## Maps
@@ -40,16 +40,12 @@ Described as a garden of the city inside its walls (*κῆπον τῆς πόλ�
 
 ## Bibliography
 
-- P.Coll.Youtie II 66; P.Oxy. XLVII 3366 [(papyri.info)](https://papyri.info/ddbdp/p.coll.youtie;2;66)
+- *P.Coll.Youtie*.2.66; *P.Oxy*.47.3366. [(papyri.info)](https://papyri.info/ddbdp/p.coll.youtie;2;66)
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "walls" >}}
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736983" name="Oxyrhynchos" >}}
