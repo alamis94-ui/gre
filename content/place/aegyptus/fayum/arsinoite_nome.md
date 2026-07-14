@@ -2,7 +2,7 @@
 slug: "84843629fd"
 type: garden
 title: Vegetable garden in Arsinoite nome
-latlon: [29.373969796, 30.7432736915]
+latlon: [29.2863267013, 30.7347325572]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -45,11 +45,8 @@ In an unknown village; size not stated, part of larger tract of 10.5 arouras. Le
 ## Keywords
 
 - {{< keyword "vegetable gardens" >}}
-- {{< keyword "trees (woody plants)" >}}
+- {{< keyword "trees" >}}
 
-<!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736893" name="Arsinoites/Krokodeilopolites Nomos" >}}

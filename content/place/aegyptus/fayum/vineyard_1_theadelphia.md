@@ -2,7 +2,7 @@
 slug: "408d429c37"
 type: garden
 title: Vineyard 1 at Theadelphia
-latlon: [29.348065, 30.49696]
+latlon: [29.345416, 30.557603]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -46,8 +46,6 @@ One-half aroura (.14 ha.). Leased in 69 CE for 3 years. Includes fruit trees of 
 
 - {{< keyword "vineyards" >}}
 
-<!--
 ## Places
+
 - {{< id vocab="Pleiades" id="737081" name="Theadelpheia" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->

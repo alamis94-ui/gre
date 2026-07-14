@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-6th century CE 
+6th century CE
 
 ## Excavation Dates
 
@@ -44,11 +44,11 @@ Vineyard, reed plantation, orchard, olive grove, date-palm grove, mulberry grove
 
 ## Keywords
 
-- {{< keyword "vineyards >}}
+- {{< keyword "vineyards" >}}
 - {{< keyword "orchards" >}}
 - {{< keyword "olive trees" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "stables (animal housing)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "stables" >}}
 
 <!--
 ## Places

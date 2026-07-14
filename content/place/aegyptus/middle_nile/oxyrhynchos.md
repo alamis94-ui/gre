@@ -46,9 +46,6 @@ Described as a garden of the city inside its walls (*κῆπον τῆς πόλ�
 
 - {{< keyword "walls" >}}
 
-<!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736983" name="Oxyrhynchos" >}}

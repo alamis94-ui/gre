@@ -2,7 +2,7 @@
 slug: "c6652f08ae"
 type: garden
 title: Vineyard 2 at Theadelphia
-latlon: [29.348065, 30.49696]
+latlon: [29.345416, 30.557603]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -45,10 +45,8 @@ One-half aroura (.14 ha.). Leased on 71 CE for 3 years. Includes fruit trees (ap
 ## Keywords
 
 - {{< keyword "vinyards" >}}
-- {{< keyword "wallss" >}}
+- {{< keyword "walls" >}}
 
-<!--
 ## Places
+
 - {{< id vocab="Pleiades" id="737081" name="Theadelpheia" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->

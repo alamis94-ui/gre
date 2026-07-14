@@ -46,9 +46,6 @@ Located near the temple of Apollo (or Horos?) at Panopolis. Size not known. Know
 
 - {{< keyword "inscriptions" >}}
 
-<!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="756613" name="Panopolis/Schmin" >}}

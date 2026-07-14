@@ -46,11 +46,8 @@ A reed plantation, orchard, and garden; location not preserved. Leased in 141 CE
 
 - {{< keyword "orchards" >}}
 - {{< keyword "vineyards" >}}
-- {{< keyword "stables (animal housing)" >}}
+- {{< keyword "stables" >}}
 
-<!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736983" name="Oxyrhynchos" >}}
