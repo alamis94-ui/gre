@@ -33,16 +33,17 @@ The villas of Silin are part of a group of seaside residences built on the coast
 
 ## Bibliography
 
-- Bartocini, 1927. "Ville e terme romane a Misurata Marina, *Africa Italiana* 1 (1927), pp. 214-225"; "Villa romana presso l'ex cimitero israelitico di Homs, *Africa Italiana* 1 (1927), pp. 226-232. [(worldcat)](https://search.worldcat.org/title/12321378)
-- Bartoccini, R. 1958. *Il porto romano di Leptis Magna*, Supplemento al Bollettino del Centro Studi per la Storia dell Architettura 13. [(worldcat)](https://search.worldcat.org/title/3028754)
-- Di Vitta, A. 1966. La villa della Gara delle Nereidi presso Tagiura, in Supplements of Libya antiqua, Roma. [(worldcat)](https://search.worldcat.org/title/698288)
+- Bartoccini, 1927. "Ville e terme romane a Misurata Marina," *Africa Italiana* 1 (1927), pp. 214-225. [(worldcat)](https://search.worldcat.org/title/848043745)
+- Bartoccini, 1927. "Villa romana presso l'ex cimitero israelitico di Homs," *Africa Italiana* 1 (1927), pp. 226-232. [(worldcat)](https://search.worldcat.org/title/848043745)
+- Bartoccini, R. 1958. Il porto romano di Leptis Magna, *Supplemento al Bollettino del Centro Studi per la Storia dell Architettura 13*. [(worldcat)](https://search.worldcat.org/title/149864153)
+- Di Vita, A. 1966. La villa della Gara delle Nereidi presso Tagiura, *Supplements of Libya antiqua*, Roma. [(worldcat)](https://search.worldcat.org/title/1533122916)
 - Goodchild, R. G. 1954. Tabula Imperii Romani - Lepcis Magna, Oxford. [(worldcat)](https://search.worldcat.org/title/21746406)
-- Guidi, G. 1933. La villa del Nilo a Leptis Magna , Africa Italiana 5. [(worldcat)](https://search.worldcat.org/title/835354187)
-- Ricotti, E. S. P. 1970-1971. "Le ville marittime di Silin (Leptis Magna)", Atti della Pontificia Accademia Romana di Archeologia. Rendiconti 43: 135-163. [(worldcat)](https://search.worldcat.org/title/1508443511)
-- Ricotti, E. S. P. 1972-1973. "I porti della zona di Leptis Magna", Atti della Pontificia Accademia Romana diArcheologia. Rendiconti 45: 75-103. [(worldcat)](https://search.worldcat.org/title/1508445063)
-- Romanelli, P. 1916. Studi e ricerche archeologiche in Tripolitania nei primi quattro anni di occupazione italiana, Nuova antologia. [(worldcat)](https://search.worldcat.org/title/1517648314)
-- Romanelli, P. 1922. Antichità della regione di Gurgi (Tripoli), *Notiziario archeologico* 3.[(worldcat)](https://search.worldcat.org/title/1091933836)
-- Romanelli, P. 1929-30. La vita agricola in Tripolitania attraverso le rappresentazioni figurate, *Africa Italiana* 2, pp. 53-75.[(worldcat)](https://search.worldcat.org/title/12321378)
+- Guidi, G. 1933. La villa del Nilo a Leptis Magna, *Africa Italiana* 5. [(worldcat)](https://search.worldcat.org/title/835354187)
+- Ricotti, E. S. P. 1970-1971. "Le ville marittime di Silin (Leptis Magna)," Atti della Pontificia Accademia Romana di Archeologia. *Rendiconti* 43: 135-163. [(worldcat)](https://search.worldcat.org/title/1508443511)
+- Ricotti, E. S. P. 1972-1973. "I porti della zona di Leptis Magna," Atti della Pontificia Accademia Romana diArcheologia. *Rendiconti* 45: 75-103. [(worldcat)](https://search.worldcat.org/title/1508445063)
+- Romanelli, P. 1916. Studi e ricerche archeologiche in Tripolitania nei primi quattro anni di occupazione italiana, *Nuova antologia*. [(worldcat)](https://search.worldcat.org/title/1517648314)
+- Romanelli, P. 1922. Antichità della regione di Gurgi (Tripoli), *Notiziario archeologico* 3. [(worldcat)](https://search.worldcat.org/title/1091933836)
+- Romanelli, P. 1929-30. La vita agricola in Tripolitania attraverso le rappresentazioni figurate, *Africa Italiana* 2, pp. 53-75. [(worldcat)](https://search.worldcat.org/title/12321378)
 
 ## Keywords
 

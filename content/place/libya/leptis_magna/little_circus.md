@@ -84,6 +84,7 @@ RendPontAcc Rendiconti. Atti della Pontificia accademia romana di archeologia
 - {{< keyword "water features (landscaping)" >}}
 - {{< keyword "courtyards (uncovered spaces)" >}}
 - {{< keyword "pools" >}}
+- {{< keyword "irrigation ditches" >}}
 
 <!--
 ## Places
