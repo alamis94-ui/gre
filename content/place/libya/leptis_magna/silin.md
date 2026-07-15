@@ -11,7 +11,7 @@ date: 2026-05-07
 draft: true
 ---
 
-<!--TODO: Insert 3 images from doc-->
+<!--TODO: Insert 3 images from doc (plan, restoration, and photo)-->
 
 ## Dates
 
@@ -19,7 +19,7 @@ unspecified
 
 ## Excavation Dates
 
-late 1960s - early 1970s
+late 1960s to early 1970s
 
 ## Garden Description
 
@@ -38,13 +38,14 @@ The villa of the Maritime Odeon was surveyed and mapped by Salza Prina Ricotti i
 <!--
 ## Images
 {{< image file="filename.jpg" caption="Fig. 2. Silin, village of the maritime odeon. Hypothetical restoration by the author." credit="" alt="" >}}
+
 {{< image file="filename.jpg" caption="Fig. 3. Silin, village of the maritime odeon. Ruins of the Odeon today." credit="Photo by the author." alt="" >}}
 -->
 
 ## Bibliography
 
-- Ricotti, E. S. P. 1970-1971. "Le ville marittime di Silin (Leptis Magna)", Atti della Pontificia Accademia Romana di Archeologia. Rendiconti 43: 135-163. [(worldcat)](https://search.worldcat.org/title/1508443511)
-- Ricotti, E. S. P. 1972-1973. "I porti della zona di Leptis Magna", Atti della Pontificia Accademia Romana diArcheologia. Rendiconti 45: 75-103. [(worldcat)](https://search.worldcat.org/title/1508445063)
+- Ricotti, E. S. P. 1970-1971. "Le ville marittime di Silin (Leptis Magna)," Atti della Pontificia Accademia Romana di Archeologia. Rendiconti 43: 135-163. [(worldcat)](https://search.worldcat.org/title/1508443511)
+- Ricotti, E. S. P. 1972-1973. "I porti della zona di Leptis Magna," Atti della Pontificia Accademia Romana diArcheologia. Rendiconti 45: 75-103. [(worldcat)](https://search.worldcat.org/title/1508445063)
 
 ## Keywords
 

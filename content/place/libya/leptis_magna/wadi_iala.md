@@ -13,11 +13,11 @@ draft: true
 
 ## Dates
 
-ca. second century CE - early third century CE
+ca. second century CE to early third century CE
 
 ## Excavation Dates
 
-1970s - 1980s
+1970s to 1980s
 
 ## Garden Description
 

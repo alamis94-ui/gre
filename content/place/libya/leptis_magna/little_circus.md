@@ -10,8 +10,7 @@ date: 2026-05-07
 
 draft: true
 ---
-
-<!--TODO: Insert 2 images from doc-->
+<!--TODO: Insert Fig. 1. (plan) and Fig. 2. (drawing) from doc-->
 
 ## Dates
 
@@ -19,7 +18,7 @@ unspecified
 
 ## Excavation Dates
 
-unspecified <!--probably early 70s-->
+early 1970s
 
 ## Garden Description
 
