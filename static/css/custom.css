@@ -471,4 +471,11 @@ sup {
   font-family: Arial, sans-serif;
   font-size: 75%;
   padding: 3px;
+
+/* Greek letters detected via detectGreek() in custom.js */
+em:lang(el) {
+  color: #850;
+  font-weight: bold;
+  font-family: "Arial", sans-serif;
+  font-style: normal; /* not italics */
 }

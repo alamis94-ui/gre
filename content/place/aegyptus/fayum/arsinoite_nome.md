@@ -1,24 +1,27 @@
 ---
 slug: "84843629fd"
 type: garden
-title: Arsinoite Nome
-latlon: [ 0, 0 ]
-author: Author Name
+title: Vegetable garden in Arsinoite nome
+latlon: [29.2863267013, 30.7347325572]
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+seventh century CE (after 641)
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+In an unknown village; size not stated, part of larger tract of 10.5 arouras. Leased by an Arsinoite notable to his cowherd in the seventh century CE (after 641). Contains date palms, sycamores, and perhaps other trees. 
 
 <!--
 ## Maps
@@ -35,19 +38,15 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
 
-<!--
+- CPR.8.71. [(papyri.info)](http://papyri.info/ddbdp/cpr;8;71)
+
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "vegetable gardens" >}}
+- {{< keyword "trees" >}}
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736893" name="Arsinoites/Krokodeilopolites Nomos" >}}

@@ -2,23 +2,26 @@
 slug: "a67a113e82"
 type: garden
 title: Tomb Garden Of An Anonymous
-latlon: [ 0, 0 ]
-author: Author Name
+latlon: [ 36.3675, 6.61194 ]
+author: John Bodel
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+unspecified
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+ca. 1853 <!--CIL-->
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+A partially preserved stone plaque now in the museum at Cirta and originally found nearby records in passable hexameters an idyllic description of the anonymous author's monument:  & the little Attic bird [probably mistakenly, for  bee] comes often to my tomb and, sated with thyme, leaves dripping honey; here birds sing sweetly to me in verdant grottoes; here the Delian laurel blossoms near my tomb, and grapes hang like gold upon the vines (*[saep]e meis tumulis avis Attica parvula venit / et satiata thymo stillantia mella relinquit, / mi volucres hic dulce canent viridantibus antris, / hic viridat tumulis laurus prope Delia nostris / et auro similes pendunt in vitibus [uva]e*).
 
 <!--
 ## Maps
@@ -35,10 +38,10 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- CIL VIII, 7854 [(Arachne)](http://arachne.uni-koeln.de/item/buchseite/597217)
+- CLE 468 [(HathiTrust)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015066034086&seq=228&q1=468)
 
 <!--
 ## Keywords

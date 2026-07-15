@@ -1,24 +1,27 @@
 ---
 slug: "0ea548bb0d"
 type: garden
-title: Euhemeria
-latlon: [ 0, 0 ]
-author: Author Name
+title: Vegetable garden at Euhemeria
+latlon: [29.383296, 30.533289]
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+239 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+1 1/8 arouras (.31 ha.). Leased for 3 years in 239 CE. Furnished with well and sakiya. Rent in cash payable in two installments each year.
 
 <!--
 ## Maps
@@ -35,19 +38,16 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
 
-<!--
+- *P.Flor*.1.16. [(papyri.info)](http://papyri.info/ddbdp/p.flor;1;16)
+- Rathbone, Dominic (1991), 186. *Economic Rationalism and Rural Society in Third-Century Egypt*. Cambridge. [(worldcat)](https://search.worldcat.org/title/23969932)
+
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "vegetable gardens" >}}
+- {{< keyword "water wells" >}}
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736909" name="Euhemereia" >}}

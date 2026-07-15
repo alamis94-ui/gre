@@ -1,24 +1,27 @@
 ---
 slug: "11032f45a7"
 type: garden
-title: Dionysias
-latlon: [ 0, 0 ]
-author: Author Name
+title: Vegetable garden at Dionysias
+latlon: [29.40642, 30.417435]
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+161 to 169 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+Two arouras (.56 ha.). Quarter share given in a *donatio mortis causa* by a metropolitan woman to her daughter in 161-169 CE. 
 
 <!--
 ## Maps
@@ -35,19 +38,14 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
 
-<!--
+- *P.Stras*.2.122 (cf. BL 4.93). [(papyri.info)](http://papyri.info/ddbdp/p.stras;2;122)
+
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "vegetable gardens">}}
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736904" name="Dionysias" >}}

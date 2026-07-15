@@ -1,24 +1,27 @@
 ---
 slug: "408d429c37"
 type: garden
-title: Vineyard 1 Theadelphia
-latlon: [ 0, 0 ]
-author: Author Name
+title: Vineyard 1 at Theadelphia
+latlon: [29.345416, 30.557603]
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+69 CE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+One-half aroura (.14 ha.). Leased in 69 CE for 3 years. Includes fruit trees of unspecified type (*ἀκρόδρυα*), up which vines are trained; vineyard is described as anadendradic. Requires dung and *ammos* (sand).
 
 <!--
 ## Maps
@@ -35,19 +38,14 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
 
-<!--
+- *P.Soter*.1. [(papyri.info)](https://papyri.info/hgv/13123)
+
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "vineyards" >}}
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="737081" name="Theadelpheia" >}}

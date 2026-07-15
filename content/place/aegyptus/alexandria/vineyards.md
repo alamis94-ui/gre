@@ -1,24 +1,27 @@
 ---
 slug: "a6318547b4"
 type: garden
-title: Vineyards
-latlon: [ 0, 0 ]
-author: Author Name
+title: Vineyards, rose, and bean gardens at Kanopos
+latlon: [31.313404, 30.0580595]
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+5 BCE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fava bean gardens (*κυαμῶνες*) were in in wetlands on the Strip (cf. [Garden at Kanopos](/id/05b24acec3/)). Size: 4.5 ar. (1.24 ha.)<!-- check units --> in two parcels, of which lessors own two-thirds share. Leased in 5 BCE for 5 years.
 
 <!--
 ## Maps
@@ -35,19 +38,16 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
 
-<!--
+- BGU.4.1119. [(papyri.info)](https://papyri.info/ddbdp/bgu;4;1119)
+
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "vineyards" >}}
+- {{< keyword "flower gardens" >}}
+
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="727097" name="Canopus" >}}
