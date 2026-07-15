@@ -4,7 +4,7 @@ type: garden
 title: Casa del Telaio
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 548
 date: 2020-09-29
 
@@ -78,5 +78,5 @@ There was a courtyard (a) in the center of this house which was apparently attac
 
 ## Bibliography
 
-- Maiuri, *Ercolano*, p. 430 and fig. 370 (plan) on p. 427
+- Maiuri, *Ercolano*, p. 430 and fig. 370 (plan) on p. 427.
 

@@ -4,7 +4,7 @@ type: garden
 title: Casa del bel Cortile
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: Appendix II. 110
 date: 2020-09-29
 
@@ -47,7 +47,8 @@ Casa del bel Cortile
 ## Garden Description
 
 Appendix II. 110.V.8.
-The illusion of a gardentrellis was created in this house withno garden by painting the archway under a flight of stairs in the courtyard with climbing vines and flowering oleanders
+The illusion of a garden trellis was created in this house with no garden by painting the archway under a flight of stairs in the courtyard with climbing vines and flowering oleanders.
+
 
 <!-- ## Maps -->
 
@@ -76,6 +77,6 @@ None
 
 ## Bibliography
 
-- Maiuri,Herculaneum,p. 46
-- Idem, Ercolano,p. 338
+- Maiuri, *Herculaneum*, p. 46.
+- Idem, *Ercolano*, p. 338.
 

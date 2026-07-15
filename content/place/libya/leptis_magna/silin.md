@@ -5,20 +5,23 @@ title: Silin
 latlon: [ 0, 0 ]
 author: Author Name
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+unspecified
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+late 1960s - early 1970s
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+The villa of the Maritime Odeon was surveyed and mapped by Salza Prina Ricotti in the late 1960's and early 1970's.  It is an ample and luxurious residence with a large area (Fig. 1, A) at its rear where there is no evident trace of masonry. It was probably the residence's traditional garden. As a matter of fact, everywhere near the seacoasts, gardens were placed at the back of the buildings to protect them from salt-laden winds. When the villa of the Maritime Odeon was active, this area must have been a green refreshing place shaded by local trees and ornamental plants, like date palms, olive trees and some North-African flowering bushes. However the most striking open-air feature of this villa was the arrangement of its sea front where no vegetation would ever have survived. There was what we can very well call a stone-garden, an original landscaping planned for open-air life and leisurely strolls. Here a small theater [B] cut in the sandstone and flanked by two long flights of steps looked out toward a mass of rock - today much eroded - which formed a dramatic background against the blue Mediterranean Sea. A porch and a cryptoporticus behind it  ran along the front of the house. They offered to the villa's owners a place to exercise in the portico exposed to the fresh northern winds, or to walk sheltered from the heat in the dusky gallery enclosed by walls which, shaded by the portico in front of it, were never touched by the flaming rays of the African sun.
 
 <!--
 ## Maps
@@ -35,10 +38,10 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
+
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- Eugenia Salza Prina Ricotti, 1968-70, 1970, and 1970-71.
 
 <!--
 ## Keywords

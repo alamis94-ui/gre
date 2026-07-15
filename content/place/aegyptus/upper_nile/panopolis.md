@@ -1,24 +1,27 @@
 ---
 slug: "7fd4cfb8d2"
 type: garden
-title: Panopolis
-latlon: [ 0, 0 ]
-author: Author Name
+title: Garden in Panopolis
+latlon: [26.5648875, 31.7451755]
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+unspecified
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+Located near the temple of Apollo (or Horos?) at Panopolis. Size not known. Known from inscriptions in verse set up by the owner, Ptolemagrios, a veteran of the Roman army, with dedications to Ares, Poseidon, Zeus, and probably Hades. Mentions persea and date palms. Owner seems to stress that he and his sons have worked themselves on the garden.
 
 <!--
 ## Maps
@@ -35,19 +38,14 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
 
-<!--
+- Welles, C.B. "The Garden of Ptolemagrius at Panopolis" in *Transactions and Proceedings of the American Philological Association*, Vol. 77 (1946), pp. 192-206. [(JStor)](https://www.jstor.org/stable/283456)
+
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "inscriptions" >}}
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="756613" name="Panopolis/Schmin" >}}
