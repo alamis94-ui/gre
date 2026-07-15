@@ -13,7 +13,7 @@
     {{ $value = replaceRE `<h2$|<div$` " " (index $match 0) }}
 {{ else if (eq .header "Place Description") }}
     {{ $value = replaceRE `(?s)\s*<h2.*$` "" $html }}
-    {{ if $value }}
+    {{ if gt ($match | len) 2 }}
         {{ $value = print `<h2 id="place description">Place Description</h2>` $value }}
     {{ end }}
 {{ end }}
