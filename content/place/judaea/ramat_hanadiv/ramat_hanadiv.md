@@ -22,7 +22,7 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 
 <!-- ## Maps -->
 
-<!--TODO: Images not appearing on website-->
+<!--TODO: Doc lists only one figure ("Fig. 1:  Plan of the palatial complex at Ramat Hanadiv" by Hirschfeld). Unsure where these two images below are from. Also, they are not showing up on website when I look at draft page.-->
 
 ## Plans
 
