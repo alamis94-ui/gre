@@ -4,7 +4,7 @@ type: garden
 title: Villa Romana de els Munts
 latlon: [ 41.136023, 1.385800 ]
 author: Clopper Almon
-contributor: Qianli Jiang
+contributor: Qianli Jiang, Amelia Lamis
 jashemski-catalogue: TAR 4.1
 date: 2021-04-21
 
@@ -13,8 +13,9 @@ draft: true
 
 ## Dates
 
-1st century CE
+first century CE
 
+<!--
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -50,6 +51,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 ## Garden
 
 Villa Romana de els Munts
+-->
+## Excavation Dates
+
+1960s to present
 
 ## Garden Description
 
@@ -63,19 +68,18 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 
 ## Bibliography
 
-- F. Tarrats et al., *El área residencial de la villa romana de "Els Munts*, Madrider Mitteilungen 41. Mainz, 2000, pp. 358-379. [(worldcat)](https://search.worldcat.org/title/7180188573)
-- F. Tarrats, E. Ramón Seriñena and J. M. Macías I Solé, *Noves intervencions a la vil.la romana dels Munts*, in Tribuna d'Arqueologia 1996-1997. Generalitat de Catalunya, Barcelona, 1997, pp. 35-56. [(worldcat)](https://search.worldcat.org/title/47686221)
-- J.G. Gorges, *Les villes hispano-romaines*. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, p. 407-8. [(worldcat)](https://search.worldcat.org/title/803415143)
+- F. Tarrats et al., "El área residencial de la villa romana de "Els Munts," *Madrider Mitteilungen* 41. Mainz, 2000, pp. 358-379. [(worldcat)](https://search.worldcat.org/title/928085661)
+- F. Tarrats, E. Ramón Seriñena and J. M. Macías I Solé, "Noves intervencions a la vil.la romana dels Munts," in *Tribuna d'Arqueologia 1996-1997*. Generalitat de Catalunya, Barcelona, 1997, pp. 35-56. [(worldcat)](https://search.worldcat.org/title/47686221)
+- J.G. Gorges, *Les villas hispano-romaines: nventaire et problématique archéologiques*. Centre Pierre Paris, París, 1979, p. 407-8. [(worldcat)](https://search.worldcat.org/title/803415143)
 
 ## Keywords
 
 - {{< keyword "porticoes" >}}
+- {{< keyword "villas" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "fountains" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="250016" name="Villa dels Munts" >}}
 - {{< id vocab="TGN" id="7344921" name="Altafulla (inhabited place)" >}}
-
-
-
-
