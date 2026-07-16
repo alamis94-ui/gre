@@ -67,8 +67,8 @@ The villa dates from the first century BCE to the third century CE when it was t
 
 ## Bibliography
 
-- J.G. Gorges, *Les villes hispano-romaines*. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, 410-1 [(worldcat)](https://search.worldcat.org/title/803415143)
-- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986, 269. [(worldcat)](https://search.worldcat.org/title/879108150)
+- J.G. Gorges, *Les villas hispano-romaines: inventaire et problématique archéologiques*. Centre Pierre Paris, París, 1979, 410-11 [(worldcat)](https://search.worldcat.org/title/7276363)
+- M.ª C. Fernández Castro, *Villas romanas en Hispania*. Madrid, 1982, 269. [(worldcat)](https://search.worldcat.org/title/10034289)
 
 ## Keywords
 
