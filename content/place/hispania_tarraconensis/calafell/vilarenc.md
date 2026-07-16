@@ -1,10 +1,10 @@
 ---
 slug: "5f859cad1a"
 type: garden
-title: Vilarenc
-latlon: [ 0, 0 ]
+title: Villa at Vilarenc
+latlon: [41.1916546, 1.5698949]
 author: Clopper Almon
-contributor: Qianli Jiang
+contributor: Qianli Jiang, Amelia Lamis
 jashemski-catalogue: TAR 3.1
 date: 2021-04-21
 
@@ -13,8 +13,9 @@ draft: true
 
 ## Dates
 
-1st century BCE - 3rd century CE
+first century BCE to 3rd century CE
 
+<!--
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -50,6 +51,11 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 ## Garden
 
 Vilarenc
+-->
+
+## Excavation Dates
+
+unspecified
 
 ## Garden Description
 
@@ -64,10 +70,15 @@ The villa dates from the first century BCE to the third century CE when it was t
 - J.G. Gorges, *Les villes hispano-romaines*. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, 410-1 [(worldcat)](https://search.worldcat.org/title/803415143)
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986, 269. [(worldcat)](https://search.worldcat.org/title/879108150)
 
+## Keywords
+
+- {{< keyword "villas" >}}
+- {{< keyword "water baths" >}}
+- {{< keyword "fountains" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="789886461" name="Vilarenc" >}}
+<!--
 - {{< id vocab="TGN" id="7001381" name="Masada (deserted settlement)" >}}
-
-
-
+-->
