@@ -43,3 +43,16 @@ async function citeThis(e) {
         console.log(error)
     }
 }
+
+function detectGreek() {
+    // Detect <em> that contains greek characters and mark it as lang="el" (Greek)
+    // so it can be styled in custom.css -- see the rule for em:lang(el)
+    // Note: this only looks in <p> (garden/place description), to avoid altering style of bibliography titles
+    document.querySelectorAll('p em').forEach((em) => {
+        if (em.innerText.search(/[\u0370-\u03ff\u1f00-\u1fff]/) > -1) {
+            em.lang = 'el'
+        }
+    })
+}
+
+detectGreek()

@@ -1,24 +1,27 @@
 ---
 slug: "f69029472c"
 type: garden
-title: Three Tomb Gardens
-latlon: [ 0, 0 ]
-author: Author Name
+title: Three tomb gardens at Kanopos
+latlon: [31.313404, 30.0580595]
+author: Roger Bagnall
 translator: Translator Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+5 BCE
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+unexcavated
 
 ## Garden Description
-<!-- This is the main text describing the garden -->
+
+These were “in the so-called Palm Grove.” Size not given. Leased in 5 BCE for five years. Walled with a *peribolos*. Rent part in cash and part in produce. Crops mentioned in preserved text are: asparagus; fresh grapes; mixed plantains; beetroot; leeks (headed and sweet); members of the cabbage family (probably including cauliflower); figs; round gourds; great jujubes; palm-leaf dusters; mistletoe; kitchen vegetables; and land snails. 
 
 <!--
 ## Maps
@@ -35,19 +38,15 @@ draft: true
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
 
-<!--
+- BGU.4.1120 [(papyri.info)](https://papyri.info/hgv/18562)
+
 ## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+- {{< keyword "periboloi" >}}
+- {{< keyword "vegetable gardens" >}}
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="727097" name="Canopus" >}}

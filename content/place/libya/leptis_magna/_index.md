@@ -3,7 +3,7 @@ slug: "4591e6e884"
 type: place
 title: Leptis Magna
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: false
@@ -11,7 +11,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+## Place Description
+
+The villas of Silin are part of a group of seaside residences built on the coast by the rich ship owners of Leptis Magna. At the beginning of the second century CE, the Roman rulers, trying to make a better landing place, succeeded only in silting up Leptis' harbor. Thus the Leptitans were forced to go out along the coast. There they created their own ports beside which they erected spacious and lavish residences built on high promontories, so that they could oversee their trades and manage the large estates extending behind their houses. For fifteen miles on both sides of Leptis Magna every marsa (as sandy beaches are called in Lybia) had its landing place, and each promontory its villa. Goodchild set them on his map of the area. Salza Prina Ricotti studied two of these residences naming them Silin's villas, and Luisa Musso examined a third one, with results published for the first time.
 
 <!--
 ## Maps
@@ -28,10 +30,18 @@ draft: false
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- Aurigemma, 1922. Antichità della regione di Gurgi (Tripoli), Notiziario archeologico 3.
+- Bartocini, 1927. <!--which one? "Ville e terme romane a Misurata Marina , Africa Italiana 1 (1927), pp. 214-225" or "Villa romana presso l ex cimitero israelitico di Homs , Africa Italiana 1 (1927), pp. 226-232"-->
+- Bartoccini, R. 1958. Il porto romano di Leptis Magna , Supplemento al Bollettino del Centro Studi per la Storia dell Architettura 13 
+- Di Vitta, A. 1966. La villa della Gara delle Nereidi , in Supplements of Libya antiqua, Roma.
+- Goodchil, R. G. 1954. Tabula Imperii Romani - Leptis Magna, Oxford.
+- Guidi, G. 1933. La villa del Nilo a Leptis Magna , Africa Italiana 5.
+- Ricotti, E. S. P. 1970-1971. "Le ville marittime di Silin (Leptis Magna)", Atti della Pontificia Accademia Romana di Archeologia. Rendiconti 43: 135-163. <!--check name formatting of 4 names-->
+- Ricotti, E. S. P. 1972-1973. "1 porti della zona di Leptis Magna", Atti della Pontificia Accademia Romana diArcheologia. Rendiconti 45: 75-103.
+- Romanelli, P. 1916. Studi e ricerche archeologiche in Tripolitania nei primi quattro anni di occupazione italiana , Nuova antologia.
+- Romanelli, P. 1929-30. La vita agricola in Tripolitania attraverso le rappresentazioni figurate, Africa Italiana 2, pp. 53-75.
 
 <!--
 ## Keywords
