@@ -131,6 +131,10 @@ Under the circumstances prevailing in Egypt and the given the nature of our evid
 
 [^10]: For example, Canopus was said to have a particularly gentle climate; cf. A. Bernand, *Le Delta égyptien d'après les textes grecs* (Mémoires IFAO 91, Cairo 1970) I 319.
 
+<!-- TODO: Problem is the markdown rendering puts these endnotes at the very end, after the Places heading below.
+    Perhaps we could move it back up with javascript.
+-->
+
 <!--
 ## Maps
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}

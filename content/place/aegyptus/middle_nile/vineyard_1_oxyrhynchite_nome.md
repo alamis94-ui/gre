@@ -48,9 +48,6 @@ Location unknown and size lost. Subleased in 137 CE for 4 years. Includes reed p
 - {{< keyword "water wells" >}}
 - {{< keyword "vinyards" >}}
 
-<!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736983" name="Oxyrhynchos" >}}

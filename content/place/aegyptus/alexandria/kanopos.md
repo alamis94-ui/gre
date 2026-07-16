@@ -21,7 +21,7 @@ unexcavated
 
 ## Garden Description
 
-This garden was in wetlands (*tenagos*) by the Strip (*tainias*, a ridge) (cf. Fraser 1972: II, 253-54 n. 96). Size lost. Leased in 22 BCE for one year, rent part in cash and part in produce. Crops mentioned in the [preserved text]((https://papyri.info/hgv/18560)) are: garden lettuce (*θρίδακας κηπουριακὰς*); wild lettuce; fresh grapes; gourds; plantains; beetroot; leeks (headed and sweet); a member of the cabbage family (probably cauliflower); and land snails. 
+This garden was in wetlands (*tenagos*) by the Strip (*tainias*, a ridge) (cf. Fraser 1972: II, 253-54 n. 96). Size lost. Leased in 22 BCE for one year, rent part in cash and part in produce. Crops mentioned in the [preserved text](https://papyri.info/hgv/18560) are: garden lettuce (*θρίδακας κηπουριακὰς*); wild lettuce; fresh grapes; gourds; plantains; beetroot; leeks (headed and sweet); a member of the cabbage family (probably cauliflower); and land snails.
 
 <!--
 ## Maps
@@ -48,8 +48,4 @@ This garden was in wetlands (*tenagos*) by the Strip (*tainias*, a ridge) (cf. F
 
 ## Places
 
-<!--
-## Places
 - {{< id vocab="Pleiades" id="727097" name="Canopus" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->

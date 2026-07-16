@@ -2,7 +2,7 @@
 slug: "11032f45a7"
 type: garden
 title: Vegetable garden at Dionysias
-latlon: [29.373969796, 30.7432736915]
+latlon: [29.40642, 30.417435]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -46,9 +46,6 @@ Two arouras (.56 ha.). Quarter share given in a *donatio mortis causa* by a metr
 
 - {{< keyword "vegetable gardens">}}
 
-<!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736904" name="Dionysias" >}}

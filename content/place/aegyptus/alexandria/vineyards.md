@@ -21,7 +21,7 @@ unexcavated
 
 ## Garden Description
 
-These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fava bean gardens (*κυαμῶνες*) were in in wetlands on the Strip (cf. [Garden at Kanopos](/id/05b24acec3/)). Size: 4.5 ar. (1.24 ha.) in two parcels, of which lessors own two-thirds share. Leased in 5 BCE for 5 years. 
+These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fava bean gardens (*κυαμῶνες*) were in in wetlands on the Strip (cf. [Garden at Kanopos](/id/05b24acec3/)). Size: 4.5 ar. (1.24 ha.)<!-- check units --> in two parcels, of which lessors own two-thirds share. Leased in 5 BCE for 5 years.
 
 <!--
 ## Maps
@@ -44,11 +44,10 @@ These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fav
 
 ## Keywords
 
-- {{< keyword "vinyards" >}}
+- {{< keyword "vineyards" >}}
 - {{< keyword "flower gardens" >}}
 
-<!--
+
 ## Places
+
 - {{< id vocab="Pleiades" id="727097" name="Canopus" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->

@@ -2,7 +2,7 @@
 slug: "0ea548bb0d"
 type: garden
 title: Vegetable garden at Euhemeria
-latlon: [29.373969796, 30.7432736915]
+latlon: [29.383296, 30.533289]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
@@ -48,9 +48,6 @@ unexcavated
 - {{< keyword "vegetable gardens" >}}
 - {{< keyword "water wells" >}}
 
-<!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="736909" name="Euhemereia" >}}

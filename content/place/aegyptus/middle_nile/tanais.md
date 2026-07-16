@@ -50,7 +50,7 @@ Near the village of Tanais, Oxyrhynchite nome. Size not stated. Work leased out 
 
 <!--
 ## Places
-places containing this garden will be listed automatically
+NOTE: this is presumably not the "Tanis" that is closer to Cairo
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->
