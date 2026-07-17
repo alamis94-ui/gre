@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-ca. second century CE to early third century CE
+second century CE to early third century CE
 
 ## Excavation Dates
 

@@ -49,8 +49,8 @@ The villas of Silin are part of a group of seaside residences built on the coast
 
 - {{< keyword "villas" >}}
 
-<!--
+
 ## Places
+
 - {{< id vocab="Pleiades" id="344448" name="Lepcis Magna" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+- {{< id vocab="Pleiades" id="344483" name="Silin Roman Villa" >}}
