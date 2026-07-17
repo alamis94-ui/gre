@@ -47,10 +47,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - [Vilarenc]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="789886461" name="Vilarenc" >}}
-
-## Garden
-
-Vilarenc
 -->
 
 ## Excavation Dates
