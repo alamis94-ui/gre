@@ -62,4 +62,4 @@ This house with an L-shaped floor plan had a *peristyle* garden (a) at the junct
 
 ## Bibliography
 
-G.Cerulli Irelli, "La casa del Colonnato Tuscanico", *MemNap* 7 (1974): 49 and fig. 1 (plan) [(worldcat)](https://search.worldcat.org/title/990804745)
+G.Cerulli Irelli, "La casa del Colonnato Tuscanico", *MemNap* 7 (1974): 49 and fig. 1 (plan) [(worldcat)](https://search.worldcat.org/title/3914095)
