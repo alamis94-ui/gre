@@ -22,15 +22,13 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 
 <!-- ## Maps -->
 
-<!--TODO: Doc lists only one figure ("Fig. 1:  Plan of the palatial complex at Ramat Hanadiv" by Hirschfeld). Unsure where these two images below are from. Also, they are not showing up on website when I look at draft page.-->
-
+<!-- TODO: need to find the plan image
 ## Plans
 
-{{< image file="Latimer_fig_14_or_10.1a.jpg" caption="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G)." credit="Adapted from Branigan 1971, fig. 20." alt="" >}}
+{{< image file="" caption="Fig. 1:  Plan of the palatial complex at Ramat Hanadiv" credit="Hirschfeld 2000" alt="" >}}
 
 ## Images
-
-{{< image file="Latimer_fig_15_or_10.1b.jpg" caption="Fig. 2: Reconstruction of the house and garden." credit="Courtesy of K. Branigan." alt="" >}}
+-->
 
 ## Bibliography
 
@@ -45,6 +43,8 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 - {{< keyword "bathhouses" >}}
 - {{< keyword "artificial water channels" >}}
 
+<!--
 ## Places
 
-- {{< id vocab="Pleiades" id="678357" name="Ramat ha-Nadiv" >}}
+- {{< id vocab="" id="" name="" >}}
+-->
