@@ -42,12 +42,11 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 ## Bibliography
 
-- M.A. Basch, Ampurias; historia de la ciudad y guía de las excavaciones. Barcelona, 1951
-- A. Balil Iliana, “Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana,” in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid,  1972
-- R. Marcet i Barbé and E. Sanmartí, Empuries  Barcelona, 1989; 
-- R. Mar and J. Ruiz de Arbulo, Ampurias romana : historia, arquitectura y arqueología. Sabadell, 1993
-- B. Tang,  Delos, Carthage, Ampurias, The Housing of Three Mediterranean Trading Centers, Bretschneider, Rome, 2005.
--->
+- M.A. Basch, Ampurias; *historia de la ciudad y guía de las excavaciones*. Barcelona, 1951 [(worldcat)](https://search.worldcat.org/title/802755367)
+- A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972 [(worldcat)](https://search.worldcat.org/title/7243478)
+- R. Marcet i Barbé and E. Sanmartí, *Empuries*, Barcelona, 1989. [(worldcat)](https://search.worldcat.org/title/22917816)
+- R. Mar and J. Ruiz de Arbulo, *Ampurias romana: historia, arquitectura y arqueología*. Sabadell, 1993 [(worldcat)](https://search.worldcat.org/title/30732452)
+- B. Tang, *Delos, Carthage, Ampurias, The Housing of Three Mediterranean Trading Centers*, Bretschneider, Rome, 2005. [(worldcat)](https://search.worldcat.org/title/57730335)
 
 <!--
 ## Keywords

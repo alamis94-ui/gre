@@ -46,11 +46,8 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 ## Location
 
 - [La Almeda]({{<relref ".">}})
-
-## Garden
-
-Funerary grove of T. Aemilius Vetus
 -->
+
 ## Excavation Dates
 
 1975

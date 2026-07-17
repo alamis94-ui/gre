@@ -42,8 +42,10 @@ On the southeast corner of the house was a curious structure placed more than a 
 {{< image file="his_tar_clu_fig4.jpg" caption="Photograph of the peristyle on the north side of the house, probably a garden." credit="" alt="" >}}
 
 <!--
-TODO: Doesn't have ## Bibliography
-Maybe items should be copied from clunia/_index.md ?
+TODO: Doesn't have its own bib - below is Clunia index bib
+-->
+
+## Bibliography
 
 - B. Taracena Aguirre, "El palacio romano de Clunia," in *Archivo Español de Arqueología*, XIX. C.S.I.C., Madrid, 1946, pp.78-80 [(worldcat)](https://search.worldcat.org/title/888328040)
 - A. Balil Iliana, "Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana," in *Boletín del Seminario de Estudios de Arte y Arqueología*, XXXVIII. Universidad de Valladolid, Valladolid, 1972, pp. 125-133 [(worldcat)](https://search.worldcat.org/title/641798788)

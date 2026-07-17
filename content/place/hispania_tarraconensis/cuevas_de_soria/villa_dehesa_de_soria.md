@@ -39,10 +39,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 ## Location
 
 - [Villa Dehesa de Soria]({{<relref ".">}})
-
-## Garden
-
-Villa Dehesa de Soria
 -->
 
 ## Excavation Dates
@@ -51,7 +47,7 @@ Villa Dehesa de Soria
 
 ## Garden Description
 
-The villa was first excavated in 1928-9. More than 22 rooms were paved with mosaics for a total area of 1,400 square meters of mosaic. Made of local stones, they date from the second century CE. Among them is a rare picture of a crown of shafts of grain, a symbol of agricultural fertility.
+The villa was first excavated in 1928-1929. More than 22 rooms were paved with mosaics for a total area of 1,400 square meters of mosaic. Made of local stones, they date from the second century CE. Among them is a rare picture of a crown of shafts of grain, a symbol of agricultural fertility.
 
 This villa is one of the best examples in Spain of an axially planned peristyle villa. In the center of its grand peristyle courtyard (41 x 22 m.) was a structure which may have been part of a water supply system for the garden in the courtyard. The main reception room (Fig. 1, 1, in the center of the north wing) had a wide opening onto the garden and a passage through the low wall which otherwise surrounded the garden on three sides and half of the fourth. Likewise room [2] on the east side, possibly a triclinium, had a good view of the garden.  An unusual feature, however, is that, with the exception of these two rooms, all the other rooms around the porticoes of the peristyle did not open directly onto the portico but onto narrow corridors perpendicular to the portico. Thus, unless they had windows, they did not get light and air directly from the garden courtyard.
 
