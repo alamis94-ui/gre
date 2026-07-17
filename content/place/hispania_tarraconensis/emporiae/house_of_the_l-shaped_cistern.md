@@ -4,17 +4,20 @@ type: garden
 title: House of the L-shaped Cistern
 latlon: [ 42.13342, 3.1145495 ]
 author:
-contributor: Qianli Jiang
+contributor: Qianli Jiang, Amelia Lamis
 jashemski-catalogue: TAR 1.4 N75
 date: 2021-04-21
 
 draft: true
 ---
 
+<!--TODO: add author name-->
+
 ## Dates
 
-Unspecified
+unspecified
 
+<!--
 ## Province Description
 
 In 236 BCE, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.  In 230 BCE, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.  After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
@@ -42,18 +45,40 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - [Emporiae]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
+-->
 
 ## Location Description
 
-As Strabo (3.4.8) tells us, Greeks from Phokaia, by way of Massalia (Marseilles), established a market town (Emporion) here.  Archaeology gives a date of approximately 575- 550 BCE.  The original settlement was on an island in the mouth of the Fluvià River. About 550, the settlement began to spread south onto the mainland, and the original settlement became known as Palaiapolis, the Old City.  For clarity, archaeologists have given this Greek settlement on the mainland the corresponding name of Neapolis, New City.  The plural form of the Latin name for the area – Emporiae, "markets" –  reflects the dual nature of the city.  Though literary sources mention other Greek settlements along the coast of the Iberian Peninsula, this is the only one known archaeologically.
-
+As Strabo (3.4.8) tells us, Greeks from Phokaia, by way of Massalia (Marseilles), established a market town (Emporion) here.  Archaeology gives a date of approximately 575 - 550 BCE.  The original settlement was on an island in the mouth of the Fluvià River. About 550, the settlement began to spread south onto the mainland, and the original settlement became known as Palaiapolis, the Old City.  For clarity, archaeologists have given this Greek settlement on the mainland the corresponding name of Neapolis, New City.  The plural form of the Latin name for the area – *Emporiae*, “markets” –  reflects the dual nature of the city.  Though literary sources mention other Greek settlements along the coast of the Iberian Peninsula, this is the only one known archaeologically. 
+ 
 Not only was Emporion the point of first contact between the Celtoiberians and Hellenic civilization, it was also here that, in 218 BCE, Roman armies first entered Iberia.  The Roman consul Publius Cornelius Scipio reached Massalia too late to intercept Hannibal on his march into Italy, so he dispatched his brother Cnaeus with part of his forces to Emporion to cut Hannibal's supply lines, while he himself returned to engage the Carthaginian in the Po valley.
+ 
+Neapolis was settled from north to south.  The oldest parts date from before 550 BCE. The oldest part of the city wall come from 450 – 425 BCE. The  Asklepion in the southwest corner was built in the 400 - 350 BCE period, as a reorganization of an older sanctuary.  In the years 375 – 350 BCE, a new wall extended farther south.  The second century BCE saw major building programs.  The wall was again extended southwards.  A new agora was formed, and the Asklepion reorganized.   Public baths were built in the northeastern part of the city about 100 BCE.  A Serapium was built in the southeastern corner in the first century BCE. Around 100 BCE, a Roman city surrounded by a wall (750 x 350 m) was built on a hill about 150 meters west of Neapolis where there had previously been a structure that was probably the Roman *praesidium*. We will refer to this area as the Roman City; it is also called the Republican City.  Streets were laid out in a rectangular grid, and a large forum occupied the center of the southern half.  Just outside the south wall were an amphitheater and a palaestra.  Three large houses, two of them with gardens, have been found northeast of the forum and one to the southeast of it.  The northern half of the city remains unexcavated.  Once development of the Roman City began, Neapolis seems to have been little changed.  The two walls between them were dismantled, but – rather strangely – replaced by a single wall, probably in connection with the creation of the Municipium Emporiae in about 36 – 27 BCE.
+ 
+Neapolis was abandoned in the course of the second half of the first century CE.  The Roman City seems to have ceased development at about that time but remained inhabited to nearly the end of the third century. This abandonment of a once-thriving trading town is probably connected with the silting up of the harbor.  The mouth of the Fluvià River has shifted seven kilometers to the north,  while Palaiapolis, once an island, is now a hill rising out of lowland where the harbor once was. 
+ 
+Publicly funded excavation of the northeastern part of Neapolis and the forum of the Roman City was conducted from 1846 to 1848. Further systematic studies were conducted from 1908 to 1936 under E. Gandía, who took a great interest in stratigraphy before it was common to do so.  The Spanish Civil War brought this work to an end, but Gandía's day books have been preserved.  Work was resumed in the 1940s and 1950s by M. Almagro, with recent work by R. Mar and J. Ruiz de Arbulo, and B. Tang.  Tang emphasizes that it is often difficult or impossible to determine whether a space in a house in Neapolis was open or covered.  The difficulty should not be so great in the case of gardens, for any sort of paving or hammered earth rules out the possibility of a garden. She identifies gardens in N5 and N7 and notes that also N 52 near the northern end of the western edge and N 75 on the northern edge “appear to have been provided with gardens or terraces.”
 
-Neapolis was settled from north to south.  The oldest parts date from before 550 BCE. The oldest part of the city wall come from 450-425 BCE.  The  Asklepion in the southwest corner was built in the 400 -350 BCE period, as a reorganization of an older sanctuary.  In the years 375-350 BCE, a new wall extended farther south.  The 2nd century BCE saw major building programs.  The wall was again extended southwards.  A new agora was formed, and the Asklepion reorganized.  Public baths were built in the northeastern part of the city about 100 BCE.  A Serapium was built in the southeastern corner in the first century BCE.  Around 100 BCE, a Roman city surrounded by a wall (750 x 350 m) was built on a hill about 150 meters west of Neapolis where there had previously been a structure that was probably the Roman praesidium.  We will refer to this area as the Roman City; it is also called the Republican City .  Streets were laid out in a rectangular grid, and a large forum occupied the center of the southern half.  Just outside the south wall were an amphitheater and a palaestra.  Three large houses, two of them with gardens, have been found northeast of the forum and one to the southeast of it.  The northern half of the city remains unexcavated.  Once development of the Roman City began, Neapolis seems to have been little changed.  The two walls between them were dismantled, but – rather strangely – replaced by a single wall, probably in connection with the creation of the Municipium Emporiae in about 36-27 BCE
+<!--probably don't need plans/image for location description on each Emporium house page
 
-Neapolis was abandoned in the course of the second half of the first century CE.  The Roman City seems to have ceased development at about that time but remained inhabited to nearly the end of the third century. This abandonment of a once-thriving trading town is probably connected with the silting up of the harbor.  The mouth of the Fluvià River has shifted seven kilometers to the north, while Palaiapolis, once an island, is now a hill rising out of lowland where the harbor once was.
+## Plans
 
-Publicly funded excavation of the northeastern part of Neapolis and the forum of the Roman City was conducted in 1846-8.  Further systematic studies were conducted from 1908 to 1936 under E. Gandía, who took a great interest in stratigraphy before it was common to do so.  The Spanish Civil War brought this work to an end, but Gandía's day books have been preserved.  Work was resumed in the 1940s and 1950s by M. Almagro, with recent work by R. Mar and J. Ruiz de Arbulo, and B. Tang.  Tang emphasizes that it is often difficult or impossible to determine whether a space in a house in Neapolis was open or covered.  The difficulty should not be so great in the case of gardens, for any sort of paving or hammered earth rules out the possibility of a garden. She identifies gardens in N5 and N7 and notes  that also N 52 near the northern end of the western edge and N 75 on the  northern edge "appear to have been provided with gardens or terraces."
+{{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
+
+## Images
+
+{{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BCE." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
+-->
+
+## Excavation Dates
+
+1924 and 1935
+
+## Garden Description
+
+This house, which was also set against the lower edge of the city near the port, was excavated in 1924 and 1935.  It had been much altered by burials in late antiquity.  Its large cistern yielded a collection of objects from about the time of abandonment: eleven jars of common ceramic, *terra sigillata* from southern Gaul, ceramics from Africa, glass, toilet articles of bone, metals, coral, and a little domestic altar.
+
+<!-- No specific bibliography listed for each house. Below is bib given on doc for Emporium location description.-->
 
 ## Bibliography
 
@@ -63,26 +88,9 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 - R. Mar and J. Ruiz de Arbulo, *Ampurias romana : historia, arquitectura y arqueología*. Sabadell, 1993 [(worldcat)](https://search.worldcat.org/title/30732452)
 - B. Tang, *Delos, Carthage, Ampurias, The Housing of Three Mediterranean Trading Centers*, Bretschneider, Rome, 2005. [(worldcat)](https://search.worldcat.org/title/57730335)
 
-## Plans
-
-{{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
-
-## Images
-
-{{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BCE." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
-
-## Garden
-
-House of the L-shaped Cistern
-
-## Garden Description
-
-This house, which was also set against the lower edge of the city near the port, was excavated in 1924 and 1935 .  It had been much altered by *burials* in late antiquity.  Its large cistern yielded a collection of objects from about the time of abandonment : eleven jars of common ceramic, terra sigillata from southern Gaul, *ceramics* from Africa, glass, toilet articles of bone, metals, coral, and a little domestic altar.
-
-<!-- -doesn't have ## Bibliography -->
-
 ## Keywords
 
+- {{< keyword "cisterns" >}}
 - {{< keyword "burials" >}}
 - {{< keyword "ceramic" >}}
 
@@ -90,5 +98,3 @@ This house, which was also set against the lower edge of the city near the port,
 
 - {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
 - {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
-
-

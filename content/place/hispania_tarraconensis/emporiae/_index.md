@@ -9,7 +9,7 @@ date: 2026-05-16
 draft: false
 ---
 
-<!--TODO: add Author(?); add plan and image (on doc) -->
+<!--TODO: add Author name; add plan and image (on doc) -->
 
 <!-- ## Dates -->
 
