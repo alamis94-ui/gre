@@ -68,7 +68,7 @@ The *oecus* or principal reception room is the room with an apse facing the sout
 
 ## Plans
 
-{{< image file="lei_v_romana_fig1.jpg" caption="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls.  In some cases these walls were used in the second villa." credit="Clopper Almon, adapted from Taracena." alt="" >}}
+{{< image file="lei_v_romana_fig1.jpg" caption="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls. In some cases these walls were used in the second villa." credit="Clopper Almon, adapted from Taracena." alt="" >}}
 
 ## Bibliography
 
@@ -76,6 +76,9 @@ The *oecus* or principal reception room is the room with an apse facing the sout
 - Blas Taracena Aguirre, La villa romana de Liédena, Part 2. *Excavaciones en Navarra VII*  P. V. nº 38-39, (Pamplona, 1950) pp. 9-40.  [(worldcat)](https://search.worldcat.org/title/629300814)
 - A. Beltrán Martínez, "La villa romana de Liédana (Navarra)," in *Archivo Español de Arqueología*, XXIV. Madrid, 1951, pp. 218-220. [(worldcat)](https://search.worldcat.org/title/648102337)
 - M.ª C. Fernández Castro, *Villas romanas en Hispania*, Madrid, 1982, p. 70 and 178. [(worldcat)](https://search.worldcat.org/title/876519837)
+
+<!--The following website gives the full text of Tarecena's reports and numerous pictures both from Taracena and modern: http://personales.ya.com/liedena/villa_romana_liedena/liedena_marco.htm
+-->
 
 ## Keywords
 
