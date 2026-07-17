@@ -4,8 +4,9 @@
 {{ $content := .Content }}
 {{ with .Parent }}
     {{ $placedesc := partial "html-section.html" ( dict "html" .Content "header" "Place Description" ) }}
-    {{ $content = replaceRE `<h2 id="garden-description"` (print $placedesc `<h2 id="garden-description"`) $content }}
+    {{ $content = replaceRE `<h2 id="garden-description"` (print `<div class="place-description">` $placedesc `</div><h2`) $content }}
 {{ end }}
+
 {{ $content = replaceRE `(?s)<h2 id="places".*$` "" $content }}
 {{ $content = print $content "<h2 id='places'>Places</h2><ul>" }}
 {{/* make list of pages in hierarchy, from this page up to province */}}
