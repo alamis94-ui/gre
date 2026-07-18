@@ -209,7 +209,7 @@
                 {{ else if eq .Type "place" }}
                     {{ $gardens = .RegularPagesRecursive }}
                 {{ else if eq .Path "/home" }}
-                    {{ $gardens = .Site.RegularPages }}
+                    {{ $gardens = where .Site.RegularPages "Type" "garden" }}
                 {{ end }}
                 {{ range $gardens }}
                     addPoint({
