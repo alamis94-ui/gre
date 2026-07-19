@@ -31,6 +31,9 @@ a.id {
 .post__title a {
   color: #282;
 }
+.post__title a.draft {
+  color: #f80;
+}
 
 blockquote {
   border-left: 4px solid #ccc;
@@ -273,11 +276,14 @@ article.list__item em {
 
 #map .dot {
   background: #282;
-  border: 0.5px solid #aea;
+  border: 0.5px solid #eee;
   border-radius: 50%;
   box-shadow: 1px 2px rgb(0 0 0 / 50%);
   height: 10px ! important;
   width: 10px ! important;
+}
+#map .dot.draft {
+  background:#f80;
 }
 
 #map .leaflet-popup-content a {
@@ -285,6 +291,9 @@ article.list__item em {
   font-family: "Candara", Arial, sans-serif;
   font-size: 1rem;
   font-weight: bold;
+}
+#map .leaflet-popup-content a.draft {
+  color: #f80;
 }
 
 #map .leaflet-popup-content a.smallcrumbs {
@@ -349,7 +358,7 @@ article.list__item em {
   text-align: right;
 }
 
-.draft {
+article.draft {
   background: #fff2e7;
 }
 

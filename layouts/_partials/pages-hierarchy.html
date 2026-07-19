@@ -17,7 +17,7 @@
                     {{ if eq $i 2 }}{{ $class = print $class " province" }}{{ end }}
                     <li style="margin-left: {{ mul 2 $i }}em"{{ with $class }} class="{{ . }}"{{ end }}>
                         {{ if .Title }}
-                            {{ .Title }}{{ if .Draft }} (draft){{ end }}
+                            {{ .Title }}{{ if .Draft }} (DRAFT){{ end }}
                         {{ else }}
                             {{/* if no _index.md content, infer title from path */}}
                             [{{ index (split .Path "/") $i }}]
@@ -34,7 +34,7 @@
                 {{end}}
             {{ end }}
             <li style="margin-left: {{ mul 2 $indent }}em"{{ with $class }} class="{{ . }}"{{ end }}>
-                <a href="{{ .Permalink }}">{{ .Title }}</a> {{ if .Draft }} (draft){{ end }}
+                <a href="{{ .Permalink }}">{{ .Title }}</a> {{ if .Draft }} (DRAFT){{ end }}
             </li>
         {{ end }}
     {{ end }}

@@ -176,14 +176,20 @@
             markers = [];
             bounds = L.latLngBounds();
             let div_circle = L.divIcon({ className: 'dot' })
+            let div_circle_draft = L.divIcon({ className: 'dot draft' })
             
             function addPoint(p) {
                 // only add point if lat/lon are both not 0
                 if (p.latlon[0] && p.latlon[1]) {
-                    marker = L.marker(p.latlon, { icon: div_circle });
+                    if (p.draft) {
+                        marker = L.marker(p.latlon, { icon: div_circle_draft });
+                    }
+                    else {
+                        marker = L.marker(p.latlon, { icon: div_circle });
+                    }
                     marker.bindPopup(`
                         <div class='smallcrumbs'>${p.smallcrumbs}</div>
-                        <a href='${p.url}'>${p.title}</a>
+                        <a href='${p.url}'${ p.draft ? " class='draft'" : ''}>${p.title}</a>${ p.draft ? ' (DRAFT)' : ''}
                     `);
                     marker.addTo(map);
                     markers.push(marker);
@@ -216,7 +222,8 @@
                         "latlon": {{ .Params.latlon }},
                         "smallcrumbs": {{ partial "smallcrumbs.html" . }},
                         "title": {{ .Title }},
-                        "url": {{ .Permalink }}
+                        "url": {{ .Permalink }},
+                        "draft": {{ .Draft }}
                     })
                 {{ end }}
             {{ end }}
