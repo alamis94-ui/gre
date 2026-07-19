@@ -20,4 +20,5 @@
 {{ if .omitHeader }}
     {{ $value = replaceRE `<h2.*</h2>` "" $value }}
 {{ end }}
+{{ $value = replaceRE `\s+` " " $value }}
 {{ return ($value | safeHTML) }}

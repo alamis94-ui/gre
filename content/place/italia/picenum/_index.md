@@ -1,17 +1,16 @@
 ---
-slug: "c337b5100c"
+slug: "418da94910"
 type: place
-title: "Apulia et Calabria"
+title: Picenum
 author: Author Name
-contributor: Keith Jenkins
-date: 2026-05-30
-
+contributor: Contributor Name
+date: 2026-07-19
 draft: false
 ---
 
 ## Place Description
 
-Around 7 BCE, Apulia et Calabria were defined as Regio II of Italia by Augustus.
+Around 7 BCE, Picenum was defined as Regio V of Italia by Augustus.
 
 <!--
 ## Maps

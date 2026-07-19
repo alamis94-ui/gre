@@ -49,7 +49,13 @@ async function citeThis(e) {
     }
 }
 
-
+function expand(e) {
+    // (when "read more" button is clicked)
+    // expand the previous div (province/place description)
+    let div = e.target.previousElementSibling
+    div.classList.add('expanded')
+    e.target.remove()
+}
 
 function detectGreek() {
     // Detect <em> that contains greek characters and mark it as lang="el" (Greek)

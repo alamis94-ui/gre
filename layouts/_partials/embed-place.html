@@ -1,12 +1,24 @@
-{{/* Embed place descriptions for the parent place that contains the current garden
+{{/* Embed expandable place descriptions for the parent place that contains the current garden
      Also add places for all ancestors up the place hierarchy
 */}}
 {{ $content := .Content }}
 {{ with .Parent }}
-    {{ $placedesc := partial "html-section.html" ( dict "html" .Content "header" "Place Description" ) }}
-    {{ $content = replaceRE `<h2 id="garden-description"` (print `<div class="place-description">` $placedesc `</div><h2`) $content }}
+    {{ $placedesc := "" }}
+    {{ $isProvince := eq 1 (len .Parent.Ancestors) }}
+    {{ if $isProvince }}
+        {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Province Description" ) }}
+    {{ else }}
+        {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Place Description" ) }}
+    {{ end }}
+    {{ if gt ($placedesc | len) 2 }}
+        {{ $content = replaceRE `<h2 id="garden-description"` (print `<div class="embed-place-description">` $placedesc `</div><button class="expand" onclick="expand(event)">read more</button><h2`) $content }}
+        {{ if eq hugo.Environment "development" }}
+            {{ $content = replaceRE `Place Description</h2>` (print "Place Description" ` <span class='dev'>from ` .Title ` page</span></h2>`) $content }}
+        {{ end }}
+    {{ end }}
 {{ end }}
 
+{{/* Add hierachy places to the bottom of the Places section */}}
 {{ $content = replaceRE `(?s)<h2 id="places".*$` "" $content }}
 {{ $content = print $content "<h2 id='places'>Places</h2><ul>" }}
 {{/* make list of pages in hierarchy, from this page up to province */}}

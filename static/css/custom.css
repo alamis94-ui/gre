@@ -405,14 +405,21 @@ article.draft {
   clear: none;
 }
 
-a.cite {
-  float: right;
+button {
   cursor: pointer;
-  background: #c23e40;
   color: #fff;
   padding: 3px 0.7em;
+  border: 0px;
   border-radius: 1em;
   font-family: Arial, Helvetica, sans-serif;
+}
+button:hover {
+  opacity: 0.8;
+}
+
+button.cite {
+  float: right;
+  background: #c23e40;
 }
 
 cite {
@@ -490,17 +497,43 @@ sup {
   font-size: 75%;
 }
 
-.embed-place-description.hidden {
-  display: none;
+.embed-place-description {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  margin: 0;
+  padding: 0;
+  xbackground: #eee;
+  xborder: 2px dashed #000;
+  xpadding: 0 0.5em;
+}
+.embed-place-description.expanded {
+  display: block;
+}
+button.expand {
+  float: right;
+  margin-left: 1em;
+  background:#888;
+  color: #fff;
+  font-size: 80%;
 }
 
-.dev {
+h2 span.dev {
+  font-size: 50%;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+span.dev {
   color:#0f0;
   background: #000;
   font-family: Arial, sans-serif;
   font-size: 75%;
   padding: 3px;
 }
+
 
 /* Greek letters detected via detectGreek() in custom.js */
 em:lang(el) {
