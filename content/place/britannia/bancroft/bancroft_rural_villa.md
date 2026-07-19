@@ -1,7 +1,7 @@
 ---
 slug: "a268867d07"
 type: garden
-title: Bancroft Rural Villa
+title: Rural Villa in Bancroft
 latlon: [ 52.055419, -0.795092 ]
 author: Maureen Carroll
 contributor: June Dorsch, Jane Millar, Keith Jenkins
@@ -51,5 +51,3 @@ The villa complex that preceded the winged corridor house is also of interest in
 ## Places
 
 - {{< id vocab="Pleiades" id="79312" name="Bancroft Roman villa" >}}
-
-

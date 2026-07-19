@@ -14,7 +14,7 @@ draft: false
 146 BCE to 7th century CE
 -->
 
-<!-- ## Province Description -->
+## Province Description
 
 Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 BCE and the sacking of [Athens](athens/) in 86 BCE.  It was not until 27 BCE, however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
 
