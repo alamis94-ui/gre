@@ -182,7 +182,7 @@
                 // only add point if lat/lon are both not 0
                 if (p.latlon[0] && p.latlon[1]) {
                     if (p.draft) {
-                        marker = L.marker(p.latlon, { icon: div_circle_draft });
+                        marker = L.marker(p.latlon, { icon: div_circle_draft, zIndexOffset: -9999 });
                     }
                     else {
                         marker = L.marker(p.latlon, { icon: div_circle });
