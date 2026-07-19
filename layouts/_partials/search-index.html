@@ -1,10 +1,11 @@
 <!-- This file builds the search index
      This actual search is done in search.js -->
 <script>
-// build the search index from each garden page (TODO: include place pages -- but how to display in results?)
+// build the search index from each visible garden page
+// TODO: include place pages? -- but how to differentiate in results?
 window.pageData = {
 {{ range $ri, $rv := where (sort .Site.Pages "Path") "Type" "garden" }}
-    {{ if .Title }}
+    {{ if partial "visible.html" . }}
         {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
         {{ $place := title (replaceRE "[\\W_]+" " " .Path) }}
         {{ $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
