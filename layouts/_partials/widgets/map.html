@@ -36,9 +36,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
 
@@ -51,9 +51,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
 
@@ -65,14 +65,14 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 100%',
-                        'opacity: 80%',
+                        'saturation: 70%',
+                        'opacity: 70%',
                         'sepia: 0%'
                     ]
                 });
 
                 map.addControl(L.control.basemaps({
-                    basemaps: [dare, osm, gsat],
+                    basemaps: [osm, dare, osm, gsat],
                     tileX: 18,
                     tileY: 12,
                     tileZ: 5
@@ -100,9 +100,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
                 osm_lo.addTo(map);
@@ -116,9 +116,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
                 dare.addTo(map);
@@ -132,9 +132,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
                 osm_hi.addTo(map);
@@ -194,6 +194,9 @@
                     marker.addTo(map);
                     markers.push(marker);
                     bounds.extend(marker.getLatLng());
+                }
+                else {
+                    console.log('No latlon for ' + p.smallcrumbs + ' / ' + p.title)
                 }
             }
 
