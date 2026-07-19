@@ -32,7 +32,7 @@ a.id {
   color: #282;
 }
 .post__title a.draft {
-  color: #f80;
+  color: #d70;
 }
 
 blockquote {
@@ -286,18 +286,20 @@ article.list__item em {
   background:#f80;
 }
 
+#map .leaflet-popup-content {
+  font-family: "Candara", Arial, sans-serif;
+  font-size: 1rem;
+}
+
 #map .leaflet-popup-content a {
   color: #282;
-  font-family: "Candara", Arial, sans-serif;
   font-size: 1rem;
   font-weight: bold;
 }
-#map .leaflet-popup-content a.draft {
-  color: #f80;
-}
 
-#map .leaflet-popup-content a.smallcrumbs {
+#map .leaflet-popup-content .smallcrumbs {
   color: #c22d30;
+  font-size: 0.8rem;
 }
 
 #search-results-summary {
@@ -329,10 +331,28 @@ article.list__item em {
   margin-top: 1em;
 }
 
+.people-gardens a {
+  color: #282;
+}
+
+.people-gardens li.place a {
+  color: #c22d30;
+}
+
+span.draft {
+  background: #f80;
+  color: #fff;
+  font-family: "Arial", sans-serif;
+  font-size: 70%;
+  font-weight: normal;
+  padding: 0 0.5em;
+  border-radius: 0.5em;
+}
+
 .smallcrumbs {
   font-family: "Candara", "Arial", sans-serif;
   color: #c22d30;
-  font-size: 100%;
+  font-size: 1rem;
   margin: 0;
   line-height: 1.0;
 }

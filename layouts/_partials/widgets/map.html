@@ -189,7 +189,7 @@
                     }
                     marker.bindPopup(`
                         <div class='smallcrumbs'>${p.smallcrumbs}</div>
-                        <a href='${p.url}'${ p.draft ? " class='draft'" : ''}>${p.title}</a>${ p.draft ? ' (DRAFT)' : ''}
+                        <a href='${p.url}'>${p.title}</a>${ p.draft ? ' <span class="draft">draft</span>' : ''}
                     `);
                     marker.addTo(map);
                     markers.push(marker);

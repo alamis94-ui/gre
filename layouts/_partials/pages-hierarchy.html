@@ -34,7 +34,7 @@
                 {{end}}
             {{ end }}
             <li style="margin-left: {{ mul 2 $indent }}em"{{ with $class }} class="{{ . }}"{{ end }}>
-                <a href="{{ .Permalink }}">{{ .Title }}</a> {{ if .Draft }} (DRAFT){{ end }}
+                <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} <span class="draft">draft</span>{{ end }}
             </li>
         {{ end }}
     {{ end }}
