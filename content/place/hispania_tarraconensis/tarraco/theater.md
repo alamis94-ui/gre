@@ -4,7 +4,7 @@ type: garden
 title: theaters
 latlon: [ 41.116892, 1.258337 ]
 author:
-contributor: Yiyun Liu
+contributor: Yiyun Liu, Amelia Lamis
 jashemski-catalogue: TAR 5.2
 date: 2021-04-21
 
@@ -13,8 +13,9 @@ draft: true
 
 ## Dates
 
-1st century CE
+first century CE
 
+<!--
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -46,19 +47,19 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - [Col. Tarraco]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="246349" name="Col. Tarraco" >}}
+-->
 
 ## Location Description
 
-Despite the rather sparse archaeological evidence for gardens in Tarragona, one of the most important cities of Roman Spain, there is a brief passage at the beginning of Vergilius orator an poeta by Publius Annius Florus, friend of Hadrian, in which he described a temple garden thought to be in Tarragona, though the city is not mentioned explicitly:
-While I was passing through the temple enclosure my head full of the fatigues of the day, pleasantly resting in the shade of many trees by cool running water breathing fresh air, I suddenly came upon a group of people...
+Despite the rather sparse archaeological evidence for gardens in Tarragona, one of the most important cities of Roman Spain, there is a brief passage at the beginning of [Vergilius orator an poeta](https://latin.packhum.org/loc/1242/2/0#0) by Publius Annius Florus, friend of Hadrian, in which he described a temple garden thought to be in Tarragona, though the city is not mentioned explicitly: *"While I was passing through the temple enclosure my head full of the fatigues of the day, pleasantly resting in the shade of many trees by cool running water breathing fresh air, I suddenly came upon a group of people..."* <!--(Capienti mihi in templo et saucium vigilia caput plurimarum arborum amoenitate, euriporum frigore, aeris libertate recreanti obviam subito quidam fuere)-->
 
-## Garden
+## Excavation Dates
 
-Theater
+unspecified
 
 ## Garden Description
 
-The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaenium, the scaena frons, the first five rows of seats, and a cryptoporticus running parallel to the curved façade survive.  Connected to the theater was a monumental nympheum (a) and a large garden area (b), through which privileged spectators passed to be seated in the first rows.  The garden, constructed in the first century CE along with the theater, included the nympheum, which was in the center of a large blind wall with pilasters bordering the uneven hill. Two large bases flanked the nympheum and perhaps held monumental craters. Water from the fountain passed into a large pool, four meters deep, with fountains at either end. This large pool had walls lined with opus signinum and was topped with a molded raised edge. It now lies buried beneath a neighboring plot of ground. A small door at the end of the pilaster wall joined this whole unit to the theater. From the door, one reached the parascenium, and by means of stairs to the west, one reached the entrance of the theater.
+The theater of Tarraco is poorly preserved.  Part of the orchestra, the *proscaenium*, the *scaena frons*, the first five rows of seats, and a *cryptoporticus* running parallel to the curved façade survive.  Connected to the theater was a monumental nympheum (a) and a large garden area (b), through which privileged spectators passed to be seated in the first rows.  The garden, constructed in the first century CE along with the theater, included the nympheum, which was in the center of a large blind wall with pilasters bordering the uneven hill. Two large bases flanked the nympheum and perhaps held monumental craters. Water from the fountain passed into a large pool, four meters deep, with fountains at either end. This large pool had walls lined with *opus signinum* and was topped with a molded raised edge. It now lies buried beneath a neighboring plot of ground. A small door at the end of the pilaster wall joined this whole unit to the theater. From the door, one reached the *parascenium*, and by means of stairs to the west, one reached the entrance of the theater.
 
 ## Plans
 
@@ -80,4 +81,3 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 
 - {{< id vocab="Pleiades" id="246349" name="Col. Tarraco" >}}
 - {{< id vocab="TGN" id="7008715" name="Tarragona (inhabited place)" >}}
-
