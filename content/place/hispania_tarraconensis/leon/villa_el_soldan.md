@@ -4,7 +4,7 @@ type: garden
 title: Villa El Soldán (The Sultan)
 latlon: [ 42.453889, -6.240556 ]
 author:
-contributor: Yiyun Liu
+contributor: Yiyun Liu, Amelia Lamis
 jashemski-catalogue: TAR 14.1
 date: 2021-04-21
 
@@ -13,12 +13,13 @@ draft: true
 
 ## Dates
 
-Tiberius times(CE 14-37)
+reign of Tiberius (14-37 CE)
 
 ## Excavation Dates
 
 1930s
 
+<!--
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -46,21 +47,19 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 - J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-## Location
+## Location 
 
 - [Villa El Soldán  (The Sultan)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="972371930" name="Villa El Soldán  (The Sultan) " >}}
+-->
+## Location Description 
 
-## Garden
-
-Villa El Soldán  (The Sultan)
+The villa is 300 meters eastnortheast of the eastern tip of Laguna Cernea, north of the modern village Santa Colomba de Somoza. The Laguna Cernea is an artificial pond created by the Romans for washing gold, now frequently dry. It was presumably the residence of the official in charge of the gold extraction.  Its early, first century date underlines the importance of gold as a reason for determination of Augustus to subdue the region at great cost.
 
 ## Garden Description
 
-N 42° 27'  14"  W  6° 14' 26"
-The villa is 300 meters eastnortheast of the eastern tip of Laguna Cernea, north of the modern village Santa Colomba de Somoza. The Laguna Cernea is an artificial pond created by the Romans for washing gold, now frequently dry.
-It was presumably the residence of the offical in charge of the gold extraction.  Its early, first century date underlines the importance of gold as a reason for determination of Augustus to subdue the region at great cost.
-Built under Tiberius, this site is a rare if not unique example of a first century Iberian villa for which we have a complete plan.  Excavation began in the 1930s. Of modest dimensions and without mosaics, it followed an Italian plan with a central (slightly trapezoidal) peristyle with little adaptation to the much cooler climate at this elevation.  It did, however, have several rooms heated by hypocausts and many rooms paved in opus signinum.  There were found many fragments of wall painting (of deer, birds, and humans)  and of ceramic and glass.
+Built under Tiberius, this site is a rare if not unique example of a first century Iberian villa for which we have a complete plan.  Excavation began in the 1930s. Of modest dimensions and without mosaics, it followed an Italian plan with a central (slightly trapezoidal) peristyle with little adaptation to the much cooler climate at this elevation.  It did, however, have several rooms heated by hypocausts and many rooms paved in *opus signinum*.  There were found many fragments of wall painting (of deer, birds, and humans) and of ceramic and glass.
+
 In the center of the peristyle was a rectangular pool with protruding semi-circular niches at each corner; it was lined with painted stucco. The garden around the pool was open on the north side in front of the reception room [1].  In a later modification, the west portico was divided into four small rooms beside the garden.
 
 ## Plans
@@ -69,9 +68,10 @@ In the center of the peristyle was a rectangular pool with protruding semi-circu
 
 ## Bibliography
 
-- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. Gorges, p. 276-7 [(worldcat)](https://search.worldcat.org/title/876519837)
-- P. R. Lewis, G. D. B. Jones, Roman Gold-Mining in North-West Spain, *The Journal of Roman Studies*, Vol. 60, 1970 (1970), pp. 169-185 [(worldcat)](https://search.worldcat.org/title/960771440)
-- R. F. J. Jones, D. G. Bird, Roman Gold-Mining in North-West Spain, II: Workings on the Rio Duerna, *The Journal of Roman Studies*, Vol. 62, 1972 (1972), pp. 59 [(worldcat)](https://search.worldcat.org/title/960771440)
+- M.ª C. Fernández Castro, *Villas romanas en Hispania*, Madrid, 1982. [(worldcat)](https://search.worldcat.org/title/960771440)
+- J.-G. Gorges, *Les villas hispano-romaines: Inventaire et Problématique Archéologiques* (Publications du Centre Pierre Paris IV). Paris: de Boccard, 1979, 276-7. [(worldcat)](https://search.worldcat.org/title/461777678)
+- P. R. Lewis, G. D. B. Jones, Roman Gold-Mining in North-West Spain, *The Journal of Roman Studies*, Vol. 60, 1970 (1970), pp. 169-185. [(worldcat)](https://search.worldcat.org/title/8271361932)
+- R. F. J. Jones, D. G. Bird, Roman Gold-Mining in North-West Spain, II: Workings on the Rio Duerna, *The Journal of Roman Studies*, Vol. 62, 1972 (1972), pp. 59 [(worldcat)](https://search.worldcat.org/title/8271770372)
 
 ## Keywords
 
@@ -80,9 +80,10 @@ In the center of the peristyle was a rectangular pool with protruding semi-circu
 - {{< keyword "opus signinum" >}}
 - {{< keyword "reception rooms" >}}
 - {{< keyword "porticoes" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "semicircular" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="972371930" name="Villa El Soldán (The Sultan)" >}}
 - {{< id vocab="TGN" id="7325447" name="Santa Colomba de Somoza (inhabited place)" >}}
-
