@@ -87,7 +87,7 @@ unspecified
 
 ## House Description
 
-This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Various construction phases and uses have been identified. The first phase of the house, which dates to the first century BCE, was built around an atrium. The magnificent and unusually large peristyle garden (23 x 29 m) was added in the second phase in the Augustan era and was reached by a little stairway. The garden included a semicircular stone seat, an open space with a pool, and an ambulacros and below it, a subterranean cryptoportico were located on the northeastern side of the garden.  The garden offered a spectacular view of the sea.
+This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Various construction phases and uses have been identified. The first phase of the house, which dates to the first century BCE, was built around an atrium. The magnificent and unusually large peristyle garden (23 x 29 m) was added in the second phase in the Augustan era and was reached by a little stairway. The garden included a semicircular stone seat, an open space with a pool, and an ambulacros and below it, a subterranean cryptoportico was located on the northeastern side of the garden.  The garden offered a spectacular view of the sea.
 
 ## Plans
 
