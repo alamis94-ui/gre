@@ -2,15 +2,18 @@
 slug: "3fc5921f62"
 type: garden
 title: Villa los Quintanares
-latlon: [ 0, 0 ]
+latlon: [41.63583, -2.84306]
 author:
-contributor: Xingjian Wang
+contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: TAR 9.1
 date: 2021-04-21
 
 draft: true
 ---
 
+<!--TODO: need author-->
+
+<!--
 ## Province
 
 [Soria]({{<relref "../../../..">}})
@@ -19,19 +22,24 @@ draft: true
 ## Location
 
 - [Rioseco Di Soria]({{<relref ".">}})
+-->
+## Dates
+
+second half of second century CE
+
+## Excavation Dates
+
+early 1970s
 
 ## Location Description
 
 This villa is about 600 meters southwest of the town Rioseco di Soria on the right (north) bank of the Sequillo river – here a small stream -- and overlooking its plain. Excavations go back to the early 1970s.  In 2007 the site was marked only by mounds of earth over the ruins.
 
-## Garden
-
-Villa los Quintanares
-
 ## Garden Description
 
-Built in the second half of the 2nd century CE, it was destroyed during the invasions of the Franks after 256.  Following the recovery of the Empire under Claudius II and Aurelian (268 -275), it was rebuilt and enlarged, surviving into the 5th century. Water was brought to the villa  by a conduit from 1.5 km further up the Sequillo.
-The villa is built around two peristyles of similar size. The surrounding rooms featured more than 30 mosaics.  The western peristyle (11 x 11 m) was built first, with porticoes on all four sides of its central garden, and, a double gallery on the north side against the summer sun.  The later, eastern half had a slightly larger peristyle (12.5 x 21 m), with galleries on three sides of its garden. A large hall extended directly off the fourth side.  The peristyle was richly adorned with sculptures, mosaics, and mural paintings.
+Built in the second half of the 2nd century CE, it was destroyed during the invasions of the Franks after 256.  Following the recovery of the Empire under Claudius II and Aurelian (268-275), it was rebuilt and enlarged, surviving into the 5th century. Water was brought to the villa by a conduit from 1.5 km further up the Sequillo.
+
+The villa is built around two peristyles of similar size. The surrounding rooms featured more than 30 mosaics.  The western peristyle (11 x 11 m) was built first, with porticoes on all four sides of its central garden, and a double gallery on the north side against the summer sun.  The later, eastern half had a slightly larger peristyle (12.5 x 21 m), with galleries on three sides of its garden. A large hall extended directly off the fourth side.  The peristyle was richly adorned with sculptures, mosaics, and mural paintings.
 
 <!-- ## Maps -->
 
@@ -51,7 +59,9 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 ## Keywords
 
 - {{< keyword "peristyles" >}}
+- {{< keyword "villas" >}}
 - {{< keyword "mosaics" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 
