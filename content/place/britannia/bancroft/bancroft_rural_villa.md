@@ -6,7 +6,6 @@ latlon: [ 52.055419, -0.795092 ]
 author: Maureen Carroll
 contributor: June Dorsch, Jane Millar, Keith Jenkins
 date: 2021-04-21
-
 draft: false
 ---
 
@@ -48,6 +47,4 @@ The villa complex that preceded the winged corridor house is also of interest in
 - {{< keyword "piscinae" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79312" name="Bancroft Roman villa" >}}
+<!-- ## Places -->
