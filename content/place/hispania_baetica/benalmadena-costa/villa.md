@@ -17,14 +17,16 @@ draft: true
 
 unspecified
 
+## Excavation Dates
+
+unspecified
+
+<!--
 ## Location
 
 - [Benalmadena-Costa]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="510567671" name="Benalmadena-Costa" >}}
-
-## Garden
-
-Villa
+-->
 
 ## Garden Description
 
@@ -44,7 +46,7 @@ At the rear of this villa there is a grand *euripus* running the length of the l
 
 ## Keywords
 
-<!-- [no keyword] -->
+- {{< keyword "villas" >}}
 
 ## Places
 
