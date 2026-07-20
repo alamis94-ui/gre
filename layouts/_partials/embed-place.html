@@ -2,27 +2,21 @@
      Also add places for all ancestors up the place hierarchy
 */}}
 {{ $content := .Content }}
-{{ range $i, $p := .Ancestors.Reverse }}
-    {{ if gt $i 1 }}
-        {{ $placedesc := "" }}
-        {{ if eq $i 2 }}
-            {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Province Description" ) }}
-        {{ else }}
-            {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Place Description" ) }}
+{{ range .Ancestors }}
+    {{ $placedesc := partial "html-section.html" ( dict "html" .Content "header" "(Province|Place) Description" ) }}
+    {{/* Only embed the description if it really contains text */}}
+    {{ if gt ($placedesc | len) 2 }}
+        {{ $dev := "" }}
+        {{ if eq hugo.Environment "development" }}
+            {{ $dev = print ` <span class='dev'>from ` .Title ` page</span></h2>` }}
         {{ end }}
-        {{/* Only embed the description if it really contains text */}}
-        {{ if gt ($placedesc | len) 2 }}
-            {{ $dev := "" }}
-            {{ if eq hugo.Environment "development" }}
-                {{ $dev = print ` <span class='dev'>from ` .Title ` page</span></h2>` }}
-            {{ end }}
-            {{ $content = replaceRE `(<h2 id="(place|garden)-description")`
-                ( print `<div class="embed-place-description">` $placedesc
-                    `</div><button class="expand" onclick="expand(event)">read more...</button>` $dev `$1`
-                )
-                $content
-            }}
-        {{ end }}
+        {{ $placedesc = replaceRE `</h2>` (print ` (` .Title `)` $dev `</h2>`) $placedesc }}
+        {{ $content = replaceRE `(<h2 id="(place|garden)-description")`
+            ( print `<div class="embed-place-description">` $placedesc
+                `</div><button class="expand" onclick="expand(event)">Expand this section...</button>$1`
+            )
+            $content 1
+        }}
     {{ end }}
 {{ end }}
 
