@@ -2,22 +2,26 @@
      Also add places for all ancestors up the place hierarchy
 */}}
 {{ $content := .Content }}
-{{ range .Ancestors.Reverse }}
-    {{ $placedesc := "" }}
-    {{ $isProvince := eq 2 (len .Ancestors) }}
-    {{ if $isProvince }}
-        {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Province Description" ) }}
-    {{ else }}
-        {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Place Description" ) }}
-    {{ end }}
-    {{ if gt ($placedesc | len) 2 }}
-        {{ $content = replaceRE `(<h2 id="garden-description")`
-            ( print `<div class="embed-place-description">` $placedesc
-                `</div><button class="expand" onclick="expand(event)">read more...</button>$1` )
-            $content
-        }}
-        {{ if eq hugo.Environment "development" }}
-            {{ $content = replaceRE `((Province|Place) Description)</h2>` (print "$1" ` <span class='dev'>from ` .Title ` page</span></h2>`) $content }}
+{{ range $i, $p := .Ancestors.Reverse }}
+    {{ if gt $i 1 }}
+        {{ $placedesc := "" }}
+        {{ if eq $i 2 }}
+            {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Province Description" ) }}
+        {{ else }}
+            {{ $placedesc = partial "html-section.html" ( dict "html" .Content "header" "Place Description" ) }}
+        {{ end }}
+        {{/* Only embed the description if it really contains text */}}
+        {{ if gt ($placedesc | len) 2 }}
+            {{ $dev := "" }}
+            {{ if eq hugo.Environment "development" }}
+                {{ $dev = print ` <span class='dev'>from ` .Title ` page</span></h2>` }}
+            {{ end }}
+            {{ $content = replaceRE `(<h2 id="(place|garden)-description")`
+                ( print `<div class="embed-place-description">` $placedesc
+                    `</div><button class="expand" onclick="expand(event)">read more...</button>` $dev `$1`
+                )
+                $content
+            }}
         {{ end }}
     {{ end }}
 {{ end }}
