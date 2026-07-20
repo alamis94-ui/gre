@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-first to fifth centuries CE
+first to fifth century CE
 
 ## Excavation Dates
 
