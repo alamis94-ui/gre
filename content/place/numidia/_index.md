@@ -5,11 +5,8 @@ title: Numidia
 author: Author Name
 contributor: Keith Jenkins
 date: 2026-06-01
-
 draft: false
 ---
-
-<!-- ## Dates -->
 
 ## Province Description
 
@@ -40,8 +37,6 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
