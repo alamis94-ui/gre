@@ -4,17 +4,19 @@ type: garden
 title: Villa de Los Villares
 latlon: [ 41.713123, -3.150103 ]
 author:
-contributor: Yiyun Liu
+contributor: Yiyun Liu, Amelia Lamis
 jashemski-catalogue: TAR 10.1
 date: 2021-04-21
 
 draft: true
 ---
+<!--TODO: need author-->
 
 ## Dates
 
-The first third of the 2nd century
+first third of second century CE; rebuilt after 256 CE 
 
+<!--
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -46,15 +48,18 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - [Villa de Los Villares]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="188623838" name="Villa de Los Villares" >}}
+-->
+## Excavation Dates
 
-## Garden
+unspecified
 
-Villa de Los Villares
+## Location Description 
+
+The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos.  The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.<!--57 km W of Soria, 85 km southeast of Burgos, 151 km NNE of Madrid-->
 
 ## Garden Description
 
-The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos.  The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.
-The villa was built in the first third of the 2nd century, destroyed by the Germanic invasions of the years immediately after 256, then rebuilt and enlarged under the restored empire, and finally abandoned  in the 5th century.  The large central peristyle courtyard (43.5 x 19 m) had porticoes on all four sides and a garden with a drainage system in the middle.  On the south side, the room with the circular, quadrilobed interior had a mosaic of Ceres and a cornucopia.  A series of agricultural buildings and other gardens joined it on the north side.
+The villa was built in the first third of the 2nd century, destroyed by the Germanic invasions of the years immediately after 256, then rebuilt and enlarged under the restored empire, and finally abandoned in the 5th century.  The large central peristyle courtyard (43.5 x 19 m) had porticoes on all four sides and a garden with a drainage system in the middle.  On the south side, the room with the circular, quadrilobed interior had a mosaic of Ceres and a cornucopia.  A series of agricultural buildings and other gardens joined it on the north side.
 
 ## Plans
 
@@ -62,7 +67,7 @@ The villa was built in the first third of the 2nd century, destroyed by the Germ
 
 ## Bibliography
 
-- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1982 [(worldcat)](https://search.worldcat.org/title/876519837)
+- M.ª C. Fernández Castro, *Villas romanas en Hispania*, Madrid, 1982. [(worldcat)](https://search.worldcat.org/title/876519837)
 - J. M. Blázquez, Los jardines en la Hispania Romana, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 33 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 ## Keywords
@@ -76,5 +81,3 @@ The villa was built in the first third of the 2nd century, destroyed by the Germ
 
 - {{< id vocab="Pleiades" id="188623838" name="Villa de Los Villares" >}}
 - {{< id vocab="TGN" id="7322442" name="Santervás del Burgo (inhabited place)" >}}
-
-
