@@ -40,8 +40,8 @@ An inscription found near Timgad (Algeria) in 1955 records the epitaph of Cicero
 
 ## Bibliography
 
-- Libyca. Archéologie Épigraphie 4.1 (1956) 119-21, no. 29 [(worldcat)](https://search.worldcat.org/title/804663679)
-- AE 1957, 185. 
+- *Libyca. Archéologie Épigraphie* 4.1 (1956) 119-21, no. 29 [(worldcat)](https://search.worldcat.org/title/804663679)
+- *AE* 1957, 185. 
 
 ## Keywords
 
@@ -50,7 +50,6 @@ An inscription found near Timgad (Algeria) in 1955 records the epitaph of Cicero
 
 <!--
 ## Places
-places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->
