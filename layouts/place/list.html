@@ -17,7 +17,7 @@
         {{- partial "metadata.html" . -}}    
         {{- partial "sublocations.html" . -}}
         <div class="content post__content clearfix">
-            {{ .Content }}
+            {{ partial "embed-place.html" . }}
         </div>
     </div>
 
