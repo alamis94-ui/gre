@@ -4,7 +4,7 @@ type: garden
 title: Villa
 latlon: [ 0, 0 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 6.1
 date: 2021-04-21
 

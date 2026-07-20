@@ -4,7 +4,7 @@ type: garden
 title: House of the Mithra
 latlon: [ 37.487748, -4.459183 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 3.1
 date: 2021-04-21
 
@@ -13,16 +13,18 @@ draft: true
 
 ## Dates
 
+early Imperial to fourth century CE
+
+## Excavation Dates
+
 unspecified
 
+<!--
 ## Location
 
 - [Egabrum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="265919" name="Egabrum" >}}
-
-## Garden
-
-House of the Mithra
+-->
 
 ## Garden Description
 
@@ -30,11 +32,11 @@ Excavations identified two building phases in the villa. The early Imperial phas
 
 <!-- ## Maps -->
 
-<!-- ## Plans -->
-
-## Images
+## Plans
 
 {{< image file="HIS_BAE_Ega_Hm_plan_CA1.jpg" caption="Fig. 1: Plan of the House of the Mithra." credit="Gorges, Planche XXXIII." alt="" >}}
+
+## Images
 
 {{< image file="HIS_BAE_Ega_Hm_photo_CA2.jpg" caption="Fig. 2: Photo of the peristyle looking northwest." credit="" alt="" >}}
 
@@ -54,11 +56,9 @@ Excavations identified two building phases in the villa. The early Imperial phas
 - {{< keyword "fountains" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "Doric order" >}}
-<!-- TODO triclinia -- should this be couches or rooms??? -->
 
 ## Places
 
 - [Igabrum/Egabrum]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
 - {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}
-
