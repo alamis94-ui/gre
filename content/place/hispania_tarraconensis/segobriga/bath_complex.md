@@ -4,7 +4,7 @@ type: garden
 title: Bath Complex
 latlon: [ 39.885321, -2.81302 ]
 author:
-contributor: Yiyun Liu
+contributor: Yiyun Liu, Amelia Lamis
 jashemski-catalogue: TAR 16.1
 date: 2021-04-21
 
@@ -13,8 +13,9 @@ draft: true
 
 ## Dates
 
-Flavian times（CE 69-96）
+Flavian period（69-96 CE）
 
+<!--
 ## Province
 
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
@@ -46,21 +47,21 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - [Segóbriga]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="266036" name="Segóbriga" >}}
+-->
 
 ## Location Description
 
-Segóbriga, a deserted Roman city with theater, amphitheater, forum, walls, aqueduct and baths, lies about 100 kilometers southeast of Madrid.  Livy speaks of it as a noble and powerful town subdued by the Romans in 179 BCE. In the  1st century BCE it grew as a center for trade, cereal and cattle production, and for mining gypsum, lapis specularis, then used for windows. It became a municipium in th time of Augustus. The city reached its height near the end of the 1st century CE, then began a slow decline, but even in Visigothic time it sent bishops to councils.
-Within the city, there are remarkably few remains of residences.  Presumably the population that filled the theater and amphitheater lived in country villas or closer to the mines.
-The site has been developed as an archaeological park; the monuments are in remarkably good condition and are eminently visitable.
+Segóbriga, a deserted Roman city with theater, amphitheater, forum, walls, aqueduct and baths, lies about 100 kilometers southeast of Madrid.  Livy speaks of it as a noble and powerful town subdued by the Romans in 179 BCE. In the  1st century BCE it grew as a center for trade, cereal and cattle production, and for mining gypsum, *lapis* specularis, then used for windows. It became a *municipium* in the time of Augustus. The city reached its height near the end of the 1st century CE, then began a slow decline, but even in Visigothic time it sent bishops to councils.
 
-## Garden
+Within the city, there are remarkably few remains of residences.  Presumably the population that filled the theater and amphitheater lived in country villas or closer to the mines. The site has been developed as an archaeological park; the monuments are in remarkably good condition and are eminently visitable.
 
-Bath Complex
+## Excavation Dates
+
+unspecified
 
 ## Garden Description
 
-N 39 53' 10"  W 2° 48' 45"
-Monumental baths about 88 meters long and 40 meters wide were built in Flavian times in the  north end of the city. Immediately after the entry came a large peristyle courtyard.  Perhaps it was a garden but could also have been primarily a palestra.  At the end away from the entrance and towards the baths proper was found the base of a statue.
+Monumental baths about 88 meters long and 40 meters wide were built in Flavian times in the north end of the city. Immediately after the entry came a large peristyle courtyard.  Perhaps it was a garden but could also have been primarily a palestra.  At the end away from the entrance and towards the baths proper was found the base of a statue.
 
 ## Plans
 
@@ -73,14 +74,18 @@ Monumental baths about 88 meters long and 40 meters wide were built in Flavian t
 ## Bibliography
 
 - J. M. Blázquez, "Los jardines en la Hispania Romana", in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 26. [(worldcat)](https://search.worldcat.org/title/1090911182)
+- [(Official Park Site)](http://www.jccm.es/cultura/parques/segobriga/index_ie.html)
+- [(Plan and images of the baths)](http://www.spanisharts.com/arquitectura/imagenes/roma/segobriga_termas.html)
+- [(Cervantes_virtual)](http://www.cervantesvirtual.com/portal/antigua/segobriga.shtml)
+
 
 ## Keywords
 
 - {{< keyword "peristyles" >}}
 - {{< keyword "balnea" >}}
+- {{< keyword "statues" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="266036" name="Segobriga" >}}
 - {{< id vocab="TGN" id="8712888" name="Segobriga (deserted settlement)" >}}
-
