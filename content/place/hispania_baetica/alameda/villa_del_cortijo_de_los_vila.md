@@ -18,16 +18,6 @@ late third or early fourth century CE
 ## Excavation Dates
 
 1985 and 1986 
-<!--
-## Location
-
-- [Alameda]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="270382" name="Alameda" >}}
--->
-
-## Location Description
-
-Ruins of large Roman baths, now surrounded by an interpretive center, and numerous finds of Roman coins and pottery fragments make clear that there was a considerable Roman town here with its center in the heart of the modern town.  Its name, however, has not been determined for certain.  The villa described below is near the modern town cemetery.  It seems, however, that the villa was reburied for its protection.
 
 ## Garden Description
 
@@ -56,6 +46,4 @@ Excavations in 1985 and 1986 brought to light a villa dating to the end of the t
 
 ## Places
 
-- [Villa del Cortijo de los Vila at Alameda]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="521700444" name="Villa del Cortijo de los Vila at Alameda" >}}
-- {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}

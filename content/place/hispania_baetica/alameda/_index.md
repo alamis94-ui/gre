@@ -3,7 +3,7 @@ slug: "fb78b1ab86"
 type: place
 title: Alameda
 author: John Bodel
-contributor: Amelia Lamis
+contributor: Amelia Lamis, Keith Jenkins
 date: 2025-07-15
 
 draft: false
@@ -41,7 +41,6 @@ Ruins of large Roman baths, now surrounded by an interpretive center, and numero
 -->
 
 ## Places
-<!--
-- {{< id vocab="Pleiades" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="256500" name="Urgapa?" >}}
 - {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}

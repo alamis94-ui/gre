@@ -4,7 +4,7 @@ type: garden
 title: Funerary Grove of T. Aemilius Vetus
 latlon: [ 0, 0 ]
 author: John Bodel
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: 
 date: 2021-04-21
 
@@ -18,16 +18,6 @@ late first or early second century CE
 ## Excavation Dates
 
 1975
-
-<!--
-## Location
-
-- [Alameda]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="270382" name="Alameda" >}}
--->
-## Location Description
-
-Ruins of large Roman baths, now surrounded by an interpretive center, and numerous finds of Roman coins and pottery fragments make clear that there was a considerable Roman town here with its center in the heart of the modern town.  Its name, however, has not been determined for certain. <!--The villa described below is near the modern town cemetery.  It seems, however, that the villa was reburied for its protection.-->
 
 ## Garden Description
 
@@ -50,8 +40,4 @@ A grey limestone block found in 1975 at La Alameda, between Toledo and Cordova, 
 - {{< keyword "inscriptions" >}}
 - {{< keyword "groves" >}}
 
-## Places
-
-- [Urgapa]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="270382" name="Urgapa" >}}
-- {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}
+<!-- ## Places -->
