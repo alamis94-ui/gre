@@ -2,15 +2,15 @@
 slug: "2b7ce2f065"
 type: garden
 title: Villa de Milreu
-latlon: [ 0, 0 ]
+latlon: [37.0952299711, -7.90400037773]
 author:
-contributor: Xingjian Wang
+contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: LUS 8.1
 date: 2021-04-21
 
 draft: true
 ---
-
+<!--
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
@@ -23,10 +23,14 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 - [Estoi]({{<relref ".">}})
+-->
+## Dates
 
-## Garden
+first to fourth century CE 
 
-Villa de Milreu
+## Excavation Dates
+
+1877; 1952
 
 ## Garden Description
 
@@ -52,16 +56,16 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 {{< image file="HIS_LUS_Milreu_pool mosaic fig3.jpg" caption="Fig. 3: Photo of the fish mosaic" credit="" alt="" >}}
 
-<!-- ## Dates -->
+## Bibliography
 
-
-<!-- ## Bibliography
-
-- T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](https://search.worldcat.org/title/927151602) -->
+- T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](https://search.worldcat.org/title/927151602)
 
 ## Keywords
 
 - {{< keyword "peristyles" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "semicircular" >}}
 
 ## Places
 
