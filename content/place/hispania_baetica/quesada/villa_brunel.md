@@ -4,7 +4,7 @@ type: garden
 title: Villa Bruñel
 latlon: [ 37.885309, -3.079082 ]
 author:
-contributor: Lai Ching Tsui, Keith Jenkins
+contributor: Lai Ching Tsui, Keith Jenkins, Amelia Lamis
 jashemski-catalogue: BAE 1.1
 date: 2021-04-21
 
@@ -17,13 +17,13 @@ unspecified
 
 ## Excavation Dates
 
-1965-1971
+1965 to 1971
 
 ## Garden Description
 
 <!-- TODO: this garden location appears to actually be in Tarraconensis, not Baetica -->
 
-This villa, 5 kilometers north of the center of Quesada, was excavated in eight campaigns between 1965 and 1971, and had multiple phases of construction.  The north end of the villa appears as a normal peristyle villa. Directly across the middle of the peristyle and its garden, a mighty wall slices slices the peristyle in two halves running east-west. Beyond the wall, the peristyle and garden continue.  But the east-west wall turns out to be the north side of a vast double-apsed hall, which is followed, further south, by another villa wrapping around a large courtyard with covered galleries on all four sides, while off to the southeast, there is another peristyle with garden, porticoes, and surrounding rooms.
+This villa, 5 kilometers north of the center of Quesada, was excavated in eight campaigns between 1965 and 1971, and had multiple phases of construction.  The north end of the villa appears as a normal peristyle villa. Directly across the middle of the peristyle and its garden, a mighty wall slices the peristyle in two halves running east-west. Beyond the wall, the peristyle and garden continue.  But the east-west wall turns out to be the north side of a vast double-apsed hall, which is followed, further south, by another villa wrapping around a large courtyard with covered galleries on all four sides, while off to the southeast, there is another peristyle with garden, porticoes, and surrounding rooms.
 
 In the first phase several features, such as the bases of the four buttresses along the western edge, and the semicircular structure in the middle of the large courtyard, were established. Fragments of oil lamps datable to the second century CE were also found.
 
