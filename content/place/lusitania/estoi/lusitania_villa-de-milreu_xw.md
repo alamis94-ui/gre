@@ -58,7 +58,7 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 ## Bibliography
 
-- T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](https://search.worldcat.org/title/927151602)
+- T. Hauschild and F. Teichner, *Milreu Ruins*, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](https://search.worldcat.org/title/927151602)
 
 ## Keywords
 
