@@ -30,15 +30,13 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Plans
-{{< image file="filename.jpg" caption="Fig. 2: Plan of Emporiae" credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
--->
 
-<!--
+{{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
+
 ## Images
-{{< image file="filename.jpg" caption="Fig. 1: Aerial view of Emporiae at the end of the first century BCE." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
--->
+
+{{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BCE." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
 
 ## Bibliography
 
