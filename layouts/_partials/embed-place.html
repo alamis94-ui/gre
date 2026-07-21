@@ -11,7 +11,7 @@
             {{ $dev = print ` <span class='dev'>from ` .Title ` page</span></h2>` }}
         {{ end }}
         {{ $placedesc = replaceRE `</h2>` (print ` (` .Title `)` $dev `</h2>`) $placedesc }}
-        {{ $content = replaceRE `(<h2 id="(place|garden)-description")`
+        {{ $content = replaceRE `(<div class="embed-place-description|<h2 id="(place|garden)-description")`
             ( print `<div class="embed-place-description">` $placedesc
                 `</div><button class="expand" onclick="expand(event)">Expand this section...</button>$1`
             )
