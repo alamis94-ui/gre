@@ -1,8 +1,8 @@
 ---
 slug: "80f99c3405"
 type: garden
-title: Villa
-latlon: [ 0, 0 ]
+title: Villa at Benalmádena Costa
+latlon: [36.5882649703, -4.53090385246]
 author:
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 6.1
@@ -50,5 +50,7 @@ At the rear of this villa there is a grand *euripus* running the length of the l
 
 ## Places
 
+<!--
 - [Benalroma]{{<relref ".">}})
+-->
 - {{< id vocab="Pleiades" id="510567671" name="Benalroma" >}}
