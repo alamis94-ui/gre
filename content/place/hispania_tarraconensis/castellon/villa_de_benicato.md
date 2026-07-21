@@ -3,7 +3,7 @@ slug: "aa2406afa4"
 type: garden
 title: Villa de Benicató
 latlon: [ 39.832943, -0.14602 ]
-author:
+author: Author Name
 contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: TAR 17.1
 date: 2021-04-21
@@ -11,23 +11,9 @@ date: 2021-04-21
 draft: true
 ---
 
-<!--TODO: need author-->
-
 ## Dates 
 
 mid-second century CE 
-
-<!-->
-## Province
-
-[Castellón]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="432947" name="Monte Castellone 2" >}}
-
-## Location
-
-- [Nules]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="266010" name="Pujol de Benicató" >}}
--->
 
 ## Excavation Dates 
 

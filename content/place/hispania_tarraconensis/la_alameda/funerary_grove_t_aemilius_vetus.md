@@ -15,12 +15,6 @@ draft: true
 
 late first to early second century 
 
-<!--
-
-
-- [La Almeda]({{<relref ".">}})
--->
-
 ## Excavation Dates
 
 1975

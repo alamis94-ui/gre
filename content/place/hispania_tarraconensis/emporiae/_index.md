@@ -9,8 +9,6 @@ date: 2026-05-16
 draft: false
 ---
 
-<!--TODO: add Author name; add plan and image (on doc) -->
-
 <!-- ## Dates -->
 
 ## Place Description
