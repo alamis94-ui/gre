@@ -19,13 +19,6 @@ first to fifth century CE
 
 1989
 
-<!--
-## Location
-
-- [Almedinilla]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="266015" name="Almedinilla" >}}
--->
-
 ## Garden Description
 
 <!--TODO: description refers to photos that are not in the doc-->
@@ -69,6 +62,5 @@ The chronology of the house is quite tentative.  A first phase, probably to be p
 
 ## Places
 
-- [El Ruedo]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="266015" name="El Ruedo" >}}
 - {{< id vocab="TGN" id="4000563" name="Almedinilla (inhabited place)" >}}

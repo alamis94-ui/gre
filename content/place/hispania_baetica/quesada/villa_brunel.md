@@ -3,7 +3,7 @@ slug: "05257b5d8b"
 type: garden
 title: Villa Bruñel
 latlon: [ 37.885309, -3.079082 ]
-author:
+author: Author Name
 contributor: Lai Ching Tsui, Keith Jenkins, Amelia Lamis
 jashemski-catalogue: BAE 1.1
 date: 2021-04-21

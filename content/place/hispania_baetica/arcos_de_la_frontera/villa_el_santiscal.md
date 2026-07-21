@@ -19,13 +19,6 @@ first to fourth century CE
 
 1965
 
-<!--
-## Location
-
-- [Arcos De La Frontera]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="255981" name="Arcos De La Frontera" >}}
--->
-
 ## Garden Description
 
 This rich country villa on the left bank of the [Guadalete River](https://pleiades.stoa.org/places/256248) was begun in the first century and continued in use through the fourth century with its heyday in the third century CE.  Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.
@@ -55,6 +48,5 @@ This rich country villa on the left bank of the [Guadalete River](https://pleiad
 
 ## Places
 
-- [El Santiscal]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256436" name="El Santiscal" >}}
 - {{< id vocab="TGN" id="1061772" name="Arcos de la Frontera (inhabited place)" >}}

@@ -3,7 +3,7 @@ slug: "91325c865c"
 type: garden
 title: House of the Mithra
 latlon: [ 37.487748, -4.459183 ]
-author:
+author: Author Name
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 3.1
 date: 2021-04-21
@@ -18,13 +18,6 @@ early Imperial to fourth century CE
 ## Excavation Dates
 
 unspecified
-
-<!--
-## Location
-
-- [Egabrum]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="265919" name="Egabrum" >}}
--->
 
 ## Garden Description
 
@@ -59,8 +52,5 @@ Excavations identified two building phases in the villa. The early Imperial phas
 
 ## Places
 
-<!--
-- [Igabrum/Egabrum]{{<relref ".">}})
--->
 - {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
 - {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}

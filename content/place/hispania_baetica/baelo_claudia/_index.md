@@ -42,8 +42,8 @@ The two private houses where there may have been gardens are near the port and a
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="Pleiades" id="256005" name="Baelo" >}}
+<!--
 - {{< id vocab="TGN" id="" name="" >}}
 -->

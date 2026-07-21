@@ -2,7 +2,7 @@
 slug: "41c1d3ea3c"
 type: place
 title: Hispania Baetica
-author:
+author: Author Name
 contributor: Lai Ching Tsui, Amelia Lamis
 date: 2021-04-21
 draft: true
