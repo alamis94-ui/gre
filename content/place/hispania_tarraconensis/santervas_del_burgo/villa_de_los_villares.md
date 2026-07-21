@@ -3,32 +3,21 @@ slug: "557ae46f1d"
 type: garden
 title: Villa de Los Villares
 latlon: [ 41.713123, -3.150103 ]
-author:
+author: Author Name
 contributor: Yiyun Liu, Amelia Lamis
 jashemski-catalogue: TAR 10.1
 date: 2021-04-21
 
 draft: true
 ---
-<!--TODO: need author-->
 
 ## Dates
 
 first third of second century CE; rebuilt after 256 CE 
 
-<!--
-
-
-- [Villa de Los Villares]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="188623838" name="Villa de Los Villares" >}}
--->
 ## Excavation Dates
 
 unspecified
-
-## Location Description 
-
-The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos.  The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.<!--57 km W of Soria, 85 km southeast of Burgos, 151 km NNE of Madrid-->
 
 ## Garden Description
 

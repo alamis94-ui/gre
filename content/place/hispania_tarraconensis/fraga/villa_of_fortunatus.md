@@ -11,21 +11,11 @@ date: 2021-04-21
 draft: true
 ---
 
-<!--TODO: need author; check latlong (doc:These coordinates differ from those given by Gorges to be consistent with descriptions and maps showing the location of the villa) -->
+<!--TODO: check latlong (doc:These coordinates differ from those given by Gorges to be consistent with descriptions and maps showing the location of the villa) -->
 
 ## Dates
 
-unspecified <!--description notes villa in use from Republican period to sixth century-->
-
-<!--
-
-
-- [Villa Fortunatus]({{<relref ".">}})
--->
-
-## Location Description
-
-Fraga sits astride the Cinca river about 86 kilometers northwest of Tarragona and 103 kilometers east of Zaragoza.  About 15 kilometers downstream, the Cinca is joined by the Segre and after another 5 kilometers they join the Ebro, which flows into the Mediterranean about 70 kilometers south west of Tarragona.
+unspecified
 
 ## Excavation Dates
 

@@ -10,17 +10,7 @@ date: 2021-04-21
 
 draft: true
 ---
-<!--
-## Province
 
-[Sagunto]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="266020" name="Sagunto" >}}
-
-## Location
-
-- [Saguntum]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="266021" name="Saguntum/Arse" >}}
--->
 ## Dates
 
 late first or early second century CE 
@@ -37,18 +27,17 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost, but originally pr
 
 <!-- ## Plans -->
 
-## Images
-
-<!-- ## Dates -->
+<!-- ## Images -->
 
 ## Bibliography
 
-- CIL 2.3960 = 22 14, 599 (Alföldy). [(EDCS)](https://edcs.hist.uzh.ch/monument/09100638) <!--added link to inscription database wher eyou can view inscription and findspot-->
+- CIL 2.3960 = 22 14, 599 (Alföldy). [(EDCS)](https://edcs.hist.uzh.ch/monument/09100638) <!--added link to inscription database where you can view inscription and findspot-->
 - H. von Hesberg, "Römische Grabbauten in den hispanischen Provinzen" in W. Trillmich et al., eds., *Hispania Antiqua. Denkmäler der Römerzeit* (Mainz 1993) XXX; EDH HD026300. [(worldcat)](https://search.worldcat.org/title/7377084156)
 
 ## Keywords
 
 - {{< keyword "tombs" >}}
+- {{< keyword "inscriptions" >}}
 
 ## Places
 

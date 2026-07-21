@@ -3,7 +3,7 @@ slug: "3fc5921f62"
 type: garden
 title: Villa los Quintanares
 latlon: [41.63583, -2.84306]
-author:
+author: Author Name
 contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: TAR 9.1
 date: 2021-04-21
@@ -11,18 +11,6 @@ date: 2021-04-21
 draft: true
 ---
 
-<!--TODO: need author-->
-
-<!--
-## Province
-
-[Soria]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="694916885" name="Soria" >}}
-
-## Location
-
-- [Rioseco Di Soria]({{<relref ".">}})
--->
 ## Dates
 
 second half of second century CE
@@ -30,10 +18,6 @@ second half of second century CE
 ## Excavation Dates
 
 early 1970s
-
-## Location Description
-
-This villa is about 600 meters southwest of the town Rioseco di Soria on the right (north) bank of the Sequillo river – here a small stream -- and overlooking its plain. Excavations go back to the early 1970s.  In 2007 the site was marked only by mounds of earth over the ruins.
 
 ## Garden Description
 
@@ -46,8 +30,6 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 ## Plans
 
 {{< image file="his_tar_cue_soria_fig1.jpg" caption="Fig.1 Villa los Quintanares, Rioseco de Soria, Soria." credit="Gorges, Planche LIII" alt="Plan of Villa los Quintanares at Soria Province, Spain" >}}
-
-## Images
 
 <!-- ## Dates -->
 

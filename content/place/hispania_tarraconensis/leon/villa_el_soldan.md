@@ -3,7 +3,7 @@ slug: "15b1cb6052"
 type: garden
 title: Villa El Soldán (The Sultan)
 latlon: [ 42.453889, -6.240556 ]
-author:
+author: Author Name
 contributor: Yiyun Liu, Amelia Lamis
 jashemski-catalogue: TAR 14.1
 date: 2021-04-21
@@ -18,16 +18,6 @@ reign of Tiberius (14-37 CE)
 ## Excavation Dates
 
 1930s
-
-<!--
- 
-
-- [Villa El Soldán  (The Sultan)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="972371930" name="Villa El Soldán  (The Sultan) " >}}
--->
-## Location Description 
-
-The villa is 300 meters eastnortheast of the eastern tip of Laguna Cernea, north of the modern village Santa Colomba de Somoza. The Laguna Cernea is an artificial pond created by the Romans for washing gold, now frequently dry. It was presumably the residence of the official in charge of the gold extraction.  Its early, first century date underlines the importance of gold as a reason for determination of Augustus to subdue the region at great cost.
 
 ## Garden Description
 
