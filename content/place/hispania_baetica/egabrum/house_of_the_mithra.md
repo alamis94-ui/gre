@@ -44,9 +44,9 @@ Excavations identified two building phases in the villa. The early Imperial phas
 
 ## Bibliography
 
-- A. Blanco, J. García y M. Bendala, 'Excavaciones en Cabra (Córdoba).La Casa de Mitra (Primera campaña, 1972),' *Habis 3*, Universidad de Sevilla, (Sevilla 1973), 297-319.[(worldcat)](https://search.worldcat.org/title/920418457)
+- A. Blanco, J. García y M. Bendala, 'Excavaciones en Cabra (Córdoba). La Casa de Mitra (Primera campaña, 1972),' *Habis 3*, Universidad de Sevilla, (Sevilla 1973), 297-319. [(worldcat)](https://search.worldcat.org/title/920418457)
 - M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982). [(worldcat)](https://search.worldcat.org/title/876519837)
-- J. L. Jiménez Salvador and M. Martín Bueno,*La Casa del Mitra*, Ayuntamiento de Córdoba, (Córdoba, 1991).[(worldcat)](https://search.worldcat.org/title/490626772)
+- J. L. Jiménez Salvador and M. Martín Bueno,*La Casa del Mitra*, Ayuntamiento de Córdoba, (Córdoba, 1991). [(worldcat)](https://search.worldcat.org/title/490626772)
 
 ## Keywords
 
@@ -59,6 +59,8 @@ Excavations identified two building phases in the villa. The early Imperial phas
 
 ## Places
 
+<!--
 - [Igabrum/Egabrum]{{<relref ".">}})
+-->
 - {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
 - {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}
