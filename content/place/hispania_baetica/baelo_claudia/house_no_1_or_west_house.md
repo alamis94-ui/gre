@@ -60,6 +60,8 @@ The entrance [Fig. 1, 2] to this house was on the west side of the colonnaded st
 
 ## Places
 
+<!--
 - [House of the West at Baelo]{{<relref ".">}})
+-->
 - {{< id vocab="Pleiades" id="574194294" name="House of the West at Baelo" >}}
 - {{< id vocab="TGN" id="8712326" name="Baelo Claudia (deserted settlement)" >}}
