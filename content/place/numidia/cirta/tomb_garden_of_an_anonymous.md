@@ -4,10 +4,8 @@ type: garden
 title: Tomb Garden Of Anonymous
 latlon: [ 36.3675, 6.61194 ]
 author: John Bodel
-translator: Translator Name
 contributor: Amelia Lamis
 date: 2026-05-07
-
 draft: true
 ---
 
