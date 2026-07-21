@@ -42,7 +42,7 @@ This house is on the top of a hill and has thus been exposed to more erosion and
 
 ## Images
 
-{{< image file="HIS_BAE_Italica_Hrp_fig1.jpg" caption="Fig. 1: Photograph." credit="" alt="" >}}
+{{< image file="HIS_BAE_Italica_Hrp_fig1.jpg" caption="Fig. 2: Photograph." credit="" alt="" >}}
 
 ## Bibliography
 

@@ -4,7 +4,7 @@ type: garden
 title: House of the Deep Trench (Casa de Cañada Honda)
 latlon: [ 37.441226, -6.043175 ]
 author:
-contributor: Lai Ching Tsui, Keith Jenkins
+contributor: Lai Ching Tsui, Keith Jenkins, Amelia Lamis
 jashemski-catalogue: BAE 9.6
 date: 2021-04-21
 
@@ -38,11 +38,11 @@ In late antiquity, a new city wall was built excluding most of the Hadrianic add
 
 ## Maps
 
-{{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
+{{< image file="HIS_BAE_Italica_city_plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 ## Images
 
-{{< image file="HIS_BAE_Italica_Hdt_fig1.jpg" caption="Fig. 1:  Photo of the House of the Deep Trench." credit="" alt="" >}}
+{{< image file="HIS_BAE_Italica_Hdt_fig1.jpg" caption="Fig. 2:  Photo of the House of the Deep Trench." credit="" alt="" >}}
 
 ## Bibliography
 

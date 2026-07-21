@@ -38,11 +38,11 @@ This house, in the area southeast of the [House of Hylas](/id/d9d49da85e/), had 
 
 ## Maps
 
-{{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
+{{< image file="HIS_BAE_Italica_city_plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 ## Images
 
-{{< image file="HIS_BAE_Italica_Ht_fig1.jpg" caption="Fig. 1: Reconstruction of garden." credit="Drawing by F. Riart (2001, page 33)." alt="" >}}
+{{< image file="HIS_BAE_Italica_Ht_fig1.jpg" caption="Fig. 2: Reconstruction of garden." credit="Drawing by F. Riart (2001, page 33)." alt="" >}}
 
 ## Bibliography
 

@@ -38,7 +38,7 @@ The Italica Theater makes use of the side of a hill to support most of its *grad
 
 ## Maps
 
-{{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
+{{< image file="HIS_BAE_Italica_city_plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 ## Images
 

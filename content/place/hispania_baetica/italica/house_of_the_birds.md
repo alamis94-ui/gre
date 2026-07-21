@@ -61,8 +61,8 @@ To the left of the entering guest was the reception room with an interesting mos
 ## Bibliography
 
 - Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
-- A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
-- A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 70-71 [(worldcat)](https://search.worldcat.org/title/916989580)
+- A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997). [(worldcat)](https://search.worldcat.org/title/638777432)
+- A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 70-71. [(worldcat)](https://search.worldcat.org/title/916989580)
 
 ## Keywords
 

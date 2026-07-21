@@ -46,7 +46,7 @@ A building just south of the [public park](/id/cbc00aa8f3/) has been identified 
 
 ## Images 
 
-{{< image file="HIS-BAE-italica-collegium-photo2.jpg" caption="Fig. 2: Photo of the existing site." credit="" alt="" >}}
+{{< image file="HIS-BAE-italica-collegium-photo2.jpg" caption="Fig. 3: Photo of the existing site." credit="" alt="" >}}
 
 ## Bibliography
 
