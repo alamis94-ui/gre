@@ -40,7 +40,7 @@ The sanctuary occupies various terraces and dominates the city below. The plan o
 
 ## Bibliography
 
-- T. Hauschild, 'Los templos romanos de Munigua,' *Templos romanos de Hispania vol. I of Cuadernos de Arquitectura Romana*, (Murcia, 1992). 133-143 [(worldcat)](https://search.worldcat.org/title/492641941)
+- T. Hauschild, 'Los templos romanos de Munigua,' *Templos romanos de Hispania vol. I of Cuadernos de Arquitectura Romana*, (Murcia, 1992). 133-143. [(worldcat)](https://search.worldcat.org/title/492641941)
 
 ## Keywords
 
