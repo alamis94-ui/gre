@@ -4,10 +4,8 @@ type: garden
 title: Tomb Garden of Cicero Thabudeiensis
 latlon: [ 35.48889, 6.46972 ]
 author: John Bodel
-translator: Translator Name
 contributor: Amelia Lamis
 date: 2026-05-07
-
 draft: true
 ---
 
@@ -48,8 +46,4 @@ An inscription found near Timgad (Algeria) in 1955 records the epitaph of Cicero
 - {{< keyword "inscriptions" >}}
 - {{< keyword "tombs" >}}
 
-<!--
-## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+<!-- ## Places -->
