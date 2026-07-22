@@ -9,7 +9,8 @@
 
 
     {{ $pages := sort (where .Site.Pages "Type" "place") "Path" }}
-    <h1 id="places">All places ({{ $pages.Len }})</h1>
+    {{ $visible := partial "pages-visible.html" $pages }}
+    <h1 id="places">All places ({{ $visible.Len }})</h1>
     <table class="meta place">
         <tr>
             <th>path</th>
@@ -19,7 +20,7 @@
             <th>date</th>
             <th>updated</th>
         </tr>
-        {{ range $p := $pages }}
+        {{ range $p := $visible }}
             {{ if ne $p.Path "/place" }}
             <tr {{ if $p.Draft }}class="draft"{{ end }}>
                 <td class="path"><a href="{{ .Permalink }}">{{ replace $p.Path "/place" "" }}</a></td>
@@ -36,7 +37,8 @@
     </table>
 
     {{ $pages := sort (where .Site.RegularPages "Type" "garden") "Path" }}
-    <h1 id="gardens">All gardens ({{ $pages.Len }})</h1>
+    {{ $visible := partial "pages-visible.html" $pages }}
+    <h1 id="gardens">All gardens ({{ $visible.Len }})</h1>
     <table class="meta garden">
         <tr>
             <th>jashemski number</th>
@@ -48,7 +50,7 @@
             <th>updated</th>
             <th>site date</th>
         </tr>
-        {{ range $p := $pages }}
+        {{ range $p := $visible }}
             <tr {{ if $p.Draft }}class="draft"{{ end }}>
                 <td>{{ $p.Param "jashemski-catalogue" }}</td>
                 <td class="path"><a href="{{ .Permalink }}">{{ replace $p.Path "/place" "" }}</a></td>
