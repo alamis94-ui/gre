@@ -9,8 +9,6 @@ date: 2026-05-13
 draft: false
 ---
 
-<!--TODO: need author and bibliography-->
-
 <!-- ## Dates -->
 
 ## Place Description
@@ -42,8 +40,8 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
+<!--
 - {{< id vocab="TGN" id="" name="" >}}
 -->
