@@ -39,10 +39,10 @@ The house appears to have been built at the end of the third or beginning of the
 
 ## Bibliography
 
+- J. M. Álvarez Martínez, ‘La villa romana de El Hinojal en la Dehesa de Las Tiendas (Mérida),’ in Noticiario Arqueológico Hispanico, Arq. 4. Madrid, 1976, pp. 433-488. [(worldcat)](https://search.worldcat.org/title/10355834329) <!--Merinda 1976 free pdf through Academia.edu: https://www.academia.edu/5875281/La_villa_romana_de_El_Hinojal_en_la_dehesa_de_Las_Tiendas_M%C3%A9rida_-->
 - J. de C. Serra Rafols, La villa romana de la Dehesa de 'La Cocosa'. Badajoz, 1952. [(worldcat)](https://search.worldcat.org/title/17319391)
 - J. de C. Serra Rafols, 'A propósito de la villa de La Cocosa. Rectificación.' In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. [(worldcat)](https://search.worldcat.org/title/1122498001)
-- J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)
-<!--Merinda 1976 free pdf through Academia.edu: https://www.academia.edu/5875281/La_villa_romana_de_El_Hinojal_en_la_dehesa_de_Las_Tiendas_M%C3%A9rida_-->
+- J. G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979, pp. 193-194, 283-284, fig 31. [(worldcat)](https://search.worldcat.org/title/803415143)
 
 ## Keywords
 
