@@ -48,6 +48,4 @@ Because most of the evidence from Merida was unearthed in old excavations, the c
 ## Places
 
 - {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
-<!--
-- {{< id vocab="TGN" id="" name="" >}}
--->
+- {{< id vocab="TGN" id="7007664" name="Mérida" >}}

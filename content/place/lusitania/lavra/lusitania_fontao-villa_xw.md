@@ -40,5 +40,4 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="532133456" name="Lavra" >}} is invalid -->
 - {{< id vocab="TGN" id="7748859" name="Lavra" >}}
